@@ -16,7 +16,7 @@ const fetch = (...args) => import('node-fetch').then(({ default: f }) => f(...ar
 
 const CONFIG = {
   shop: 'sudestadaglobal.myshopify.com',
-  accessToken: 'YOUR_ADMIN_API_TOKEN',
+  accessToken: process.env.SHOPIFY_TOKEN,
   apiVersion: '2024-01',
   rtffTag: 'RTFF',
   perProductLimit: 3, // max orders to fulfill per product in one run (set to Infinity to disable)
