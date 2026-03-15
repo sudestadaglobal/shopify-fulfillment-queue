@@ -1,17 +1,33 @@
 name: Shopify Fulfillment Queue
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:   # manual trigger from Actions tab
+
+permissions:
+  contents: write      # needed to commit report.json back to the repo
 
 jobs:
   run:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
-      - run: npm install node-fetch
-      - run: node shopify-fulfillment-queue.js
+          node-version: '20'
+
+      - name: Run fulfillment queue script
         env:
           SHOPIFY_TOKEN: ${{ secrets.SHOPIFY_TOKEN }}
+        run: node shopify-fulfillment-queue.js
+
+      - name: Commit updated report.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add report.json
+          git diff --staged --quiet || git commit -m "chore: update fulfillment report [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
