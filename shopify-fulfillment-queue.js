@@ -1,268 +1,362 @@
-/**
- * Shopify Fulfillment Queue
- * - Checks all line items per order — if ANY item lacks stock, order is blocked
- * - Tags ready orders with RTFF in Shopify, removes tag from orders no longer ready
- * - Oldest orders first; respects per-product fulfillment limit
- *
- * Setup:
- *   npm install node-fetch
- *   node shopify-fulfillment-queue.js
- *
- * Shopify app scopes needed:
- *   read_orders, write_orders, read_inventory, read_products
- */
+#!/usr/bin/env node
 
-const fetch = (...args) => import('node-fetch').then(({ default: f }) => f(...args));
+const https = require('https');
+const fs = require('fs');
 
 const CONFIG = {
   shop: 'sudestadaglobal.myshopify.com',
   accessToken: process.env.SHOPIFY_TOKEN,
   apiVersion: '2024-01',
   rtffTag: 'RTFF',
-  perProductLimit: 3, // max orders to fulfill per product in one run (set to Infinity to disable)
+  perProductLimit: 3,        // max orders per product per run
+  lowStockThreshold: 10,     // items below this quantity flagged as low stock
 };
 
-const BASE = `https://${CONFIG.shop}/admin/api/${CONFIG.apiVersion}`;
-const HEADERS = {
-  'X-Shopify-Access-Token': CONFIG.accessToken,
-  'Content-Type': 'application/json',
-};
+// ─── HTTP helper ─────────────────────────────────────────────────────────────
 
-// Shopify rate limit: ~2 req/s on Basic, 4/s on Advanced. We sleep between write calls.
-const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+function shopifyRequest(path, method = 'GET', body = null) {
+  return new Promise((resolve, reject) => {
+    const options = {
+      hostname: CONFIG.shop,
+      path: `/admin/api/${CONFIG.apiVersion}${path}`,
+      method,
+      headers: {
+        'X-Shopify-Access-Token': CONFIG.accessToken,
+        'Content-Type': 'application/json',
+      },
+    };
 
-async function shopifyGet(path) {
-  const res = await fetch(`${BASE}${path}`, { headers: HEADERS });
-  if (!res.ok) throw new Error(`GET ${path} failed: ${res.status} ${res.statusText}`);
-  return res.json();
-}
+    const req = https.request(options, (res) => {
+      let data = '';
+      res.on('data', (chunk) => (data += chunk));
+      res.on('end', () => {
+        try {
+          resolve({ data: JSON.parse(data), headers: res.headers, status: res.statusCode });
+        } catch (e) {
+          reject(new Error(`Parse error (${res.statusCode}): ${data.slice(0, 200)}`));
+        }
+      });
+    });
 
-async function shopifyPut(path, body) {
-  const res = await fetch(`${BASE}${path}`, {
-    method: 'PUT',
-    headers: HEADERS,
-    body: JSON.stringify(body),
+    req.on('error', reject);
+    if (body) req.write(JSON.stringify(body));
+    req.end();
   });
-  if (!res.ok) throw new Error(`PUT ${path} failed: ${res.status} ${res.statusText}`);
-  return res.json();
 }
 
-// ─── Fetch all unfulfilled orders (oldest first) ────────────────────────────
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+// ─── Shopify data fetchers ────────────────────────────────────────────────────
 
 async function getAllUnfulfilledOrders() {
-  let orders = [];
-  let url = `/orders.json?status=open&fulfillment_status=unfulfilled&limit=250&order=created_at+asc`;
+  const orders = [];
+  let path = `/orders.json?fulfillment_status=unfulfilled&status=open&order=created_at+asc&limit=250`;
 
-  while (url) {
-    const res = await fetch(`${BASE}${url}`, { headers: HEADERS });
-    if (!res.ok) throw new Error(`Orders fetch failed: ${res.status}`);
+  while (path) {
+    const { data, headers } = await shopifyRequest(path);
+    orders.push(...(data.orders || []));
 
-    const linkHeader = res.headers.get('Link') || '';
-    const data = await res.json();
-    orders = orders.concat(data.orders);
-
-    const nextMatch = linkHeader.match(/<([^>]+)>;\s*rel="next"/);
-    url = nextMatch ? nextMatch[1].replace(BASE, '') : null;
+    const link = headers['link'] || '';
+    const next = link.match(/<[^>]*\/orders\.json(\?[^>]*)>;\s*rel="next"/);
+    path = next ? `/orders.json${next[1]}` : null;
   }
 
   return orders;
 }
 
-// ─── Fetch inventory levels for all variants ────────────────────────────────
+async function getVariantDetails(variantIds) {
+  const map = {}; // variantId -> { inventoryItemId, title, productId }
+  const chunks = chunk(variantIds, 100);
 
-async function getStockByVariantId(variantIds) {
-  const uniqueIds = [...new Set(variantIds.filter(Boolean))];
-  if (uniqueIds.length === 0) return {};
-
-  // Chunk into batches of 100 (Shopify limit)
-  const chunks = [];
-  for (let i = 0; i < uniqueIds.length; i += 100) chunks.push(uniqueIds.slice(i, i + 100));
-
-  const variantToItemId = {};
-  const allInventoryItemIds = [];
-
-  for (const chunk of chunks) {
-    const data = await shopifyGet(`/variants.json?ids=${chunk.join(',')}&limit=250`);
-    for (const v of data.variants) {
-      variantToItemId[v.id] = v.inventory_item_id;
-      allInventoryItemIds.push(v.inventory_item_id);
+  for (const c of chunks) {
+    const { data } = await shopifyRequest(
+      `/variants.json?ids=${c.join(',')}&limit=250&fields=id,inventory_item_id,title,product_id`
+    );
+    for (const v of data.variants || []) {
+      map[v.id] = {
+        inventoryItemId: v.inventory_item_id,
+        title: v.title,
+        productId: v.product_id,
+      };
     }
+    await sleep(200);
   }
 
-  // Fetch inventory levels, chunked by 50
-  const stockByItemId = {};
-  const itemChunks = [];
-  for (let i = 0; i < allInventoryItemIds.length; i += 50) itemChunks.push(allInventoryItemIds.slice(i, i + 50));
-
-  for (const chunk of itemChunks) {
-    const data = await shopifyGet(`/inventory_levels.json?inventory_item_ids=${chunk.join(',')}&limit=250`);
-    for (const level of data.inventory_levels) {
-      const id = level.inventory_item_id;
-      stockByItemId[id] = (stockByItemId[id] || 0) + Math.max(0, level.available || 0);
-    }
-  }
-
-  const result = {};
-  for (const [variantId, itemId] of Object.entries(variantToItemId)) {
-    result[variantId] = stockByItemId[itemId] || 0;
-  }
-  return result;
+  return map;
 }
 
-// ─── Build fulfillment queue ─────────────────────────────────────────────────
-// Rules:
-//  1. Process oldest orders first
-//  2. ALL line items in an order must have sufficient stock → order is READY
-//  3. If ANY line item is short → order is BLOCKED (shows which item is the bottleneck)
-//  4. Per-product limit: once a product has been allocated to N orders, stop allocating it
+async function getInventoryLevels(inventoryItemIds) {
+  const levels = {}; // inventoryItemId -> total available (across all locations)
+  const chunks = chunk(inventoryItemIds, 50);
 
-function buildQueue(orders, stockByVariantId) {
-  const runningStock = { ...stockByVariantId };
-  const productOrderCount = {}; // variantId -> orders allocated so far this run
-
-  return orders.map(order => {
-    const lineResults = [];
-    let blockedBy = null;
-
-    for (const item of order.line_items) {
-      const vid = item.variant_id;
-      const needed = item.fulfillable_quantity;
-
-      // Item already fulfilled — skip it
-      if (needed === 0) {
-        lineResults.push({ title: item.title, needed, available: null, status: 'already_fulfilled' });
-        continue;
-      }
-
-      const available = runningStock[vid] ?? 0;
-      const allocatedOrders = productOrderCount[vid] || 0;
-      const limitReached = allocatedOrders >= CONFIG.perProductLimit;
-
-      if (limitReached) {
-        lineResults.push({ title: item.title, needed, available, status: 'limit_reached' });
-        if (!blockedBy) blockedBy = `${item.title} (per-product limit of ${CONFIG.perProductLimit} reached)`;
-      } else if (available >= needed) {
-        lineResults.push({ title: item.title, needed, available, status: 'ok' });
-      } else {
-        // Insufficient stock — this single item blocks the entire order
-        const s = available > 0 ? 'partial' : 'no_stock';
-        lineResults.push({ title: item.title, needed, available, status: s });
-        if (!blockedBy) blockedBy = `${item.title} (need ${needed}, have ${available})`;
-      }
+  for (const c of chunks) {
+    const { data } = await shopifyRequest(
+      `/inventory_levels.json?inventory_item_ids=${c.join(',')}&limit=250`
+    );
+    for (const level of data.inventory_levels || []) {
+      const id = level.inventory_item_id;
+      levels[id] = (levels[id] || 0) + (level.available || 0);
     }
+    await sleep(200);
+  }
 
-    const ready = !blockedBy;
+  return levels;
+}
 
-    // Only deduct stock when the full order can ship — partial deductions cause overselling
-    if (ready) {
-      for (const item of order.line_items) {
-        if (item.fulfillable_quantity > 0) {
-          runningStock[item.variant_id] -= item.fulfillable_quantity;
-          productOrderCount[item.variant_id] = (productOrderCount[item.variant_id] || 0) + 1;
-        }
-      }
+async function getProductTitles(productIds) {
+  const titles = {};
+  const chunks = chunk(productIds, 100);
+
+  for (const c of chunks) {
+    const { data } = await shopifyRequest(
+      `/products.json?ids=${c.join(',')}&limit=250&fields=id,title`
+    );
+    for (const p of data.products || []) {
+      titles[p.id] = p.title;
     }
+    await sleep(200);
+  }
 
-    return {
-      order_id: order.id,
-      order_number: order.order_number,
-      created_at: order.created_at,
-      customer: order.customer
-        ? `${order.customer.first_name} ${order.customer.last_name}`.trim()
-        : 'Guest',
-      existing_tags: (order.tags || '').split(',').map(t => t.trim()).filter(Boolean),
-      ready,
-      blockedBy,
-      line_items: lineResults,
-    };
+  return titles;
+}
+
+async function updateOrderTags(orderId, currentTags, shouldHaveRTFF) {
+  const tagSet = new Set(
+    currentTags
+      .split(',')
+      .map((t) => t.trim())
+      .filter(Boolean)
+  );
+  const hadRTFF = tagSet.has(CONFIG.rtffTag);
+
+  if (shouldHaveRTFF === hadRTFF) return; // no change
+
+  if (shouldHaveRTFF) tagSet.add(CONFIG.rtffTag);
+  else tagSet.delete(CONFIG.rtffTag);
+
+  await shopifyRequest(`/orders/${orderId}.json`, 'PUT', {
+    order: { id: orderId, tags: [...tagSet].join(', ') },
   });
 }
 
-// ─── Sync RTFF tags ──────────────────────────────────────────────────────────
-// Adds RTFF to ready orders, removes it from orders that are no longer ready.
+// ─── Utilities ───────────────────────────────────────────────────────────────
 
-async function syncTags(queue) {
-  const tag = CONFIG.rtffTag;
-  let tagged = 0, untagged = 0, skipped = 0;
-
-  for (const order of queue) {
-    const hasTag = order.existing_tags.includes(tag);
-
-    if (order.ready && !hasTag) {
-      const newTags = [...order.existing_tags, tag].join(', ');
-      await shopifyPut(`/orders/${order.order_id}.json`, { order: { id: order.order_id, tags: newTags } });
-      console.log(`  + Tagged   #${order.order_number} → ${tag}`);
-      tagged++;
-      await sleep(500);
-    } else if (!order.ready && hasTag) {
-      const newTags = order.existing_tags.filter(t => t !== tag).join(', ');
-      await shopifyPut(`/orders/${order.order_id}.json`, { order: { id: order.order_id, tags: newTags } });
-      console.log(`  - Untagged #${order.order_number} (no longer ready)`);
-      untagged++;
-      await sleep(500);
-    } else {
-      skipped++;
-    }
-  }
-
-  return { tagged, untagged, skipped };
+function chunk(arr, size) {
+  const chunks = [];
+  for (let i = 0; i < arr.length; i += size) chunks.push(arr.slice(i, i + size));
+  return chunks;
 }
 
-// ─── Print summary ───────────────────────────────────────────────────────────
-
-function printSummary(queue) {
-  const ready = queue.filter(o => o.ready);
-  const blocked = queue.filter(o => !o.ready);
-
-  console.log('\n══════════════════════════════════════════');
-  console.log(`FULFILLMENT QUEUE  —  ${new Date().toLocaleString()}`);
-  console.log(`Per-product limit: ${CONFIG.perProductLimit === Infinity ? 'none' : CONFIG.perProductLimit} orders`);
-  console.log('══════════════════════════════════════════\n');
-
-  console.log(`READY TO FULFILL (${ready.length}):\n`);
-  for (const o of ready) {
-    console.log(`  #${o.order_number}  ${o.created_at.slice(0, 10)}  ${o.customer}`);
-    for (const item of o.line_items) {
-      if (item.status === 'already_fulfilled') continue;
-      console.log(`    ✓  ${item.title}  x${item.needed}  (stock: ${item.available})`);
-    }
-  }
-
-  console.log(`\nBLOCKED (${blocked.length}):\n`);
-  for (const o of blocked) {
-    console.log(`  #${o.order_number}  ${o.created_at.slice(0, 10)}  ${o.customer}`);
-    for (const item of o.line_items) {
-      if (item.status === 'already_fulfilled') continue;
-      const flag =
-        item.status === 'ok'           ? `✓  stock ok (${item.available})` :
-        item.status === 'no_stock'     ? '✗  NO STOCK' :
-        item.status === 'partial'      ? `✗  partial stock (${item.available}/${item.needed})` :
-        item.status === 'limit_reached'? '✗  per-product limit reached' : '';
-      console.log(`    ${flag}  — ${item.title}  x${item.needed}`);
-    }
-    console.log(`    → Blocked by: ${o.blockedBy}`);
-  }
-
-  console.log('\n══════════════════════════════════════════\n');
+function uniqueIds(arr) {
+  return [...new Set(arr)];
 }
 
-// ─── Main ────────────────────────────────────────────────────────────────────
+// ─── Main ─────────────────────────────────────────────────────────────────────
 
 async function main() {
-  console.log('Fetching unfulfilled orders (oldest first)...');
+  console.log('🚀 Shopify Fulfillment Queue starting...\n');
+
+  if (!CONFIG.accessToken) {
+    console.error('❌ SHOPIFY_TOKEN is not set.');
+    process.exit(1);
+  }
+
+  // 1. Fetch all unfulfilled orders (oldest first)
+  console.log('📦 Fetching unfulfilled orders...');
   const orders = await getAllUnfulfilledOrders();
-  console.log(`Found ${orders.length} unfulfilled orders`);
+  console.log(`   → ${orders.length} unfulfilled orders found`);
 
-  const variantIds = orders.flatMap(o => o.line_items.map(i => i.variant_id));
-  console.log('Fetching inventory levels...');
-  const stockByVariantId = await getStockByVariantId(variantIds);
+  if (orders.length === 0) {
+    writeReport({
+      generatedAt: new Date().toISOString(),
+      summary: { totalUnfulfilled: 0, canFulfill: 0, blocked: 0 },
+      fulfillableOrders: [],
+      blockedOrders: [],
+      stockAlerts: { lowStock: [], demandExceedsStock: [] },
+    });
+    console.log('✅ Nothing to do.');
+    return;
+  }
 
-  const queue = buildQueue(orders, stockByVariantId);
-  printSummary(queue);
+  // 2. Collect unique variant IDs across all orders
+  const variantIds = uniqueIds(
+    orders.flatMap((o) => o.line_items.map((i) => i.variant_id).filter(Boolean))
+  );
 
-  console.log(`Syncing ${CONFIG.rtffTag} tags in Shopify...`);
-  const { tagged, untagged, skipped } = await syncTags(queue);
-  console.log(`Done — tagged: ${tagged}  untagged: ${untagged}  no change: ${skipped}\n`);
+  // 3. Enrich: variant → inventoryItemId, inventory levels, product names
+  console.log('🔍 Fetching inventory & product data...');
+  const variantMap = await getVariantDetails(variantIds);
+
+  const inventoryItemIds = uniqueIds(
+    Object.values(variantMap).map((v) => v.inventoryItemId)
+  );
+  const inventoryLevels = await getInventoryLevels(inventoryItemIds);
+
+  const productIds = uniqueIds(Object.values(variantMap).map((v) => v.productId));
+  const productTitles = await getProductTitles(productIds);
+
+  // Helper: resolve product label from variantId
+  function label(variantId) {
+    const v = variantMap[variantId];
+    if (!v) return `Variant #${variantId}`;
+    const product = productTitles[v.productId] || `Product #${v.productId}`;
+    return v.title && v.title !== 'Default Title' ? `${product} — ${v.title}` : product;
+  }
+
+  // 4. Stock allocation (oldest-first, all-or-nothing per order)
+  console.log('🧮 Allocating stock...');
+
+  const available = { ...inventoryLevels }; // mutable working copy
+  const productOrderCount = {}; // inventoryItemId → # orders already allocated
+
+  const fulfillableOrders = [];
+  const blockedOrders = [];
+
+  for (const order of orders) {
+    let canFulfill = true;
+    const blockReasons = [];
+
+    for (const item of order.line_items) {
+      if (!item.variant_id) continue;
+      const v = variantMap[item.variant_id];
+      if (!v) continue;
+
+      const stock = available[v.inventoryItemId] ?? 0;
+      const needed = item.quantity;
+      const orderCount = productOrderCount[v.inventoryItemId] ?? 0;
+
+      if (orderCount >= CONFIG.perProductLimit) {
+        canFulfill = false;
+        blockReasons.push({
+          product: label(item.variant_id),
+          reason: `Per-product limit reached (${CONFIG.perProductLimit} orders)`,
+          stock,
+          needed,
+        });
+      } else if (stock < needed) {
+        canFulfill = false;
+        blockReasons.push({
+          product: label(item.variant_id),
+          reason: 'Insufficient stock',
+          stock,
+          needed,
+        });
+      }
+    }
+
+    if (canFulfill) {
+      // Commit the allocation
+      for (const item of order.line_items) {
+        if (!item.variant_id) continue;
+        const v = variantMap[item.variant_id];
+        if (!v) continue;
+        available[v.inventoryItemId] = (available[v.inventoryItemId] ?? 0) - item.quantity;
+        productOrderCount[v.inventoryItemId] = (productOrderCount[v.inventoryItemId] ?? 0) + 1;
+      }
+      fulfillableOrders.push({
+        id: order.id,
+        name: order.name,
+        createdAt: order.created_at,
+        itemCount: order.line_items.length,
+      });
+    } else {
+      blockedOrders.push({
+        id: order.id,
+        name: order.name,
+        createdAt: order.created_at,
+        itemCount: order.line_items.length,
+        reasons: blockReasons,
+      });
+    }
+  }
+
+  console.log(`   → ${fulfillableOrders.length} fulfillable, ${blockedOrders.length} blocked`);
+
+  // 5. Sync RTFF tags in Shopify
+  console.log('🏷️  Syncing RTFF tags...');
+  const fulfillableIds = new Set(fulfillableOrders.map((o) => o.id));
+  let tagged = 0;
+  let untagged = 0;
+
+  for (const order of orders) {
+    const should = fulfillableIds.has(order.id);
+    const has = order.tags.includes(CONFIG.rtffTag);
+
+    if (should !== has) {
+      await updateOrderTags(order.id, order.tags, should);
+      await sleep(250);
+      should ? tagged++ : untagged++;
+    }
+  }
+
+  console.log(`   → +${tagged} tagged, -${untagged} untagged`);
+
+  // 6. Compute stock alerts
+  // Total demand across ALL unfulfilled orders (not just fulfillable ones)
+  const totalDemand = {}; // inventoryItemId → { demand, variantId }
+  for (const order of orders) {
+    for (const item of order.line_items) {
+      if (!item.variant_id) continue;
+      const v = variantMap[item.variant_id];
+      if (!v) continue;
+      const id = v.inventoryItemId;
+      if (!totalDemand[id]) totalDemand[id] = { demand: 0, variantId: item.variant_id };
+      totalDemand[id].demand += item.quantity;
+    }
+  }
+
+  const demandExceedsStock = [];
+  const lowStock = [];
+
+  for (const [invId, { demand, variantId }] of Object.entries(totalDemand)) {
+    const stock = inventoryLevels[invId] ?? 0;
+    const productLabel = label(variantId);
+
+    if (demand > stock) {
+      demandExceedsStock.push({
+        product: productLabel,
+        stock,
+        demand,
+        shortfall: demand - stock,
+      });
+    }
+
+    if (stock >= 0 && stock < CONFIG.lowStockThreshold) {
+      lowStock.push({ product: productLabel, stock, demand });
+    }
+  }
+
+  demandExceedsStock.sort((a, b) => b.shortfall - a.shortfall);
+  lowStock.sort((a, b) => a.stock - b.stock);
+
+  // 7. Write report
+  const report = {
+    generatedAt: new Date().toISOString(),
+    summary: {
+      totalUnfulfilled: orders.length,
+      canFulfill: fulfillableOrders.length,
+      blocked: blockedOrders.length,
+    },
+    fulfillableOrders,
+    blockedOrders,
+    stockAlerts: { lowStock, demandExceedsStock },
+  };
+
+  writeReport(report);
+
+  console.log('\n✅ Done!');
+  if (demandExceedsStock.length) console.log(`⚠️  ${demandExceedsStock.length} item(s) — demand exceeds stock`);
+  if (lowStock.length) console.log(`⚠️  ${lowStock.length} item(s) low on stock`);
+  console.log(`📊 report.json written`);
 }
 
-main().catch(console.error);
+function writeReport(report) {
+  fs.writeFileSync('report.json', JSON.stringify(report, null, 2));
+}
+
+main().catch((err) => {
+  console.error('❌ Fatal:', err.message);
+  process.exit(1);
+});
