@@ -74,7 +74,7 @@ async function getVariantDetails(variantIds, productIds) {
 
   for (const c of chunks_) {
     const { data } = await shopifyRequest(
-      `/products.json?ids=${c.join(',')}&limit=250&fields=id,title,variants`
+      `/products.json?ids=${c.join(',')}&limit=250&status=any&fields=id,title,variants`
     );
     for (const product of data.products || []) {
       for (const v of product.variants || []) {
@@ -136,7 +136,7 @@ async function getProductTitles(productIds) {
 
   for (const c of chunks) {
     const { data } = await shopifyRequest(
-      `/products.json?ids=${c.join(',')}&limit=250&fields=id,title`
+      `/products.json?ids=${c.join(',')}&limit=250&status=any&fields=id,title`
     );
     for (const p of data.products || []) {
       titles[p.id] = p.title;
@@ -246,15 +246,9 @@ async function main() {
     const blockReasons = [];
 
     for (const item of order.line_items) {
+      // Skip items we can't verify (custom items, deleted products, tips, etc.)
+      // Only check stock for items we CAN resolve — team verifies the rest manually
       if (!item.variant_id || !variantMap[item.variant_id]) {
-        // Unknown variant — can't verify stock, block the order
-        canFulfill = false;
-        blockReasons.push({
-          product: item.title || `Unknown item (variant ${item.variant_id})`,
-          reason: 'Variant not found — cannot verify stock',
-          stock: 0,
-          needed: item.quantity,
-        });
         continue;
       }
 
