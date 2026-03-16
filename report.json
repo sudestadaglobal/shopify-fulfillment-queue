@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-16T13:55:05.192Z",
+  "generatedAt": "2026-03-16T14:31:53.353Z",
   "summary": {
-    "totalUnfulfilled": 156,
-    "canFulfill": 2,
-    "blocked": 154
+    "totalUnfulfilled": 158,
+    "canFulfill": 3,
+    "blocked": 155
   },
   "fulfillableOrders": [
     {
@@ -17,6 +17,12 @@
       "name": "#2940",
       "createdAt": "2026-03-16T14:51:39+01:00",
       "itemCount": 4
+    },
+    {
+      "id": 12178125685080,
+      "name": "#2941",
+      "createdAt": "2026-03-16T15:12:29+01:00",
+      "itemCount": 5
     }
   ],
   "blockedOrders": [
@@ -163,7 +169,7 @@
         {
           "product": "Product #15642608370008",
           "reason": "Insufficient stock",
-          "stock": -6,
+          "stock": -8,
           "needed": 1
         }
       ]
@@ -1315,7 +1321,7 @@
         {
           "product": "Product #15642608370008",
           "reason": "Insufficient stock",
-          "stock": -6,
+          "stock": -8,
           "needed": 1
         }
       ]
@@ -2201,7 +2207,7 @@
         {
           "product": "Product #15642608370008",
           "reason": "Insufficient stock",
-          "stock": -6,
+          "stock": -8,
           "needed": 1
         }
       ]
@@ -2471,7 +2477,7 @@
         {
           "product": "Product #15642608370008",
           "reason": "Insufficient stock",
-          "stock": -6,
+          "stock": -8,
           "needed": 1
         }
       ]
@@ -2561,7 +2567,7 @@
         {
           "product": "Product #15642608370008",
           "reason": "Insufficient stock",
-          "stock": -6,
+          "stock": -8,
           "needed": 1
         }
       ]
@@ -2761,7 +2767,7 @@
         {
           "product": "Product #15642608370008",
           "reason": "Insufficient stock",
-          "stock": -6,
+          "stock": -8,
           "needed": 1
         },
         {
@@ -2839,6 +2845,20 @@
           "reason": "Insufficient stock",
           "stock": -2,
           "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12178440290648,
+      "name": "#2942",
+      "createdAt": "2026-03-16T15:25:02+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Product #15642608370008",
+          "reason": "Insufficient stock",
+          "stock": -8,
+          "needed": 2
         }
       ]
     }
@@ -3131,6 +3151,11 @@
         "demand": 1
       },
       {
+        "product": "Product #15641341133144 — 2 cards / Black / White",
+        "stock": 5,
+        "demand": 1
+      },
+      {
         "product": "Product #15641337135448 — 3 Booster Packs / Multicolor",
         "stock": 6,
         "demand": 1
@@ -3192,6 +3217,11 @@
       },
       {
         "product": "Product #15416942788952",
+        "stock": 8,
+        "demand": 1
+      },
+      {
+        "product": "Product #15641344737624 — 2 cards / Black / White",
         "stock": 8,
         "demand": 1
       },
@@ -3297,16 +3327,16 @@
         "shortfall": 16
       },
       {
-        "product": "Product #15641565495640 — 3 cards / Multicolor",
+        "product": "Product #15642608370008",
         "stock": -8,
         "demand": 8,
         "shortfall": 16
       },
       {
-        "product": "Product #15642608370008",
-        "stock": -6,
-        "demand": 6,
-        "shortfall": 12
+        "product": "Product #15641565495640 — 3 cards / Multicolor",
+        "stock": -8,
+        "demand": 8,
+        "shortfall": 16
       },
       {
         "product": "Product #15641563890008 — 079/073, Near-Mint / Secret Rare",
