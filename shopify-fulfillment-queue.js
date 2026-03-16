@@ -8,7 +8,6 @@ const CONFIG = {
   accessToken: process.env.SHOPIFY_TOKEN,
   apiVersion: '2026-01',
   rtffTag: 'RTFF',
-  perProductLimit: 3,        // max orders per product per run
   lowStockThreshold: 10,     // items below this quantity flagged as low stock
 };
 
@@ -238,7 +237,6 @@ async function main() {
   console.log('🧮 Allocating stock...');
 
   const available = { ...inventoryLevels }; // mutable working copy
-  const productOrderCount = {}; // inventoryItemId → # orders already allocated
 
   const fulfillableOrders = [];
   const blockedOrders = [];
@@ -263,17 +261,8 @@ async function main() {
       const v = variantMap[item.variant_id];
       const stock = available[v.inventoryItemId] ?? 0;
       const needed = item.quantity;
-      const orderCount = productOrderCount[v.inventoryItemId] ?? 0;
 
-      if (orderCount >= CONFIG.perProductLimit) {
-        canFulfill = false;
-        blockReasons.push({
-          product: label(item.variant_id),
-          reason: `Per-product limit reached (${CONFIG.perProductLimit} orders)`,
-          stock,
-          needed,
-        });
-      } else if (stock < needed) {
+      if (stock < needed) {
         canFulfill = false;
         blockReasons.push({
           product: label(item.variant_id),
@@ -285,13 +274,12 @@ async function main() {
     }
 
     if (canFulfill) {
-      // Commit the allocation (safe — all items verified above)
+      // Commit the allocation — deduct stock so next orders see reduced availability
       for (const item of order.line_items) {
         if (!item.variant_id) continue;
         const v = variantMap[item.variant_id];
-        if (!v) continue; // won't happen if canFulfill is true
+        if (!v) continue;
         available[v.inventoryItemId] = (available[v.inventoryItemId] ?? 0) - item.quantity;
-        productOrderCount[v.inventoryItemId] = (productOrderCount[v.inventoryItemId] ?? 0) + 1;
       }
       fulfillableOrders.push({
         id: order.id,
@@ -312,24 +300,45 @@ async function main() {
 
   console.log(`   → ${fulfillableOrders.length} fulfillable, ${blockedOrders.length} blocked`);
 
-  // 5. Sync RTFF tags in Shopify
-  console.log('🏷️  Syncing RTFF tags...');
-  const fulfillableIds = new Set(fulfillableOrders.map((o) => o.id));
-  let tagged = 0;
-  let untagged = 0;
-
-  for (const order of orders) {
-    const should = fulfillableIds.has(order.id);
-    const has = order.tags.includes(CONFIG.rtffTag);
-
-    if (should !== has) {
-      await updateOrderTags(order.id, order.tags, should);
-      await sleep(250);
-      should ? tagged++ : untagged++;
-    }
+  // Debug: log first few fulfillable and blocked
+  for (const o of fulfillableOrders.slice(0, 5)) {
+    console.log(`     ✅ ${o.name} (${o.itemCount} items)`);
+  }
+  for (const o of blockedOrders.slice(0, 5)) {
+    console.log(`     ❌ ${o.name}: ${o.reasons.map((r) => `${r.product} — ${r.reason} (need ${r.needed}, have ${r.stock})`).join('; ')}`);
   }
 
-  console.log(`   → +${tagged} tagged, -${untagged} untagged`);
+  // 5. Sync RTFF tags in Shopify
+  // Step A: Remove RTFF from ALL unfulfilled orders that have it
+  console.log('🏷️  Cleaning RTFF tags from all unfulfilled orders...');
+  let untagged = 0;
+  for (const order of orders) {
+    if (order.tags.includes(CONFIG.rtffTag)) {
+      await updateOrderTags(order.id, order.tags, false);
+      await sleep(250);
+      untagged++;
+    }
+  }
+  console.log(`   → Removed RTFF from ${untagged} order(s)`);
+
+  // Step B: Re-fetch tags (they changed above), then add RTFF only to fulfillable orders
+  console.log('🏷️  Adding RTFF to fulfillable orders...');
+  const fulfillableIds = new Set(fulfillableOrders.map((o) => o.id));
+  let tagged = 0;
+  for (const order of orders) {
+    if (fulfillableIds.has(order.id)) {
+      // Re-read the order's current tags since we may have just removed RTFF
+      const currentTags = order.tags
+        .split(',')
+        .map((t) => t.trim())
+        .filter((t) => t && t !== CONFIG.rtffTag)
+        .join(', ');
+      await updateOrderTags(order.id, currentTags, true);
+      await sleep(250);
+      tagged++;
+    }
+  }
+  console.log(`   → Added RTFF to ${tagged} order(s)`);
 
   // 6. Compute stock alerts
   // Total demand across ALL unfulfilled orders (not just fulfillable ones)
