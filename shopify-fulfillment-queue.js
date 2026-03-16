@@ -6,7 +6,7 @@ const fs = require('fs');
 const CONFIG = {
   shop: 'sudestadaglobal.myshopify.com',
   accessToken: process.env.SHOPIFY_TOKEN,
-  apiVersion: '2024-01',
+  apiVersion: '2026-01',
   rtffTag: 'RTFF',
   perProductLimit: 3,        // max orders per product per run
   lowStockThreshold: 10,     // items below this quantity flagged as low stock
@@ -66,22 +66,48 @@ async function getAllUnfulfilledOrders() {
   return orders;
 }
 
-async function getVariantDetails(variantIds) {
+async function getVariantDetails(variantIds, productIds) {
   const map = {}; // variantId -> { inventoryItemId, title, productId }
-  const chunks = chunk(variantIds, 100);
 
-  for (const c of chunks) {
+  // Fetch products (which include their variants with inventory_item_id)
+  const uniqueProductIds = [...new Set(productIds)];
+  const chunks_ = chunk(uniqueProductIds, 50);
+
+  for (const c of chunks_) {
     const { data } = await shopifyRequest(
-      `/variants.json?ids=${c.join(',')}&limit=250&fields=id,inventory_item_id,title,product_id`
+      `/products.json?ids=${c.join(',')}&limit=250&fields=id,title,variants`
     );
-    for (const v of data.variants || []) {
-      map[v.id] = {
-        inventoryItemId: v.inventory_item_id,
-        title: v.title,
-        productId: v.product_id,
-      };
+    for (const product of data.products || []) {
+      for (const v of product.variants || []) {
+        map[v.id] = {
+          inventoryItemId: v.inventory_item_id,
+          title: v.title,
+          productId: product.id,
+        };
+      }
     }
     await sleep(200);
+  }
+
+  // Fallback: fetch any variants still missing (e.g. deleted products)
+  const missing = variantIds.filter((id) => !map[id]);
+  if (missing.length > 0) {
+    console.log(`   ⚠️ ${missing.length} variant(s) not found via products, fetching individually...`);
+    for (const vid of missing) {
+      try {
+        const { data } = await shopifyRequest(`/variants/${vid}.json`);
+        if (data.variant) {
+          map[vid] = {
+            inventoryItemId: data.variant.inventory_item_id,
+            title: data.variant.title,
+            productId: data.variant.product_id,
+          };
+        }
+      } catch (e) {
+        console.log(`     → Variant ${vid} not found, will block orders containing it`);
+      }
+      await sleep(200);
+    }
   }
 
   return map;
@@ -180,14 +206,17 @@ async function main() {
     return;
   }
 
-  // 2. Collect unique variant IDs across all orders
+  // 2. Collect unique variant IDs and product IDs across all orders
   const variantIds = uniqueIds(
     orders.flatMap((o) => o.line_items.map((i) => i.variant_id).filter(Boolean))
+  );
+  const orderProductIds = uniqueIds(
+    orders.flatMap((o) => o.line_items.map((i) => i.product_id).filter(Boolean))
   );
 
   // 3. Enrich: variant → inventoryItemId, inventory levels, product names
   console.log('🔍 Fetching inventory & product data...');
-  const variantMap = await getVariantDetails(variantIds);
+  const variantMap = await getVariantDetails(variantIds, orderProductIds);
 
   const inventoryItemIds = uniqueIds(
     Object.values(variantMap).map((v) => v.inventoryItemId)
@@ -219,10 +248,19 @@ async function main() {
     const blockReasons = [];
 
     for (const item of order.line_items) {
-      if (!item.variant_id) continue;
-      const v = variantMap[item.variant_id];
-      if (!v) continue;
+      if (!item.variant_id || !variantMap[item.variant_id]) {
+        // Unknown variant — can't verify stock, block the order
+        canFulfill = false;
+        blockReasons.push({
+          product: item.title || `Unknown item (variant ${item.variant_id})`,
+          reason: 'Variant not found — cannot verify stock',
+          stock: 0,
+          needed: item.quantity,
+        });
+        continue;
+      }
 
+      const v = variantMap[item.variant_id];
       const stock = available[v.inventoryItemId] ?? 0;
       const needed = item.quantity;
       const orderCount = productOrderCount[v.inventoryItemId] ?? 0;
@@ -247,11 +285,11 @@ async function main() {
     }
 
     if (canFulfill) {
-      // Commit the allocation
+      // Commit the allocation (safe — all items verified above)
       for (const item of order.line_items) {
         if (!item.variant_id) continue;
         const v = variantMap[item.variant_id];
-        if (!v) continue;
+        if (!v) continue; // won't happen if canFulfill is true
         available[v.inventoryItemId] = (available[v.inventoryItemId] ?? 0) - item.quantity;
         productOrderCount[v.inventoryItemId] = (productOrderCount[v.inventoryItemId] ?? 0) + 1;
       }
