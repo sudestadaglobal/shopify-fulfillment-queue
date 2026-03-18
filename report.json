@@ -1,28 +1,40 @@
 {
-  "generatedAt": "2026-03-16T14:31:53.353Z",
+  "generatedAt": "2026-03-18T13:37:14.323Z",
   "summary": {
-    "totalUnfulfilled": 158,
-    "canFulfill": 3,
-    "blocked": 155
+    "totalUnfulfilled": 149,
+    "canFulfill": 5,
+    "blocked": 144
   },
   "fulfillableOrders": [
     {
-      "id": 12096285114712,
-      "name": "#2770",
-      "createdAt": "2026-03-03T12:52:16+01:00",
-      "itemCount": 2
+      "id": 12090472169816,
+      "name": "#2737",
+      "createdAt": "2026-02-27T15:59:28+01:00",
+      "itemCount": 10
     },
     {
-      "id": 12177594614104,
-      "name": "#2940",
-      "createdAt": "2026-03-16T14:51:39+01:00",
-      "itemCount": 4
+      "id": 12095456379224,
+      "name": "#2769",
+      "createdAt": "2026-03-02T21:04:11+01:00",
+      "itemCount": 6
     },
     {
-      "id": 12178125685080,
-      "name": "#2941",
-      "createdAt": "2026-03-16T15:12:29+01:00",
-      "itemCount": 5
+      "id": 12096911147352,
+      "name": "#2774",
+      "createdAt": "2026-03-03T19:42:33+01:00",
+      "itemCount": 6
+    },
+    {
+      "id": 12097862959448,
+      "name": "#2800",
+      "createdAt": "2026-03-04T13:41:18+01:00",
+      "itemCount": 10
+    },
+    {
+      "id": 12098070511960,
+      "name": "#2802",
+      "createdAt": "2026-03-04T16:11:07+01:00",
+      "itemCount": 6
     }
   ],
   "blockedOrders": [
@@ -49,7 +61,7 @@
         {
           "product": "Product #15641336611160 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -8,
+          "stock": -10,
           "needed": 1
         }
       ]
@@ -145,7 +157,7 @@
         {
           "product": "Product #15641336611160 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -8,
+          "stock": -10,
           "needed": 1
         },
         {
@@ -157,19 +169,19 @@
         {
           "product": "Product #15641336676696 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -5,
+          "stock": -6,
           "needed": 1
         },
         {
           "product": "Product #15641336775000 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -11,
+          "stock": -12,
           "needed": 1
         },
         {
           "product": "Product #15642608370008",
           "reason": "Insufficient stock",
-          "stock": -8,
+          "stock": -9,
           "needed": 1
         }
       ]
@@ -183,7 +195,7 @@
         {
           "product": "Product #15641336611160 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -8,
+          "stock": -10,
           "needed": 1
         }
       ]
@@ -197,7 +209,7 @@
         {
           "product": "Product #15641336775000 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -11,
+          "stock": -12,
           "needed": 1
         }
       ]
@@ -225,7 +237,7 @@
         {
           "product": "Product #15641321406808 — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -16,
+          "stock": -17,
           "needed": 2
         }
       ]
@@ -239,7 +251,7 @@
         {
           "product": "Product #15641336676696 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -5,
+          "stock": -6,
           "needed": 1
         }
       ]
@@ -293,7 +305,7 @@
         {
           "product": "Product #15641507365208 — 199/165, Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
-          "stock": -3,
+          "stock": -2,
           "needed": 1
         }
       ]
@@ -307,7 +319,7 @@
         {
           "product": "Product #15641336775000 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -11,
+          "stock": -12,
           "needed": 1
         }
       ]
@@ -321,7 +333,7 @@
         {
           "product": "Product #15641321406808 — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -16,
+          "stock": -17,
           "needed": 1
         }
       ]
@@ -335,7 +347,7 @@
         {
           "product": "Product #15641321406808 — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -16,
+          "stock": -17,
           "needed": 1
         }
       ]
@@ -349,19 +361,25 @@
         {
           "product": "Product #15641336611160 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -8,
+          "stock": -10,
           "needed": 1
         },
         {
           "product": "Product #15641336775000 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -11,
+          "stock": -12,
           "needed": 1
         },
         {
           "product": "Product #15641336676696 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -5,
+          "stock": -6,
+          "needed": 1
+        },
+        {
+          "product": "Product #15641488294232 — 3 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
           "needed": 1
         }
       ]
@@ -389,7 +407,7 @@
         {
           "product": "Product #15641336775000 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -11,
+          "stock": -12,
           "needed": 1
         }
       ]
@@ -503,13 +521,13 @@
         {
           "product": "Product #15641336676696 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -5,
+          "stock": -6,
           "needed": 1
         },
         {
           "product": "Product #15641336611160 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -8,
+          "stock": -10,
           "needed": 1
         }
       ]
@@ -523,13 +541,13 @@
         {
           "product": "Product #15641336611160 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -8,
+          "stock": -10,
           "needed": 1
         },
         {
           "product": "Product #15641336775000 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -11,
+          "stock": -12,
           "needed": 1
         }
       ]
@@ -543,7 +561,7 @@
         {
           "product": "Product #15641321406808 — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -16,
+          "stock": -17,
           "needed": 1
         }
       ]
@@ -557,7 +575,7 @@
         {
           "product": "Product #15641321406808 — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -16,
+          "stock": -17,
           "needed": 1
         }
       ]
@@ -599,7 +617,7 @@
         {
           "product": "Product #15641336775000 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -11,
+          "stock": -12,
           "needed": 1
         }
       ]
@@ -645,7 +663,7 @@
         {
           "product": "Product #15641324454232 — OP14‑033/V2, Near-Mint / Alternate Art",
           "reason": "Insufficient stock",
-          "stock": -2,
+          "stock": -1,
           "needed": 1
         },
         {
@@ -691,7 +709,7 @@
         {
           "product": "Product #15642769260888",
           "reason": "Insufficient stock",
-          "stock": -4,
+          "stock": -5,
           "needed": 1
         },
         {
@@ -711,7 +729,7 @@
         {
           "product": "Product #15641321406808 — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -16,
+          "stock": -17,
           "needed": 1
         }
       ]
@@ -827,45 +845,7 @@
         {
           "product": "Product #15641336775000 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -11,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12083166118232,
-      "name": "#2654",
-      "createdAt": "2026-02-22T20:09:52+01:00",
-      "itemCount": 7,
-      "reasons": [
-        {
-          "product": "Product #15603157467480",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "Product #15622642008408",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "Product #15641324454232 — OP14‑033/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": -2,
-          "needed": 1
-        },
-        {
-          "product": "Product #15641328157016 — OP14‑111/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": -1,
-          "needed": 1
-        },
-        {
-          "product": "Product #15641288507736 — OP12‑034/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": -12,
           "needed": 1
         }
       ]
@@ -1007,13 +987,7 @@
         {
           "product": "Product #15641567265112 — 10 booster pack / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -1,
-          "needed": 1
-        },
-        {
-          "product": "Product #15643186921816 — Multicolor / 10 cards",
-          "reason": "Insufficient stock",
-          "stock": -3,
+          "stock": 0,
           "needed": 1
         },
         {
@@ -1067,12 +1041,6 @@
           "reason": "Insufficient stock",
           "stock": -1,
           "needed": 1
-        },
-        {
-          "product": "Product #15641566511448 — 3 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -2,
-          "needed": 1
         }
       ]
     },
@@ -1111,20 +1079,6 @@
       ]
     },
     {
-      "id": 12088791400792,
-      "name": "#2704",
-      "createdAt": "2026-02-26T15:09:53+01:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "Product #15641336283480 — 2 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -1,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12088799035736,
       "name": "#2706",
       "createdAt": "2026-02-26T15:15:04+01:00",
@@ -1133,7 +1087,7 @@
         {
           "product": "Product #15641336775000 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -11,
+          "stock": -12,
           "needed": 1
         }
       ]
@@ -1147,7 +1101,7 @@
         {
           "product": "Product #15641321406808 — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -16,
+          "stock": -17,
           "needed": 1
         }
       ]
@@ -1161,7 +1115,7 @@
         {
           "product": "Product #15641336611160 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -8,
+          "stock": -10,
           "needed": 1
         },
         {
@@ -1173,13 +1127,13 @@
         {
           "product": "Product #15641336775000 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -11,
+          "stock": -12,
           "needed": 1
         },
         {
           "product": "Product #15641336676696 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -5,
+          "stock": -6,
           "needed": 1
         },
         {
@@ -1213,7 +1167,7 @@
         {
           "product": "Product #15641507365208 — 199/165, Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
-          "stock": -3,
+          "stock": -2,
           "needed": 2
         }
       ]
@@ -1233,7 +1187,7 @@
         {
           "product": "Product #15641324192088 — OP14‑031/V2, Near-Mint / Alternate Art",
           "reason": "Insufficient stock",
-          "stock": -2,
+          "stock": -3,
           "needed": 1
         },
         {
@@ -1293,20 +1247,6 @@
       ]
     },
     {
-      "id": 12090472169816,
-      "name": "#2737",
-      "createdAt": "2026-02-27T15:59:28+01:00",
-      "itemCount": 10,
-      "reasons": [
-        {
-          "product": "Product #15641565495640 — 3 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -8,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12090596753752,
       "name": "#2738",
       "createdAt": "2026-02-27T17:17:52+01:00",
@@ -1321,7 +1261,7 @@
         {
           "product": "Product #15642608370008",
           "reason": "Insufficient stock",
-          "stock": -8,
+          "stock": -9,
           "needed": 1
         }
       ]
@@ -1369,22 +1309,8 @@
         {
           "product": "Product #15641321406808 — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -16,
+          "stock": -17,
           "needed": 8
-        }
-      ]
-    },
-    {
-      "id": 12095174738264,
-      "name": "#2758",
-      "createdAt": "2026-03-02T17:40:19+01:00",
-      "itemCount": 6,
-      "reasons": [
-        {
-          "product": "Product #15641321341272 — 30 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -4,
-          "needed": 5
         }
       ]
     },
@@ -1395,36 +1321,10 @@
       "itemCount": 10,
       "reasons": [
         {
-          "product": "Product #15641566511448 — 3 cards / Multicolor",
+          "product": "Product #15641565528408 — 10 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": -2,
-          "needed": 1
-        },
-        {
-          "product": "Product #15641565495640 — 3 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -8,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12095456379224,
-      "name": "#2769",
-      "createdAt": "2026-03-02T21:04:11+01:00",
-      "itemCount": 6,
-      "reasons": [
-        {
-          "product": "Product #15641565495640 — 3 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -8,
-          "needed": 1
-        },
-        {
-          "product": "Product #15641566511448 — 3 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -2,
-          "needed": 1
+          "needed": 2
         }
       ]
     },
@@ -1438,20 +1338,6 @@
           "product": "Product #15641321570648 — 24 Booster Packs / Blue",
           "reason": "Insufficient stock",
           "stock": -4,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12096911147352,
-      "name": "#2774",
-      "createdAt": "2026-03-03T19:42:33+01:00",
-      "itemCount": 6,
-      "reasons": [
-        {
-          "product": "Product #15641565495640 — 3 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -8,
           "needed": 1
         }
       ]
@@ -1485,7 +1371,7 @@
         {
           "product": "Product #15643894612312 — Special Illustration Rare / 276/217 Near-Mint",
           "reason": "Insufficient stock",
-          "stock": -1,
+          "stock": -2,
           "needed": 1
         }
       ]
@@ -1498,26 +1384,6 @@
       "reasons": [
         {
           "product": "Product #15641507725656 — 1 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -1,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12097273692504,
-      "name": "#2793",
-      "createdAt": "2026-03-04T01:53:26+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "Product #15638027403608",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "Product #15641347326296 — OP01‑078/V2, Near-Mint / Alternate Art",
           "reason": "Insufficient stock",
           "stock": -1,
           "needed": 1
@@ -1549,54 +1415,6 @@
           "reason": "Insufficient stock",
           "stock": -2,
           "needed": 24
-        }
-      ]
-    },
-    {
-      "id": 12097862959448,
-      "name": "#2800",
-      "createdAt": "2026-03-04T13:41:18+01:00",
-      "itemCount": 10,
-      "reasons": [
-        {
-          "product": "Product #15641565495640 — 3 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -8,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12098070511960,
-      "name": "#2802",
-      "createdAt": "2026-03-04T16:11:07+01:00",
-      "itemCount": 6,
-      "reasons": [
-        {
-          "product": "Product #15641566511448 — 3 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -2,
-          "needed": 1
-        },
-        {
-          "product": "Product #15641565495640 — 3 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -8,
-          "needed": 2
-        }
-      ]
-    },
-    {
-      "id": 12098083160408,
-      "name": "#2803",
-      "createdAt": "2026-03-04T16:20:41+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "Product #15641269141848 — Secret Lair Drop Series #246, Near-Mint / Rare",
-          "reason": "Insufficient stock",
-          "stock": -1,
-          "needed": 1
         }
       ]
     },
@@ -1657,7 +1475,7 @@
         {
           "product": "Product #15641268191576 — 60 cards / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -2,
+          "stock": -1,
           "needed": 1
         },
         {
@@ -1691,7 +1509,7 @@
         {
           "product": "Product #15642769260888",
           "reason": "Insufficient stock",
-          "stock": -4,
+          "stock": -5,
           "needed": 1
         }
       ]
@@ -1700,7 +1518,7 @@
       "id": 12099540418904,
       "name": "#2828",
       "createdAt": "2026-03-05T16:19:05+01:00",
-      "itemCount": 36,
+      "itemCount": 37,
       "reasons": [
         {
           "product": "Product #15639913333080",
@@ -1717,7 +1535,7 @@
         {
           "product": "Product #15641345884504 — 12 cards / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -3,
+          "stock": 0,
           "needed": 1
         },
         {
@@ -1755,20 +1573,6 @@
       ]
     },
     {
-      "id": 12099888972120,
-      "name": "#2832",
-      "createdAt": "2026-03-05T20:46:36+01:00",
-      "itemCount": 10,
-      "reasons": [
-        {
-          "product": "Product #15641283559768 — 12 Cards / Green",
-          "reason": "Insufficient stock",
-          "stock": -22,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12101339087192,
       "name": "#2836",
       "createdAt": "2026-03-06T17:09:56+01:00",
@@ -1778,34 +1582,6 @@
           "product": "Product #15643918205272 — 1 Booster",
           "reason": "Insufficient stock",
           "stock": -2,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12101468291416,
-      "name": "#2837",
-      "createdAt": "2026-03-06T17:24:54+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "Product #15642555318616",
-          "reason": "Insufficient stock",
-          "stock": -1,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12103119700312,
-      "name": "#2840",
-      "createdAt": "2026-03-07T19:26:00+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Product #15641542984024 — 213/182, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": -1,
           "needed": 1
         }
       ]
@@ -1837,20 +1613,6 @@
       ]
     },
     {
-      "id": 12103143194968,
-      "name": "#2843",
-      "createdAt": "2026-03-07T19:45:34+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Product #15641561661784 — 060/131, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": -1,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12103154139480,
       "name": "#2844",
       "createdAt": "2026-03-07T19:55:29+01:00",
@@ -1871,7 +1633,7 @@
         {
           "product": "Product #15641485541720 — 109/094, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
-          "stock": -1,
+          "stock": 0,
           "needed": 1
         },
         {
@@ -1897,53 +1659,7 @@
         {
           "product": "Product #15641324192088 — OP14‑031/V2, Near-Mint / Alternate Art",
           "reason": "Insufficient stock",
-          "stock": -2,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12103217840472,
-      "name": "#2847",
-      "createdAt": "2026-03-07T20:48:02+01:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "Product #15641561891160 — 177/131, Near-Mint / Secret Rare",
-          "reason": "Insufficient stock",
-          "stock": -1,
-          "needed": 1
-        },
-        {
-          "product": "Product #15641561825624 — 178/131, Near-Mint / Secret Rare",
-          "reason": "Insufficient stock",
-          "stock": -1,
-          "needed": 1
-        },
-        {
-          "product": "Product #15641561727320 — 176/131, Near-Mint / Secret Rare",
-          "reason": "Insufficient stock",
-          "stock": -1,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12105505505624,
-      "name": "#2848",
-      "createdAt": "2026-03-09T12:30:37+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "Product #15641340969304 — 24 Booster Packs / White",
-          "reason": "Insufficient stock",
-          "stock": -1,
-          "needed": 1
-        },
-        {
-          "product": "Product #15641340117336 — 20 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -1,
+          "stock": -3,
           "needed": 1
         }
       ]
@@ -1969,46 +1685,6 @@
       ]
     },
     {
-      "id": 12105550725464,
-      "name": "#2851",
-      "createdAt": "2026-03-09T13:02:20+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "Product #15641566511448 — 3 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -2,
-          "needed": 1
-        },
-        {
-          "product": "Product #15641267241304 — 60 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -1,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12105584050520,
-      "name": "#2855",
-      "createdAt": "2026-03-09T13:24:58+01:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "Product #15641566609752 — 10 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -1,
-          "needed": 1
-        },
-        {
-          "product": "Product #15643186921816 — Multicolor / 10 cards",
-          "reason": "Insufficient stock",
-          "stock": -3,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12105645392216,
       "name": "#2858",
       "createdAt": "2026-03-09T14:10:36+01:00",
@@ -2026,26 +1702,12 @@
       "id": 12105653420376,
       "name": "#2860",
       "createdAt": "2026-03-09T14:16:48+01:00",
-      "itemCount": 1,
+      "itemCount": 2,
       "reasons": [
         {
           "product": "Product #15556789993816",
           "reason": "Insufficient stock",
           "stock": -1,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12105658204504,
-      "name": "#2861",
-      "createdAt": "2026-03-09T14:20:33+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Product #15641268191576 — 60 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -2,
           "needed": 1
         }
       ]
@@ -2075,26 +1737,6 @@
           "reason": "Insufficient stock",
           "stock": -1,
           "needed": 1
-        },
-        {
-          "product": "Product #15641565495640 — 3 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -8,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12106012885336,
-      "name": "#2865",
-      "createdAt": "2026-03-09T18:36:53+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Product #15641373606232 — 60 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -2107,7 +1749,7 @@
         {
           "product": "Product #15641336775000 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -11,
+          "stock": -12,
           "needed": 1
         }
       ]
@@ -2135,33 +1777,13 @@
         {
           "product": "Product #15642769260888",
           "reason": "Insufficient stock",
-          "stock": -4,
+          "stock": -5,
           "needed": 1
         },
         {
           "product": "Product #15642692911448",
           "reason": "Insufficient stock",
           "stock": -23,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12106308911448,
-      "name": "#2872",
-      "createdAt": "2026-03-09T22:07:27+01:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "Product #15641321341272 — 30 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -4,
-          "needed": 1
-        },
-        {
-          "product": "Product #15641567297880 — 30 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
           "needed": 1
         }
       ]
@@ -2175,19 +1797,19 @@
         {
           "product": "Product #15641336152408 — 2 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -2,
+          "stock": -3,
           "needed": 1
         },
         {
           "product": "Product #15641336545624 — 2 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -1,
+          "stock": -2,
           "needed": 1
         },
         {
           "product": "Product #15641336381784 — 2 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -1,
+          "stock": -3,
           "needed": 1
         }
       ]
@@ -2207,7 +1829,7 @@
         {
           "product": "Product #15642608370008",
           "reason": "Insufficient stock",
-          "stock": -8,
+          "stock": -9,
           "needed": 1
         }
       ]
@@ -2227,7 +1849,7 @@
         {
           "product": "Product #15641345884504 — 12 cards / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -3,
+          "stock": 0,
           "needed": 1
         }
       ]
@@ -2253,7 +1875,7 @@
         {
           "product": "Product #15641521815896 — 094/086, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
-          "stock": -1,
+          "stock": 0,
           "needed": 1
         }
       ]
@@ -2267,33 +1889,7 @@
         {
           "product": "Product #15642769260888",
           "reason": "Insufficient stock",
-          "stock": -4,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12107715707224,
-      "name": "#2880",
-      "createdAt": "2026-03-10T21:13:38+01:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "Product #15641563758936 — 161/131, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": -1,
-          "needed": 1
-        },
-        {
-          "product": "Product #15641562743128 — 157/131, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": -1,
-          "needed": 1
-        },
-        {
-          "product": "Product #15641563726168 — 155/131, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": -1,
+          "stock": -5,
           "needed": 1
         }
       ]
@@ -2309,34 +1905,6 @@
           "reason": "Insufficient stock",
           "stock": -23,
           "needed": 5
-        }
-      ]
-    },
-    {
-      "id": 12107900158296,
-      "name": "#2883",
-      "createdAt": "2026-03-10T23:51:16+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Product #15641344475480 — 1 card / Black / White",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 5
-        }
-      ]
-    },
-    {
-      "id": 12107904516440,
-      "name": "#2884",
-      "createdAt": "2026-03-10T23:56:54+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Product #15641507365208 — 199/165, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": -3,
-          "needed": 1
         }
       ]
     },
@@ -2404,18 +1972,18 @@
       "id": 12107988074840,
       "name": "#2895",
       "createdAt": "2026-03-11T02:13:28+01:00",
-      "itemCount": 2,
+      "itemCount": 3,
       "reasons": [
         {
           "product": "Product #15641563300184 — 15 Booster pack / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -2,
+          "stock": -1,
           "needed": 1
         },
         {
           "product": "Product #15641563660632 — 156/131, Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
-          "stock": -1,
+          "stock": 0,
           "needed": 1
         }
       ]
@@ -2477,7 +2045,7 @@
         {
           "product": "Product #15642608370008",
           "reason": "Insufficient stock",
-          "stock": -8,
+          "stock": -9,
           "needed": 1
         }
       ]
@@ -2486,12 +2054,12 @@
       "id": 12135892975960,
       "name": "#2906",
       "createdAt": "2026-03-12T18:28:12+01:00",
-      "itemCount": 1,
+      "itemCount": 2,
       "reasons": [
         {
           "product": "Product #15641563300184 — 15 Booster pack / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -2,
+          "stock": -1,
           "needed": 1
         }
       ]
@@ -2531,20 +2099,6 @@
       ]
     },
     {
-      "id": 12151131668824,
-      "name": "#2913",
-      "createdAt": "2026-03-13T13:09:05+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "Product #15641567297880 — 30 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12151741677912,
       "name": "#2917",
       "createdAt": "2026-03-13T13:41:46+01:00",
@@ -2553,7 +2107,7 @@
         {
           "product": "Product #15641322979672 — OP14‑015/V2, Near-Mint / Alternate Art",
           "reason": "Insufficient stock",
-          "stock": -1,
+          "stock": -4,
           "needed": 1
         }
       ]
@@ -2567,7 +2121,7 @@
         {
           "product": "Product #15642608370008",
           "reason": "Insufficient stock",
-          "stock": -8,
+          "stock": -9,
           "needed": 1
         }
       ]
@@ -2576,7 +2130,7 @@
       "id": 12153753895256,
       "name": "#2922",
       "createdAt": "2026-03-13T15:29:09+01:00",
-      "itemCount": 13,
+      "itemCount": 14,
       "reasons": [
         {
           "product": "Product #15641320816984 — 291/217, Near-Mint / Special Illustration Rare",
@@ -2587,7 +2141,7 @@
         {
           "product": "Product #15641320948056 — 292/217, Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
-          "stock": -1,
+          "stock": 0,
           "needed": 1
         },
         {
@@ -2617,7 +2171,7 @@
         {
           "product": "Product #15641321177432 — 295/217, Near-Mint / Secret Rare",
           "reason": "Insufficient stock",
-          "stock": -1,
+          "stock": 0,
           "needed": 1
         },
         {
@@ -2673,30 +2227,10 @@
       ]
     },
     {
-      "id": 12154628440408,
-      "name": "#2924",
-      "createdAt": "2026-03-13T16:13:46+01:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "Product #15641346113880 — 12 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "Product #15641345884504 — 12 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -3,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12154957857112,
       "name": "#2929",
       "createdAt": "2026-03-13T16:29:31+01:00",
-      "itemCount": 3,
+      "itemCount": 4,
       "reasons": [
         {
           "product": "Product #15641507266904 — 202/165, Near-Mint / Special Illustration Rare",
@@ -2707,21 +2241,7 @@
         {
           "product": "Product #15641507299672 — 201/165, Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
-          "stock": -1,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12155299627352,
-      "name": "#2930",
-      "createdAt": "2026-03-13T16:43:31+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Product #15643186921816 — Multicolor / 10 cards",
-          "reason": "Insufficient stock",
-          "stock": -3,
+          "stock": 0,
           "needed": 1
         }
       ]
@@ -2741,7 +2261,7 @@
         {
           "product": "Product #15641336152408 — 2 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -2,
+          "stock": -3,
           "needed": 1
         },
         {
@@ -2756,24 +2276,30 @@
       "id": 12155749204312,
       "name": "#2932",
       "createdAt": "2026-03-13T17:04:47+01:00",
-      "itemCount": 3,
+      "itemCount": 5,
       "reasons": [
         {
           "product": "Product #15641336611160 — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -8,
+          "stock": -10,
           "needed": 1
         },
         {
           "product": "Product #15642608370008",
           "reason": "Insufficient stock",
-          "stock": -8,
+          "stock": -9,
           "needed": 1
         },
         {
           "product": "Product #15641336906072 — 10 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": -11,
+          "needed": 1
+        },
+        {
+          "product": "Product #15642608370008",
+          "reason": "Insufficient stock",
+          "stock": -9,
           "needed": 1
         }
       ]
@@ -2782,7 +2308,7 @@
       "id": 12167302087000,
       "name": "#2934",
       "createdAt": "2026-03-14T16:53:47+01:00",
-      "itemCount": 1,
+      "itemCount": 2,
       "reasons": [
         {
           "product": "Product #15641321570648 — 24 Booster Packs / Blue",
@@ -2857,8 +2383,388 @@
         {
           "product": "Product #15642608370008",
           "reason": "Insufficient stock",
-          "stock": -8,
+          "stock": -9,
           "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12181691793752,
+      "name": "#2943",
+      "createdAt": "2026-03-16T17:43:17+01:00",
+      "itemCount": 14,
+      "reasons": [
+        {
+          "product": "Product #15641325863256 — OP14‑049/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "Product #15641326977368 — OP14‑061/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "Product #15641329467736 — OP14‑090/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "Product #15641323307352 — OP14‑020/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "Product #15641331827032 — OP14‑119/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "Product #15641324192088 — OP14‑031/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": -3,
+          "needed": 1
+        },
+        {
+          "product": "Product #15641328157016 — OP14‑111/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "Product #15641323864408 — OP14‑027/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "Product #15641332187480 — OP14‑003, Near-Mint / Special Rare",
+          "reason": "Insufficient stock",
+          "stock": -2,
+          "needed": 2
+        },
+        {
+          "product": "Product #15641322979672 — OP14‑015/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": -4,
+          "needed": 3
+        },
+        {
+          "product": "Product #15641322783064 — OP14‑013/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": -4,
+          "needed": 4
+        },
+        {
+          "product": "Product #15641346343256 — 12 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 2
+        },
+        {
+          "product": "Product #15657433923928",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12181785772376,
+      "name": "#2945",
+      "createdAt": "2026-03-16T18:54:34+01:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "Product #15641336381784 — 2 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": -3,
+          "needed": 1
+        },
+        {
+          "product": "Product #15641336152408 — 2 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": -3,
+          "needed": 1
+        },
+        {
+          "product": "Product #15641336545624 — 2 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": -2,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12181798388056,
+      "name": "#2946",
+      "createdAt": "2026-03-16T19:04:32+01:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "Product #15641321406808 — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": -17,
+          "needed": 1
+        },
+        {
+          "product": "Product #15641336775000 — 4 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": -12,
+          "needed": 1
+        },
+        {
+          "product": "Product #15642608370008",
+          "reason": "Insufficient stock",
+          "stock": -9,
+          "needed": 1
+        },
+        {
+          "product": "Product #15641336676696 — 4 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": -6,
+          "needed": 1
+        },
+        {
+          "product": "Product #15641336611160 — 4 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": -10,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12181890662744,
+      "name": "#2948",
+      "createdAt": "2026-03-16T20:12:53+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Product #15641521095000 — 113/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12181897412952,
+      "name": "#2949",
+      "createdAt": "2026-03-16T20:17:59+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Product #15641336381784 — 2 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": -3,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12181907898712,
+      "name": "#2951",
+      "createdAt": "2026-03-16T20:25:25+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Product #15657571811672",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12181911241048,
+      "name": "#2952",
+      "createdAt": "2026-03-16T20:27:59+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Product #15641339068760 — 100/080, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12181916320088,
+      "name": "#2953",
+      "createdAt": "2026-03-16T20:31:44+01:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "Product #15641343852888 — 5 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12181941125464,
+      "name": "#2955",
+      "createdAt": "2026-03-16T20:48:39+01:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "Product #15641564676440 — 5 card / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12181957050712,
+      "name": "#2959",
+      "createdAt": "2026-03-16T20:59:46+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Product #15643894612312 — Special Illustration Rare / 276/217 Near-Mint",
+          "reason": "Insufficient stock",
+          "stock": -2,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12181965078872,
+      "name": "#2960",
+      "createdAt": "2026-03-16T21:04:26+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Product #15641488752984 — 36 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": -3,
+          "needed": 10
+        }
+      ]
+    },
+    {
+      "id": 12183087120728,
+      "name": "#2962",
+      "createdAt": "2026-03-17T17:44:57+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Product #15642769260888",
+          "reason": "Insufficient stock",
+          "stock": -5,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12183095869784,
+      "name": "#2963",
+      "createdAt": "2026-03-17T17:51:46+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Product #15545996083544",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12183117168984,
+      "name": "#2965",
+      "createdAt": "2026-03-17T18:06:38+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Product #15307365319000",
+          "reason": "Insufficient stock",
+          "stock": -2,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12183145120088,
+      "name": "#2966",
+      "createdAt": "2026-03-17T18:27:47+01:00",
+      "itemCount": 8,
+      "reasons": [
+        {
+          "product": "Product #15659122491736",
+          "reason": "Insufficient stock",
+          "stock": -3,
+          "needed": 3
+        },
+        {
+          "product": "Product #15659124719960",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "Product #15659121410392",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "Product #15307365319000",
+          "reason": "Insufficient stock",
+          "stock": -2,
+          "needed": 1
+        },
+        {
+          "product": "Product #15659118920024",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "Product #15659118297432",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "Product #15659115708760",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12184492114264,
+      "name": "#2971",
+      "createdAt": "2026-03-18T14:15:14+01:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "Product #15641336611160 — 4 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": -10,
+          "needed": 1
+        },
+        {
+          "product": "Product #15641336775000 — 4 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": -12,
+          "needed": 1
+        },
+        {
+          "product": "Product #15641336676696 — 4 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": -6,
+          "needed": 1
         }
       ]
     }
@@ -2867,6 +2773,11 @@
     "lowStock": [
       {
         "product": "Product #15498123477336",
+        "stock": 0,
+        "demand": 1
+      },
+      {
+        "product": "Product #15641488294232 — 3 Booster Packs / Multicolor",
         "stock": 0,
         "demand": 1
       },
@@ -2888,7 +2799,7 @@
       {
         "product": "Product #15603157467480",
         "stock": 0,
-        "demand": 2
+        "demand": 1
       },
       {
         "product": "Product #15641500713304 — 162/181, Near-Mint / Rainbow Rare",
@@ -2906,16 +2817,6 @@
         "demand": 2
       },
       {
-        "product": "Product #15622642008408",
-        "stock": 0,
-        "demand": 1
-      },
-      {
-        "product": "Product #15641288507736 — OP12‑034/V2, Near-Mint / Alternate Art",
-        "stock": 0,
-        "demand": 1
-      },
-      {
         "product": "Product #15625266200920",
         "stock": 0,
         "demand": 3
@@ -2927,6 +2828,11 @@
       },
       {
         "product": "Product #15627294736728",
+        "stock": 0,
+        "demand": 1
+      },
+      {
+        "product": "Product #15641567265112 — 10 booster pack / Multicolor",
         "stock": 0,
         "demand": 1
       },
@@ -2961,11 +2867,6 @@
         "demand": 1
       },
       {
-        "product": "Product #15638027403608",
-        "stock": 0,
-        "demand": 1
-      },
-      {
         "product": "Product #15639755784536",
         "stock": 0,
         "demand": 1
@@ -2981,39 +2882,44 @@
         "demand": 1
       },
       {
-        "product": "Product #15641373606232 — 60 Booster Packs / Multicolor",
-        "stock": 0,
-        "demand": 1
-      },
-      {
-        "product": "Product #15641567297880 — 30 booster pack / Multicolor",
+        "product": "Product #15641345884504 — 12 cards / Multicolor",
         "stock": 0,
         "demand": 2
       },
       {
-        "product": "Product #15641344475480 — 1 card / Black / White",
-        "stock": 0,
-        "demand": 5
-      },
-      {
-        "product": "Product #15641346113880 — 12 cards / Multicolor",
+        "product": "Product #15641485541720 — 109/094, Near-Mint / Ultra Rare",
         "stock": 0,
         "demand": 1
       },
       {
-        "product": "Product #15641488294232 — 3 Booster Packs / Multicolor",
-        "stock": 1,
+        "product": "Product #15641521815896 — 094/086, Near-Mint / Illustration Rare",
+        "stock": 0,
+        "demand": 1
+      },
+      {
+        "product": "Product #15641563660632 — 156/131, Near-Mint / Special Illustration Rare",
+        "stock": 0,
+        "demand": 1
+      },
+      {
+        "product": "Product #15641320948056 — 292/217, Near-Mint / Special Illustration Rare",
+        "stock": 0,
+        "demand": 1
+      },
+      {
+        "product": "Product #15641321177432 — 295/217, Near-Mint / Secret Rare",
+        "stock": 0,
+        "demand": 1
+      },
+      {
+        "product": "Product #15641507299672 — 201/165, Near-Mint / Special Illustration Rare",
+        "stock": 0,
         "demand": 1
       },
       {
         "product": "Product #15533437452632",
         "stock": 1,
-        "demand": 3
-      },
-      {
-        "product": "Product #15622642467160",
-        "stock": 1,
-        "demand": 1
+        "demand": 2
       },
       {
         "product": "Product #15641336447320 — 2 Booster Packs / Multicolor",
@@ -3023,11 +2929,6 @@
       {
         "product": "Product #15641380487512 — 12 cards / Red",
         "stock": 1,
-        "demand": 2
-      },
-      {
-        "product": "Product #15641268355416 — 3 Booster Packs / Multicolor",
-        "stock": 1,
         "demand": 1
       },
       {
@@ -3036,24 +2937,19 @@
         "demand": 2
       },
       {
-        "product": "Product #15641567199576 — 30 booster pack / Multicolor",
-        "stock": 1,
+        "product": "Product #15641344049496 — 1 card / Black / White",
+        "stock": 2,
         "demand": 1
       },
       {
         "product": "Product #15641343951192 — 12 cards / Multicolor",
-        "stock": 2,
-        "demand": 4
-      },
-      {
-        "product": "Product #15641344049496 — 1 card / Black / White",
         "stock": 2,
         "demand": 1
       },
       {
         "product": "Product #15641344541016 — 10 cards / Multicolor",
         "stock": 2,
-        "demand": 2
+        "demand": 1
       },
       {
         "product": "Product #15472420389208",
@@ -3066,9 +2962,19 @@
         "demand": 2
       },
       {
+        "product": "Product #15643186921816 — Multicolor / 10 cards",
+        "stock": 3,
+        "demand": 1
+      },
+      {
         "product": "Product #15619597500760",
         "stock": 3,
         "demand": 1
+      },
+      {
+        "product": "Product #15641345032536 — 12 cards / Multicolor",
+        "stock": 3,
+        "demand": 4
       },
       {
         "product": "Product #15643970961752 — 10 cards / Multicolor",
@@ -3091,11 +2997,6 @@
         "demand": 1
       },
       {
-        "product": "Product #15641345032536 — 12 cards / Multicolor",
-        "stock": 4,
-        "demand": 3
-      },
-      {
         "product": "Product #15641345982808 — 1 card / Black / White",
         "stock": 4,
         "demand": 1
@@ -3108,7 +3009,12 @@
       {
         "product": "Product #15641343230296 — 12 cards / Multicolor",
         "stock": 4,
-        "demand": 3
+        "demand": 2
+      },
+      {
+        "product": "Product #15641565823320 — Scarlet & Violet 151 (10 cards) / Multicolor",
+        "stock": 4,
+        "demand": 1
       },
       {
         "product": "Product #15641523355992 — 3 Booster pack, 1 card / Multicolor",
@@ -3126,11 +3032,6 @@
         "demand": 1
       },
       {
-        "product": "Product #15641565528408 — 10 cards / Multicolor",
-        "stock": 5,
-        "demand": 2
-      },
-      {
         "product": "Product #15641565102424 — 3 cards / Multicolor",
         "stock": 5,
         "demand": 1
@@ -3142,16 +3043,6 @@
       },
       {
         "product": "Product #15641345458520 — 12 cards / Multicolor",
-        "stock": 5,
-        "demand": 2
-      },
-      {
-        "product": "Product #15641344672088 — 12 cards / Multicolor",
-        "stock": 5,
-        "demand": 1
-      },
-      {
-        "product": "Product #15641341133144 — 2 cards / Black / White",
         "stock": 5,
         "demand": 1
       },
@@ -3186,9 +3077,14 @@
         "demand": 1
       },
       {
+        "product": "Product #15641565495640 — 3 cards / Multicolor",
+        "stock": 7,
+        "demand": 8
+      },
+      {
         "product": "Product #15583700091224",
         "stock": 7,
-        "demand": 3
+        "demand": 2
       },
       {
         "product": "Product #15641345130840 — 10 cards / Multicolor",
@@ -3197,11 +3093,6 @@
       },
       {
         "product": "Product #15641345556824 — 12 cards / Multicolor",
-        "stock": 7,
-        "demand": 2
-      },
-      {
-        "product": "Product #15641522962776 — 6 booster pack / Multicolor",
         "stock": 7,
         "demand": 1
       },
@@ -3221,7 +3112,12 @@
         "demand": 1
       },
       {
-        "product": "Product #15641344737624 — 2 cards / Black / White",
+        "product": "Product #15641345687896 — 1 card / Multicolor",
+        "stock": 8,
+        "demand": 1
+      },
+      {
+        "product": "Product #15641337299288 — 9 Booster Packs / Multicolor",
         "stock": 8,
         "demand": 1
       },
@@ -3248,17 +3144,12 @@
       {
         "product": "Product #15641343099224 — 12 cards / Multicolor",
         "stock": 9,
-        "demand": 4
+        "demand": 2
       },
       {
         "product": "Product #15641341886808 — 2 cards / Black / White",
         "stock": 9,
         "demand": 1
-      },
-      {
-        "product": "Product #15641337299288 — 9 Booster Packs / Multicolor",
-        "stock": 9,
-        "demand": 6
       },
       {
         "product": "Product #15641566052696 — 5 cards / Multicolor",
@@ -3273,28 +3164,34 @@
     ],
     "demandExceedsStock": [
       {
-        "product": "Product #15641283559768 — 12 Cards / Green",
-        "stock": -22,
-        "demand": 25,
-        "shortfall": 47
-      },
-      {
         "product": "Product #15642692911448",
         "stock": -23,
         "demand": 23,
         "shortfall": 46
       },
       {
+        "product": "Product #15641283559768 — 12 Cards / Green",
+        "stock": -22,
+        "demand": 24,
+        "shortfall": 46
+      },
+      {
         "product": "Product #15641321406808 — 6 Booster Packs / Multicolor",
-        "stock": -16,
-        "demand": 16,
-        "shortfall": 32
+        "stock": -17,
+        "demand": 17,
+        "shortfall": 34
       },
       {
         "product": "Product #15641343656280 — 12 cards / Multicolor",
         "stock": -2,
         "demand": 25,
         "shortfall": 27
+      },
+      {
+        "product": "Product #15641336775000 — 4 Booster Packs / Multicolor",
+        "stock": -12,
+        "demand": 13,
+        "shortfall": 25
       },
       {
         "product": "Product #15641336840536 — 5 Booster Packs / Multicolor",
@@ -3309,10 +3206,16 @@
         "shortfall": 22
       },
       {
-        "product": "Product #15641336775000 — 4 Booster Packs / Multicolor",
-        "stock": -11,
+        "product": "Product #15641336611160 — 4 Booster Packs / Multicolor",
+        "stock": -10,
         "demand": 11,
-        "shortfall": 22
+        "shortfall": 21
+      },
+      {
+        "product": "Product #15642608370008",
+        "stock": -9,
+        "demand": 10,
+        "shortfall": 19
       },
       {
         "product": "Product #15641321570648 — 24 Booster Packs / Blue",
@@ -3321,22 +3224,16 @@
         "shortfall": 17
       },
       {
-        "product": "Product #15641336611160 — 4 Booster Packs / Multicolor",
-        "stock": -8,
-        "demand": 8,
-        "shortfall": 16
+        "product": "Product #15641336676696 — 4 Booster Packs / Multicolor",
+        "stock": -6,
+        "demand": 7,
+        "shortfall": 13
       },
       {
-        "product": "Product #15642608370008",
-        "stock": -8,
-        "demand": 8,
-        "shortfall": 16
-      },
-      {
-        "product": "Product #15641565495640 — 3 cards / Multicolor",
-        "stock": -8,
-        "demand": 8,
-        "shortfall": 16
+        "product": "Product #15641488752984 — 36 Booster Packs / Multicolor",
+        "stock": -3,
+        "demand": 10,
+        "shortfall": 13
       },
       {
         "product": "Product #15641563890008 — 079/073, Near-Mint / Secret Rare",
@@ -3345,15 +3242,9 @@
         "shortfall": 11
       },
       {
-        "product": "Product #15641336676696 — 4 Booster Packs / Multicolor",
+        "product": "Product #15642769260888",
         "stock": -5,
         "demand": 5,
-        "shortfall": 10
-      },
-      {
-        "product": "Product #15641321341272 — 30 Booster Packs / Multicolor",
-        "stock": -4,
-        "demand": 6,
         "shortfall": 10
       },
       {
@@ -3363,22 +3254,16 @@
         "shortfall": 8
       },
       {
-        "product": "Product #15642769260888",
+        "product": "Product #15641322979672 — OP14‑015/V2, Near-Mint / Alternate Art",
         "stock": -4,
         "demand": 4,
         "shortfall": 8
       },
       {
-        "product": "Product #15641507365208 — 199/165, Near-Mint / Special Illustration Rare",
-        "stock": -3,
+        "product": "Product #15641322783064 — OP14‑013/V2, Near-Mint / Alternate Art",
+        "stock": -4,
         "demand": 4,
-        "shortfall": 7
-      },
-      {
-        "product": "Product #15641566511448 — 3 cards / Multicolor",
-        "stock": -2,
-        "demand": 5,
-        "shortfall": 7
+        "shortfall": 8
       },
       {
         "product": "Product #15642611810648 — Multicolor",
@@ -3399,34 +3284,40 @@
         "shortfall": 6
       },
       {
-        "product": "Product #15643186921816 — Multicolor / 10 cards",
+        "product": "Product #15641324192088 — OP14‑031/V2, Near-Mint / Alternate Art",
         "stock": -3,
         "demand": 3,
         "shortfall": 6
       },
       {
-        "product": "Product #15641345884504 — 12 cards / Multicolor",
+        "product": "Product #15641336152408 — 2 Booster Packs / Multicolor",
         "stock": -3,
         "demand": 3,
         "shortfall": 6
+      },
+      {
+        "product": "Product #15641336381784 — 2 Booster Packs / Multicolor",
+        "stock": -3,
+        "demand": 3,
+        "shortfall": 6
+      },
+      {
+        "product": "Product #15659122491736",
+        "stock": -3,
+        "demand": 3,
+        "shortfall": 6
+      },
+      {
+        "product": "Product #15641507365208 — 199/165, Near-Mint / Special Illustration Rare",
+        "stock": -2,
+        "demand": 3,
+        "shortfall": 5
       },
       {
         "product": "Product #15641569558872 — 050/307, Near-Mint / Promo",
         "stock": -2,
         "demand": 3,
         "shortfall": 5
-      },
-      {
-        "product": "Product #15641344475480 — 1 card / Black / White",
-        "stock": 0,
-        "demand": 5,
-        "shortfall": 5
-      },
-      {
-        "product": "Product #15641324454232 — OP14‑033/V2, Near-Mint / Alternate Art",
-        "stock": -2,
-        "demand": 2,
-        "shortfall": 4
       },
       {
         "product": "Product #15642954072408 — 10 cards / Multicolor",
@@ -3441,7 +3332,13 @@
         "shortfall": 4
       },
       {
-        "product": "Product #15641324192088 — OP14‑031/V2, Near-Mint / Alternate Art",
+        "product": "Product #15641565528408 — 10 cards / Multicolor",
+        "stock": -2,
+        "demand": 2,
+        "shortfall": 4
+      },
+      {
+        "product": "Product #15643894612312 — Special Illustration Rare / 276/217 Near-Mint",
         "stock": -2,
         "demand": 2,
         "shortfall": 4
@@ -3453,19 +3350,13 @@
         "shortfall": 4
       },
       {
-        "product": "Product #15641268191576 — 60 cards / Multicolor",
-        "stock": -2,
-        "demand": 2,
-        "shortfall": 4
-      },
-      {
         "product": "Product #15643927413080 — 10 cards / Multicolor",
         "stock": -2,
         "demand": 2,
         "shortfall": 4
       },
       {
-        "product": "Product #15641336152408 — 2 Booster Packs / Multicolor",
+        "product": "Product #15641336545624 — 2 Booster Packs / Multicolor",
         "stock": -2,
         "demand": 2,
         "shortfall": 4
@@ -3483,13 +3374,19 @@
         "shortfall": 4
       },
       {
-        "product": "Product #15641563300184 — 15 Booster pack / Multicolor",
+        "product": "Product #15190942450008",
         "stock": -2,
         "demand": 2,
         "shortfall": 4
       },
       {
-        "product": "Product #15190942450008",
+        "product": "Product #15641332187480 — OP14‑003, Near-Mint / Special Rare",
+        "stock": -2,
+        "demand": 2,
+        "shortfall": 4
+      },
+      {
+        "product": "Product #15307365319000",
         "stock": -2,
         "demand": 2,
         "shortfall": 4
@@ -3507,7 +3404,7 @@
         "shortfall": 3
       },
       {
-        "product": "Product #15641566609752 — 10 cards / Multicolor",
+        "product": "Product #15641563300184 — 15 Booster pack / Multicolor",
         "stock": -1,
         "demand": 2,
         "shortfall": 3
@@ -3516,6 +3413,12 @@
         "product": "Product #15486272864600",
         "stock": -2,
         "demand": 1,
+        "shortfall": 3
+      },
+      {
+        "product": "Product #15641346343256 — 12 cards / Multicolor",
+        "stock": -1,
+        "demand": 2,
         "shortfall": 3
       },
       {
@@ -3549,12 +3452,6 @@
         "shortfall": 2
       },
       {
-        "product": "Product #15533437452632",
-        "stock": 1,
-        "demand": 3,
-        "shortfall": 2
-      },
-      {
         "product": "Product #15641321079128 — 294/217, Near-Mint / Secret Rare",
         "stock": -1,
         "demand": 1,
@@ -3579,9 +3476,9 @@
         "shortfall": 2
       },
       {
-        "product": "Product #15603157467480",
-        "stock": 0,
-        "demand": 2,
+        "product": "Product #15641324454232 — OP14‑033/V2, Near-Mint / Alternate Art",
+        "stock": -1,
+        "demand": 1,
         "shortfall": 2
       },
       {
@@ -3615,37 +3512,13 @@
         "shortfall": 2
       },
       {
-        "product": "Product #15641328157016 — OP14‑111/V2, Near-Mint / Alternate Art",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
         "product": "Product #15641506021720 — 175/165, Near-Mint / Illustration Rare",
         "stock": -1,
         "demand": 1,
         "shortfall": 2
       },
       {
-        "product": "Product #15641567265112 — 10 booster pack / Multicolor",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
         "product": "Product #15641565266264 — 6 cards / Multicolor",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "Product #15641343951192 — 12 cards / Multicolor",
-        "stock": 2,
-        "demand": 4,
-        "shortfall": 2
-      },
-      {
-        "product": "Product #15641336283480 — 2 Booster Packs / Multicolor",
         "stock": -1,
         "demand": 1,
         "shortfall": 2
@@ -3663,25 +3536,7 @@
         "shortfall": 2
       },
       {
-        "product": "Product #15643894612312 — Special Illustration Rare / 276/217 Near-Mint",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
         "product": "Product #15641507725656 — 1 booster pack / Multicolor",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "Product #15641347326296 — OP01‑078/V2, Near-Mint / Alternate Art",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "Product #15641269141848 — Secret Lair Drop Series #246, Near-Mint / Rare",
         "stock": -1,
         "demand": 1,
         "shortfall": 2
@@ -3699,9 +3554,21 @@
         "shortfall": 2
       },
       {
+        "product": "Product #15641268191576 — 60 cards / Multicolor",
+        "stock": -1,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
         "product": "Product #15641563070808 — 169/131, Near-Mint / Special Illustration Rare",
         "stock": -1,
         "demand": 1,
+        "shortfall": 2
+      },
+      {
+        "product": "Product #15641345884504 — 12 cards / Multicolor",
+        "stock": 0,
+        "demand": 2,
         "shortfall": 2
       },
       {
@@ -3712,18 +3579,6 @@
       },
       {
         "product": "Product #15643974566232 — Black / White / 1 card",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "Product #15642555318616",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "Product #15641542984024 — 213/182, Near-Mint / Ultra Rare",
         "stock": -1,
         "demand": 1,
         "shortfall": 2
@@ -3747,61 +3602,13 @@
         "shortfall": 2
       },
       {
-        "product": "Product #15641561661784 — 060/131, Near-Mint / Ultra Rare",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
         "product": "Product #15641489080664 — 94/80, Near-Mint / Ultra Rare",
         "stock": -1,
         "demand": 1,
         "shortfall": 2
       },
       {
-        "product": "Product #15641485541720 — 109/094, Near-Mint / Ultra Rare",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
         "product": "Product #15641360793944 — P‑053/V3, Near-Mint / Promo",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "Product #15641561891160 — 177/131, Near-Mint / Secret Rare",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "Product #15641561825624 — 178/131, Near-Mint / Secret Rare",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "Product #15641561727320 — 176/131, Near-Mint / Secret Rare",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "Product #15641340969304 — 24 Booster Packs / White",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "Product #15641340117336 — 20 Booster Packs / Multicolor",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "Product #15641267241304 — 60 cards / Multicolor",
         "stock": -1,
         "demand": 1,
         "shortfall": 2
@@ -3825,19 +3632,7 @@
         "shortfall": 2
       },
       {
-        "product": "Product #15641567297880 — 30 booster pack / Multicolor",
-        "stock": 0,
-        "demand": 2,
-        "shortfall": 2
-      },
-      {
-        "product": "Product #15641336545624 — 2 Booster Packs / Multicolor",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "Product #15641336381784 — 2 Booster Packs / Multicolor",
+        "product": "Product #15641566609752 — 10 cards / Multicolor",
         "stock": -1,
         "demand": 1,
         "shortfall": 2
@@ -3850,30 +3645,6 @@
       },
       {
         "product": "Product #15641519620440 — 149/086, Near-Mint / Illustration Rare",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "Product #15641521815896 — 094/086, Near-Mint / Illustration Rare",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "Product #15641563758936 — 161/131, Near-Mint / Special Illustration Rare",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "Product #15641562743128 — 157/131, Near-Mint / Special Illustration Rare",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "Product #15641563726168 — 155/131, Near-Mint / Special Illustration Rare",
         "stock": -1,
         "demand": 1,
         "shortfall": 2
@@ -3903,12 +3674,6 @@
         "shortfall": 2
       },
       {
-        "product": "Product #15641563660632 — 156/131, Near-Mint / Special Illustration Rare",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
         "product": "Product #15641500877144 — 164/181, Near-Mint / Ultra Rare",
         "stock": -1,
         "demand": 1,
@@ -3921,19 +3686,7 @@
         "shortfall": 2
       },
       {
-        "product": "Product #15641322979672 — OP14‑015/V2, Near-Mint / Alternate Art",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
         "product": "Product #15641320816984 — 291/217, Near-Mint / Special Illustration Rare",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "Product #15641320948056 — 292/217, Near-Mint / Special Illustration Rare",
         "stock": -1,
         "demand": 1,
         "shortfall": 2
@@ -3958,12 +3711,6 @@
       },
       {
         "product": "Product #15641319604568 — 245/217, Near-Mint / Illustration Rare",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "Product #15641321177432 — 295/217, Near-Mint / Secret Rare",
         "stock": -1,
         "demand": 1,
         "shortfall": 2
@@ -4017,12 +3764,6 @@
         "shortfall": 2
       },
       {
-        "product": "Product #15641507299672 — 201/165, Near-Mint / Special Illustration Rare",
-        "stock": -1,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
         "product": "Product #15641569001816 — 027/225, Near-Mint / Promo",
         "stock": -1,
         "demand": 1,
@@ -4053,9 +3794,135 @@
         "shortfall": 2
       },
       {
+        "product": "Product #15641325863256 — OP14‑049/V2, Near-Mint / Alternate Art",
+        "stock": -1,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
+        "product": "Product #15641326977368 — OP14‑061/V2, Near-Mint / Alternate Art",
+        "stock": -1,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
+        "product": "Product #15641329467736 — OP14‑090/V2, Near-Mint / Alternate Art",
+        "stock": -1,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
+        "product": "Product #15641323307352 — OP14‑020/V2, Near-Mint / Alternate Art",
+        "stock": -1,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
+        "product": "Product #15641331827032 — OP14‑119/V2, Near-Mint / Alternate Art",
+        "stock": -1,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
+        "product": "Product #15641328157016 — OP14‑111/V2, Near-Mint / Alternate Art",
+        "stock": -1,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
+        "product": "Product #15641323864408 — OP14‑027/V2, Near-Mint / Alternate Art",
+        "stock": -1,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
+        "product": "Product #15657433923928",
+        "stock": -1,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
+        "product": "Product #15641521095000 — 113/086, Near-Mint / Illustration Rare",
+        "stock": -1,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
+        "product": "Product #15657571811672",
+        "stock": -1,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
+        "product": "Product #15641339068760 — 100/080, Near-Mint / Ultra Rare",
+        "stock": -1,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
+        "product": "Product #15641343852888 — 5 cards / Multicolor",
+        "stock": -1,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
+        "product": "Product #15641564676440 — 5 card / Multicolor",
+        "stock": -1,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
+        "product": "Product #15545996083544",
+        "stock": -1,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
+        "product": "Product #15659124719960",
+        "stock": -1,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
+        "product": "Product #15659121410392",
+        "stock": -1,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
+        "product": "Product #15659118920024",
+        "stock": -1,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
+        "product": "Product #15659118297432",
+        "stock": -1,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
+        "product": "Product #15659115708760",
+        "stock": -1,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
         "product": "Product #15498123477336",
         "stock": 0,
         "demand": 1,
+        "shortfall": 1
+      },
+      {
+        "product": "Product #15641488294232 — 3 Booster Packs / Multicolor",
+        "stock": 0,
+        "demand": 1,
+        "shortfall": 1
+      },
+      {
+        "product": "Product #15533437452632",
+        "stock": 1,
+        "demand": 2,
         "shortfall": 1
       },
       {
@@ -4077,19 +3944,13 @@
         "shortfall": 1
       },
       {
+        "product": "Product #15603157467480",
+        "stock": 0,
+        "demand": 1,
+        "shortfall": 1
+      },
+      {
         "product": "Product #15641500713304 — 162/181, Near-Mint / Rainbow Rare",
-        "stock": 0,
-        "demand": 1,
-        "shortfall": 1
-      },
-      {
-        "product": "Product #15622642008408",
-        "stock": 0,
-        "demand": 1,
-        "shortfall": 1
-      },
-      {
-        "product": "Product #15641288507736 — OP12‑034/V2, Near-Mint / Alternate Art",
         "stock": 0,
         "demand": 1,
         "shortfall": 1
@@ -4102,6 +3963,12 @@
       },
       {
         "product": "Product #15627294736728",
+        "stock": 0,
+        "demand": 1,
+        "shortfall": 1
+      },
+      {
+        "product": "Product #15641567265112 — 10 booster pack / Multicolor",
         "stock": 0,
         "demand": 1,
         "shortfall": 1
@@ -4137,19 +4004,19 @@
         "shortfall": 1
       },
       {
-        "product": "Product #15641380487512 — 12 cards / Red",
-        "stock": 1,
-        "demand": 2,
+        "product": "Product #15641345032536 — 12 cards / Multicolor",
+        "stock": 3,
+        "demand": 4,
+        "shortfall": 1
+      },
+      {
+        "product": "Product #15641565495640 — 3 cards / Multicolor",
+        "stock": 7,
+        "demand": 8,
         "shortfall": 1
       },
       {
         "product": "Product #15641564152152 — 276/XY-P, Near-Mint / Common",
-        "stock": 0,
-        "demand": 1,
-        "shortfall": 1
-      },
-      {
-        "product": "Product #15638027403608",
         "stock": 0,
         "demand": 1,
         "shortfall": 1
@@ -4179,13 +4046,37 @@
         "shortfall": 1
       },
       {
-        "product": "Product #15641373606232 — 60 Booster Packs / Multicolor",
+        "product": "Product #15641485541720 — 109/094, Near-Mint / Ultra Rare",
         "stock": 0,
         "demand": 1,
         "shortfall": 1
       },
       {
-        "product": "Product #15641346113880 — 12 cards / Multicolor",
+        "product": "Product #15641521815896 — 094/086, Near-Mint / Illustration Rare",
+        "stock": 0,
+        "demand": 1,
+        "shortfall": 1
+      },
+      {
+        "product": "Product #15641563660632 — 156/131, Near-Mint / Special Illustration Rare",
+        "stock": 0,
+        "demand": 1,
+        "shortfall": 1
+      },
+      {
+        "product": "Product #15641320948056 — 292/217, Near-Mint / Special Illustration Rare",
+        "stock": 0,
+        "demand": 1,
+        "shortfall": 1
+      },
+      {
+        "product": "Product #15641321177432 — 295/217, Near-Mint / Secret Rare",
+        "stock": 0,
+        "demand": 1,
+        "shortfall": 1
+      },
+      {
+        "product": "Product #15641507299672 — 201/165, Near-Mint / Special Illustration Rare",
         "stock": 0,
         "demand": 1,
         "shortfall": 1
