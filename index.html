@@ -17,21 +17,73 @@
     header {
       background: #fff;
       border-bottom: 1px solid #e5e5ea;
-      padding: 20px 32px;
+      padding: 16px 32px;
       display: flex;
       align-items: center;
       justify-content: space-between;
+      gap: 16px;
     }
 
     header h1 {
       font-size: 18px;
       font-weight: 600;
       letter-spacing: -0.3px;
+      flex-shrink: 0;
     }
 
-    header span {
+    /* ── Timestamp bar ──────────────────────────────── */
+    .header-meta {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .timestamp-block {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 2px;
+    }
+
+    #last-updated {
       font-size: 13px;
+      font-weight: 500;
+      color: #1d1d1f;
+    }
+
+    #next-refresh {
+      font-size: 12px;
       color: #86868b;
+    }
+
+    /* ── Run now button ─────────────────────────────── */
+    #run-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 16px;
+      border-radius: 8px;
+      border: none;
+      background: #007aff;
+      color: #fff;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: background 0.15s, opacity 0.15s;
+    }
+
+    #run-btn:hover:not(:disabled) { background: #0062cc; }
+    #run-btn:disabled { opacity: 0.55; cursor: default; }
+    #run-btn.success { background: #34c759; }
+    #run-btn.error   { background: #ff3b30; }
+
+    #run-status {
+      font-size: 12px;
+      color: #86868b;
+      text-align: right;
     }
 
     main {
@@ -175,7 +227,9 @@
     /* ── Responsive ────────────────────────────────── */
     @media (max-width: 640px) {
       .cards { grid-template-columns: 1fr; }
-      header { flex-direction: column; align-items: flex-start; gap: 4px; }
+      header { flex-direction: column; align-items: flex-start; gap: 10px; }
+      .header-meta { justify-content: flex-start; }
+      .timestamp-block { align-items: flex-start; }
     }
   </style>
 </head>
@@ -183,7 +237,16 @@
 
 <header>
   <h1>Fulfillment Queue</h1>
-  <span id="last-updated">—</span>
+  <div class="header-meta">
+    <div class="timestamp-block">
+      <span id="last-updated">Loading…</span>
+      <span id="next-refresh">—</span>
+    </div>
+    <div style="display:flex;flex-direction:column;align-items:flex-end;gap:4px">
+      <button id="run-btn" onclick="triggerRun()">▶ Run now</button>
+      <span id="run-status"></span>
+    </div>
+  </div>
 </header>
 
 <main>
@@ -241,94 +304,24 @@
 </main>
 
 <script>
+  // ── Config ───────────────────────────────────────────────────────────────────
+  const GITHUB_REPO     = 'sudestadaglobal/shopify-fulfillment-queue';
+  const GITHUB_WORKFLOW = 'run.yml';
+  const GITHUB_BRANCH   = 'main';
+
+  // ── Helpers ──────────────────────────────────────────────────────────────────
   const fmt = new Intl.DateTimeFormat('en-GB', {
     day: '2-digit', month: 'short', year: 'numeric',
     hour: '2-digit', minute: '2-digit', timeZoneName: 'short'
   });
 
-  function fmtDate(iso) {
-    return fmt.format(new Date(iso));
-  }
-
+  function fmtDate(iso) { return fmt.format(new Date(iso)); }
   function el(id) { return document.getElementById(id); }
 
   function stockPill(stock) {
     if (stock === 0) return `<span class="pill pill-red">0 in stock</span>`;
     if (stock < 5)  return `<span class="pill pill-orange">${stock} in stock</span>`;
     return `<span class="pill pill-gray">${stock} in stock</span>`;
-  }
-
-  function renderDemandTable(items) {
-    if (!items.length) return '<div class="empty">✓ No demand issues</div>';
-
-    return `<table>
-      <thead>
-        <tr>
-          <th>Product</th>
-          <th>In Stock</th>
-          <th>Total Demand</th>
-          <th>Shortfall</th>
-        </tr>
-      </thead>
-      <tbody>
-        ${items.map(i => `
-          <tr>
-            <td>${esc(i.product)}</td>
-            <td>${stockPill(i.stock)}</td>
-            <td>${i.demand}</td>
-            <td><span class="pill pill-red">−${i.shortfall}</span></td>
-          </tr>
-        `).join('')}
-      </tbody>
-    </table>`;
-  }
-
-  function renderLowStockTable(items) {
-    if (!items.length) return '<div class="empty">✓ All items sufficiently stocked</div>';
-
-    return `<table>
-      <thead>
-        <tr>
-          <th>Product</th>
-          <th>In Stock</th>
-          <th>Pending Demand</th>
-        </tr>
-      </thead>
-      <tbody>
-        ${items.map(i => `
-          <tr>
-            <td>${esc(i.product)}</td>
-            <td>${stockPill(i.stock)}</td>
-            <td>${i.demand}</td>
-          </tr>
-        `).join('')}
-      </tbody>
-    </table>`;
-  }
-
-  function renderBlockedTable(orders) {
-    if (!orders.length) return '<div class="empty">✓ No blocked orders</div>';
-
-    return `<table>
-      <thead>
-        <tr>
-          <th>Order</th>
-          <th>Created</th>
-          <th>Blocking Reason(s)</th>
-        </tr>
-      </thead>
-      <tbody>
-        ${orders.map(o => `
-          <tr>
-            <td><strong>${esc(o.name)}</strong></td>
-            <td>${fmtDate(o.createdAt)}</td>
-            <td>${o.reasons.map(r =>
-              `<div style="margin-bottom:4px">${esc(r.product)}: <span style="color:#86868b">${esc(r.reason)} (need ${r.needed}, have ${r.stock})</span></div>`
-            ).join('')}</td>
-          </tr>
-        `).join('')}
-      </tbody>
-    </table>`;
   }
 
   function esc(str) {
@@ -338,47 +331,188 @@
       .replace(/>/g, '&gt;');
   }
 
+  // ── Render helpers ───────────────────────────────────────────────────────────
+  function productLink(name, productId) {
+    if (!productId) return esc(name);
+    const url = `https://admin.shopify.com/store/sudestadaglobal/products/${productId}`;
+    return `<a href="${url}" target="_blank" style="color:inherit;text-decoration:underline;text-underline-offset:3px">${esc(name)}</a>`;
+  }
+
+  function renderDemandTable(items) {
+    if (!items.length) return '<div class="empty">✓ No demand issues</div>';
+    return `<table>
+      <thead><tr><th>Product</th><th>In Stock</th><th>Incoming</th><th>Total Demand</th><th>Shortfall</th></tr></thead>
+      <tbody>${items.map(i => `
+        <tr>
+          <td>${productLink(i.product, i.productId)}</td>
+          <td>${stockPill(i.stock)}</td>
+          <td>${i.incoming > 0 ? `<span class="pill pill-orange">+${i.incoming} incoming</span>` : '<span style="color:#b0b0b8">—</span>'}</td>
+          <td>${i.demand}</td>
+          <td><span class="pill pill-red">−${i.shortfall}</span></td>
+        </tr>`).join('')}
+      </tbody></table>`;
+  }
+
+  function renderLowStockTable(items) {
+    if (!items.length) return '<div class="empty">✓ All items sufficiently stocked</div>';
+    return `<table>
+      <thead><tr><th>Product</th><th>In Stock</th><th>Pending Demand</th></tr></thead>
+      <tbody>${items.map(i => `
+        <tr>
+          <td>${esc(i.product)}</td>
+          <td>${stockPill(i.stock)}</td>
+          <td>${i.demand}</td>
+        </tr>`).join('')}
+      </tbody></table>`;
+  }
+
+  function renderBlockedTable(orders) {
+    if (!orders.length) return '<div class="empty">✓ No blocked orders</div>';
+    return `<table>
+      <thead><tr><th>Order</th><th>Customer</th><th>Created</th><th>Blocking Reason(s)</th></tr></thead>
+      <tbody>${orders.map(o => {
+        const orderUrl = `https://admin.shopify.com/store/sudestadaglobal/orders/${o.id}`;
+        return `<tr>
+          <td><a href="${orderUrl}" target="_blank" style="color:inherit;font-weight:600;text-decoration:underline;text-underline-offset:3px">${esc(o.name)}</a></td>
+          <td>${o.customerName ? esc(o.customerName) : '<span style="color:#b0b0b8">Guest</span>'}</td>
+          <td>${fmtDate(o.createdAt)}</td>
+          <td>${o.reasons.map(r =>
+            `<div style="margin-bottom:4px">${esc(r.product)}: <span style="color:#86868b">${esc(r.reason)} (need ${r.needed}, have ${r.stock})</span></div>`
+          ).join('')}</td>
+        </tr>`;
+      }).join('')}
+      </tbody></table>`;
+  }
+
+  // ── Load & render report.json ────────────────────────────────────────────────
   async function load() {
     try {
       const res = await fetch('report.json?_=' + Date.now());
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const r = await res.json();
 
-      // Last updated
       el('last-updated').textContent = 'Last run: ' + fmtDate(r.generatedAt);
 
-      // Summary cards
       el('cnt-fulfill').textContent = r.summary.canFulfill;
       el('cnt-blocked').textContent = r.summary.blocked;
       el('cnt-total').textContent   = r.summary.totalUnfulfilled;
 
-      // Demand exceeds stock
       const de = r.stockAlerts?.demandExceedsStock ?? [];
       el('badge-demand').textContent = de.length;
       el('demand-body').innerHTML = renderDemandTable(de);
 
-      // Low stock
       const ls = r.stockAlerts?.lowStock ?? [];
       el('badge-low').textContent = ls.length;
       el('low-body').innerHTML = renderLowStockTable(ls);
 
-      // Blocked orders
       const bo = r.blockedOrders ?? [];
       el('badge-blocked-detail').textContent = bo.length;
       el('blocked-body').innerHTML = renderBlockedTable(bo);
 
       el('loading').style.display = 'none';
       el('content').style.display = 'block';
+      el('error').style.display   = 'none';
 
     } catch (e) {
       el('loading').style.display = 'none';
-      el('error').style.display = 'block';
+      el('error').style.display   = 'block';
       el('error').textContent =
         e.message.includes('404') || e.message.includes('Failed to fetch')
           ? 'report.json not found — run the workflow first to generate it.'
           : 'Failed to load report: ' + e.message;
     }
   }
+
+  // ── "Run now" button — triggers GitHub Actions via API ───────────────────────
+  async function triggerRun() {
+    // Retrieve stored PAT, or prompt once and save to localStorage
+    let pat = localStorage.getItem('gh_pat');
+    if (!pat) {
+      pat = prompt(
+        'Enter a GitHub Personal Access Token with "workflow" scope.\n' +
+        'It is saved locally in your browser and never sent anywhere except GitHub.'
+      );
+      if (!pat) return;
+      localStorage.setItem('gh_pat', pat.trim());
+      pat = pat.trim();
+    }
+
+    const btn = el('run-btn');
+    const status = el('run-status');
+    btn.disabled = true;
+    btn.className = '';
+    btn.textContent = '⏳ Triggering…';
+    status.textContent = '';
+
+    try {
+      const res = await fetch(
+        `https://api.github.com/repos/${GITHUB_REPO}/actions/workflows/${GITHUB_WORKFLOW}/dispatches`,
+        {
+          method: 'POST',
+          headers: {
+            'Authorization': `Bearer ${pat}`,
+            'Accept': 'application/vnd.github+json',
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({ ref: GITHUB_BRANCH }),
+        }
+      );
+
+      if (res.status === 401 || res.status === 403) {
+        localStorage.removeItem('gh_pat');
+        throw new Error('Token rejected — removed. Re-click to try a new one.');
+      }
+      if (!res.ok) throw new Error(`GitHub API ${res.status}`);
+
+      // Success — script typically finishes in ~60–90s
+      btn.className = 'success';
+      btn.textContent = '✓ Running…';
+
+      let secsLeft = 90;
+      const tick = setInterval(() => {
+        secsLeft--;
+        status.textContent = `Refreshing data in ${secsLeft}s`;
+        if (secsLeft <= 0) {
+          clearInterval(tick);
+          status.textContent = '';
+          btn.className = '';
+          btn.textContent = '▶ Run now';
+          btn.disabled = false;
+          refresh(); // pull the fresh report.json
+        }
+      }, 1000);
+
+    } catch (e) {
+      btn.className = 'error';
+      btn.textContent = '✕ Failed';
+      status.textContent = e.message;
+      setTimeout(() => {
+        btn.className = '';
+        btn.textContent = '▶ Run now';
+        btn.disabled = false;
+        status.textContent = '';
+      }, 4000);
+    }
+  }
+
+  // ── Auto-refresh every 5 min ─────────────────────────────────────────────────
+  const REFRESH_INTERVAL_MS = 5 * 60 * 1000;
+  let nextRefreshAt = Date.now() + REFRESH_INTERVAL_MS;
+
+  async function refresh() {
+    await load();
+    nextRefreshAt = Date.now() + REFRESH_INTERVAL_MS;
+  }
+
+  setInterval(refresh, REFRESH_INTERVAL_MS);
+
+  // Countdown ticker
+  setInterval(() => {
+    const secsLeft = Math.max(0, Math.round((nextRefreshAt - Date.now()) / 1000));
+    const m = String(Math.floor(secsLeft / 60)).padStart(2, '0');
+    const s = String(secsLeft % 60).padStart(2, '0');
+    el('next-refresh').textContent = `Refreshing in ${m}:${s}`;
+  }, 1000);
 
   load();
 </script>

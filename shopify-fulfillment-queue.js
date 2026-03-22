@@ -8,6 +8,7 @@ const CONFIG = {
   accessToken: process.env.SHOPIFY_TOKEN,
   apiVersion: '2026-01',
   rtffTag: 'RTFF',
+  perProductLimit: 3,        // max orders allocated per variant per run (0 = unlimited)
   lowStockThreshold: 10,     // items below this quantity flagged as low stock
 };
 
@@ -43,42 +44,64 @@ function shopifyRequest(path, method = 'GET', body = null) {
   });
 }
 
+// Wraps shopifyRequest with automatic 429 retry (Shopify leaky-bucket rate limit).
+async function shopifyFetch(path, method = 'GET', body = null, maxRetries = 5) {
+  for (let attempt = 0; attempt <= maxRetries; attempt++) {
+    const result = await shopifyRequest(path, method, body);
+
+    if (result.status === 429) {
+      const wait = parseInt(result.headers['retry-after'] || '2', 10) * 1000;
+      console.log(`   ⏳ Rate limited — retrying in ${wait / 1000}s (attempt ${attempt + 1}/${maxRetries})...`);
+      await sleep(wait);
+      continue;
+    }
+
+    return result;
+  }
+  throw new Error(`shopifyFetch: too many retries for ${path}`);
+}
+
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 // ─── Shopify data fetchers ────────────────────────────────────────────────────
 
+// Robustly extracts the "next" path from a Shopify Link header.
+function parseLinkHeader(link, apiVersion) {
+  const match = link.match(/<([^>]+)>;\s*rel="next"/);
+  if (!match) return null;
+  const url = new URL(match[1]);
+  return url.pathname.replace(`/admin/api/${apiVersion}`, '') + url.search;
+}
+
 async function getAllUnfulfilledOrders() {
   const orders = [];
   let path = `/orders.json?fulfillment_status=unfulfilled&status=open&order=created_at+asc&limit=250`;
 
   while (path) {
-    const { data, headers } = await shopifyRequest(path);
+    const { data, headers } = await shopifyFetch(path);
     orders.push(...(data.orders || []));
-
-    const link = headers['link'] || '';
-    const next = link.match(/<[^>]*\/orders\.json(\?[^>]*)>;\s*rel="next"/);
-    path = next ? `/orders.json${next[1]}` : null;
+    path = parseLinkHeader(headers['link'] || '', CONFIG.apiVersion);
   }
 
   return orders;
 }
 
+// Fetches variant→inventoryItemId mapping AND product titles in one pass,
+// eliminating the need for a separate getProductTitles() call.
 async function getVariantDetails(variantIds, productIds) {
-  const map = {}; // variantId -> { inventoryItemId, title, productId }
+  const variantMap = {};    // variantId  → { inventoryItemId, title, productId }
+  const productTitles = {}; // productId  → title
 
-  // Fetch products (which include their variants with inventory_item_id)
-  const uniqueProductIds = [...new Set(productIds)];
-  const chunks_ = chunk(uniqueProductIds, 50);
-
-  for (const c of chunks_) {
-    const { data } = await shopifyRequest(
+  for (const c of chunk([...new Set(productIds)], 50)) {
+    const { data } = await shopifyFetch(
       `/products.json?ids=${c.join(',')}&limit=250&status=any&fields=id,title,variants`
     );
     for (const product of data.products || []) {
+      productTitles[product.id] = product.title;
       for (const v of product.variants || []) {
-        map[v.id] = {
+        variantMap[v.id] = {
           inventoryItemId: v.inventory_item_id,
           title: v.title,
           productId: product.id,
@@ -89,35 +112,40 @@ async function getVariantDetails(variantIds, productIds) {
   }
 
   // Fallback: fetch any variants still missing (e.g. deleted products)
-  const missing = variantIds.filter((id) => !map[id]);
+  const missing = variantIds.filter((id) => !variantMap[id]);
   if (missing.length > 0) {
     console.log(`   ⚠️ ${missing.length} variant(s) not found via products, fetching individually...`);
     for (const vid of missing) {
       try {
-        const { data } = await shopifyRequest(`/variants/${vid}.json`);
+        const { data } = await shopifyFetch(`/variants/${vid}.json`);
         if (data.variant) {
-          map[vid] = {
-            inventoryItemId: data.variant.inventory_item_id,
-            title: data.variant.title,
-            productId: data.variant.product_id,
+          const v = data.variant;
+          variantMap[vid] = {
+            inventoryItemId: v.inventory_item_id,
+            title: v.title,
+            productId: v.product_id,
           };
+          // Fetch product title if not already cached
+          if (!productTitles[v.product_id]) {
+            const { data: pd } = await shopifyFetch(`/products/${v.product_id}.json?fields=id,title`);
+            if (pd.product) productTitles[pd.product.id] = pd.product.title;
+          }
         }
       } catch (e) {
-        console.log(`     → Variant ${vid} not found, will block orders containing it`);
+        console.log(`     → Variant ${vid} not found, will skip stock check for orders containing it`);
       }
       await sleep(200);
     }
   }
 
-  return map;
+  return { variantMap, productTitles };
 }
 
 async function getInventoryLevels(inventoryItemIds) {
   const levels = {}; // inventoryItemId -> total available (across all locations)
-  const chunks = chunk(inventoryItemIds, 50);
 
-  for (const c of chunks) {
-    const { data } = await shopifyRequest(
+  for (const c of chunk(inventoryItemIds, 50)) {
+    const { data } = await shopifyFetch(
       `/inventory_levels.json?inventory_item_ids=${c.join(',')}&limit=250`
     );
     for (const level of data.inventory_levels || []) {
@@ -130,21 +158,52 @@ async function getInventoryLevels(inventoryItemIds) {
   return levels;
 }
 
-async function getProductTitles(productIds) {
-  const titles = {};
-  const chunks = chunk(productIds, 100);
+// Runs a GraphQL query against the Shopify Admin API.
+async function shopifyGraphQL(query, variables = {}) {
+  const { data: body } = await shopifyFetch('/graphql.json', 'POST', { query, variables });
+  if (body.errors) throw new Error(`GraphQL: ${body.errors[0]?.message}`);
+  return body.data;
+}
 
-  for (const c of chunks) {
-    const { data } = await shopifyRequest(
-      `/products.json?ids=${c.join(',')}&limit=250&status=any&fields=id,title`
+// Returns incoming stock quantities per inventoryItemId (summed across all locations).
+async function getIncomingInventory(inventoryItemIds) {
+  const incoming = {};
+
+  for (const c of chunk(inventoryItemIds, 50)) {
+    const ids = c.map((id) => `gid://shopify/InventoryItem/${id}`);
+    const data = await shopifyGraphQL(
+      `query($ids: [ID!]!) {
+        nodes(ids: $ids) {
+          ... on InventoryItem {
+            id
+            inventoryLevels(first: 20) {
+              edges {
+                node {
+                  quantities(names: ["incoming"]) { name quantity }
+                }
+              }
+            }
+          }
+        }
+      }`,
+      { ids }
     );
-    for (const p of data.products || []) {
-      titles[p.id] = p.title;
+
+    for (const node of data?.nodes ?? []) {
+      if (!node?.id) continue;
+      const numericId = parseInt(node.id.split('/').pop(), 10);
+      let total = 0;
+      for (const edge of node.inventoryLevels?.edges ?? []) {
+        for (const qty of edge.node.quantities ?? []) {
+          if (qty.name === 'incoming') total += qty.quantity;
+        }
+      }
+      incoming[numericId] = total;
     }
-    await sleep(200);
+    await sleep(300);
   }
 
-  return titles;
+  return incoming;
 }
 
 async function updateOrderTags(orderId, currentTags, shouldHaveRTFF) {
@@ -156,12 +215,12 @@ async function updateOrderTags(orderId, currentTags, shouldHaveRTFF) {
   );
   const hadRTFF = tagSet.has(CONFIG.rtffTag);
 
-  if (shouldHaveRTFF === hadRTFF) return; // no change
+  if (shouldHaveRTFF === hadRTFF) return; // no change needed
 
   if (shouldHaveRTFF) tagSet.add(CONFIG.rtffTag);
   else tagSet.delete(CONFIG.rtffTag);
 
-  await shopifyRequest(`/orders/${orderId}.json`, 'PUT', {
+  await shopifyFetch(`/orders/${orderId}.json`, 'PUT', {
     order: { id: orderId, tags: [...tagSet].join(', ') },
   });
 }
@@ -213,19 +272,17 @@ async function main() {
     orders.flatMap((o) => o.line_items.map((i) => i.product_id).filter(Boolean))
   );
 
-  // 3. Enrich: variant → inventoryItemId, inventory levels, product names
+  // 3. Enrich: variant → inventoryItemId + product titles (single API pass), then inventory levels
   console.log('🔍 Fetching inventory & product data...');
-  const variantMap = await getVariantDetails(variantIds, orderProductIds);
+  const { variantMap, productTitles } = await getVariantDetails(variantIds, orderProductIds);
 
   const inventoryItemIds = uniqueIds(
     Object.values(variantMap).map((v) => v.inventoryItemId)
   );
   const inventoryLevels = await getInventoryLevels(inventoryItemIds);
+  const incomingLevels = await getIncomingInventory(inventoryItemIds);
 
-  const productIds = uniqueIds(Object.values(variantMap).map((v) => v.productId));
-  const productTitles = await getProductTitles(productIds);
-
-  // Helper: resolve product label from variantId
+  // Helper: resolve a human-readable label from variantId
   function label(variantId) {
     const v = variantMap[variantId];
     if (!v) return `Variant #${variantId}`;
@@ -237,6 +294,7 @@ async function main() {
   console.log('🧮 Allocating stock...');
 
   const available = { ...inventoryLevels }; // mutable working copy
+  const orderCountPerItem = {};             // inventoryItemId → # orders allocated so far
 
   const fulfillableOrders = [];
   const blockedOrders = [];
@@ -246,15 +304,13 @@ async function main() {
     const blockReasons = [];
 
     for (const item of order.line_items) {
-      // Skip items we can't verify (custom items, deleted products, tips, etc.)
-      // Only check stock for items we CAN resolve — team verifies the rest manually
-      if (!item.variant_id || !variantMap[item.variant_id]) {
-        continue;
-      }
+      // Skip unresolvable items (custom items, tips, deleted products, etc.)
+      if (!item.variant_id || !variantMap[item.variant_id]) continue;
 
       const v = variantMap[item.variant_id];
       const stock = available[v.inventoryItemId] ?? 0;
       const needed = item.quantity;
+      const orderCount = orderCountPerItem[v.inventoryItemId] ?? 0;
 
       if (stock < needed) {
         canFulfill = false;
@@ -264,16 +320,25 @@ async function main() {
           stock,
           needed,
         });
+      } else if (CONFIG.perProductLimit > 0 && orderCount >= CONFIG.perProductLimit) {
+        canFulfill = false;
+        blockReasons.push({
+          product: label(item.variant_id),
+          reason: `Per-product limit reached (max ${CONFIG.perProductLimit} orders per run)`,
+          stock,
+          needed,
+        });
       }
     }
 
     if (canFulfill) {
-      // Commit the allocation — deduct stock so next orders see reduced availability
+      // Commit the allocation — deduct stock and increment per-item order count
       for (const item of order.line_items) {
         if (!item.variant_id) continue;
         const v = variantMap[item.variant_id];
         if (!v) continue;
         available[v.inventoryItemId] = (available[v.inventoryItemId] ?? 0) - item.quantity;
+        orderCountPerItem[v.inventoryItemId] = (orderCountPerItem[v.inventoryItemId] ?? 0) + 1;
       }
       fulfillableOrders.push({
         id: order.id,
@@ -285,6 +350,9 @@ async function main() {
       blockedOrders.push({
         id: order.id,
         name: order.name,
+        customerName: order.customer
+          ? `${order.customer.first_name || ''} ${order.customer.last_name || ''}`.trim()
+          : '',
         createdAt: order.created_at,
         itemCount: order.line_items.length,
         reasons: blockReasons,
@@ -294,7 +362,6 @@ async function main() {
 
   console.log(`   → ${fulfillableOrders.length} fulfillable, ${blockedOrders.length} blocked`);
 
-  // Debug: log first few fulfillable and blocked
   for (const o of fulfillableOrders.slice(0, 5)) {
     console.log(`     ✅ ${o.name} (${o.itemCount} items)`);
   }
@@ -302,40 +369,27 @@ async function main() {
     console.log(`     ❌ ${o.name}: ${o.reasons.map((r) => `${r.product} — ${r.reason} (need ${r.needed}, have ${r.stock})`).join('; ')}`);
   }
 
-  // 5. Sync RTFF tags in Shopify
-  // Step A: Remove RTFF from ALL unfulfilled orders that have it
-  console.log('🏷️  Cleaning RTFF tags from all unfulfilled orders...');
-  let untagged = 0;
-  for (const order of orders) {
-    if (order.tags.includes(CONFIG.rtffTag)) {
-      await updateOrderTags(order.id, order.tags, false);
-      await sleep(250);
-      untagged++;
-    }
-  }
-  console.log(`   → Removed RTFF from ${untagged} order(s)`);
-
-  // Step B: Re-fetch tags (they changed above), then add RTFF only to fulfillable orders
-  console.log('🏷️  Adding RTFF to fulfillable orders...');
+  // 5. Sync RTFF tags — single diff pass: only call the API when the tag status actually changes.
+  //    (Previously: two passes — strip all, then re-add — causing redundant API calls for orders
+  //     that were already correctly tagged.)
+  console.log('🏷️  Syncing RTFF tags...');
   const fulfillableIds = new Set(fulfillableOrders.map((o) => o.id));
-  let tagged = 0;
+  let tagged = 0, untagged = 0;
+
   for (const order of orders) {
-    if (fulfillableIds.has(order.id)) {
-      // Re-read the order's current tags since we may have just removed RTFF
-      const currentTags = order.tags
-        .split(',')
-        .map((t) => t.trim())
-        .filter((t) => t && t !== CONFIG.rtffTag)
-        .join(', ');
-      await updateOrderTags(order.id, currentTags, true);
+    const shouldHaveRTFF = fulfillableIds.has(order.id);
+    const hadRTFF = order.tags.includes(CONFIG.rtffTag);
+
+    if (shouldHaveRTFF !== hadRTFF) {
+      await updateOrderTags(order.id, order.tags, shouldHaveRTFF);
       await sleep(250);
-      tagged++;
+      if (shouldHaveRTFF) tagged++; else untagged++;
     }
   }
-  console.log(`   → Added RTFF to ${tagged} order(s)`);
 
-  // 6. Compute stock alerts
-  // Total demand across ALL unfulfilled orders (not just fulfillable ones)
+  console.log(`   → Tagged ${tagged}, untagged ${untagged} (${orders.length - tagged - untagged} unchanged)`);
+
+  // 6. Compute stock alerts — total demand across ALL unfulfilled orders
   const totalDemand = {}; // inventoryItemId → { demand, variantId }
   for (const order of orders) {
     for (const item of order.line_items) {
@@ -355,17 +409,28 @@ async function main() {
     const stock = inventoryLevels[invId] ?? 0;
     const productLabel = label(variantId);
 
+    const v = variantMap[variantId];
+    const incoming = incomingLevels[invId] ?? 0;
+
     if (demand > stock) {
       demandExceedsStock.push({
         product: productLabel,
+        productId: v?.productId,
+        variantId: Number(variantId),
         stock,
+        incoming,
         demand,
         shortfall: demand - stock,
       });
     }
-
     if (stock >= 0 && stock < CONFIG.lowStockThreshold) {
-      lowStock.push({ product: productLabel, stock, demand });
+      lowStock.push({
+        product: productLabel,
+        productId: v?.productId,
+        variantId: Number(variantId),
+        stock,
+        demand,
+      });
     }
   }
 
