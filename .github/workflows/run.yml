@@ -1,7 +1,9 @@
 name: Shopify Fulfillment Queue
 
 on:
-  workflow_dispatch:   # manual trigger from Actions tab
+  workflow_dispatch:          # manual trigger from Actions tab
+  schedule:
+    - cron: '*/15 * * * *'   # auto-run every 15 minutes
 
 permissions:
   contents: write      # needed to commit report.json back to the repo
