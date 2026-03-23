@@ -1,60 +1,11 @@
 {
-  "generatedAt": "2026-03-23T09:20:05.416Z",
+  "generatedAt": "2026-03-23T11:58:46.619Z",
   "summary": {
-    "totalUnfulfilled": 167,
-    "canFulfill": 8,
-    "blocked": 159
+    "totalUnfulfilled": 149,
+    "canFulfill": 0,
+    "blocked": 149
   },
-  "fulfillableOrders": [
-    {
-      "id": 12186532282712,
-      "name": "#2984",
-      "createdAt": "2026-03-19T21:14:14+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12186571112792,
-      "name": "#2989",
-      "createdAt": "2026-03-19T21:45:03+01:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12186573177176,
-      "name": "#2990",
-      "createdAt": "2026-03-19T21:46:54+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12187371012440,
-      "name": "#2995",
-      "createdAt": "2026-03-20T14:51:58+01:00",
-      "itemCount": 6
-    },
-    {
-      "id": 12187447689560,
-      "name": "#2998",
-      "createdAt": "2026-03-20T15:49:07+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12187545076056,
-      "name": "#3001",
-      "createdAt": "2026-03-20T16:58:40+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12187547402584,
-      "name": "#3002",
-      "createdAt": "2026-03-20T17:00:20+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12187571355992,
-      "name": "#3005",
-      "createdAt": "2026-03-20T17:17:41+01:00",
-      "itemCount": 3
-    }
-  ],
+  "fulfillableOrders": [],
   "blockedOrders": [
     {
       "id": 12037642912088,
@@ -1044,27 +995,6 @@
       ]
     },
     {
-      "id": 12087762125144,
-      "name": "#2700",
-      "customerName": "Šimon Vích",
-      "createdAt": "2026-02-25T20:32:56+01:00",
-      "itemCount": 6,
-      "reasons": [
-        {
-          "product": "113522 Pikachu ex - Scarlet & Violet Prismatic Evolution 179/131 NM (English) — 179/131, Near-Mint / Secret Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "99732 Charizard V - Sword & Shield Black Star Promos 050/307 NM (English) — 050/307, Near-Mint / Promo",
-          "reason": "Insufficient stock",
-          "stock": -1,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12087791026520,
       "name": "#2701",
       "customerName": "FRANCOIS Alexis",
@@ -1401,21 +1331,6 @@
       ]
     },
     {
-      "id": 12097283031384,
-      "name": "#2799",
-      "customerName": "Kristoffer Bergström",
-      "createdAt": "2026-03-04T02:13:02+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131512 Emperors in the New World One Piece Booster Pack (English) — 12 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 3,
-          "needed": 24
-        }
-      ]
-    },
-    {
       "id": 12098116288856,
       "name": "#2807",
       "customerName": "Francesco-Maurizio Adinolfi",
@@ -1641,27 +1556,6 @@
       ]
     },
     {
-      "id": 12103188087128,
-      "name": "#2845",
-      "customerName": "Coman Alexandru",
-      "createdAt": "2026-03-07T20:23:54+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "130874 Nami - The Best Vol.1 P‑053 NM V3 (English) — P‑053/V3, Near-Mint / Promo",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132266 Nami - The Azure Sea's Seven OP14‑031 V2 NM (English) — OP14‑031/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": -1,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12105522807128,
       "name": "#2849",
       "customerName": "Kristoffer Bergström",
@@ -1678,36 +1572,6 @@
           "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
           "stock": -24,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12105645392216,
-      "name": "#2858",
-      "customerName": "jacopo gorini",
-      "createdAt": "2026-03-09T14:10:36+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "121021 Mega Venusaur ex - Mega Evolution 155/132 NM (English) — 155/132, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12105653420376,
-      "name": "#2860",
-      "customerName": "Mike Geßner",
-      "createdAt": "2026-03-09T14:16:48+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "126601 The Glory of Team Rocket Attaché Case Set (JP)",
-          "reason": "Insufficient stock",
-          "stock": 0,
           "needed": 1
         }
       ]
@@ -1923,21 +1787,6 @@
       ]
     },
     {
-      "id": 12107960385880,
-      "name": "#2892",
-      "customerName": "Jason Zhou",
-      "createdAt": "2026-03-11T01:27:03+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "119465 Erika’s Invitation - Scarlet & Violet 151 196/165 NM (English) — 196/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12107968053592,
       "name": "#2894",
       "customerName": "francisco zarza",
@@ -1948,27 +1797,6 @@
           "product": "131546 Tournament Pack 2025 Vol.1 One Piece Booster Pack (English) — 1 card / Black / White",
           "reason": "Insufficient stock",
           "stock": -2,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12107988074840,
-      "name": "#2895",
-      "customerName": "Christopher Elland",
-      "createdAt": "2026-03-11T02:13:28+01:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "113485 Sylveon ex - Scarlet & Violet Prismatic Evolution 156/131 NM (English) — 156/131, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
           "needed": 1
         }
       ]
@@ -2203,21 +2031,6 @@
           "product": "119129 Tynamo - Scarlet & Violet Black Bolt 113/086 NM (English) — 113/086, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": -1,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12154957857112,
-      "name": "#2929",
-      "customerName": "Matteo Ciardullo",
-      "createdAt": "2026-03-13T16:29:31+01:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
           "needed": 1
         }
       ]
@@ -2967,36 +2780,6 @@
       ]
     },
     {
-      "id": 12186550042968,
-      "name": "#2988",
-      "customerName": "Colin Marteby",
-      "createdAt": "2026-03-19T21:27:51+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "110223 Scarlet & Violet Sleeved Booster Pack (English) — Multicolor / 10 cards",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12186575503704,
-      "name": "#2991",
-      "customerName": "Jeremy Slaven",
-      "createdAt": "2026-03-19T21:48:32+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -2,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12186577928536,
       "name": "#2992",
       "customerName": "Jeremy Slaven",
@@ -3255,13 +3038,6 @@
         "demand": 4
       },
       {
-        "product": "113522 Pikachu ex - Scarlet & Violet Prismatic Evolution 179/131 NM (English) — 179/131, Near-Mint / Secret Rare",
-        "productId": 15641562939736,
-        "variantId": 56849718346072,
-        "stock": 0,
-        "demand": 1
-      },
-      {
         "product": "Nefeltari Vivi - The Azure Sea's Seven EB04‑025 NM V2 (English)",
         "productId": 15630738129240,
         "variantId": 56806258737496,
@@ -3332,51 +3108,9 @@
         "demand": 1
       },
       {
-        "product": "130874 Nami - The Best Vol.1 P‑053 NM V3 (English) — P‑053/V3, Near-Mint / Promo",
-        "productId": 15641360793944,
-        "variantId": 56849418060120,
-        "stock": 0,
-        "demand": 1
-      },
-      {
-        "product": "121021 Mega Venusaur ex - Mega Evolution 155/132 NM (English) — 155/132, Near-Mint / Ultra Rare",
-        "productId": 15641496453464,
-        "variantId": 56849626464600,
-        "stock": 0,
-        "demand": 1
-      },
-      {
-        "product": "126601 The Glory of Team Rocket Attaché Case Set (JP)",
-        "productId": 15556789993816,
-        "variantId": 56513303118168,
-        "stock": 0,
-        "demand": 1
-      },
-      {
         "product": "118720 Accelgor - Scarlet & Violet White Flare 094/086 NM (English) — 094/086, Near-Mint / Illustration Rare",
         "productId": 15641521815896,
         "variantId": 56849668047192,
-        "stock": 0,
-        "demand": 1
-      },
-      {
-        "product": "119465 Erika’s Invitation - Scarlet & Violet 151 196/165 NM (English) — 196/165, Near-Mint / Ultra Rare",
-        "productId": 15641506578776,
-        "variantId": 56849644126552,
-        "stock": 0,
-        "demand": 1
-      },
-      {
-        "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
-        "productId": 15641563300184,
-        "variantId": 56849718870360,
-        "stock": 0,
-        "demand": 1
-      },
-      {
-        "product": "113485 Sylveon ex - Scarlet & Violet Prismatic Evolution 156/131 NM (English) — 156/131, Near-Mint / Special Illustration Rare",
-        "productId": 15641563660632,
-        "variantId": 56849719558488,
         "stock": 0,
         "demand": 1
       },
@@ -3423,13 +3157,6 @@
         "demand": 1
       },
       {
-        "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
-        "productId": 15641507266904,
-        "variantId": 56849645109592,
-        "stock": 0,
-        "demand": 1
-      },
-      {
         "product": "109974 Pikachu - Scarlet & Violet Black Star Promos 027/225 NM (English) — 027/225, Near-Mint / Promo",
         "productId": 15641569001816,
         "variantId": 56849736368472,
@@ -3458,23 +3185,9 @@
         "demand": 1
       },
       {
-        "product": "110223 Scarlet & Violet Sleeved Booster Pack (English) — Multicolor / 10 cards",
-        "productId": 15643186921816,
-        "variantId": 56857168576856,
-        "stock": 0,
-        "demand": 1
-      },
-      {
         "product": "Carrying on His Will One Piece Booster Box 24 Booster Packs (English)",
         "productId": 15533437452632,
         "variantId": 56448434864472,
-        "stock": 1,
-        "demand": 2
-      },
-      {
-        "product": "131928 Mega Evolution Ascended Heroes Pikachu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
-        "productId": 15641336447320,
-        "variantId": 56849295507800,
         "stock": 1,
         "demand": 2
       },
@@ -3486,9 +3199,9 @@
         "demand": 1
       },
       {
-        "product": "119429 Alakazam ex - Scarlet & Violet 151 201/165 NM (English) — 201/165, Near-Mint / Special Illustration Rare",
-        "productId": 15641507299672,
-        "variantId": 56849645142360,
+        "product": "131928 Mega Evolution Ascended Heroes Pikachu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641336447320,
+        "variantId": 56849295507800,
         "stock": 1,
         "demand": 1
       },
@@ -3496,20 +3209,6 @@
         "product": "110289 Sword & Shield Shining Legends Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641564381528,
         "variantId": 56849720901976,
-        "stock": 1,
-        "demand": 1
-      },
-      {
-        "product": "131456 Winner Pack 2024 Oct‑Dec One Piece Booster Pack (English) — 1 card / black / white",
-        "productId": 15650758066520,
-        "variantId": 56886286483800,
-        "stock": 1,
-        "demand": 1
-      },
-      {
-        "product": "134032 Legacy of the Master One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Green",
-        "productId": 15641283428696,
-        "variantId": 56849219944792,
         "stock": 1,
         "demand": 1
       },
@@ -3563,13 +3262,6 @@
         "demand": 4
       },
       {
-        "product": "131512 Emperors in the New World One Piece Booster Pack (English) — 12 cards / Multicolor",
-        "productId": 15641343656280,
-        "variantId": 56849303667032,
-        "stock": 3,
-        "demand": 25
-      },
-      {
         "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15643970961752,
         "variantId": 56858997653848,
@@ -3584,16 +3276,9 @@
         "demand": 1
       },
       {
-        "product": "125828 MEGA Dream ex Booster Box 10 Booster Packs (Japanese) — 10 Booster Packs / Multicolor",
-        "productId": 15641389039960,
-        "variantId": 56849460199768,
-        "stock": 3,
-        "demand": 2
-      },
-      {
-        "product": "120991 Mega Evolution Drifloon 1 Booster Pack Blister (English) — 1 booster pack / Multicolor",
-        "productId": 15641496944984,
-        "variantId": 56849627808088,
+        "product": "131512 Emperors in the New World One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641343656280,
+        "variantId": 56849303667032,
         "stock": 3,
         "demand": 1
       },
@@ -3622,20 +3307,6 @@
         "product": "131524 Two Legends One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641343230296,
         "variantId": 56849303175512,
-        "stock": 4,
-        "demand": 2
-      },
-      {
-        "product": "131532 Tournament Pack Vol.4 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641342902616,
-        "variantId": 56849302716760,
-        "stock": 4,
-        "demand": 1
-      },
-      {
-        "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
-        "productId": 15641321341272,
-        "variantId": 56849271554392,
         "stock": 4,
         "demand": 2
       },
@@ -3682,13 +3353,6 @@
         "demand": 1
       },
       {
-        "product": "110169 Scarlet & Violet Stellar Crown Sleeved Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641566576984,
-        "variantId": 56849732370776,
-        "stock": 5,
-        "demand": 1
-      },
-      {
         "product": "131908 Mega Evolution Ascended Heroes Charmander Tech Sticker Collection 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
         "productId": 15641337135448,
         "variantId": 56849296195928,
@@ -3706,13 +3370,6 @@
         "product": "131514 Royal Blood One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641343590744,
         "variantId": 56849303601496,
-        "stock": 6,
-        "demand": 1
-      },
-      {
-        "product": "110225 Scalet & Violet Trick or Trade 2023 Booster Pack (English) — 3 cards / Multicolor",
-        "productId": 15641565495640,
-        "variantId": 56849722343768,
         "stock": 6,
         "demand": 1
       },
@@ -3763,7 +3420,7 @@
         "productId": 15641343099224,
         "variantId": 56849302946136,
         "stock": 8,
-        "demand": 3
+        "demand": 2
       },
       {
         "product": "131414 Store Championship 2023 Participation Pack Vol.1 One Piece Booster Pack (English) — 1 card / Multicolor",
@@ -3776,20 +3433,6 @@
         "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
         "productId": 15641337299288,
         "variantId": 56849296359768,
-        "stock": 8,
-        "demand": 1
-      },
-      {
-        "product": "131522 Wings of the Captain Pre‑Release Pack One Piece Booster Pack (English) — 2 cards / Black / White",
-        "productId": 15641343295832,
-        "variantId": 56849303241048,
-        "stock": 8,
-        "demand": 1
-      },
-      {
-        "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
-        "productId": 15641566052696,
-        "variantId": 56849731354968,
         "stock": 8,
         "demand": 1
       },
@@ -3927,15 +3570,6 @@
         "incoming": 5,
         "demand": 12,
         "shortfall": 24
-      },
-      {
-        "product": "131512 Emperors in the New World One Piece Booster Pack (English) — 12 cards / Multicolor",
-        "productId": 15641343656280,
-        "variantId": 56849303667032,
-        "stock": 3,
-        "incoming": 0,
-        "demand": 25,
-        "shortfall": 22
       },
       {
         "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -4082,24 +3716,6 @@
         "shortfall": 5
       },
       {
-        "product": "99732 Charizard V - Sword & Shield Black Star Promos 050/307 NM (English) — 050/307, Near-Mint / Promo",
-        "productId": 15641569558872,
-        "variantId": 56849736991064,
-        "stock": -1,
-        "incoming": 1,
-        "demand": 4,
-        "shortfall": 5
-      },
-      {
-        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
-        "productId": 15641503891800,
-        "variantId": 56849639604568,
-        "stock": -2,
-        "incoming": 4,
-        "demand": 3,
-        "shortfall": 5
-      },
-      {
         "product": "120771 Sun & Moon Team Up Mimikyu 1 Booster Pack Blister (English) — 1 card, 1 Blister / Multicolor",
         "productId": 15641501401432,
         "variantId": 56849635541336,
@@ -4124,15 +3740,6 @@
         "stock": 0,
         "incoming": 0,
         "demand": 4,
-        "shortfall": 4
-      },
-      {
-        "product": "132266 Nami - The Azure Sea's Seven OP14‑031 V2 NM (English) — OP14‑031/V2, Near-Mint / Alternate Art",
-        "productId": 15641324192088,
-        "variantId": 56849278697816,
-        "stock": -1,
-        "incoming": 1,
-        "demand": 3,
         "shortfall": 4
       },
       {
@@ -4169,6 +3776,15 @@
         "stock": -2,
         "incoming": 0,
         "demand": 2,
+        "shortfall": 4
+      },
+      {
+        "product": "99732 Charizard V - Sword & Shield Black Star Promos 050/307 NM (English) — 050/307, Near-Mint / Promo",
+        "productId": 15641569558872,
+        "variantId": 56849736991064,
+        "stock": -1,
+        "incoming": 1,
+        "demand": 3,
         "shortfall": 4
       },
       {
@@ -4244,6 +3860,15 @@
         "shortfall": 4
       },
       {
+        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641503891800,
+        "variantId": 56849639604568,
+        "stock": -2,
+        "incoming": 4,
+        "demand": 2,
+        "shortfall": 4
+      },
+      {
         "product": "Mega Evolution Perfect Order Cinderace Premium Checklane Blister Booster Pack (English) Pre‑order",
         "productId": 15625266200920,
         "variantId": 56785039753560,
@@ -4258,6 +3883,15 @@
         "variantId": 56849637015896,
         "stock": -1,
         "incoming": 0,
+        "demand": 2,
+        "shortfall": 3
+      },
+      {
+        "product": "132266 Nami - The Azure Sea's Seven OP14‑031 V2 NM (English) — OP14‑031/V2, Near-Mint / Alternate Art",
+        "productId": 15641324192088,
+        "variantId": 56849278697816,
+        "stock": -1,
+        "incoming": 1,
         "demand": 2,
         "shortfall": 3
       },
@@ -5027,24 +4661,6 @@
         "shortfall": 1
       },
       {
-        "product": "131928 Mega Evolution Ascended Heroes Pikachu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
-        "productId": 15641336447320,
-        "variantId": 56849295507800,
-        "stock": 1,
-        "incoming": 1,
-        "demand": 2,
-        "shortfall": 1
-      },
-      {
-        "product": "113522 Pikachu ex - Scarlet & Violet Prismatic Evolution 179/131 NM (English) — 179/131, Near-Mint / Secret Rare",
-        "productId": 15641562939736,
-        "variantId": 56849718346072,
-        "stock": 0,
-        "incoming": 0,
-        "demand": 1,
-        "shortfall": 1
-      },
-      {
         "product": "Nefeltari Vivi - The Azure Sea's Seven EB04‑025 NM V2 (English)",
         "productId": 15630738129240,
         "variantId": 56806258737496,
@@ -5135,63 +4751,9 @@
         "shortfall": 1
       },
       {
-        "product": "130874 Nami - The Best Vol.1 P‑053 NM V3 (English) — P‑053/V3, Near-Mint / Promo",
-        "productId": 15641360793944,
-        "variantId": 56849418060120,
-        "stock": 0,
-        "incoming": 0,
-        "demand": 1,
-        "shortfall": 1
-      },
-      {
-        "product": "121021 Mega Venusaur ex - Mega Evolution 155/132 NM (English) — 155/132, Near-Mint / Ultra Rare",
-        "productId": 15641496453464,
-        "variantId": 56849626464600,
-        "stock": 0,
-        "incoming": 0,
-        "demand": 1,
-        "shortfall": 1
-      },
-      {
-        "product": "126601 The Glory of Team Rocket Attaché Case Set (JP)",
-        "productId": 15556789993816,
-        "variantId": 56513303118168,
-        "stock": 0,
-        "incoming": 1,
-        "demand": 1,
-        "shortfall": 1
-      },
-      {
         "product": "118720 Accelgor - Scarlet & Violet White Flare 094/086 NM (English) — 094/086, Near-Mint / Illustration Rare",
         "productId": 15641521815896,
         "variantId": 56849668047192,
-        "stock": 0,
-        "incoming": 0,
-        "demand": 1,
-        "shortfall": 1
-      },
-      {
-        "product": "119465 Erika’s Invitation - Scarlet & Violet 151 196/165 NM (English) — 196/165, Near-Mint / Ultra Rare",
-        "productId": 15641506578776,
-        "variantId": 56849644126552,
-        "stock": 0,
-        "incoming": 0,
-        "demand": 1,
-        "shortfall": 1
-      },
-      {
-        "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
-        "productId": 15641563300184,
-        "variantId": 56849718870360,
-        "stock": 0,
-        "incoming": 0,
-        "demand": 1,
-        "shortfall": 1
-      },
-      {
-        "product": "113485 Sylveon ex - Scarlet & Violet Prismatic Evolution 156/131 NM (English) — 156/131, Near-Mint / Special Illustration Rare",
-        "productId": 15641563660632,
-        "variantId": 56849719558488,
         "stock": 0,
         "incoming": 0,
         "demand": 1,
@@ -5252,15 +4814,6 @@
         "shortfall": 1
       },
       {
-        "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
-        "productId": 15641507266904,
-        "variantId": 56849645109592,
-        "stock": 0,
-        "incoming": 0,
-        "demand": 1,
-        "shortfall": 1
-      },
-      {
         "product": "109974 Pikachu - Scarlet & Violet Black Star Promos 027/225 NM (English) — 027/225, Near-Mint / Promo",
         "productId": 15641569001816,
         "variantId": 56849736368472,
@@ -5282,15 +4835,6 @@
         "product": "131460 Winner Pack 2025 Vol.1 One Piece Booster Pack (English) — 1 card / Black / White",
         "productId": 15650755051864,
         "variantId": 56886271541592,
-        "stock": 0,
-        "incoming": 0,
-        "demand": 1,
-        "shortfall": 1
-      },
-      {
-        "product": "110223 Scarlet & Violet Sleeved Booster Pack (English) — Multicolor / 10 cards",
-        "productId": 15643186921816,
-        "variantId": 56857168576856,
         "stock": 0,
         "incoming": 0,
         "demand": 1,
