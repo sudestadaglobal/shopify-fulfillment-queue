@@ -1,16 +1,58 @@
 {
-  "generatedAt": "2026-03-23T15:44:39.959Z",
+  "generatedAt": "2026-03-23T17:31:39.277Z",
   "summary": {
-    "totalUnfulfilled": 155,
-    "canFulfill": 1,
-    "blocked": 154
+    "totalUnfulfilled": 158,
+    "canFulfill": 8,
+    "blocked": 150
   },
   "fulfillableOrders": [
+    {
+      "id": 12037742428504,
+      "name": "#2353",
+      "createdAt": "2026-01-31T01:17:23+01:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12039415431512,
+      "name": "#2365",
+      "createdAt": "2026-02-01T02:18:32+01:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12054873407832,
+      "name": "#2467",
+      "createdAt": "2026-02-09T13:04:45+01:00",
+      "itemCount": 2
+    },
     {
       "id": 12097268220248,
       "name": "#2790",
       "createdAt": "2026-03-04T01:34:44+01:00",
       "itemCount": 2
+    },
+    {
+      "id": 12169152364888,
+      "name": "#2937",
+      "createdAt": "2026-03-15T21:59:00+01:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12191395971416,
+      "name": "#3009",
+      "createdAt": "2026-03-23T13:49:44+01:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12191677776216,
+      "name": "#3015",
+      "createdAt": "2026-03-23T17:09:33+01:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12191684854104,
+      "name": "#3016",
+      "createdAt": "2026-03-23T17:14:45+01:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -30,21 +72,6 @@
       ]
     },
     {
-      "id": 12037742428504,
-      "name": "#2353",
-      "customerName": "julien himpe",
-      "createdAt": "2026-01-31T01:17:23+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -12,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12037744820568,
       "name": "#2354",
       "customerName": "Hugo Pessin",
@@ -54,7 +81,7 @@
         {
           "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -12,
+          "stock": -2,
           "needed": 1
         }
       ]
@@ -70,21 +97,6 @@
           "product": "Scarlet & Violet Prismatic Evolutions Sylveon Mini Tin 2 Booster Pack (English)",
           "reason": "Insufficient stock",
           "stock": -1,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12039415431512,
-      "name": "#2365",
-      "customerName": "Joachim Hellstrom",
-      "createdAt": "2026-02-01T02:18:32+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -12,
           "needed": 1
         }
       ]
@@ -118,12 +130,6 @@
       "itemCount": 13,
       "reasons": [
         {
-          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -12,
-          "needed": 1
-        },
-        {
           "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": -10,
@@ -132,7 +138,7 @@
         {
           "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -12,
+          "stock": -2,
           "needed": 1
         },
         {
@@ -226,21 +232,6 @@
           "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": -7,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12054873407832,
-      "name": "#2467",
-      "customerName": "Adrià Cáceres",
-      "createdAt": "2026-02-09T13:04:45+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -12,
           "needed": 1
         }
       ]
@@ -375,7 +366,7 @@
         {
           "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -12,
+          "stock": -2,
           "needed": 1
         }
       ]
@@ -717,7 +708,7 @@
         {
           "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -12,
+          "stock": 0,
           "needed": 1
         }
       ]
@@ -762,13 +753,13 @@
         {
           "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -12,
+          "stock": -2,
           "needed": 1
         },
         {
           "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -12,
+          "stock": 0,
           "needed": 1
         }
       ]
@@ -783,7 +774,7 @@
         {
           "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -12,
+          "stock": -2,
           "needed": 1
         }
       ]
@@ -903,7 +894,7 @@
         {
           "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -12,
+          "stock": -2,
           "needed": 1
         }
       ]
@@ -939,7 +930,7 @@
         {
           "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -12,
+          "stock": 0,
           "needed": 1
         }
       ]
@@ -954,7 +945,7 @@
         {
           "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (English) — 175/165, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
-          "stock": -1,
+          "stock": -2,
           "needed": 1
         }
       ]
@@ -1011,7 +1002,7 @@
         {
           "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -12,
+          "stock": 0,
           "needed": 1
         }
       ]
@@ -1062,7 +1053,7 @@
         {
           "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -12,
+          "stock": -2,
           "needed": 1
         },
         {
@@ -1080,7 +1071,7 @@
         {
           "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -12,
+          "stock": 0,
           "needed": 2
         }
       ]
@@ -1281,7 +1272,7 @@
         {
           "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -12,
+          "stock": -2,
           "needed": 1
         }
       ]
@@ -1566,7 +1557,7 @@
         {
           "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -12,
+          "stock": 0,
           "needed": 1
         }
       ]
@@ -1629,7 +1620,7 @@
         {
           "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -12,
+          "stock": 0,
           "needed": 1
         },
         {
@@ -1791,7 +1782,7 @@
         {
           "product": "Nintendo Switch 2",
           "reason": "Insufficient stock",
-          "stock": -2,
+          "stock": 0,
           "needed": 1
         }
       ]
@@ -1806,7 +1797,7 @@
         {
           "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -12,
+          "stock": -2,
           "needed": 1
         }
       ]
@@ -1821,7 +1812,7 @@
         {
           "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -12,
+          "stock": -2,
           "needed": 1
         },
         {
@@ -1863,7 +1854,7 @@
         {
           "product": "Nintendo Switch 2",
           "reason": "Insufficient stock",
-          "stock": -2,
+          "stock": 0,
           "needed": 1
         }
       ]
@@ -2049,7 +2040,7 @@
         {
           "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -12,
+          "stock": -2,
           "needed": 1
         },
         {
@@ -2091,21 +2082,6 @@
       ]
     },
     {
-      "id": 12169152364888,
-      "name": "#2937",
-      "customerName": "Štěpán Šrůta",
-      "createdAt": "2026-03-15T21:59:00+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Apple AirPods Pro 3",
-          "reason": "Insufficient stock",
-          "stock": -2,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12169157476696,
       "name": "#2938",
       "customerName": "Eddie Heikkinen",
@@ -2115,7 +2091,7 @@
         {
           "product": "Apple Airpods 4",
           "reason": "Insufficient stock",
-          "stock": -1,
+          "stock": 0,
           "needed": 1
         }
       ]
@@ -2556,7 +2532,7 @@
         {
           "product": "131474 Winner Pack 2025 Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
           "reason": "Insufficient stock",
-          "stock": -1,
+          "stock": -2,
           "needed": 1
         },
         {
@@ -2754,7 +2730,7 @@
         {
           "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -12,
+          "stock": -2,
           "needed": 1
         }
       ]
@@ -2931,21 +2907,6 @@
       ]
     },
     {
-      "id": 12191395971416,
-      "name": "#3009",
-      "customerName": "Jiří Všetečka",
-      "createdAt": "2026-03-23T13:49:44+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Apple AirPods Pro 3",
-          "reason": "Insufficient stock",
-          "stock": -2,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12191436472664,
       "name": "#3010",
       "customerName": "hugo borsos",
@@ -3022,6 +2983,27 @@
           "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
           "stock": -25,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12191690228056,
+      "name": "#3017",
+      "customerName": "Alexander Ayala",
+      "createdAt": "2026-03-23T17:18:30+01:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "125832 Mega Gengar ex - MEGA Dream ex 230/193 NM (Japanese) — 230/193, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (English) — 175/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": -2,
           "needed": 1
         }
       ]
@@ -3184,6 +3166,13 @@
         "demand": 1
       },
       {
+        "product": "Nintendo Switch 2",
+        "productId": 15190942450008,
+        "variantId": 55272488501592,
+        "stock": 0,
+        "demand": 2
+      },
+      {
         "product": "132584 Canari - Mega Evolution Ascended Heroes 291/217 NM (English) — 291/217, Near-Mint / Special Illustration Rare",
         "productId": 15641320816984,
         "variantId": 56849269915992,
@@ -3236,6 +3225,13 @@
         "product": "63039 Mega Gengar ex - Mega Evolution Ascended Heroes 269/217 NM (English) — Size 269/217 / Ultra Rare",
         "productId": 15653351129432,
         "variantId": 56898072969560,
+        "stock": 0,
+        "demand": 1
+      },
+      {
+        "product": "Apple Airpods 4",
+        "productId": 15579554382168,
+        "variantId": 56602249658712,
         "stock": 0,
         "demand": 1
       },
@@ -3296,6 +3292,13 @@
         "demand": 1
       },
       {
+        "product": "Apple AirPods Pro 3",
+        "productId": 15338563338584,
+        "variantId": 55853592019288,
+        "stock": 2,
+        "demand": 2
+      },
+      {
         "product": "131468 Winner Pack 2025 Vol.4 One Piece Booster Pack (English) — 1 card / Black / White",
         "productId": 15641345098072,
         "variantId": 56849305141592,
@@ -3315,6 +3318,13 @@
         "variantId": 56849646649688,
         "stock": 2,
         "demand": 1
+      },
+      {
+        "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
+        "productId": 15641336840536,
+        "variantId": 56849295901016,
+        "stock": 3,
+        "demand": 12
       },
       {
         "product": "Phantasmal Flames Mega Evolution Sneasel 3 Booster Pack Blister (English)",
@@ -3464,6 +3474,13 @@
         "demand": 1
       },
       {
+        "product": "131906 Mega Evolution Ascended Heroes Gastly Tech Sticker Collection 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+        "productId": 15641337233752,
+        "variantId": 56849296294232,
+        "stock": 6,
+        "demand": 2
+      },
+      {
         "product": "131502 Judge Pack Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
         "productId": 15641344049496,
         "variantId": 56849304093016,
@@ -3475,13 +3492,6 @@
         "productId": 15641343590744,
         "variantId": 56849303601496,
         "stock": 6,
-        "demand": 1
-      },
-      {
-        "product": "131906 Mega Evolution Ascended Heroes Gastly Tech Sticker Collection 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
-        "productId": 15641337233752,
-        "variantId": 56849296294232,
-        "stock": 7,
         "demand": 1
       },
       {
@@ -3511,6 +3521,13 @@
         "variantId": 56849296359768,
         "stock": 7,
         "demand": 2
+      },
+      {
+        "product": "132344 Double Pack Set Vol. 9 (DP‑09) - The Azure Sea’s Seven (English) — 2 Booster Packs / 1 Don!! / Blue",
+        "productId": 15641321472344,
+        "variantId": 56849271685464,
+        "stock": 8,
+        "demand": 3
       },
       {
         "product": "119413 Mega Evolution Psyduck 3 Booster Pack Blister (English) — 3 booster pack / Multicolor",
@@ -3552,13 +3569,6 @@
         "productId": 15641522962776,
         "variantId": 56849669456216,
         "stock": 8,
-        "demand": 3
-      },
-      {
-        "product": "132344 Double Pack Set Vol. 9 (DP‑09) - The Azure Sea’s Seven (English) — 2 Booster Packs / 1 Don!! / Blue",
-        "productId": 15641321472344,
-        "variantId": 56849271685464,
-        "stock": 9,
         "demand": 3
       },
       {
@@ -3665,24 +3675,6 @@
         "shortfall": 25
       },
       {
-        "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
-        "productId": 15641336840536,
-        "variantId": 56849295901016,
-        "stock": -12,
-        "incoming": 0,
-        "demand": 12,
-        "shortfall": 24
-      },
-      {
-        "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
-        "productId": 15641336906072,
-        "variantId": 56849295966552,
-        "stock": -12,
-        "incoming": 5,
-        "demand": 12,
-        "shortfall": 24
-      },
-      {
         "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336611160,
         "variantId": 56849295671640,
@@ -3719,6 +3711,15 @@
         "shortfall": 15
       },
       {
+        "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
+        "productId": 15641336906072,
+        "variantId": 56849295966552,
+        "stock": -2,
+        "incoming": 5,
+        "demand": 12,
+        "shortfall": 14
+      },
+      {
         "product": "134044 Mega Evolution Perfect Order Chikorita Blister 3 Booster Packs (English) Pre‑order",
         "productId": 15642769260888,
         "variantId": 56856313463128,
@@ -3726,6 +3727,15 @@
         "incoming": 16,
         "demand": 6,
         "shortfall": 12
+      },
+      {
+        "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
+        "productId": 15641336840536,
+        "variantId": 56849295901016,
+        "stock": 3,
+        "incoming": 0,
+        "demand": 12,
+        "shortfall": 9
       },
       {
         "product": "69996 Sun & Moon Hidden Fates Elite Trainer Box (English)",
@@ -3854,6 +3864,15 @@
         "shortfall": 4
       },
       {
+        "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (English) — 175/165, Near-Mint / Illustration Rare",
+        "productId": 15641506021720,
+        "variantId": 56849643405656,
+        "stock": -2,
+        "incoming": 1,
+        "demand": 2,
+        "shortfall": 4
+      },
+      {
         "product": "136063 My First Battle Bulbasaur & Pikachu Deck Kit (English)",
         "productId": 15627312562520,
         "variantId": 56791669244248,
@@ -3922,24 +3941,6 @@
         "variantId": 56849283547480,
         "stock": -2,
         "incoming": 2,
-        "demand": 2,
-        "shortfall": 4
-      },
-      {
-        "product": "Nintendo Switch 2",
-        "productId": 15190942450008,
-        "variantId": 55272488501592,
-        "stock": -2,
-        "incoming": 2,
-        "demand": 2,
-        "shortfall": 4
-      },
-      {
-        "product": "Apple AirPods Pro 3",
-        "productId": 15338563338584,
-        "variantId": 55853592019288,
-        "stock": -2,
-        "incoming": 4,
         "demand": 2,
         "shortfall": 4
       },
@@ -4043,6 +4044,15 @@
         "shortfall": 3
       },
       {
+        "product": "131474 Winner Pack 2025 Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641344868696,
+        "variantId": 56849304912216,
+        "stock": -2,
+        "incoming": 4,
+        "demand": 1,
+        "shortfall": 3
+      },
+      {
         "product": "125900 Pikachu ex - MEGA Dream ex 234/193 NM (Japanese) — 234/193, Near-Mint / Special Illustration Rare",
         "productId": 15641387860312,
         "variantId": 56849459020120,
@@ -4127,15 +4137,6 @@
         "product": "128078 Charizard - XY Promos 280/XY‑P MT (Japanese) — 280/XY-P Near-Mint / Promo",
         "productId": 15642852000088,
         "variantId": 56856452333912,
-        "stock": -1,
-        "incoming": 0,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (English) — 175/165, Near-Mint / Illustration Rare",
-        "productId": 15641506021720,
-        "variantId": 56849643405656,
         "stock": -1,
         "incoming": 0,
         "demand": 1,
@@ -4268,6 +4269,15 @@
         "shortfall": 2
       },
       {
+        "product": "Nintendo Switch 2",
+        "productId": 15190942450008,
+        "variantId": 55272488501592,
+        "stock": 0,
+        "incoming": 0,
+        "demand": 2,
+        "shortfall": 2
+      },
+      {
         "product": "131056 Shirahoshi - The Best Vol.1 OP05‑082 NM V3 (English) — OP05‑082/V3, Near-Mint / Rare",
         "productId": 15641353683288,
         "variantId": 56849339187544,
@@ -4354,15 +4364,6 @@
         "variantId": 56849299931480,
         "stock": -1,
         "incoming": 4,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "Apple Airpods 4",
-        "productId": 15579554382168,
-        "variantId": 56602249658712,
-        "stock": -1,
-        "incoming": 1,
         "demand": 1,
         "shortfall": 2
       },
@@ -4538,15 +4539,6 @@
         "shortfall": 2
       },
       {
-        "product": "131474 Winner Pack 2025 Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641344868696,
-        "variantId": 56849304912216,
-        "stock": -1,
-        "incoming": 4,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
         "product": "48462 Magic: The Gathering - Modern Horizons 2 Set Booster Box",
         "productId": 15661187268952,
         "variantId": 56938023715160,
@@ -4678,6 +4670,15 @@
         "variantId": 56727394812248,
         "stock": -1,
         "incoming": 0,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
+        "product": "125832 Mega Gengar ex - MEGA Dream ex 230/193 NM (Japanese) — 230/193, Near-Mint / Ultra Rare",
+        "productId": 15641388941656,
+        "variantId": 56849460101464,
+        "stock": -1,
+        "incoming": 1,
         "demand": 1,
         "shortfall": 2
       },
@@ -4919,6 +4920,15 @@
         "product": "63039 Mega Gengar ex - Mega Evolution Ascended Heroes 269/217 NM (English) — Size 269/217 / Ultra Rare",
         "productId": 15653351129432,
         "variantId": 56898072969560,
+        "stock": 0,
+        "incoming": 0,
+        "demand": 1,
+        "shortfall": 1
+      },
+      {
+        "product": "Apple Airpods 4",
+        "productId": 15579554382168,
+        "variantId": 56602249658712,
         "stock": 0,
         "incoming": 0,
         "demand": 1,
