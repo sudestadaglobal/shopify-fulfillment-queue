@@ -338,16 +338,23 @@
     return `<a href="${url}" target="_blank" style="color:inherit;text-decoration:underline;text-underline-offset:3px">${esc(name)}</a>`;
   }
 
+  function availPill(val) {
+    if (val < 0)  return `<span class="pill pill-red">${val}</span>`;
+    if (val === 0) return `<span class="pill pill-gray">0</span>`;
+    return `<span class="pill pill-gray">+${val}</span>`;
+  }
+
   function renderDemandTable(items) {
-    if (!items.length) return '<div class="empty">✓ No demand issues</div>';
+    if (!items.length) return '<div class="empty">✓ No items need restocking</div>';
     return `<table>
-      <thead><tr><th>Product</th><th>In Stock</th><th>Incoming</th><th>Total Demand</th><th>Shortfall</th></tr></thead>
+      <thead><tr><th>Product</th><th>In Hand</th><th>Committed</th><th>Incoming</th><th>Available</th><th>Shortfall</th></tr></thead>
       <tbody>${items.map(i => `
         <tr>
           <td>${productLink(i.product, i.productId)}</td>
-          <td>${stockPill(i.stock)}</td>
-          <td>${i.incoming > 0 ? `<span class="pill pill-orange">+${i.incoming} incoming</span>` : '<span style="color:#b0b0b8">—</span>'}</td>
-          <td>${i.demand}</td>
+          <td>${stockPill(i.onHand)}</td>
+          <td>${i.committed}</td>
+          <td>${i.incoming > 0 ? `<span class="pill pill-orange">+${i.incoming}</span>` : '<span style="color:#b0b0b8">—</span>'}</td>
+          <td>${availPill(i.available)}</td>
           <td><span class="pill pill-red">−${i.shortfall}</span></td>
         </tr>`).join('')}
       </tbody></table>`;
@@ -356,12 +363,12 @@
   function renderLowStockTable(items) {
     if (!items.length) return '<div class="empty">✓ All items sufficiently stocked</div>';
     return `<table>
-      <thead><tr><th>Product</th><th>In Stock</th><th>Pending Demand</th></tr></thead>
+      <thead><tr><th>Product</th><th>In Hand</th><th>Committed</th></tr></thead>
       <tbody>${items.map(i => `
         <tr>
-          <td>${esc(i.product)}</td>
-          <td>${stockPill(i.stock)}</td>
-          <td>${i.demand}</td>
+          <td>${productLink(i.product, i.productId)}</td>
+          <td>${stockPill(i.onHand)}</td>
+          <td>${i.committed}</td>
         </tr>`).join('')}
       </tbody></table>`;
   }

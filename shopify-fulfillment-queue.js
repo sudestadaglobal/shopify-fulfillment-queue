@@ -148,12 +148,13 @@ async function shopifyGraphQL(query, variables = {}) {
   return body.data;
 }
 
-// Returns on_hand and incoming quantities per inventoryItemId (summed across all locations).
+// Returns on_hand, committed, and incoming quantities per inventoryItemId (summed across all locations).
 // Uses on_hand (physical units in warehouse) rather than available (on_hand - committed),
 // so the allocation engine works from real stock counts, not Shopify's pre-committed figures.
 async function getInventoryQuantities(inventoryItemIds) {
-  const onHand   = {}; // inventoryItemId → physical units in warehouse
-  const incoming = {}; // inventoryItemId → units on their way
+  const onHand    = {}; // inventoryItemId → physical units in warehouse
+  const committed = {}; // inventoryItemId → units reserved for open orders
+  const incoming  = {}; // inventoryItemId → units on their way
 
   for (const c of chunk(inventoryItemIds, 50)) {
     const ids = c.map((id) => `gid://shopify/InventoryItem/${id}`);
@@ -165,7 +166,7 @@ async function getInventoryQuantities(inventoryItemIds) {
             inventoryLevels(first: 20) {
               edges {
                 node {
-                  quantities(names: ["on_hand", "incoming"]) { name quantity }
+                  quantities(names: ["on_hand", "committed", "incoming"]) { name quantity }
                 }
               }
             }
@@ -178,20 +179,22 @@ async function getInventoryQuantities(inventoryItemIds) {
     for (const node of data?.nodes ?? []) {
       if (!node?.id) continue;
       const numericId = parseInt(node.id.split('/').pop(), 10);
-      let hand = 0, inc = 0;
+      let hand = 0, comm = 0, inc = 0;
       for (const edge of node.inventoryLevels?.edges ?? []) {
         for (const qty of edge.node.quantities ?? []) {
-          if (qty.name === 'on_hand')  hand += qty.quantity;
-          if (qty.name === 'incoming') inc  += qty.quantity;
+          if (qty.name === 'on_hand')   hand += qty.quantity;
+          if (qty.name === 'committed') comm += qty.quantity;
+          if (qty.name === 'incoming')  inc  += qty.quantity;
         }
       }
-      onHand[numericId]   = hand;
-      incoming[numericId] = inc;
+      onHand[numericId]     = hand;
+      committed[numericId]  = comm;
+      incoming[numericId]   = inc;
     }
     await sleep(300);
   }
 
-  return { onHand, incoming };
+  return { onHand, committed, incoming };
 }
 
 async function updateOrderTags(orderId, currentTags, shouldHaveRTFF) {
@@ -267,7 +270,7 @@ async function main() {
   const inventoryItemIds = uniqueIds(
     Object.values(variantMap).map((v) => v.inventoryItemId)
   );
-  const { onHand: inventoryLevels, incoming: incomingLevels } = await getInventoryQuantities(inventoryItemIds);
+  const { onHand, committed: committedLevels, incoming: incomingLevels } = await getInventoryQuantities(inventoryItemIds);
 
   // Helper: resolve a human-readable label from variantId
   function label(variantId) {
@@ -280,7 +283,7 @@ async function main() {
   // 4. Stock allocation (oldest-first, all-or-nothing per order)
   console.log('🧮 Allocating stock...');
 
-  const available = { ...inventoryLevels }; // mutable working copy
+  const available = { ...onHand }; // mutable working copy seeded from on_hand
   const orderCountPerItem = {};             // inventoryItemId → # orders allocated so far
 
   const fulfillableOrders = [];
@@ -393,29 +396,34 @@ async function main() {
   const lowStock = [];
 
   for (const [invId, { demand, variantId }] of Object.entries(totalDemand)) {
-    const stock = inventoryLevels[invId] ?? 0;
+    const hand     = onHand[invId]         ?? 0;
+    const comm     = committedLevels[invId] ?? 0;
+    const inc      = incomingLevels[invId]  ?? 0;
     const productLabel = label(variantId);
-
     const v = variantMap[variantId];
-    const incoming = incomingLevels[invId] ?? 0;
 
-    if (demand > stock) {
+    // Show only items where even incoming stock won't cover committed orders —
+    // i.e. items that actually need to be purchased/restocked.
+    if ((hand + inc) < comm) {
       demandExceedsStock.push({
-        product: productLabel,
+        product:   productLabel,
         productId: v?.productId,
         variantId: Number(variantId),
-        stock,        // on_hand
-        incoming,
-        demand,
-        shortfall: demand - stock, // how many units need to be restocked
+        onHand:    hand,
+        committed: comm,
+        incoming:  inc,
+        available: hand - comm,           // can be negative
+        shortfall: comm - (hand + inc),   // units still needed even after incoming arrives
       });
     }
-    if (stock < CONFIG.lowStockThreshold) {
+
+    if (hand < CONFIG.lowStockThreshold) {
       lowStock.push({
-        product: productLabel,
+        product:   productLabel,
         productId: v?.productId,
         variantId: Number(variantId),
-        stock,
+        onHand:    hand,
+        committed: comm,
         demand,
       });
     }
