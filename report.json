@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-23T21:56:10.888Z",
+  "generatedAt": "2026-03-23T23:09:13.755Z",
   "summary": {
-    "totalUnfulfilled": 164,
-    "canFulfill": 21,
-    "blocked": 143
+    "totalUnfulfilled": 169,
+    "canFulfill": 24,
+    "blocked": 145
   },
   "fulfillableOrders": [
     {
@@ -131,6 +131,24 @@
       "name": "#3022",
       "createdAt": "2026-03-23T20:19:34+01:00",
       "itemCount": 4
+    },
+    {
+      "id": 12192145113432,
+      "name": "#3024",
+      "createdAt": "2026-03-23T22:52:43+01:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12192155664728,
+      "name": "#3025",
+      "createdAt": "2026-03-23T23:02:26+01:00",
+      "itemCount": 5
+    },
+    {
+      "id": 12192181158232,
+      "name": "#3027",
+      "createdAt": "2026-03-23T23:29:24+01:00",
+      "itemCount": 6
     }
   ],
   "blockedOrders": [
@@ -2776,6 +2794,42 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12192177389912,
+      "name": "#3026",
+      "customerName": "Dwayne Saunders",
+      "createdAt": "2026-03-23T23:25:37+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "127670 Carrying on His Will One Piece Booster Pack (English) — 12 cards / Red",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12192200261976,
+      "name": "#3028",
+      "customerName": "Tamaryn Kulczycki",
+      "createdAt": "2026-03-23T23:54:02+01:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "114535 N's Reshiram - Scarlet & Violet Journey Together 167/159 NM (English) — 167/159, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "110200 Scarlet & Violet Shiny Treasure ex Booster Pack (Japanese) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3057,8 +3111,8 @@
         "productId": 15641283559768,
         "variantId": 56849220043096,
         "onHand": 2,
-        "committed": 24,
-        "demand": 24
+        "committed": 25,
+        "demand": 25
       },
       {
         "product": "POP figure Pokemon Charizard",
@@ -3233,8 +3287,8 @@
         "productId": 15641380487512,
         "variantId": 56849450402136,
         "onHand": 2,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "131402 DON!! Card Pack Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -3449,8 +3503,8 @@
         "productId": 15641343230296,
         "variantId": 56849303175512,
         "onHand": 6,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "134048 Mega Evolution Perfect Order Meganium Premium Checklane Blister Booster Pack (English) Pre‑order — 10 cards / Multicolor",
@@ -4161,8 +4215,8 @@
         "productId": 15641343590744,
         "variantId": 56849303601496,
         "onHand": 7,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110182 Scarlet & Violet Night Wanderer Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -4185,8 +4239,8 @@
         "productId": 15641565987160,
         "variantId": 56849731289432,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "124048 Mega Lopunny ex - Phantasmal Flames 128/094 NM (English) — 128/094, Near-Mint / Special Illustration Rare",
@@ -4299,19 +4353,41 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+        "productId": 15641268355416,
+        "variantId": 56849193173336,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131556 Legacy of the Master Release Event One Piece Booster Pack (English) — 2 cards / Black / White",
+        "productId": 15641341821272,
+        "variantId": 56849301602648,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131562 Royal Blood Release Event One Piece Booster Pack (English) — 2 cards / Black / White",
+        "productId": 15641341591896,
+        "variantId": 56849301373272,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "114535 N's Reshiram - Scarlet & Violet Journey Together 167/159 NM (English) — 167/159, Near-Mint / Illustration Rare",
+        "productId": 15641559138648,
+        "variantId": 56849713627480,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
-      {
-        "product": "134030 Legacy of the Master One Piece Booster Pack (English) — 12 Cards / Green",
-        "productId": 15641283559768,
-        "variantId": 56849220043096,
-        "onHand": 2,
-        "committed": 24,
-        "incoming": 0,
-        "available": -22,
-        "shortfall": 22
-      },
       {
         "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
         "productId": 15642692911448,
