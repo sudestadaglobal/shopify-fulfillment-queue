@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-23T18:21:00.859Z",
+  "generatedAt": "2026-03-23T20:07:18.245Z",
   "summary": {
-    "totalUnfulfilled": 160,
-    "canFulfill": 18,
-    "blocked": 142
+    "totalUnfulfilled": 164,
+    "canFulfill": 21,
+    "blocked": 143
   },
   "fulfillableOrders": [
     {
@@ -113,6 +113,24 @@
       "name": "#3016",
       "createdAt": "2026-03-23T17:14:45+01:00",
       "itemCount": 1
+    },
+    {
+      "id": 12191917900120,
+      "name": "#3020",
+      "createdAt": "2026-03-23T20:12:31+01:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12191922028888,
+      "name": "#3021",
+      "createdAt": "2026-03-23T20:15:18+01:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12191927959896,
+      "name": "#3022",
+      "createdAt": "2026-03-23T20:19:34+01:00",
+      "itemCount": 4
     }
   ],
   "blockedOrders": [
@@ -2743,6 +2761,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12191938543960,
+      "name": "#3023",
+      "customerName": "Simon Geurden",
+      "createdAt": "2026-03-23T20:26:13+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "125864 Mega Dragonite ex - MEGA Dream ex 232/193 NM (Japanese) — 232/193, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3864,8 +3897,8 @@
         "productId": 15641337299288,
         "variantId": 56849296359768,
         "onHand": 9,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "118756 Vanilluxe - Scarlet & Violet White Flare 113/086 NM (English) — 113/086, Near-Mint / Illustration Rare",
@@ -4239,6 +4272,30 @@
         "product": "127902 Boa Hancock - Carrying on His Will OP13‑051 V2 NM (English) — OP13‑051/V2, Near-Mint / Alternate Art",
         "productId": 15641376227672,
         "variantId": 56849443127640,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
+        "productId": 15641321341272,
+        "variantId": 56849271554392,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
+        "productId": 15641569788248,
+        "variantId": 56849737253208,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "125864 Mega Dragonite ex - MEGA Dream ex 232/193 NM (Japanese) — 232/193, Near-Mint / Ultra Rare",
+        "productId": 15641388548440,
+        "variantId": 56849459708248,
         "onHand": 0,
         "committed": 1,
         "demand": 1
