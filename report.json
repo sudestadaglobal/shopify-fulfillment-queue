@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-23T17:39:01.860Z",
+  "generatedAt": "2026-03-23T18:12:31.019Z",
   "summary": {
-    "totalUnfulfilled": 159,
+    "totalUnfulfilled": 160,
     "canFulfill": 18,
-    "blocked": 141
+    "blocked": 142
   },
   "fulfillableOrders": [
     {
@@ -2722,6 +2722,27 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12191791087960,
+      "name": "#3019",
+      "customerName": "Donald Syrianoudis",
+      "createdAt": "2026-03-23T18:37:12+01:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "132028 Carrot - The Azure Sea's Seven EB04‑013 NM V2 (English) — EB04‑013/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "127902 Boa Hancock - Carrying on His Will OP13‑051 V2 NM (English) — OP13‑051/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3465,6 +3486,20 @@
         "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
         "productId": 15667333103960,
         "variantId": 56960147652952,
+        "stock": 0,
+        "demand": 1
+      },
+      {
+        "product": "132028 Carrot - The Azure Sea's Seven EB04‑013 NM V2 (English) — EB04‑013/V2, Near-Mint / Alternate Art",
+        "productId": 15641332580696,
+        "variantId": 56849291051352,
+        "stock": 0,
+        "demand": 1
+      },
+      {
+        "product": "127902 Boa Hancock - Carrying on His Will OP13‑051 V2 NM (English) — OP13‑051/V2, Near-Mint / Alternate Art",
+        "productId": 15641376227672,
+        "variantId": 56849443127640,
         "stock": 0,
         "demand": 1
       },
@@ -5100,6 +5135,24 @@
         "variantId": 56960147652952,
         "stock": 0,
         "incoming": 4,
+        "demand": 1,
+        "shortfall": 1
+      },
+      {
+        "product": "132028 Carrot - The Azure Sea's Seven EB04‑013 NM V2 (English) — EB04‑013/V2, Near-Mint / Alternate Art",
+        "productId": 15641332580696,
+        "variantId": 56849291051352,
+        "stock": 0,
+        "incoming": 1,
+        "demand": 1,
+        "shortfall": 1
+      },
+      {
+        "product": "127902 Boa Hancock - Carrying on His Will OP13‑051 V2 NM (English) — OP13‑051/V2, Near-Mint / Alternate Art",
+        "productId": 15641376227672,
+        "variantId": 56849443127640,
+        "stock": 0,
+        "incoming": 1,
         "demand": 1,
         "shortfall": 1
       }
