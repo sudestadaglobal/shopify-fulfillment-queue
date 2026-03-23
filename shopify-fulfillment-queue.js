@@ -141,23 +141,6 @@ async function getVariantDetails(variantIds, productIds) {
   return { variantMap, productTitles };
 }
 
-async function getInventoryLevels(inventoryItemIds) {
-  const levels = {}; // inventoryItemId -> total available (across all locations)
-
-  for (const c of chunk(inventoryItemIds, 50)) {
-    const { data } = await shopifyFetch(
-      `/inventory_levels.json?inventory_item_ids=${c.join(',')}&limit=250`
-    );
-    for (const level of data.inventory_levels || []) {
-      const id = level.inventory_item_id;
-      levels[id] = (levels[id] || 0) + (level.available || 0);
-    }
-    await sleep(200);
-  }
-
-  return levels;
-}
-
 // Runs a GraphQL query against the Shopify Admin API.
 async function shopifyGraphQL(query, variables = {}) {
   const { data: body } = await shopifyFetch('/graphql.json', 'POST', { query, variables });
@@ -165,9 +148,12 @@ async function shopifyGraphQL(query, variables = {}) {
   return body.data;
 }
 
-// Returns incoming stock quantities per inventoryItemId (summed across all locations).
-async function getIncomingInventory(inventoryItemIds) {
-  const incoming = {};
+// Returns on_hand and incoming quantities per inventoryItemId (summed across all locations).
+// Uses on_hand (physical units in warehouse) rather than available (on_hand - committed),
+// so the allocation engine works from real stock counts, not Shopify's pre-committed figures.
+async function getInventoryQuantities(inventoryItemIds) {
+  const onHand   = {}; // inventoryItemId → physical units in warehouse
+  const incoming = {}; // inventoryItemId → units on their way
 
   for (const c of chunk(inventoryItemIds, 50)) {
     const ids = c.map((id) => `gid://shopify/InventoryItem/${id}`);
@@ -179,7 +165,7 @@ async function getIncomingInventory(inventoryItemIds) {
             inventoryLevels(first: 20) {
               edges {
                 node {
-                  quantities(names: ["incoming"]) { name quantity }
+                  quantities(names: ["on_hand", "incoming"]) { name quantity }
                 }
               }
             }
@@ -192,18 +178,20 @@ async function getIncomingInventory(inventoryItemIds) {
     for (const node of data?.nodes ?? []) {
       if (!node?.id) continue;
       const numericId = parseInt(node.id.split('/').pop(), 10);
-      let total = 0;
+      let hand = 0, inc = 0;
       for (const edge of node.inventoryLevels?.edges ?? []) {
         for (const qty of edge.node.quantities ?? []) {
-          if (qty.name === 'incoming') total += qty.quantity;
+          if (qty.name === 'on_hand')  hand += qty.quantity;
+          if (qty.name === 'incoming') inc  += qty.quantity;
         }
       }
-      incoming[numericId] = total;
+      onHand[numericId]   = hand;
+      incoming[numericId] = inc;
     }
     await sleep(300);
   }
 
-  return incoming;
+  return { onHand, incoming };
 }
 
 async function updateOrderTags(orderId, currentTags, shouldHaveRTFF) {
@@ -279,8 +267,7 @@ async function main() {
   const inventoryItemIds = uniqueIds(
     Object.values(variantMap).map((v) => v.inventoryItemId)
   );
-  const inventoryLevels = await getInventoryLevels(inventoryItemIds);
-  const incomingLevels = await getIncomingInventory(inventoryItemIds);
+  const { onHand: inventoryLevels, incoming: incomingLevels } = await getInventoryQuantities(inventoryItemIds);
 
   // Helper: resolve a human-readable label from variantId
   function label(variantId) {
@@ -417,13 +404,13 @@ async function main() {
         product: productLabel,
         productId: v?.productId,
         variantId: Number(variantId),
-        stock,
+        stock,        // on_hand
         incoming,
         demand,
-        shortfall: demand - stock,
+        shortfall: demand - stock, // how many units need to be restocked
       });
     }
-    if (stock >= 0 && stock < CONFIG.lowStockThreshold) {
+    if (stock < CONFIG.lowStockThreshold) {
       lowStock.push({
         product: productLabel,
         productId: v?.productId,
