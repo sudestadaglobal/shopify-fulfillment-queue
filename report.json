@@ -1,11 +1,18 @@
 {
-  "generatedAt": "2026-03-23T11:58:46.619Z",
+  "generatedAt": "2026-03-23T15:44:39.959Z",
   "summary": {
-    "totalUnfulfilled": 149,
-    "canFulfill": 0,
-    "blocked": 149
+    "totalUnfulfilled": 155,
+    "canFulfill": 1,
+    "blocked": 154
   },
-  "fulfillableOrders": [],
+  "fulfillableOrders": [
+    {
+      "id": 12097268220248,
+      "name": "#2790",
+      "createdAt": "2026-03-04T01:34:44+01:00",
+      "itemCount": 2
+    }
+  ],
   "blockedOrders": [
     {
       "id": 12037642912088,
@@ -203,7 +210,7 @@
         {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -18,
+          "stock": -20,
           "needed": 2
         }
       ]
@@ -305,7 +312,7 @@
         {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -18,
+          "stock": -20,
           "needed": 1
         }
       ]
@@ -320,7 +327,7 @@
         {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -18,
+          "stock": -20,
           "needed": 1
         }
       ]
@@ -398,7 +405,7 @@
         {
           "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
-          "stock": -24,
+          "stock": -25,
           "needed": 1
         }
       ]
@@ -413,7 +420,7 @@
         {
           "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
-          "stock": -24,
+          "stock": -25,
           "needed": 1
         }
       ]
@@ -443,7 +450,7 @@
         {
           "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
-          "stock": -24,
+          "stock": -25,
           "needed": 1
         }
       ]
@@ -476,7 +483,7 @@
         {
           "product": "132578 Mega Charizard Y ex - Mega Evolution Ascended Heroes 294/217 NM (English) — 294/217, Near-Mint / Secret Rare",
           "reason": "Insufficient stock",
-          "stock": -1,
+          "stock": 0,
           "needed": 1
         },
         {
@@ -545,7 +552,7 @@
         {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -18,
+          "stock": -20,
           "needed": 1
         }
       ]
@@ -560,7 +567,7 @@
         {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -18,
+          "stock": -20,
           "needed": 1
         }
       ]
@@ -575,7 +582,7 @@
         {
           "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
-          "stock": -24,
+          "stock": -25,
           "needed": 1
         }
       ]
@@ -668,7 +675,7 @@
         {
           "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
-          "stock": -24,
+          "stock": -25,
           "needed": 5
         },
         {
@@ -695,7 +702,7 @@
         {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -18,
+          "stock": -20,
           "needed": 1
         }
       ]
@@ -725,7 +732,7 @@
         {
           "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
-          "stock": -24,
+          "stock": -25,
           "needed": 1
         }
       ]
@@ -833,7 +840,7 @@
         {
           "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
-          "stock": -24,
+          "stock": -25,
           "needed": 1
         }
       ]
@@ -1034,7 +1041,7 @@
         {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -18,
+          "stock": -20,
           "needed": 1
         }
       ]
@@ -1088,7 +1095,7 @@
         {
           "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
-          "stock": -24,
+          "stock": -25,
           "needed": 1
         }
       ]
@@ -1151,7 +1158,7 @@
         {
           "product": "127670 Carrying on His Will One Piece Booster Pack (English) — 12 cards / Red",
           "reason": "Insufficient stock",
-          "stock": -1,
+          "stock": -2,
           "needed": 1
         }
       ]
@@ -1166,7 +1173,7 @@
         {
           "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
-          "stock": -24,
+          "stock": -25,
           "needed": 1
         }
       ]
@@ -1202,7 +1209,7 @@
         {
           "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
-          "stock": -24,
+          "stock": -25,
           "needed": 1
         },
         {
@@ -1223,7 +1230,7 @@
         {
           "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
-          "stock": -24,
+          "stock": -25,
           "needed": 1
         }
       ]
@@ -1259,7 +1266,7 @@
         {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -18,
+          "stock": -20,
           "needed": 8
         }
       ]
@@ -1301,21 +1308,6 @@
       ]
     },
     {
-      "id": 12097268220248,
-      "name": "#2790",
-      "customerName": "Bilal Gültan",
-      "createdAt": "2026-03-04T01:34:44+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "119417 Mega Evolution Meowscarada Premium Checklane Blister (English) — 1 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": -1,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12097274184024,
       "name": "#2794",
       "customerName": "Brandon Bento",
@@ -1340,7 +1332,7 @@
         {
           "product": "120049 Magic: The Gathering – Edge of Eternities Play Booster Box (EN) — Edge of Eternities 30 Booster",
           "reason": "Insufficient stock",
-          "stock": -1,
+          "stock": 0,
           "needed": 1
         }
       ]
@@ -1370,7 +1362,7 @@
         {
           "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
-          "stock": -24,
+          "stock": -25,
           "needed": 1
         }
       ]
@@ -1496,33 +1488,6 @@
       ]
     },
     {
-      "id": 12103134904664,
-      "name": "#2842",
-      "customerName": "Benjamin North",
-      "createdAt": "2026-03-07T19:38:53+01:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "116623 Team Rocket's Mewtwo ex Gold - Scarlet & Violet Destined Rivals 240/182 NM (English) — 240/182, Near-Mint / Secret Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "110326 Charizard VMAX - Sword & Shield Champion's Path 074/073 NM（English） — 074/073, Near-Mint / Rainbow Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12103154139480,
       "name": "#2844",
       "customerName": "Alexander Bonsee",
@@ -1571,7 +1536,7 @@
         {
           "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
-          "stock": -24,
+          "stock": -25,
           "needed": 1
         }
       ]
@@ -1622,7 +1587,7 @@
         {
           "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
-          "stock": -24,
+          "stock": -25,
           "needed": 1
         }
       ]
@@ -1748,7 +1713,7 @@
         {
           "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
-          "stock": -24,
+          "stock": -25,
           "needed": 5
         }
       ]
@@ -2135,7 +2100,7 @@
         {
           "product": "Apple AirPods Pro 3",
           "reason": "Insufficient stock",
-          "stock": -1,
+          "stock": -2,
           "needed": 1
         }
       ]
@@ -2309,7 +2274,7 @@
         {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -18,
+          "stock": -20,
           "needed": 1
         },
         {
@@ -2453,7 +2418,7 @@
         {
           "product": "123998 Phantasmal Flames Mega Evolution Booster Box (English) — 36 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -3,
+          "stock": -4,
           "needed": 10
         }
       ]
@@ -2645,7 +2610,7 @@
         {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": -18,
+          "stock": -20,
           "needed": 1
         }
       ]
@@ -2744,7 +2709,7 @@
         {
           "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
-          "stock": -24,
+          "stock": -25,
           "needed": 1
         }
       ]
@@ -2864,7 +2829,7 @@
         {
           "product": "127670 Carrying on His Will One Piece Booster Pack (English) — 12 cards / Red",
           "reason": "Insufficient stock",
-          "stock": -1,
+          "stock": -2,
           "needed": 2
         }
       ]
@@ -2949,6 +2914,117 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12191366840664,
+      "name": "#3008",
+      "customerName": "Eddie Heikkinen",
+      "createdAt": "2026-03-23T13:29:04+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Play by Play Hello Kitty 50th Anniversary Pink Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12191395971416,
+      "name": "#3009",
+      "customerName": "Jiří Všetečka",
+      "createdAt": "2026-03-23T13:49:44+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Apple AirPods Pro 3",
+          "reason": "Insufficient stock",
+          "stock": -2,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12191436472664,
+      "name": "#3010",
+      "customerName": "hugo borsos",
+      "createdAt": "2026-03-23T14:20:25+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Razer Cobra Pro Wireless Mouse",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12191564431704,
+      "name": "#3011",
+      "customerName": "Alexandre Martins",
+      "createdAt": "2026-03-23T15:58:51+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "127670 Carrying on His Will One Piece Booster Pack (English) — 12 cards / Red",
+          "reason": "Insufficient stock",
+          "stock": -2,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12191588450648,
+      "name": "#3012",
+      "customerName": "Rodney Le",
+      "createdAt": "2026-03-23T16:06:51+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "123998 Phantasmal Flames Mega Evolution Booster Box (English) — 36 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": -4,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12191615123800,
+      "name": "#3013",
+      "customerName": "Erik Moen",
+      "createdAt": "2026-03-23T16:23:29+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": -20,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12191621513560,
+      "name": "#3014",
+      "customerName": "Erik Moen",
+      "createdAt": "2026-03-23T16:28:36+01:00",
+      "itemCount": 9,
+      "reasons": [
+        {
+          "product": "110234 Chinese 2024 Lunar New Year Red Promo Pack (Chinese) — 9 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
+          "reason": "Insufficient stock",
+          "stock": -25,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2964,6 +3040,13 @@
         "product": "124016 Phantasmal Flames Mega Evolution Sneasel 3 Booster Pack Blister (English) — 3 Booster Packs / Multicolor",
         "productId": 15641488294232,
         "variantId": 56849615061336,
+        "stock": 0,
+        "demand": 1
+      },
+      {
+        "product": "132578 Mega Charizard Y ex - Mega Evolution Ascended Heroes 294/217 NM (English) — 294/217, Near-Mint / Secret Rare",
+        "productId": 15641321079128,
+        "variantId": 56849271193944,
         "stock": 0,
         "demand": 1
       },
@@ -3052,6 +3135,13 @@
         "demand": 1
       },
       {
+        "product": "120049 Magic: The Gathering – Edge of Eternities Play Booster Box (EN) — Edge of Eternities 30 Booster",
+        "productId": 15643923448152,
+        "variantId": 56858939883864,
+        "stock": 0,
+        "demand": 1
+      },
+      {
         "product": "Mega Gengar ex Mega Battle Deck (English)",
         "productId": 15639755784536,
         "variantId": 56841600860504,
@@ -3078,27 +3168,6 @@
         "variantId": 56849305928024,
         "stock": 0,
         "demand": 2
-      },
-      {
-        "product": "116623 Team Rocket's Mewtwo ex Gold - Scarlet & Violet Destined Rivals 240/182 NM (English) — 240/182, Near-Mint / Secret Rare",
-        "productId": 15641545998680,
-        "variantId": 56849699406168,
-        "stock": 0,
-        "demand": 1
-      },
-      {
-        "product": "110326 Charizard VMAX - Sword & Shield Champion's Path 074/073 NM（English） — 074/073, Near-Mint / Rainbow Rare",
-        "productId": 15641563857240,
-        "variantId": 56849719755096,
-        "stock": 0,
-        "demand": 1
-      },
-      {
-        "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
-        "productId": 15641318490456,
-        "variantId": 56849267589464,
-        "stock": 0,
-        "demand": 1
       },
       {
         "product": "124086 Mega Charizard X ex - Phantasmal Flames 109/094 NM (English) — 109/094, Near-Mint / Ultra Rare",
@@ -3185,6 +3254,13 @@
         "demand": 1
       },
       {
+        "product": "110234 Chinese 2024 Lunar New Year Red Promo Pack (Chinese) — 9 cards / Multicolor",
+        "productId": 15641565364568,
+        "variantId": 56849722212696,
+        "stock": 0,
+        "demand": 1
+      },
+      {
         "product": "Carrying on His Will One Piece Booster Box 24 Booster Packs (English)",
         "productId": 15533437452632,
         "variantId": 56448434864472,
@@ -3227,6 +3303,20 @@
         "demand": 1
       },
       {
+        "product": "124012 Phantasmal Flames Mega Evolution Booster Bundle 6 Booster Pack (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641488425304,
+        "variantId": 56849615290712,
+        "stock": 2,
+        "demand": 1
+      },
+      {
+        "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
+        "productId": 15641508512088,
+        "variantId": 56849646649688,
+        "stock": 2,
+        "demand": 1
+      },
+      {
         "product": "Phantasmal Flames Mega Evolution Sneasel 3 Booster Pack Blister (English)",
         "productId": 15472420389208,
         "variantId": 56281116180824,
@@ -3237,6 +3327,13 @@
         "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
         "productId": 15641380454744,
         "variantId": 56849450369368,
+        "stock": 3,
+        "demand": 2
+      },
+      {
+        "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
+        "productId": 15641523421528,
+        "variantId": 56849676173656,
         "stock": 3,
         "demand": 2
       },
@@ -3262,6 +3359,13 @@
         "demand": 4
       },
       {
+        "product": "119417 Mega Evolution Meowscarada Premium Checklane Blister (English) — 1 booster pack / Multicolor",
+        "productId": 15641507725656,
+        "variantId": 56849645568344,
+        "stock": 3,
+        "demand": 1
+      },
+      {
         "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15643970961752,
         "variantId": 56858997653848,
@@ -3280,13 +3384,6 @@
         "productId": 15641343656280,
         "variantId": 56849303667032,
         "stock": 3,
-        "demand": 1
-      },
-      {
-        "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
-        "productId": 15641523421528,
-        "variantId": 56849676173656,
-        "stock": 4,
         "demand": 1
       },
       {
@@ -3316,6 +3413,13 @@
         "variantId": 56849732141400,
         "stock": 4,
         "demand": 1
+      },
+      {
+        "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
+        "productId": 15641560842584,
+        "variantId": 56849715429720,
+        "stock": 4,
+        "demand": 2
       },
       {
         "product": "116762 Scarlet & Violet Destined Rivals Zebstrika 3 Booster Pack Blister (English) — 3 Booster pack, 1 card / Multicolor",
@@ -3402,6 +3506,13 @@
         "demand": 1
       },
       {
+        "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+        "productId": 15641337299288,
+        "variantId": 56849296359768,
+        "stock": 7,
+        "demand": 2
+      },
+      {
         "product": "119413 Mega Evolution Psyduck 3 Booster Pack Blister (English) — 3 booster pack / Multicolor",
         "productId": 15641507922264,
         "variantId": 56849645928792,
@@ -3430,18 +3541,18 @@
         "demand": 1
       },
       {
-        "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
-        "productId": 15641337299288,
-        "variantId": 56849296359768,
-        "stock": 8,
-        "demand": 1
-      },
-      {
         "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566216536,
         "variantId": 56849731518808,
         "stock": 8,
         "demand": 1
+      },
+      {
+        "product": "118664 Scarlet & Violet White Flare Booster Bundle 6 Booster Pack (English) — 6 booster pack / Multicolor",
+        "productId": 15641522962776,
+        "variantId": 56849669456216,
+        "stock": 8,
+        "demand": 3
       },
       {
         "product": "132344 Double Pack Set Vol. 9 (DP‑09) - The Azure Sea’s Seven (English) — 2 Booster Packs / 1 Don!! / Blue",
@@ -3512,10 +3623,10 @@
         "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
         "productId": 15642692911448,
         "variantId": 56856050270552,
-        "stock": -24,
+        "stock": -25,
         "incoming": 10,
-        "demand": 24,
-        "shortfall": 48
+        "demand": 25,
+        "shortfall": 50
       },
       {
         "product": "134030 Legacy of the Master One Piece Booster Pack (English) — 12 Cards / Green",
@@ -3530,10 +3641,10 @@
         "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
         "productId": 15641321406808,
         "variantId": 56849271619928,
-        "stock": -18,
-        "incoming": 0,
-        "demand": 18,
-        "shortfall": 36
+        "stock": -20,
+        "incoming": 10,
+        "demand": 20,
+        "shortfall": 40
       },
       {
         "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
@@ -3602,10 +3713,10 @@
         "product": "123998 Phantasmal Flames Mega Evolution Booster Box (English) — 36 Booster Packs / Multicolor",
         "productId": 15641488752984,
         "variantId": 56849615618392,
-        "stock": -3,
+        "stock": -4,
         "incoming": 6,
-        "demand": 10,
-        "shortfall": 13
+        "demand": 11,
+        "shortfall": 15
       },
       {
         "product": "134044 Mega Evolution Perfect Order Chikorita Blister 3 Booster Packs (English) Pre‑order",
@@ -3680,6 +3791,15 @@
         "shortfall": 6
       },
       {
+        "product": "127670 Carrying on His Will One Piece Booster Pack (English) — 12 cards / Red",
+        "productId": 15641380487512,
+        "variantId": 56849450402136,
+        "stock": -2,
+        "incoming": 10,
+        "demand": 4,
+        "shortfall": 6
+      },
+      {
         "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
         "productId": 15641336152408,
         "variantId": 56849295245656,
@@ -3740,15 +3860,6 @@
         "stock": 0,
         "incoming": 0,
         "demand": 4,
-        "shortfall": 4
-      },
-      {
-        "product": "127670 Carrying on His Will One Piece Booster Pack (English) — 12 cards / Red",
-        "productId": 15641380487512,
-        "variantId": 56849450402136,
-        "stock": -1,
-        "incoming": 10,
-        "demand": 3,
         "shortfall": 4
       },
       {
@@ -3820,6 +3931,15 @@
         "variantId": 55272488501592,
         "stock": -2,
         "incoming": 2,
+        "demand": 2,
+        "shortfall": 4
+      },
+      {
+        "product": "Apple AirPods Pro 3",
+        "productId": 15338563338584,
+        "variantId": 55853592019288,
+        "stock": -2,
+        "incoming": 4,
         "demand": 2,
         "shortfall": 4
       },
@@ -3959,15 +4079,6 @@
         "shortfall": 2
       },
       {
-        "product": "132578 Mega Charizard Y ex - Mega Evolution Ascended Heroes 294/217 NM (English) — 294/217, Near-Mint / Secret Rare",
-        "productId": 15641321079128,
-        "variantId": 56849271193944,
-        "stock": -1,
-        "incoming": 2,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
         "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
         "productId": 15641340051800,
         "variantId": 56849299571032,
@@ -4052,24 +4163,6 @@
         "product": "131482 Legacy of the Master One Piece Sleeved Booster Pack (English) — Multicolor / 12 cards",
         "productId": 15643194720600,
         "variantId": 56857182142808,
-        "stock": -1,
-        "incoming": 0,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "119417 Mega Evolution Meowscarada Premium Checklane Blister (English) — 1 booster pack / Multicolor",
-        "productId": 15641507725656,
-        "variantId": 56849645568344,
-        "stock": -1,
-        "incoming": 0,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "120049 Magic: The Gathering – Edge of Eternities Play Booster Box (EN) — Edge of Eternities 30 Booster",
-        "productId": 15643923448152,
-        "variantId": 56858939883864,
         "stock": -1,
         "incoming": 0,
         "demand": 1,
@@ -4259,15 +4352,6 @@
         "product": "131600 Two Legends One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Green",
         "productId": 15641340412248,
         "variantId": 56849299931480,
-        "stock": -1,
-        "incoming": 4,
-        "demand": 1,
-        "shortfall": 2
-      },
-      {
-        "product": "Apple AirPods Pro 3",
-        "productId": 15338563338584,
-        "variantId": 55853592019288,
         "stock": -1,
         "incoming": 4,
         "demand": 1,
@@ -4580,6 +4664,24 @@
         "shortfall": 2
       },
       {
+        "product": "Play by Play Hello Kitty 50th Anniversary Pink Plush Toy",
+        "productId": 15666812748120,
+        "variantId": 56956407447896,
+        "stock": -1,
+        "incoming": 0,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
+        "product": "Razer Cobra Pro Wireless Mouse",
+        "productId": 15612707471704,
+        "variantId": 56727394812248,
+        "stock": -1,
+        "incoming": 0,
+        "demand": 1,
+        "shortfall": 2
+      },
+      {
         "product": "Super Electric Breaker Booster Box (Japanese)",
         "productId": 15498123477336,
         "variantId": 56351007474008,
@@ -4604,6 +4706,15 @@
         "stock": 1,
         "incoming": 0,
         "demand": 2,
+        "shortfall": 1
+      },
+      {
+        "product": "132578 Mega Charizard Y ex - Mega Evolution Ascended Heroes 294/217 NM (English) — 294/217, Near-Mint / Secret Rare",
+        "productId": 15641321079128,
+        "variantId": 56849271193944,
+        "stock": 0,
+        "incoming": 1,
+        "demand": 1,
         "shortfall": 1
       },
       {
@@ -4688,6 +4799,15 @@
         "shortfall": 1
       },
       {
+        "product": "120049 Magic: The Gathering – Edge of Eternities Play Booster Box (EN) — Edge of Eternities 30 Booster",
+        "productId": 15643923448152,
+        "variantId": 56858939883864,
+        "stock": 0,
+        "incoming": 0,
+        "demand": 1,
+        "shortfall": 1
+      },
+      {
         "product": "Mega Gengar ex Mega Battle Deck (English)",
         "productId": 15639755784536,
         "variantId": 56841600860504,
@@ -4709,33 +4829,6 @@
         "product": "Dash Pack 2025 One Piece Booster Pack (English)",
         "productId": 15639913333080,
         "variantId": 56841983099224,
-        "stock": 0,
-        "incoming": 0,
-        "demand": 1,
-        "shortfall": 1
-      },
-      {
-        "product": "116623 Team Rocket's Mewtwo ex Gold - Scarlet & Violet Destined Rivals 240/182 NM (English) — 240/182, Near-Mint / Secret Rare",
-        "productId": 15641545998680,
-        "variantId": 56849699406168,
-        "stock": 0,
-        "incoming": 0,
-        "demand": 1,
-        "shortfall": 1
-      },
-      {
-        "product": "110326 Charizard VMAX - Sword & Shield Champion's Path 074/073 NM（English） — 074/073, Near-Mint / Rainbow Rare",
-        "productId": 15641563857240,
-        "variantId": 56849719755096,
-        "stock": 0,
-        "incoming": 0,
-        "demand": 1,
-        "shortfall": 1
-      },
-      {
-        "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
-        "productId": 15641318490456,
-        "variantId": 56849267589464,
         "stock": 0,
         "incoming": 0,
         "demand": 1,
@@ -4835,6 +4928,15 @@
         "product": "131460 Winner Pack 2025 Vol.1 One Piece Booster Pack (English) — 1 card / Black / White",
         "productId": 15650755051864,
         "variantId": 56886271541592,
+        "stock": 0,
+        "incoming": 0,
+        "demand": 1,
+        "shortfall": 1
+      },
+      {
+        "product": "110234 Chinese 2024 Lunar New Year Red Promo Pack (Chinese) — 9 cards / Multicolor",
+        "productId": 15641565364568,
+        "variantId": 56849722212696,
         "stock": 0,
         "incoming": 0,
         "demand": 1,
