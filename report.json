@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-03-24T13:10:23.957Z",
+  "generatedAt": "2026-03-24T14:50:49.288Z",
   "summary": {
-    "totalUnfulfilled": 154,
-    "canFulfill": 17,
+    "totalUnfulfilled": 147,
+    "canFulfill": 10,
     "blocked": 137
   },
   "fulfillableOrders": [
@@ -25,46 +25,10 @@
       "itemCount": 2
     },
     {
-      "id": 12089497878872,
-      "name": "#2722",
-      "createdAt": "2026-02-26T23:41:45+01:00",
-      "itemCount": 2
-    },
-    {
       "id": 12107621597528,
       "name": "#2873",
       "createdAt": "2026-03-10T20:08:39+01:00",
       "itemCount": 4
-    },
-    {
-      "id": 12107676877144,
-      "name": "#2877",
-      "createdAt": "2026-03-10T20:46:42+01:00",
-      "itemCount": 3
-    },
-    {
-      "id": 12108038078808,
-      "name": "#2899",
-      "createdAt": "2026-03-11T02:36:22+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12155582939480,
-      "name": "#2931",
-      "createdAt": "2026-03-13T16:55:47+01:00",
-      "itemCount": 3
-    },
-    {
-      "id": 12167340491096,
-      "name": "#2936",
-      "createdAt": "2026-03-14T17:18:17+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12169152364888,
-      "name": "#2937",
-      "createdAt": "2026-03-15T21:59:00+01:00",
-      "itemCount": 1
     },
     {
       "id": 12187410989400,
@@ -85,27 +49,21 @@
       "itemCount": 1
     },
     {
-      "id": 12191917900120,
-      "name": "#3020",
-      "createdAt": "2026-03-23T20:12:31+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12191927959896,
-      "name": "#3022",
-      "createdAt": "2026-03-23T20:19:34+01:00",
-      "itemCount": 4
-    },
-    {
-      "id": 12192145113432,
-      "name": "#3024",
-      "createdAt": "2026-03-23T22:52:43+01:00",
-      "itemCount": 1
-    },
-    {
       "id": 12192223920472,
       "name": "#3033",
       "createdAt": "2026-03-24T00:34:36+01:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12192987939160,
+      "name": "#3036",
+      "createdAt": "2026-03-24T15:22:39+01:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12192994459992,
+      "name": "#3037",
+      "createdAt": "2026-03-24T15:26:30+01:00",
       "itemCount": 1
     }
   ],
@@ -1398,21 +1356,6 @@
       ]
     },
     {
-      "id": 12111796240728,
-      "name": "#2901",
-      "customerName": "Nils Ritter",
-      "createdAt": "2026-03-11T12:02:49+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Nintendo Switch 2",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12134073041240,
       "name": "#2903",
       "customerName": "Branden Olsen",
@@ -1463,21 +1406,6 @@
         },
         {
           "product": "131056 Shirahoshi - The Best Vol.1 OP05‑082 NM V3 (English) — OP05‑082/V3, Near-Mint / Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12151073571160,
-      "name": "#2912",
-      "customerName": "Michael Spörk",
-      "createdAt": "2026-03-13T13:06:25+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Nintendo Switch 2",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1541,21 +1469,6 @@
         },
         {
           "product": "132596 Mega Scrafty ex - Mega Evolution Ascended Heroes 285/217 NM (English) — Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12154607108440,
-      "name": "#2923",
-      "customerName": "diego potthoff",
-      "createdAt": "2026-03-13T16:12:21+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "119129 Tynamo - Scarlet & Violet Black Bolt 113/086 NM (English) — 113/086, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2572,6 +2485,69 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12192928235864,
+      "name": "#3034",
+      "customerName": "Clinton Rosen",
+      "createdAt": "2026-03-24T14:45:17+01:00",
+      "itemCount": 9,
+      "reasons": [
+        {
+          "product": "118772 Sigilyph - Scarlet & Violet White Flare 121/086 NM (English) — 121/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "118836 Watchog - Scarlet & Violet White Flare 153/086 NM (English) — 153/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "110267 Sword & Shield Astral Radiance Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "110213 Scarlet & Violet Obsidian Flames Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12192978501976,
+      "name": "#3035",
+      "customerName": "Andrew Vang",
+      "createdAt": "2026-03-24T15:17:13+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "134614 Jirachi - Generations RC13/RC32 NM (English) — RC13/RC32, Near-Mint / Uncommon",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12192998949208,
+      "name": "#3038",
+      "customerName": "james paul",
+      "createdAt": "2026-03-24T15:30:04+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "121007 Mega Lucario ex - Mega Evolution 179/132 NM (English) — 179/132, Near-Mint / Special Ilustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2684,9 +2660,9 @@
         "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507365208,
         "variantId": 56849645207896,
-        "onHand": 3,
-        "committed": 3,
-        "demand": 3
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "Mega Evolution Psyduck 3 Booster Pack Blister (English)",
@@ -3244,9 +3220,9 @@
         "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
         "productId": 15641336152408,
         "variantId": 56849295245656,
-        "onHand": 2,
-        "committed": 3,
-        "demand": 3
+        "onHand": 1,
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131928 Mega Evolution Ascended Heroes Pikachu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
@@ -3279,30 +3255,6 @@
         "onHand": 0,
         "committed": 2,
         "demand": 2
-      },
-      {
-        "product": "118788 Gigalith - Scarlet & Violet White Flare 129/086 NM (English) — 129/086, Near-Mint / Illustration Rare",
-        "productId": 15641520505176,
-        "variantId": 56849666507096,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "118828 Ferrothorn - Scarlet & Violet White Flare 149/086 NM (English) — 149/086, Near-Mint / Illustration Rare",
-        "productId": 15641519620440,
-        "variantId": 56849665130840,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "118720 Accelgor - Scarlet & Violet White Flare 094/086 NM (English) — 094/086, Near-Mint / Illustration Rare",
-        "productId": 15641521815896,
-        "variantId": 56849668047192,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
       },
       {
         "product": "130768 Charlotte Pudding - The Best Vol.2 PRB02‑010 NM V2 (English) — PRB02‑010/V2, Near-Mint / Alternate Art",
@@ -3343,22 +3295,6 @@
         "onHand": 6,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "120799 Gengar & Mimikyu GX - Sun & Moon Team Up 164/181 NM (English) — 164/181, Near-Mint / Ultra Rare",
-        "productId": 15641500877144,
-        "variantId": 56849635017048,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "Nintendo Switch 2",
-        "productId": 15190942450008,
-        "variantId": 55272488501592,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 2
       },
       {
         "product": "131056 Shirahoshi - The Best Vol.1 OP05‑082 NM V3 (English) — OP05‑082/V3, Near-Mint / Rare",
@@ -3481,52 +3417,12 @@
         "demand": 1
       },
       {
-        "product": "119129 Tynamo - Scarlet & Violet Black Bolt 113/086 NM (English) — 113/086, Near-Mint / Illustration Rare",
-        "productId": 15641514082648,
-        "variantId": 56849655988568,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "109974 Pikachu - Scarlet & Violet Black Star Promos 027/225 NM (English) — 027/225, Near-Mint / Promo",
-        "productId": 15641569001816,
-        "variantId": 56849736368472,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "63039 Mega Gengar ex - Mega Evolution Ascended Heroes 269/217 NM (English) — Size 269/217 / Ultra Rare",
-        "productId": 15653351129432,
-        "variantId": 56898072969560,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
         "productId": 15641321570648,
         "variantId": 56849271783768,
         "onHand": 8,
         "committed": 12,
         "demand": 12
-      },
-      {
-        "product": "131600 Two Legends One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Green",
-        "productId": 15641340412248,
-        "variantId": 56849299931480,
-        "onHand": 4,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "Apple AirPods Pro 3",
-        "productId": 15338563338584,
-        "variantId": 55853592019288,
-        "onHand": 3,
-        "committed": 1,
-        "demand": 2
       },
       {
         "product": "JAZWARES Pokémon Gengar Plush Toy",
@@ -3945,6 +3841,14 @@
         "demand": 1
       },
       {
+        "product": "Apple AirPods Pro 3",
+        "productId": 15338563338584,
+        "variantId": 55853592019288,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
         "product": "Razer Cobra Pro Wireless Mouse",
         "productId": 15612707471704,
         "variantId": 56727394812248,
@@ -4017,42 +3921,10 @@
         "demand": 1
       },
       {
-        "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
-        "productId": 15641321341272,
-        "variantId": 56849271554392,
-        "onHand": 4,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "124018 Phantasmal Flames Mega Evolution Whimsicott 1 Booster Pack Blister (English) — 1 Booster Pack / Multicolor",
-        "productId": 15641488261464,
-        "variantId": 56849615028568,
-        "onHand": 8,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
-        "productId": 15641569788248,
-        "variantId": 56849737253208,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "125864 Mega Dragonite ex - MEGA Dream ex 232/193 NM (Japanese) — 232/193, Near-Mint / Ultra Rare",
         "productId": 15641388548440,
         "variantId": 56849459708248,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
-        "productId": 15641268355416,
-        "variantId": 56849193173336,
-        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -4092,6 +3964,62 @@
         "product": "116768 Scarlet & Violet Destined Rivals Zarude 1 Booster Pack Blister (English) — 1 Booster pack, 3 cards / Multicolor",
         "productId": 15641523257688,
         "variantId": 56849676009816,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "118772 Sigilyph - Scarlet & Violet White Flare 121/086 NM (English) — 121/086, Near-Mint / Illustration Rare",
+        "productId": 15641520832856,
+        "variantId": 56849666834776,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "118836 Watchog - Scarlet & Violet White Flare 153/086 NM (English) — 153/086, Near-Mint / Illustration Rare",
+        "productId": 15641519489368,
+        "variantId": 56849664999768,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110169 Scarlet & Violet Stellar Crown Sleeved Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566576984,
+        "variantId": 56849732370776,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110267 Sword & Shield Astral Radiance Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641564938584,
+        "variantId": 56849721688408,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110213 Scarlet & Violet Obsidian Flames Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565692248,
+        "variantId": 56849722802520,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134614 Jirachi - Generations RC13/RC32 NM (English) — RC13/RC32, Near-Mint / Uncommon",
+        "productId": 15641282380120,
+        "variantId": 56849218666840,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "121007 Mega Lucario ex - Mega Evolution 179/132 NM (English) — 179/132, Near-Mint / Special Ilustration Rare",
+        "productId": 15641496715608,
+        "variantId": 56849626792280,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -4472,6 +4400,16 @@
         "product": "Razer Cobra Pro Wireless Mouse",
         "productId": 15612707471704,
         "variantId": 56727394812248,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "110213 Scarlet & Violet Obsidian Flames Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565692248,
+        "variantId": 56849722802520,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
