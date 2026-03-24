@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T18:14:54.864Z",
+  "generatedAt": "2026-03-24T20:08:45.012Z",
   "summary": {
     "totalUnfulfilled": 152,
     "canFulfill": 13,
@@ -1822,13 +1822,13 @@
       "name": "#2960",
       "customerName": "Jakub Grabarz",
       "createdAt": "2026-03-16T21:04:26+01:00",
-      "itemCount": 1,
+      "itemCount": 2,
       "reasons": [
         {
           "product": "123998 Phantasmal Flames Mega Evolution Booster Box (English) — 36 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 6,
-          "needed": 10
+          "needed": 20
         }
       ]
     },
@@ -3642,7 +3642,7 @@
         "variantId": 56849615618392,
         "onHand": 6,
         "committed": 15,
-        "demand": 10
+        "demand": 20
       },
       {
         "product": "Sony PS5 Slim Digital Edition (EU Plug)",
