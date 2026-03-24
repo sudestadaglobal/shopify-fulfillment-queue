@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-24T14:50:49.288Z",
+  "generatedAt": "2026-03-24T18:14:54.864Z",
   "summary": {
-    "totalUnfulfilled": 147,
-    "canFulfill": 10,
-    "blocked": 137
+    "totalUnfulfilled": 152,
+    "canFulfill": 13,
+    "blocked": 139
   },
   "fulfillableOrders": [
     {
@@ -64,6 +64,24 @@
       "id": 12192994459992,
       "name": "#3037",
       "createdAt": "2026-03-24T15:26:30+01:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12193102397784,
+      "name": "#3039",
+      "createdAt": "2026-03-24T16:40:03+01:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12193138606424,
+      "name": "#3041",
+      "createdAt": "2026-03-24T17:04:46+01:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12193144078680,
+      "name": "#3042",
+      "createdAt": "2026-03-24T17:08:34+01:00",
       "itemCount": 1
     }
   ],
@@ -2548,6 +2566,48 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12193111736664,
+      "name": "#3040",
+      "customerName": "BENJAMIN HAMMERTOFT",
+      "createdAt": "2026-03-24T16:46:34+01:00",
+      "itemCount": 9,
+      "reasons": [
+        {
+          "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 5,
+          "needed": 1
+        },
+        {
+          "product": "110072 Scarlet & Violet Shiny Treasure ex Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12193262469464,
+      "name": "#3043",
+      "customerName": "emil roos sloth",
+      "createdAt": "2026-03-24T18:31:26+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 2,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2565,8 +2625,8 @@
         "productId": 15641336906072,
         "variantId": 56849295966552,
         "onHand": 8,
-        "committed": 10,
-        "demand": 10
+        "committed": 11,
+        "demand": 11
       },
       {
         "product": "Scarlet & Violet Prismatic Evolutions Sylveon Mini Tin 2 Booster Pack (English)",
@@ -2597,8 +2657,8 @@
         "productId": 15641336840536,
         "variantId": 56849295901016,
         "onHand": 7,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -2861,8 +2921,8 @@
         "productId": 15641523421528,
         "variantId": 56849676173656,
         "onHand": 5,
-        "committed": 2,
-        "demand": 2
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (English) — 175/165, Near-Mint / Illustration Rare",
@@ -3533,8 +3593,8 @@
         "productId": 15641337299288,
         "variantId": 56849296359768,
         "onHand": 7,
-        "committed": 2,
-        "demand": 2
+        "committed": 9,
+        "demand": 9
       },
       {
         "product": "118756 Vanilluxe - Scarlet & Violet White Flare 113/086 NM (English) — 113/086, Near-Mint / Illustration Rare",
@@ -3581,7 +3641,7 @@
         "productId": 15641488752984,
         "variantId": 56849615618392,
         "onHand": 6,
-        "committed": 10,
+        "committed": 15,
         "demand": 10
       },
       {
@@ -3757,8 +3817,8 @@
         "productId": 15641503891800,
         "variantId": 56849639604568,
         "onHand": 0,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
@@ -3877,8 +3937,8 @@
         "productId": 15641560842584,
         "variantId": 56849715429720,
         "onHand": 6,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
@@ -4023,6 +4083,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "119037 Scarlet & Violet White Flare Binder Collection (English) — 4 pocket Album / Multicolor",
+        "productId": 15641515950424,
+        "variantId": 56849658839384,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110072 Scarlet & Violet Shiny Treasure ex Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
+        "productId": 15641567265112,
+        "variantId": 56849733288280,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -4104,6 +4180,16 @@
         "committed": 3,
         "incoming": 0,
         "available": -3,
+        "shortfall": 3
+      },
+      {
+        "product": "123998 Phantasmal Flames Mega Evolution Booster Box (English) — 36 Booster Packs / Multicolor",
+        "productId": 15641488752984,
+        "variantId": 56849615618392,
+        "onHand": 6,
+        "committed": 15,
+        "incoming": 6,
+        "available": -9,
         "shortfall": 3
       },
       {
