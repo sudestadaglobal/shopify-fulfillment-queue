@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T00:04:55.819Z",
+  "generatedAt": "2026-03-24T05:41:36.808Z",
   "summary": {
     "totalUnfulfilled": 174,
     "canFulfill": 25,
@@ -4720,16 +4720,6 @@
         "variantId": 56849637015896,
         "onHand": 1,
         "committed": 2,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "110237 Play! Pokémon Prize Pack Series One Booster (English) — 6 cards / Multicolor",
-        "productId": 15641565266264,
-        "variantId": 56849722114392,
-        "onHand": 0,
-        "committed": 1,
         "incoming": 0,
         "available": -1,
         "shortfall": 1
