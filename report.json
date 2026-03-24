@@ -1,33 +1,15 @@
 {
-  "generatedAt": "2026-03-24T08:09:59.937Z",
+  "generatedAt": "2026-03-24T11:15:49.866Z",
   "summary": {
-    "totalUnfulfilled": 174,
-    "canFulfill": 25,
-    "blocked": 149
+    "totalUnfulfilled": 159,
+    "canFulfill": 20,
+    "blocked": 139
   },
   "fulfillableOrders": [
-    {
-      "id": 12037742428504,
-      "name": "#2353",
-      "createdAt": "2026-01-31T01:17:23+01:00",
-      "itemCount": 2
-    },
     {
       "id": 12037744820568,
       "name": "#2354",
       "createdAt": "2026-01-31T01:22:12+01:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12039415431512,
-      "name": "#2365",
-      "createdAt": "2026-02-01T02:18:32+01:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12054873407832,
-      "name": "#2467",
-      "createdAt": "2026-02-09T13:04:45+01:00",
       "itemCount": 2
     },
     {
@@ -43,16 +25,16 @@
       "itemCount": 2
     },
     {
-      "id": 12097268220248,
-      "name": "#2790",
-      "createdAt": "2026-03-04T01:34:44+01:00",
+      "id": 12089497878872,
+      "name": "#2722",
+      "createdAt": "2026-02-26T23:41:45+01:00",
       "itemCount": 2
     },
     {
-      "id": 12098116288856,
-      "name": "#2807",
-      "createdAt": "2026-03-04T16:43:54+01:00",
-      "itemCount": 2
+      "id": 12107621597528,
+      "name": "#2873",
+      "createdAt": "2026-03-10T20:08:39+01:00",
+      "itemCount": 4
     },
     {
       "id": 12111796240728,
@@ -65,6 +47,12 @@
       "name": "#2912",
       "createdAt": "2026-03-13T13:06:25+01:00",
       "itemCount": 1
+    },
+    {
+      "id": 12155582939480,
+      "name": "#2931",
+      "createdAt": "2026-03-13T16:55:47+01:00",
+      "itemCount": 3
     },
     {
       "id": 12169152364888,
@@ -94,24 +82,6 @@
       "id": 12191395971416,
       "name": "#3009",
       "createdAt": "2026-03-23T13:49:44+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12191588450648,
-      "name": "#3012",
-      "createdAt": "2026-03-23T16:06:51+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12191677776216,
-      "name": "#3015",
-      "createdAt": "2026-03-23T17:09:33+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12191684854104,
-      "name": "#3016",
-      "createdAt": "2026-03-23T17:14:45+01:00",
       "itemCount": 1
     },
     {
@@ -495,45 +465,6 @@
       ]
     },
     {
-      "id": 12060026044760,
-      "name": "#2534",
-      "customerName": "Ricardo Varius",
-      "createdAt": "2026-02-12T15:12:02+01:00",
-      "itemCount": 10,
-      "reasons": [
-        {
-          "product": "69996 Sun & Moon Hidden Fates Elite Trainer Box (English)",
-          "reason": "Insufficient stock",
-          "stock": -4,
-          "needed": 2
-        },
-        {
-          "product": "Carrying on His Will One Piece Booster Box 24 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 1,
-          "needed": 2
-        },
-        {
-          "product": "69996 Sun & Moon Hidden Fates Elite Trainer Box (English)",
-          "reason": "Insufficient stock",
-          "stock": -4,
-          "needed": 2
-        },
-        {
-          "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "110052 Sun & Moon Burning Shadows Booster Box 36 pack (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12060228059480,
       "name": "#2536",
       "customerName": "FRANCOIS Alexis",
@@ -735,21 +666,6 @@
       ]
     },
     {
-      "id": 12076618088792,
-      "name": "#2609",
-      "customerName": "FRANCOIS Alexis",
-      "createdAt": "2026-02-18T17:42:28+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 12,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12076620579160,
       "name": "#2610",
       "customerName": "Bilal Gültan",
@@ -776,21 +692,6 @@
           "reason": "Insufficient stock",
           "stock": 2,
           "needed": 24
-        }
-      ]
-    },
-    {
-      "id": 12076847432024,
-      "name": "#2627",
-      "customerName": "Mike van Vianen",
-      "createdAt": "2026-02-18T20:46:10+01:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 12,
-          "needed": 1
         }
       ]
     },
@@ -888,21 +789,6 @@
       ]
     },
     {
-      "id": 12084725449048,
-      "name": "#2672",
-      "customerName": "FRANCOIS Alexis",
-      "createdAt": "2026-02-23T21:04:02+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 7,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12084821426520,
       "name": "#2678",
       "customerName": "Eric Mansouri",
@@ -913,21 +799,6 @@
           "product": "134040 Mega Evolution Perfect Order Booster Box 36 Booster Packs (English) Pre‑order",
           "reason": "Insufficient stock",
           "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12086133752152,
-      "name": "#2685",
-      "customerName": "Steven Ascher",
-      "createdAt": "2026-02-24T19:56:31+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 12,
           "needed": 1
         }
       ]
@@ -978,21 +849,6 @@
       ]
     },
     {
-      "id": 12087791026520,
-      "name": "#2701",
-      "customerName": "FRANCOIS Alexis",
-      "createdAt": "2026-02-25T20:53:46+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 12,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12088799035736,
       "name": "#2706",
       "customerName": "Abram Delgado",
@@ -1038,7 +894,7 @@
         {
           "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 7,
+          "stock": 5,
           "needed": 1
         },
         {
@@ -1052,12 +908,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 12,
-          "needed": 2
         }
       ]
     },
@@ -1073,21 +923,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12089497878872,
-      "name": "#2722",
-      "customerName": "Frédéric Pépin-Toulouse",
-      "createdAt": "2026-02-26T23:41:45+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 1,
-          "needed": 2
         }
       ]
     },
@@ -1239,7 +1074,7 @@
         {
           "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 7,
+          "stock": 5,
           "needed": 1
         }
       ]
@@ -1470,21 +1305,6 @@
       ]
     },
     {
-      "id": 12106100310360,
-      "name": "#2868",
-      "customerName": "Cole Conover",
-      "createdAt": "2026-03-09T19:39:52+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 12,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12106287645016,
       "name": "#2870",
       "customerName": "Nathan Jubinville-Savard",
@@ -1506,45 +1326,12 @@
       ]
     },
     {
-      "id": 12107621597528,
-      "name": "#2873",
-      "customerName": "Tobias Eckl",
-      "createdAt": "2026-03-10T20:08:39+01:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131926 Mega Evolution Ascended Heroes Clefairy Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131930 Mega Evolution Ascended Heroes Riolu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12107625005400,
       "name": "#2874",
       "customerName": "Tobias Eckl",
       "createdAt": "2026-03-10T20:11:25+01:00",
       "itemCount": 2,
       "reasons": [
-        {
-          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 12,
-          "needed": 1
-        },
         {
           "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
           "reason": "Insufficient stock",
@@ -1686,7 +1473,7 @@
         {
           "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 7,
+          "stock": 5,
           "needed": 1
         }
       ]
@@ -1701,7 +1488,7 @@
         {
           "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 7,
+          "stock": 5,
           "needed": 1
         },
         {
@@ -1830,21 +1617,6 @@
       ]
     },
     {
-      "id": 12155582939480,
-      "name": "#2931",
-      "customerName": "Salvador Flores",
-      "createdAt": "2026-03-13T16:55:47+01:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12155749204312,
       "name": "#2932",
       "customerName": "Salvador Flores",
@@ -1866,7 +1638,7 @@
         {
           "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 7,
+          "stock": 5,
           "needed": 1
         },
         {
@@ -2193,7 +1965,7 @@
         {
           "product": "123998 Phantasmal Flames Mega Evolution Booster Box (English) — 36 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 7,
+          "stock": 6,
           "needed": 10
         }
       ]
@@ -2351,12 +2123,6 @@
       "reasons": [
         {
           "product": "48462 Magic: The Gathering - Modern Horizons 2 Set Booster Box",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "120084 Magic: The Gathering – Edge of Eternities Sami, Wildcat Captain & Tezzeret, Cruel Captain 12-Pocket PRO Album",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2523,7 +2289,7 @@
         {
           "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 7,
+          "stock": 5,
           "needed": 1
         }
       ]
@@ -2927,6 +2693,14 @@
         "demand": 11
       },
       {
+        "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
+        "productId": 15641336906072,
+        "variantId": 56849295966552,
+        "onHand": 8,
+        "committed": 10,
+        "demand": 10
+      },
+      {
         "product": "Scarlet & Violet Prismatic Evolutions Sylveon Mini Tin 2 Booster Pack (English)",
         "productId": 15329744585048,
         "variantId": 55818173219160,
@@ -2949,6 +2723,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
+        "productId": 15641336840536,
+        "variantId": 56849295901016,
+        "onHand": 7,
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -3010,7 +2792,7 @@
         "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507365208,
         "variantId": 56849645207896,
-        "onHand": 1,
+        "onHand": 3,
         "committed": 3,
         "demand": 3
       },
@@ -3066,9 +2848,9 @@
         "product": "131906 Mega Evolution Ascended Heroes Gastly Tech Sticker Collection 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
         "productId": 15641337233752,
         "variantId": 56849296294232,
-        "onHand": 8,
-        "committed": 2,
-        "demand": 2
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
@@ -3077,54 +2859,6 @@
         "onHand": 0,
         "committed": 25,
         "demand": 25
-      },
-      {
-        "product": "69996 Sun & Moon Hidden Fates Elite Trainer Box (English)",
-        "productId": 15549268623704,
-        "variantId": 56494572699992,
-        "onHand": -4,
-        "committed": 0,
-        "demand": 4
-      },
-      {
-        "product": "Carrying on His Will One Piece Booster Box 24 Booster Packs (English)",
-        "productId": 15533437452632,
-        "variantId": 56448434864472,
-        "onHand": 1,
-        "committed": 0,
-        "demand": 2
-      },
-      {
-        "product": "132578 Mega Charizard Y ex - Mega Evolution Ascended Heroes 294/217 NM (English) — 294/217, Near-Mint / Secret Rare",
-        "productId": 15641321079128,
-        "variantId": 56849271193944,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
-        "productId": 15641503859032,
-        "variantId": 56849639571800,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
-        "productId": 15641380454744,
-        "variantId": 56849450369368,
-        "onHand": 3,
-        "committed": 0,
-        "demand": 2
-      },
-      {
-        "product": "110052 Sun & Moon Burning Shadows Booster Box 36 pack (English)",
-        "productId": 15642712768856,
-        "variantId": 56856098472280,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
       },
       {
         "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
@@ -3399,28 +3133,12 @@
         "demand": 2
       },
       {
-        "product": "119417 Mega Evolution Meowscarada Premium Checklane Blister (English) — 1 booster pack / Multicolor",
-        "productId": 15641507725656,
-        "variantId": 56849645568344,
-        "onHand": 4,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "51281 Magic: The Gathering – Edge of Eternities Play Booster (EN) — 1 Booster",
         "productId": 15643918205272,
         "variantId": 56858861502808,
         "onHand": 0,
         "committed": 2,
         "demand": 2
-      },
-      {
-        "product": "120049 Magic: The Gathering – Edge of Eternities Play Booster Box (EN) — Edge of Eternities 30 Booster",
-        "productId": 15643923448152,
-        "variantId": 56858939883864,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
       },
       {
         "product": "113494 Roaring Moon ex - Scarlet & Violet Prismatic Evolution 162/131 NM (English) — 162/131, Near-Mint / Special Illustration Rare",
@@ -3634,7 +3352,7 @@
         "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
         "productId": 15641336152408,
         "variantId": 56849295245656,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 3,
         "demand": 3
       },
@@ -3642,7 +3360,7 @@
         "product": "131928 Mega Evolution Ascended Heroes Pikachu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
         "productId": 15641336447320,
         "variantId": 56849295507800,
-        "onHand": 2,
+        "onHand": 3,
         "committed": 1,
         "demand": 1
       },
@@ -3650,7 +3368,7 @@
         "product": "131926 Mega Evolution Ascended Heroes Clefairy Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
         "productId": 15641336545624,
         "variantId": 56849295606104,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -3658,7 +3376,7 @@
         "product": "131930 Mega Evolution Ascended Heroes Riolu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
         "productId": 15641336381784,
         "variantId": 56849295442264,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 3,
         "demand": 3
       },
@@ -4082,9 +3800,9 @@
         "product": "123998 Phantasmal Flames Mega Evolution Booster Box (English) — 36 Booster Packs / Multicolor",
         "productId": 15641488752984,
         "variantId": 56849615618392,
-        "onHand": 7,
-        "committed": 11,
-        "demand": 11
+        "onHand": 6,
+        "committed": 10,
+        "demand": 10
       },
       {
         "product": "Sony PS5 Slim Digital Edition (EU Plug)",
@@ -4194,7 +3912,7 @@
         "product": "120084 Magic: The Gathering – Edge of Eternities Sami, Wildcat Captain & Tezzeret, Cruel Captain 12-Pocket PRO Album",
         "productId": 15661187891544,
         "variantId": 56938026533208,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -4555,16 +4273,6 @@
         "shortfall": 7
       },
       {
-        "product": "69996 Sun & Moon Hidden Fates Elite Trainer Box (English)",
-        "productId": 15549268623704,
-        "variantId": 56494572699992,
-        "onHand": -4,
-        "committed": 0,
-        "incoming": 0,
-        "available": -4,
-        "shortfall": 4
-      },
-      {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336775000,
         "variantId": 56849295835480,
@@ -4603,16 +4311,6 @@
         "incoming": 0,
         "available": -3,
         "shortfall": 3
-      },
-      {
-        "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
-        "productId": 15641507365208,
-        "variantId": 56849645207896,
-        "onHand": 1,
-        "committed": 3,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
       },
       {
         "product": "134036 Mega Evolution Perfect Order Booster Pack (English) Pre-order — 10 cards / Multicolor",
