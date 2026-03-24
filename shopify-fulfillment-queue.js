@@ -197,22 +197,33 @@ async function getInventoryQuantities(inventoryItemIds) {
   return { onHand, committed, incoming };
 }
 
-async function updateOrderTags(orderId, currentTags, shouldHaveRTFF) {
+// Updates RTFF tag and the custom.stockstatus metafield in a single PUT call.
+// missingItems: array of { product, needed, stock } — empty array clears the metafield.
+async function syncOrderState(orderId, currentTags, shouldHaveRTFF, missingItems) {
   const tagSet = new Set(
     currentTags
       .split(',')
       .map((t) => t.trim())
       .filter(Boolean)
   );
-  const hadRTFF = tagSet.has(CONFIG.rtffTag);
-
-  if (shouldHaveRTFF === hadRTFF) return; // no change needed
-
   if (shouldHaveRTFF) tagSet.add(CONFIG.rtffTag);
   else tagSet.delete(CONFIG.rtffTag);
 
+  const metafieldValue = missingItems.length > 0
+    ? missingItems.map((r) => `${r.product}: need ${r.needed}, have ${r.stock}`).join('\n')
+    : '';
+
   await shopifyFetch(`/orders/${orderId}.json`, 'PUT', {
-    order: { id: orderId, tags: [...tagSet].join(', ') },
+    order: {
+      id: orderId,
+      tags: [...tagSet].join(', '),
+      metafields: [{
+        namespace: 'custom',
+        key: 'stockstatus',
+        type: 'multi_line_text_field',
+        value: metafieldValue,
+      }],
+    },
   });
 }
 
@@ -359,25 +370,29 @@ async function main() {
     console.log(`     ❌ ${o.name}: ${o.reasons.map((r) => `${r.product} — ${r.reason} (need ${r.needed}, have ${r.stock})`).join('; ')}`);
   }
 
-  // 5. Sync RTFF tags — single diff pass: only call the API when the tag status actually changes.
-  //    (Previously: two passes — strip all, then re-add — causing redundant API calls for orders
-  //     that were already correctly tagged.)
-  console.log('🏷️  Syncing RTFF tags...');
+  // 5. Sync RTFF tag + MissingStock metafield for every unfulfilled order in one pass.
+  //    Each order gets a single PUT that updates both tag and metafield together.
+  //    Blocked orders get their missing items written to custom.stockstatus;
+  //    fulfillable orders get the metafield cleared.
+  console.log('🏷️  Syncing tags & metafields...');
   const fulfillableIds = new Set(fulfillableOrders.map((o) => o.id));
+  const blockedReasonsMap = new Map(blockedOrders.map((o) => [o.id, o.reasons]));
   let tagged = 0, untagged = 0;
 
   for (const order of orders) {
     const shouldHaveRTFF = fulfillableIds.has(order.id);
     const hadRTFF = order.tags.includes(CONFIG.rtffTag);
+    const missingItems = blockedReasonsMap.get(order.id) || [];
+
+    await syncOrderState(order.id, order.tags, shouldHaveRTFF, missingItems);
+    await sleep(200);
 
     if (shouldHaveRTFF !== hadRTFF) {
-      await updateOrderTags(order.id, order.tags, shouldHaveRTFF);
-      await sleep(250);
       if (shouldHaveRTFF) tagged++; else untagged++;
     }
   }
 
-  console.log(`   → Tagged ${tagged}, untagged ${untagged} (${orders.length - tagged - untagged} unchanged)`);
+  console.log(`   → Tagged ${tagged}, untagged ${untagged}, metafields synced on all ${orders.length} orders`);
 
   // 6. Compute stock alerts — total demand across ALL unfulfilled orders
   const totalDemand = {}; // inventoryItemId → { demand, variantId }
