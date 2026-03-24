@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-24T20:08:45.012Z",
+  "generatedAt": "2026-03-24T22:05:18.534Z",
   "summary": {
-    "totalUnfulfilled": 152,
+    "totalUnfulfilled": 154,
     "canFulfill": 13,
-    "blocked": 139
+    "blocked": 141
   },
   "fulfillableOrders": [
     {
@@ -2608,6 +2608,36 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12193521369432,
+      "name": "#3044",
+      "customerName": "Kevin Kellner",
+      "createdAt": "2026-03-24T21:49:09+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Svive Echo 5 Wireless Gaming Headset",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12193524744536,
+      "name": "#3045",
+      "customerName": "Toni Buchheim",
+      "createdAt": "2026-03-24T21:51:32+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Apple Airpods 4",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -4099,6 +4129,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Svive Echo 5 Wireless Gaming Headset",
+        "productId": 15624699380056,
+        "variantId": 56782785577304,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Apple Airpods 4",
+        "productId": 15579554382168,
+        "variantId": 56602249658712,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -4496,6 +4542,26 @@
         "product": "110213 Scarlet & Violet Obsidian Flames Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641565692248,
         "variantId": 56849722802520,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Svive Echo 5 Wireless Gaming Headset",
+        "productId": 15624699380056,
+        "variantId": 56782785577304,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Apple Airpods 4",
+        "productId": 15579554382168,
+        "variantId": 56602249658712,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
