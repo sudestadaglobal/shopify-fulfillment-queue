@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-23T23:09:13.755Z",
+  "generatedAt": "2026-03-24T00:04:55.819Z",
   "summary": {
-    "totalUnfulfilled": 169,
-    "canFulfill": 24,
-    "blocked": 145
+    "totalUnfulfilled": 174,
+    "canFulfill": 25,
+    "blocked": 149
   },
   "fulfillableOrders": [
     {
@@ -149,6 +149,12 @@
       "name": "#3027",
       "createdAt": "2026-03-23T23:29:24+01:00",
       "itemCount": 6
+    },
+    {
+      "id": 12192219726168,
+      "name": "#3031",
+      "createdAt": "2026-03-24T00:25:20+01:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -2830,6 +2836,84 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12192209240408,
+      "name": "#3029",
+      "customerName": "Mumin Altan",
+      "createdAt": "2026-03-24T00:06:34+01:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "113488 Leafeon ex - Scarlet & Violet Prismatic Evolution 144/131 NM (English) — 144/131, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "113493 Vaporeon ex - Scarlet & Violet Prismatic Evolution 149/131 NM (English) — 149/131, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "113491 Flareon ex - Scarlet & Violet Prismatic Evolution 146/131 NM (English) — 146/131, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12192213860696,
+      "name": "#3030",
+      "customerName": "lucas angelotti",
+      "createdAt": "2026-03-24T00:14:48+01:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12192220971352,
+      "name": "#3032",
+      "customerName": "Bilal Gültan",
+      "createdAt": "2026-03-24T00:28:00+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "116768 Scarlet & Violet Destined Rivals Zarude 1 Booster Pack Blister (English) — 1 Booster pack, 3 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12192223920472,
+      "name": "#3033",
+      "customerName": "Robert Sipko",
+      "createdAt": "2026-03-24T00:34:36+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "116848 Magic: The Gathering - Jumpstart 2022 Booster Box",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2887,8 +2971,8 @@
         "productId": 15642608370008,
         "variantId": 56855458120024,
         "onHand": 0,
-        "committed": 14,
-        "demand": 15
+        "committed": 16,
+        "demand": 17
       },
       {
         "product": "134042 Mega Evolution Perfect Order Sleeved Booster Pack (English) Pre‑order — Multicolor",
@@ -3951,8 +4035,8 @@
         "productId": 15641337299288,
         "variantId": 56849296359768,
         "onHand": 9,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "118756 Vanilluxe - Scarlet & Violet White Flare 113/086 NM (English) — 113/086, Near-Mint / Illustration Rare",
@@ -4119,8 +4203,8 @@
         "productId": 15661188579672,
         "variantId": 56938032431448,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119397 Scarlet & Violet Black Bolt Zekrom 65-Sleeves — 66 x 91mm / Black / Blue",
@@ -4175,8 +4259,8 @@
         "productId": 15641503891800,
         "variantId": 56849639604568,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
@@ -4385,6 +4469,38 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "113488 Leafeon ex - Scarlet & Violet Prismatic Evolution 144/131 NM (English) — 144/131, Near-Mint / Special Illustration Rare",
+        "productId": 15641563595096,
+        "variantId": 56849719492952,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113493 Vaporeon ex - Scarlet & Violet Prismatic Evolution 149/131 NM (English) — 149/131, Near-Mint / Special Illustration Rare",
+        "productId": 15641563464024,
+        "variantId": 56849719034200,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113491 Flareon ex - Scarlet & Violet Prismatic Evolution 146/131 NM (English) — 146/131, Near-Mint / Special Illustration Rare",
+        "productId": 15641563496792,
+        "variantId": 56849719394648,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116768 Scarlet & Violet Destined Rivals Zarude 1 Booster Pack Blister (English) — 1 Booster pack, 3 cards / Multicolor",
+        "productId": 15641523257688,
+        "variantId": 56849676009816,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -4419,16 +4535,6 @@
         "shortfall": 10
       },
       {
-        "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
-        "productId": 15642608370008,
-        "variantId": 56855458120024,
-        "onHand": 0,
-        "committed": 14,
-        "incoming": 5,
-        "available": -14,
-        "shortfall": 9
-      },
-      {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336676696,
         "variantId": 56849295737176,
@@ -4436,6 +4542,16 @@
         "committed": 7,
         "incoming": 0,
         "available": -7,
+        "shortfall": 7
+      },
+      {
+        "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
+        "productId": 15642608370008,
+        "variantId": 56855458120024,
+        "onHand": 0,
+        "committed": 16,
+        "incoming": 9,
+        "available": -16,
         "shortfall": 7
       },
       {
