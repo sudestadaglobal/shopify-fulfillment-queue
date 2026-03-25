@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-25T18:16:12.773Z",
+  "generatedAt": "2026-03-25T22:09:13.331Z",
   "summary": {
-    "totalUnfulfilled": 145,
-    "canFulfill": 8,
-    "blocked": 137
+    "totalUnfulfilled": 153,
+    "canFulfill": 11,
+    "blocked": 142
   },
   "fulfillableOrders": [
     {
@@ -52,6 +52,24 @@
       "id": 12192223920472,
       "name": "#3033",
       "createdAt": "2026-03-24T00:34:36+01:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12195686121816,
+      "name": "#3047",
+      "createdAt": "2026-03-25T20:14:46+01:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12195689496920,
+      "name": "#3048",
+      "createdAt": "2026-03-25T20:17:34+01:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12195731800408,
+      "name": "#3051",
+      "createdAt": "2026-03-25T20:45:53+01:00",
       "itemCount": 1
     }
   ],
@@ -2530,6 +2548,81 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12195707748696,
+      "name": "#3049",
+      "customerName": "Mark Widulla",
+      "createdAt": "2026-03-25T20:29:38+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "109986 Mew ex - Scarlet & Violet 151 151/165 NM (English) — 151/165, Near-Mint / Double Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12195725443416,
+      "name": "#3050",
+      "customerName": "Jakob kapocs",
+      "createdAt": "2026-03-25T20:41:37+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "116834 Magic: The Gathering - March of the Machine: The Aftermath Collector Booster Box",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12195734323544,
+      "name": "#3052",
+      "customerName": "Christian Salmen",
+      "createdAt": "2026-03-25T20:47:35+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131640 Meowth‑ex - Nihil Zero 114/080 NM (Japanese) — 114/080, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12195739107672,
+      "name": "#3053",
+      "customerName": "João Joaquim",
+      "createdAt": "2026-03-25T20:51:02+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12195744743768,
+      "name": "#3054",
+      "customerName": "steven Stinissen",
+      "createdAt": "2026-03-25T20:54:39+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2619,8 +2712,8 @@
         "productId": 15641321406808,
         "variantId": 56849271619928,
         "onHand": 0,
-        "committed": 20,
-        "demand": 20
+        "committed": 22,
+        "demand": 22
       },
       {
         "product": "120769 Sun & Moon Team Up Pikachu 1 Booster Pack Blister (English) — 1 card, 1 Blister / Multicolor",
@@ -3243,8 +3336,8 @@
         "productId": 15641342640472,
         "variantId": 56849302421848,
         "onHand": 6,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131056 Shirahoshi - The Best Vol.1 OP05‑082 NM V3 (English) — OP05‑082/V3, Near-Mint / Rare",
@@ -3747,8 +3840,8 @@
         "productId": 15641566216536,
         "variantId": 56849731518808,
         "onHand": 9,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110200 Scarlet & Violet Shiny Treasure ex Booster Pack (Japanese) — 10 cards / Multicolor",
@@ -3997,6 +4090,38 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "109986 Mew ex - Scarlet & Violet 151 151/165 NM (English) — 151/165, Near-Mint / Double Rare",
+        "productId": 15641568772440,
+        "variantId": 56849736139096,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116834 Magic: The Gathering - March of the Machine: The Aftermath Collector Booster Box",
+        "productId": 15670867198296,
+        "variantId": 56976901112152,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131640 Meowth‑ex - Nihil Zero 114/080 NM (Japanese) — 114/080, Near-Mint / Special Illustration Rare",
+        "productId": 15641339855192,
+        "variantId": 56849299079512,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
+        "productId": 15641507266904,
+        "variantId": 56849645109592,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -4011,6 +4136,16 @@
         "shortfall": 15
       },
       {
+        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+        "productId": 15641321406808,
+        "variantId": 56849271619928,
+        "onHand": 0,
+        "committed": 22,
+        "incoming": 10,
+        "available": -22,
+        "shortfall": 12
+      },
+      {
         "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336611160,
         "variantId": 56849295671640,
@@ -4018,16 +4153,6 @@
         "committed": 10,
         "incoming": 0,
         "available": -10,
-        "shortfall": 10
-      },
-      {
-        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-        "productId": 15641321406808,
-        "variantId": 56849271619928,
-        "onHand": 0,
-        "committed": 20,
-        "incoming": 10,
-        "available": -20,
         "shortfall": 10
       },
       {
