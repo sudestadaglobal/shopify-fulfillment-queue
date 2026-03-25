@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-25T14:52:08.419Z",
+  "generatedAt": "2026-03-25T18:16:12.773Z",
   "summary": {
-    "totalUnfulfilled": 154,
-    "canFulfill": 13,
-    "blocked": 141
+    "totalUnfulfilled": 145,
+    "canFulfill": 8,
+    "blocked": 137
   },
   "fulfillableOrders": [
     {
@@ -25,10 +25,10 @@
       "itemCount": 2
     },
     {
-      "id": 12107621597528,
-      "name": "#2873",
-      "createdAt": "2026-03-10T20:08:39+01:00",
-      "itemCount": 4
+      "id": 12167302087000,
+      "name": "#2934",
+      "createdAt": "2026-03-14T16:53:47+01:00",
+      "itemCount": 2
     },
     {
       "id": 12187410989400,
@@ -52,36 +52,6 @@
       "id": 12192223920472,
       "name": "#3033",
       "createdAt": "2026-03-24T00:34:36+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12192987939160,
-      "name": "#3036",
-      "createdAt": "2026-03-24T15:22:39+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12192994459992,
-      "name": "#3037",
-      "createdAt": "2026-03-24T15:26:30+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12193102397784,
-      "name": "#3039",
-      "createdAt": "2026-03-24T16:40:03+01:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12193138606424,
-      "name": "#3041",
-      "createdAt": "2026-03-24T17:04:46+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12193144078680,
-      "name": "#3042",
-      "createdAt": "2026-03-24T17:08:34+01:00",
       "itemCount": 1
     }
   ],
@@ -1474,12 +1444,6 @@
           "needed": 1
         },
         {
-          "product": "63011 Mega Hawlucha ex - Mega Evolution Ascended Heroes 283/217 NM (English) — Size 283/217 / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "63011 Mega Hawlucha ex - Mega Evolution Ascended Heroes 283/217 NM (English) — Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1523,21 +1487,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12167302087000,
-      "name": "#2934",
-      "customerName": "Ricardo Varius",
-      "createdAt": "2026-03-14T16:53:47+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
-          "reason": "Insufficient stock",
-          "stock": 8,
-          "needed": 12
         }
       ]
     },
@@ -1713,21 +1662,6 @@
       ]
     },
     {
-      "id": 12181890662744,
-      "name": "#2948",
-      "customerName": "Kevan Kirksey",
-      "createdAt": "2026-03-16T20:12:53+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "118756 Vanilluxe - Scarlet & Violet White Flare 113/086 NM (English) — 113/086, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12181897412952,
       "name": "#2949",
       "customerName": "Ben Flanagan",
@@ -1827,7 +1761,7 @@
         {
           "product": "123998 Phantasmal Flames Mega Evolution Booster Box (English) — 36 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 6,
+          "stock": 11,
           "needed": 20
         }
       ]
@@ -2084,21 +2018,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12186538180952,
-      "name": "#2986",
-      "customerName": "Mano Boers",
-      "createdAt": "2026-03-19T21:18:59+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
         }
       ]
     },
@@ -2480,12 +2399,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
-        },
-        {
-          "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -2575,12 +2488,6 @@
       "itemCount": 9,
       "reasons": [
         {
-          "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
           "reason": "Per-product limit reached (max 3 orders per run)",
           "stock": 5,
@@ -2590,21 +2497,6 @@
           "product": "110072 Scarlet & Violet Shiny Treasure ex Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12193262469464,
-      "name": "#3043",
-      "customerName": "emil roos sloth",
-      "createdAt": "2026-03-24T18:31:26+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 2,
           "needed": 1
         }
       ]
@@ -2950,9 +2842,9 @@
         "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
         "productId": 15641523421528,
         "variantId": 56849676173656,
-        "onHand": 5,
-        "committed": 5,
-        "demand": 5
+        "onHand": 3,
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (English) — 175/165, Near-Mint / Illustration Rare",
@@ -3307,38 +3199,6 @@
         "demand": 7
       },
       {
-        "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
-        "productId": 15641336152408,
-        "variantId": 56849295245656,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "131928 Mega Evolution Ascended Heroes Pikachu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
-        "productId": 15641336447320,
-        "variantId": 56849295507800,
-        "onHand": 3,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131926 Mega Evolution Ascended Heroes Clefairy Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
-        "productId": 15641336545624,
-        "variantId": 56849295606104,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "131930 Mega Evolution Ascended Heroes Riolu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
-        "productId": 15641336381784,
-        "variantId": 56849295442264,
-        "onHand": 1,
-        "committed": 3,
-        "demand": 3
-      },
-      {
         "product": "131546 Tournament Pack 2025 Vol.1 One Piece Booster Pack (English) — 1 card / Black / White",
         "productId": 15641342247256,
         "variantId": 56849302028632,
@@ -3478,7 +3338,7 @@
         "product": "63011 Mega Hawlucha ex - Mega Evolution Ascended Heroes 283/217 NM (English) — Size 283/217 / Special Illustration Rare",
         "productId": 15653256200536,
         "variantId": 56897712324952,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3505,14 +3365,6 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
-        "productId": 15641321570648,
-        "variantId": 56849271783768,
-        "onHand": 8,
-        "committed": 12,
-        "demand": 12
       },
       {
         "product": "JAZWARES Pokémon Gengar Plush Toy",
@@ -3606,7 +3458,7 @@
         "product": "131372 Romance Dawn One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641346343256,
         "variantId": 56849306517848,
-        "onHand": 2,
+        "onHand": 3,
         "committed": 2,
         "demand": 2
       },
@@ -3619,20 +3471,36 @@
         "demand": 2
       },
       {
-        "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
-        "productId": 15641337299288,
-        "variantId": 56849296359768,
-        "onHand": 7,
-        "committed": 9,
-        "demand": 9
+        "product": "131930 Mega Evolution Ascended Heroes Riolu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641336381784,
+        "variantId": 56849295442264,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
       },
       {
-        "product": "118756 Vanilluxe - Scarlet & Violet White Flare 113/086 NM (English) — 113/086, Near-Mint / Illustration Rare",
-        "productId": 15641521095000,
-        "variantId": 56849667129688,
+        "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641336152408,
+        "variantId": 56849295245656,
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131926 Mega Evolution Ascended Heroes Clefairy Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641336545624,
+        "variantId": 56849295606104,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+        "productId": 15641337299288,
+        "variantId": 56849296359768,
+        "onHand": 1,
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
@@ -3665,14 +3533,6 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "123998 Phantasmal Flames Mega Evolution Booster Box (English) — 36 Booster Packs / Multicolor",
-        "productId": 15641488752984,
-        "variantId": 56849615618392,
-        "onHand": 6,
-        "committed": 15,
-        "demand": 20
       },
       {
         "product": "Sony PS5 Slim Digital Edition (EU Plug)",
@@ -3833,22 +3693,6 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "110289 Sword & Shield Shining Legends Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641564381528,
-        "variantId": 56849720901976,
-        "onHand": 2,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
-        "productId": 15641503891800,
-        "variantId": 56849639604568,
-        "onHand": 0,
-        "committed": 4,
-        "demand": 4
       },
       {
         "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
@@ -4051,6 +3895,14 @@
         "demand": 1
       },
       {
+        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641503891800,
+        "variantId": 56849639604568,
+        "onHand": 2,
+        "committed": 2,
+        "demand": 2
+      },
+      {
         "product": "116768 Scarlet & Violet Destined Rivals Zarude 1 Booster Pack Blister (English) — 1 Booster pack, 3 cards / Multicolor",
         "productId": 15641523257688,
         "variantId": 56849676009816,
@@ -4199,6 +4051,16 @@
         "shortfall": 7
       },
       {
+        "product": "123998 Phantasmal Flames Mega Evolution Booster Box (English) — 36 Booster Packs / Multicolor",
+        "productId": 15641488752984,
+        "variantId": 56849615618392,
+        "onHand": 11,
+        "committed": 15,
+        "incoming": 0,
+        "available": -4,
+        "shortfall": 4
+      },
+      {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336775000,
         "variantId": 56849295835480,
@@ -4226,16 +4088,6 @@
         "committed": 3,
         "incoming": 0,
         "available": -3,
-        "shortfall": 3
-      },
-      {
-        "product": "123998 Phantasmal Flames Mega Evolution Booster Box (English) — 36 Booster Packs / Multicolor",
-        "productId": 15641488752984,
-        "variantId": 56849615618392,
-        "onHand": 6,
-        "committed": 15,
-        "incoming": 6,
-        "available": -9,
         "shortfall": 3
       },
       {
