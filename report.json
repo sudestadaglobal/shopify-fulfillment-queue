@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-26T08:43:25.986Z",
+  "generatedAt": "2026-03-26T11:43:43.946Z",
   "summary": {
-    "totalUnfulfilled": 153,
+    "totalUnfulfilled": 154,
     "canFulfill": 11,
-    "blocked": 142
+    "blocked": 143
   },
   "fulfillableOrders": [
     {
@@ -2623,6 +2623,21 @@
           "needed": 2
         }
       ]
+    },
+    {
+      "id": 12196505911640,
+      "name": "#3055",
+      "customerName": "Magnus Eskemose",
+      "createdAt": "2026-03-26T11:59:00+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Apple MacBook Pro M5 (2025) 14\" 16 GB RAM / 1 TB Black",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -4122,6 +4137,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Apple MacBook Pro M5 (2025) 14\" 16 GB RAM / 1 TB Black",
+        "productId": 15672157176152,
+        "variantId": 56981602206040,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -4449,6 +4472,16 @@
         "product": "Svive Echo 5 Wireless Gaming Headset",
         "productId": 15624699380056,
         "variantId": 56782785577304,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Apple MacBook Pro M5 (2025) 14\" 16 GB RAM / 1 TB Black",
+        "productId": 15672157176152,
+        "variantId": 56981602206040,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
