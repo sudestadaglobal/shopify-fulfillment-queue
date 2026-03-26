@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T05:58:07.884Z",
+  "generatedAt": "2026-03-26T08:43:25.986Z",
   "summary": {
     "totalUnfulfilled": 153,
     "canFulfill": 11,
@@ -43,15 +43,15 @@
       "itemCount": 1
     },
     {
-      "id": 12191395971416,
-      "name": "#3009",
-      "createdAt": "2026-03-23T13:49:44+01:00",
-      "itemCount": 1
-    },
-    {
       "id": 12192223920472,
       "name": "#3033",
       "createdAt": "2026-03-24T00:34:36+01:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12193524744536,
+      "name": "#3045",
+      "createdAt": "2026-03-24T21:51:32+01:00",
       "itemCount": 1
     },
     {
@@ -2205,6 +2205,21 @@
       ]
     },
     {
+      "id": 12191395971416,
+      "name": "#3009",
+      "customerName": "Jiří Všetečka",
+      "createdAt": "2026-03-23T13:49:44+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Apple AirPods Pro 3",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
       "id": 12191436472664,
       "name": "#3010",
       "customerName": "hugo borsos",
@@ -2528,21 +2543,6 @@
       "reasons": [
         {
           "product": "Svive Echo 5 Wireless Gaming Headset",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12193524744536,
-      "name": "#3045",
-      "customerName": "Toni Buchheim",
-      "createdAt": "2026-03-24T21:51:32+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Apple Airpods 4",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -3871,7 +3871,7 @@
         "product": "Apple AirPods Pro 3",
         "productId": 15338563338584,
         "variantId": 55853592019288,
-        "onHand": 3,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       },
@@ -4087,7 +4087,7 @@
         "product": "Apple Airpods 4",
         "productId": 15579554382168,
         "variantId": 56602249658712,
-        "onHand": 0,
+        "onHand": 3,
         "committed": 1,
         "demand": 1
       },
@@ -4216,16 +4216,6 @@
         "shortfall": 3
       },
       {
-        "product": "Noctua NF-P12",
-        "productId": 15659122491736,
-        "variantId": 56929487585624,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 0,
-        "available": -3,
-        "shortfall": 3
-      },
-      {
         "product": "134036 Mega Evolution Perfect Order Booster Pack (English) Pre-order — 10 cards / Multicolor",
         "productId": 15642954072408,
         "variantId": 56856522129752,
@@ -4249,16 +4239,6 @@
         "product": "134048 Mega Evolution Perfect Order Meganium Premium Checklane Blister Booster Pack (English) Pre‑order — 10 cards / Multicolor",
         "productId": 15643927413080,
         "variantId": 56858946273624,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "Samsung 990 Pro 2 TB",
-        "productId": 15307365319000,
-        "variantId": 55735714971992,
         "onHand": 0,
         "committed": 2,
         "incoming": 0,
@@ -4406,16 +4386,6 @@
         "shortfall": 1
       },
       {
-        "product": "JAZWARES Pokémon Gengar Plush Toy",
-        "productId": 15486272864600,
-        "variantId": 56324932469080,
-        "onHand": -1,
-        "committed": 1,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
         "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
         "productId": 15657571811672,
         "variantId": 56923414757720,
@@ -4436,56 +4406,6 @@
         "shortfall": 1
       },
       {
-        "product": "Noctua NH-D15 chromax Black",
-        "productId": 15659124719960,
-        "variantId": 56929492402520,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "ASUS TUF Gaming Z890-Pro WIFI",
-        "productId": 15659121410392,
-        "variantId": 56929485259096,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Intel Core Ultra 7 265KF Processor",
-        "productId": 15659118920024,
-        "variantId": 56929476247896,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Gigabyte GeForce RTX 5070 Ti 16GB Eagle OC Ice SFF",
-        "productId": 15659118297432,
-        "variantId": 56929473724760,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Corsair RM850e (2025) 850W Full‑Modular Power Supply",
-        "productId": 15659115708760,
-        "variantId": 56929461698904,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "125900 Pikachu ex - MEGA Dream ex 234/193 NM (Japanese) — 234/193, Near-Mint / Special Illustration Rare",
         "productId": 15641387860312,
         "variantId": 56849459020120,
@@ -4496,9 +4416,9 @@
         "shortfall": 1
       },
       {
-        "product": "Play by Play Hello Kitty 50th Anniversary Pink Plush Toy",
-        "productId": 15666812748120,
-        "variantId": 56956407447896,
+        "product": "Apple AirPods Pro 3",
+        "productId": 15338563338584,
+        "variantId": 55853592019288,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -4529,16 +4449,6 @@
         "product": "Svive Echo 5 Wireless Gaming Headset",
         "productId": 15624699380056,
         "variantId": 56782785577304,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Apple Airpods 4",
-        "productId": 15579554382168,
-        "variantId": 56602249658712,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
