@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-26T22:04:03.148Z",
+  "generatedAt": "2026-03-26T23:06:16.992Z",
   "summary": {
-    "totalUnfulfilled": 154,
-    "canFulfill": 11,
-    "blocked": 143
+    "totalUnfulfilled": 157,
+    "canFulfill": 13,
+    "blocked": 144
   },
   "fulfillableOrders": [
     {
@@ -70,6 +70,18 @@
       "id": 12195731800408,
       "name": "#3051",
       "createdAt": "2026-03-25T20:45:53+01:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12197508514136,
+      "name": "#3056",
+      "createdAt": "2026-03-26T23:21:39+01:00",
+      "itemCount": 4
+    },
+    {
+      "id": 12197519098200,
+      "name": "#3058",
+      "createdAt": "2026-03-26T23:35:51+01:00",
       "itemCount": 1
     }
   ],
@@ -2638,6 +2650,27 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12197515952472,
+      "name": "#3057",
+      "customerName": "Leonidas Bairaktaris",
+      "createdAt": "2026-03-26T23:31:31+01:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 3
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2711,8 +2744,8 @@
         "productId": 15642608370008,
         "variantId": 56855458120024,
         "onHand": 0,
-        "committed": 16,
-        "demand": 17
+        "committed": 17,
+        "demand": 18
       },
       {
         "product": "134042 Mega Evolution Perfect Order Sleeved Booster Pack (English) Pre‑order — Multicolor",
@@ -3039,8 +3072,8 @@
         "productId": 15641345032536,
         "variantId": 56849305076056,
         "onHand": 7,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "131502 Judge Pack Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -3183,8 +3216,8 @@
         "productId": 15643970961752,
         "variantId": 56858997653848,
         "onHand": 4,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
@@ -3255,8 +3288,8 @@
         "productId": 15641343656280,
         "variantId": 56849303667032,
         "onHand": 4,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131524 Two Legends One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -3607,8 +3640,8 @@
         "productId": 15641337299288,
         "variantId": 56849296359768,
         "onHand": 1,
-        "committed": 3,
-        "demand": 3
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
@@ -3839,8 +3872,8 @@
         "productId": 15641343590744,
         "variantId": 56849303601496,
         "onHand": 6,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110182 Scarlet & Violet Night Wanderer Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -4145,6 +4178,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "109984 Charmander - Scarlet & Violet Black Star Promos 044/225 (NM) — 044/225, Near-Mint / Promo",
+        "productId": 15641568837976,
+        "variantId": 56849736204632,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -4179,6 +4220,16 @@
         "shortfall": 10
       },
       {
+        "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
+        "productId": 15642608370008,
+        "variantId": 56855458120024,
+        "onHand": 0,
+        "committed": 17,
+        "incoming": 9,
+        "available": -17,
+        "shortfall": 8
+      },
+      {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336676696,
         "variantId": 56849295737176,
@@ -4186,16 +4237,6 @@
         "committed": 7,
         "incoming": 0,
         "available": -7,
-        "shortfall": 7
-      },
-      {
-        "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
-        "productId": 15642608370008,
-        "variantId": 56855458120024,
-        "onHand": 0,
-        "committed": 16,
-        "incoming": 9,
-        "available": -16,
         "shortfall": 7
       },
       {
