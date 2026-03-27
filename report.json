@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-27T05:32:21.127Z",
+  "generatedAt": "2026-03-27T08:13:10.573Z",
   "summary": {
     "totalUnfulfilled": 158,
-    "canFulfill": 13,
-    "blocked": 145
+    "canFulfill": 15,
+    "blocked": 143
   },
   "fulfillableOrders": [
     {
@@ -25,10 +25,22 @@
       "itemCount": 2
     },
     {
-      "id": 12167302087000,
-      "name": "#2934",
-      "createdAt": "2026-03-14T16:53:47+01:00",
+      "id": 12107625005400,
+      "name": "#2874",
+      "createdAt": "2026-03-10T20:11:25+01:00",
       "itemCount": 2
+    },
+    {
+      "id": 12153358090584,
+      "name": "#2921",
+      "createdAt": "2026-03-13T15:12:06+01:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12178440290648,
+      "name": "#2942",
+      "createdAt": "2026-03-16T15:25:02+01:00",
+      "itemCount": 1
     },
     {
       "id": 12187410989400,
@@ -152,12 +164,6 @@
         },
         {
           "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -968,12 +974,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -1272,21 +1272,6 @@
       ]
     },
     {
-      "id": 12107625005400,
-      "name": "#2874",
-      "customerName": "Tobias Eckl",
-      "createdAt": "2026-03-10T20:11:25+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12107641520472,
       "name": "#2876",
       "customerName": "Fabian Langguth",
@@ -1400,12 +1385,6 @@
           "reason": "Per-product limit reached (max 3 orders per run)",
           "stock": 5,
           "needed": 1
-        },
-        {
-          "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -1439,21 +1418,6 @@
       "reasons": [
         {
           "product": "132302 Roronoa Zoro - The Azure Sea's Seven OP14‑015 V2 NM (English) — OP14‑015/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12153358090584,
-      "name": "#2921",
-      "customerName": "Lukas van Rijt",
-      "createdAt": "2026-03-13T15:12:06+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1501,22 +1465,25 @@
           "needed": 1
         },
         {
-          "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
           "reason": "Per-product limit reached (max 3 orders per run)",
           "stock": 5,
           "needed": 1
-        },
+        }
+      ]
+    },
+    {
+      "id": 12167302087000,
+      "name": "#2934",
+      "customerName": "Ricardo Varius",
+      "createdAt": "2026-03-14T16:53:47+01:00",
+      "itemCount": 2,
+      "reasons": [
         {
-          "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
+          "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
           "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
+          "stock": 8,
+          "needed": 12
         }
       ]
     },
@@ -1532,21 +1499,6 @@
           "reason": "Insufficient stock",
           "stock": -1,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12178440290648,
-      "name": "#2942",
-      "customerName": "Lukas van Rijt",
-      "createdAt": "2026-03-16T15:25:02+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
         }
       ]
     },
@@ -2758,7 +2710,7 @@
         "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
         "productId": 15642608370008,
         "variantId": 56855458120024,
-        "onHand": 0,
+        "onHand": 4,
         "committed": 17,
         "demand": 18
       },
@@ -3523,6 +3475,14 @@
         "demand": 1
       },
       {
+        "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
+        "productId": 15641321570648,
+        "variantId": 56849271783768,
+        "onHand": 8,
+        "committed": 0,
+        "demand": 12
+      },
+      {
         "product": "JAZWARES Pokémon Gengar Plush Toy",
         "productId": 15486272864600,
         "variantId": 56324932469080,
@@ -4254,10 +4214,10 @@
         "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
         "productId": 15642608370008,
         "variantId": 56855458120024,
-        "onHand": 0,
+        "onHand": 4,
         "committed": 17,
-        "incoming": 9,
-        "available": -17,
+        "incoming": 5,
+        "available": -13,
         "shortfall": 8
       },
       {
