@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-26T23:06:16.992Z",
+  "generatedAt": "2026-03-27T05:32:21.127Z",
   "summary": {
-    "totalUnfulfilled": 157,
+    "totalUnfulfilled": 158,
     "canFulfill": 13,
-    "blocked": 144
+    "blocked": 145
   },
   "fulfillableOrders": [
     {
@@ -2671,6 +2671,21 @@
           "needed": 3
         }
       ]
+    },
+    {
+      "id": 12197585224024,
+      "name": "#3059",
+      "customerName": "Karl Olov Hällström",
+      "createdAt": "2026-03-27T00:19:47+01:00",
+      "itemCount": 13,
+      "reasons": [
+        {
+          "product": "110223 Scarlet & Violet Sleeved Booster Pack (English) — Multicolor / 10 cards",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3880,16 +3895,16 @@
         "productId": 15641566347608,
         "variantId": 56849732141400,
         "onHand": 5,
-        "committed": 1,
-        "demand": 1
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566216536,
         "variantId": 56849731518808,
         "onHand": 9,
-        "committed": 2,
-        "demand": 2
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "110200 Scarlet & Violet Shiny Treasure ex Booster Pack (Japanese) — 10 cards / Multicolor",
@@ -4072,8 +4087,8 @@
         "productId": 15641566576984,
         "variantId": 56849732370776,
         "onHand": 5,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110267 Sword & Shield Astral Radiance Booster Pack (English) — 10 cards / Multicolor",
@@ -4184,6 +4199,22 @@
         "productId": 15641568837976,
         "variantId": 56849736204632,
         "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110223 Scarlet & Violet Sleeved Booster Pack (English) — Multicolor / 10 cards",
+        "productId": 15643186921816,
+        "variantId": 56857168576856,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "136075 2022 World Championships Deck Sebastian Lashmet Cheryl Again (English) — 60 cards / Multicolor",
+        "productId": 15641267077464,
+        "variantId": 56849191469400,
+        "onHand": 3,
         "committed": 1,
         "demand": 1
       }
