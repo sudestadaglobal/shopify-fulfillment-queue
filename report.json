@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-27T11:15:03.469Z",
+  "generatedAt": "2026-03-27T14:39:16.065Z",
   "summary": {
-    "totalUnfulfilled": 158,
-    "canFulfill": 20,
-    "blocked": 138
+    "totalUnfulfilled": 142,
+    "canFulfill": 8,
+    "blocked": 134
   },
   "fulfillableOrders": [
     {
@@ -43,87 +43,15 @@
       "itemCount": 1
     },
     {
-      "id": 12181785772376,
-      "name": "#2945",
-      "createdAt": "2026-03-16T18:54:34+01:00",
-      "itemCount": 4
-    },
-    {
-      "id": 12181897412952,
-      "name": "#2949",
-      "createdAt": "2026-03-16T20:17:59+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12185177784664,
-      "name": "#2973",
-      "createdAt": "2026-03-18T22:54:17+01:00",
-      "itemCount": 3
-    },
-    {
-      "id": 12185210519896,
-      "name": "#2979",
-      "createdAt": "2026-03-18T23:30:33+01:00",
-      "itemCount": 1
-    },
-    {
       "id": 12187410989400,
       "name": "#2996",
       "createdAt": "2026-03-20T15:21:04+01:00",
       "itemCount": 1
     },
     {
-      "id": 12187415871832,
-      "name": "#2997",
-      "createdAt": "2026-03-20T15:25:04+01:00",
-      "itemCount": 1
-    },
-    {
       "id": 12187473838424,
       "name": "#2999",
       "createdAt": "2026-03-20T16:06:14+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12193524744536,
-      "name": "#3045",
-      "createdAt": "2026-03-24T21:51:32+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12195686121816,
-      "name": "#3047",
-      "createdAt": "2026-03-25T20:14:46+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12195689496920,
-      "name": "#3048",
-      "createdAt": "2026-03-25T20:17:34+01:00",
-      "itemCount": 3
-    },
-    {
-      "id": 12195731800408,
-      "name": "#3051",
-      "createdAt": "2026-03-25T20:45:53+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12197508514136,
-      "name": "#3056",
-      "createdAt": "2026-03-26T23:21:39+01:00",
-      "itemCount": 4
-    },
-    {
-      "id": 12197519098200,
-      "name": "#3058",
-      "createdAt": "2026-03-26T23:35:51+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12198909772120,
-      "name": "#3060",
-      "createdAt": "2026-03-27T12:06:43+01:00",
       "itemCount": 1
     }
   ],
@@ -1565,6 +1493,12 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 3
+        },
+        {
+          "product": "131438 Promotion Pack 2022 One Piece Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
         }
       ]
     },
@@ -1706,87 +1640,6 @@
       "reasons": [
         {
           "product": "134044 Mega Evolution Perfect Order Chikorita Blister 3 Booster Packs (English) Pre‑order",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12183095869784,
-      "name": "#2963",
-      "customerName": "Samuel Lövgren",
-      "createdAt": "2026-03-17T17:51:46+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Sony PS5 Slim Digital Edition (EU Plug)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12183117168984,
-      "name": "#2965",
-      "customerName": "Mark Reszler",
-      "createdAt": "2026-03-17T18:06:38+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Samsung 990 Pro 2 TB",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12183145120088,
-      "name": "#2966",
-      "customerName": "Štěpán Šrůta",
-      "createdAt": "2026-03-17T18:27:47+01:00",
-      "itemCount": 8,
-      "reasons": [
-        {
-          "product": "Noctua NF-P12",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 3
-        },
-        {
-          "product": "Noctua NH-D15 chromax Black",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "ASUS TUF Gaming Z890-Pro WIFI",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "Samsung 990 Pro 2 TB",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "Intel Core Ultra 7 265KF Processor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "Gigabyte GeForce RTX 5070 Ti 16GB Eagle OC Ice SFF",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "Corsair RM850e (2025) 850W Full‑Modular Power Supply",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2066,36 +1919,6 @@
       "reasons": [
         {
           "product": "Play by Play Hello Kitty 50th Anniversary Pink Plush Toy",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12191395971416,
-      "name": "#3009",
-      "customerName": "Jiří Všetečka",
-      "createdAt": "2026-03-23T13:49:44+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Apple AirPods Pro 3",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12191436472664,
-      "name": "#3010",
-      "customerName": "hugo borsos",
-      "createdAt": "2026-03-23T14:20:25+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Razer Cobra Pro Wireless Mouse",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2569,6 +2392,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12198955581784,
+      "name": "#3061",
+      "customerName": "Emil Ryden",
+      "createdAt": "2026-03-27T12:23:23+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Logitech G G309 Lightspeed",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2969,9 +2807,9 @@
         "product": "131470 Pillars of Strength One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641345032536,
         "variantId": 56849305076056,
-        "onHand": 7,
-        "committed": 5,
-        "demand": 5
+        "onHand": 6,
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "131502 Judge Pack Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -3113,9 +2951,9 @@
         "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15643970961752,
         "variantId": 56858997653848,
-        "onHand": 4,
-        "committed": 2,
-        "demand": 2
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
@@ -3185,9 +3023,9 @@
         "product": "131512 Emperors in the New World One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641343656280,
         "variantId": 56849303667032,
-        "onHand": 4,
-        "committed": 2,
-        "demand": 2
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "131524 Two Legends One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -3281,9 +3119,9 @@
         "product": "131538 Tournament Pack Vol.7 One Piece Booster Pack (English) — 1 card / Black / White",
         "productId": 15641342640472,
         "variantId": 56849302421848,
-        "onHand": 6,
-        "committed": 2,
-        "demand": 2
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "131056 Shirahoshi - The Best Vol.1 OP05‑082 NM V3 (English) — OP05‑082/V3, Near-Mint / Rare",
@@ -3505,41 +3343,9 @@
         "product": "131438 Promotion Pack 2022 One Piece Booster Pack (English)",
         "productId": 15657433923928,
         "variantId": 56922650935640,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "131930 Mega Evolution Ascended Heroes Riolu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
-        "productId": 15641336381784,
-        "variantId": 56849295442264,
-        "onHand": 2,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
-        "productId": 15641336152408,
-        "variantId": 56849295245656,
-        "onHand": 1,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "131926 Mega Evolution Ascended Heroes Clefairy Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
-        "productId": 15641336545624,
-        "variantId": 56849295606104,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
-        "productId": 15641337299288,
-        "variantId": 56849296359768,
-        "onHand": 1,
-        "committed": 6,
-        "demand": 6
       },
       {
         "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
@@ -3569,70 +3375,6 @@
         "product": "110275 25th Anniversary Collection Booster Pack (Japanese) — 5 card / Multicolor",
         "productId": 15641564676440,
         "variantId": 56849721196888,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "Sony PS5 Slim Digital Edition (EU Plug)",
-        "productId": 15545996083544,
-        "variantId": 56482549170520,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "Samsung 990 Pro 2 TB",
-        "productId": 15307365319000,
-        "variantId": 55735714971992,
-        "onHand": 0,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "Noctua NF-P12",
-        "productId": 15659122491736,
-        "variantId": 56929487585624,
-        "onHand": 0,
-        "committed": 3,
-        "demand": 3
-      },
-      {
-        "product": "Noctua NH-D15 chromax Black",
-        "productId": 15659124719960,
-        "variantId": 56929492402520,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "ASUS TUF Gaming Z890-Pro WIFI",
-        "productId": 15659121410392,
-        "variantId": 56929485259096,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "Intel Core Ultra 7 265KF Processor",
-        "productId": 15659118920024,
-        "variantId": 56929476247896,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "Gigabyte GeForce RTX 5070 Ti 16GB Eagle OC Ice SFF",
-        "productId": 15659118297432,
-        "variantId": 56929473724760,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "Corsair RM850e (2025) 850W Full‑Modular Power Supply",
-        "productId": 15659115708760,
-        "variantId": 56929461698904,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -3668,30 +3410,6 @@
         "onHand": 1,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "48462 Magic: The Gathering - Modern Horizons 2 Set Booster Box",
-        "productId": 15661187268952,
-        "variantId": 56938023715160,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "120084 Magic: The Gathering – Edge of Eternities Sami, Wildcat Captain & Tezzeret, Cruel Captain 12-Pocket PRO Album",
-        "productId": 15661187891544,
-        "variantId": 56938026533208,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "116848 Magic: The Gathering - Jumpstart 2022 Booster Box",
-        "productId": 15661188579672,
-        "variantId": 56938032431448,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
       },
       {
         "product": "119397 Scarlet & Violet Black Bolt Zekrom 65-Sleeves — 66 x 91mm / Black / Blue",
@@ -3750,14 +3468,6 @@
         "demand": 1
       },
       {
-        "product": "125900 Pikachu ex - MEGA Dream ex 234/193 NM (Japanese) — 234/193, Near-Mint / Special Illustration Rare",
-        "productId": 15641387860312,
-        "variantId": 56849459020120,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 1
-      },
-      {
         "product": "131342 Boa Hancock - The Best Vol.1 OP01‑078 NM V2 (English) — OP01‑078/V2, Near-Mint / Alternate Art",
         "productId": 15641347326296,
         "variantId": 56849307533656,
@@ -3769,9 +3479,9 @@
         "product": "131514 Royal Blood One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641343590744,
         "variantId": 56849303601496,
-        "onHand": 6,
-        "committed": 2,
-        "demand": 2
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "110182 Scarlet & Violet Night Wanderer Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -3785,9 +3495,9 @@
         "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566216536,
         "variantId": 56849731518808,
-        "onHand": 9,
-        "committed": 4,
-        "demand": 4
+        "onHand": 8,
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "110200 Scarlet & Violet Shiny Treasure ex Booster Pack (Japanese) — 10 cards / Multicolor",
@@ -3809,22 +3519,6 @@
         "product": "Play by Play Hello Kitty 50th Anniversary Pink Plush Toy",
         "productId": 15666812748120,
         "variantId": 56956407447896,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "Apple AirPods Pro 3",
-        "productId": 15338563338584,
-        "variantId": 55853592019288,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "Razer Cobra Pro Wireless Mouse",
-        "productId": 15612707471704,
-        "variantId": 56727394812248,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -3860,6 +3554,14 @@
         "onHand": 3,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+        "productId": 15641337299288,
+        "variantId": 56849296359768,
+        "onHand": 0,
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "125832 Mega Gengar ex - MEGA Dream ex 230/193 NM (Japanese) — 230/193, Near-Mint / Ultra Rare",
@@ -3950,6 +3652,14 @@
         "demand": 1
       },
       {
+        "product": "116848 Magic: The Gathering - Jumpstart 2022 Booster Box",
+        "productId": 15661188579672,
+        "variantId": 56938032431448,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
         "product": "118772 Sigilyph - Scarlet & Violet White Flare 121/086 NM (English) — 121/086, Near-Mint / Illustration Rare",
         "productId": 15641520832856,
         "variantId": 56849666834776,
@@ -4030,14 +3740,6 @@
         "demand": 1
       },
       {
-        "product": "Apple Airpods 4",
-        "productId": 15579554382168,
-        "variantId": 56602249658712,
-        "onHand": 3,
-        "committed": 3,
-        "demand": 3
-      },
-      {
         "product": "109986 Mew ex - Scarlet & Violet 151 151/165 NM (English) — 151/165, Near-Mint / Double Rare",
         "productId": 15641568772440,
         "variantId": 56849736139096,
@@ -4078,14 +3780,6 @@
         "demand": 1
       },
       {
-        "product": "109984 Charmander - Scarlet & Violet Black Star Promos 044/225 (NM) — 044/225, Near-Mint / Promo",
-        "productId": 15641568837976,
-        "variantId": 56849736204632,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "110223 Scarlet & Violet Sleeved Booster Pack (English) — Multicolor / 10 cards",
         "productId": 15643186921816,
         "variantId": 56857168576856,
@@ -4098,6 +3792,14 @@
         "productId": 15641267077464,
         "variantId": 56849191469400,
         "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Logitech G G309 Lightspeed",
+        "productId": 15674107429208,
+        "variantId": 56987698102616,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
@@ -4374,46 +4076,6 @@
         "shortfall": 1
       },
       {
-        "product": "Sony PS5 Slim Digital Edition (EU Plug)",
-        "productId": 15545996083544,
-        "variantId": 56482549170520,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "125900 Pikachu ex - MEGA Dream ex 234/193 NM (Japanese) — 234/193, Near-Mint / Special Illustration Rare",
-        "productId": 15641387860312,
-        "variantId": 56849459020120,
-        "onHand": 1,
-        "committed": 2,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Apple AirPods Pro 3",
-        "productId": 15338563338584,
-        "variantId": 55853592019288,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Razer Cobra Pro Wireless Mouse",
-        "productId": 15612707471704,
-        "variantId": 56727394812248,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "110213 Scarlet & Violet Obsidian Flames Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641565692248,
         "variantId": 56849722802520,
@@ -4437,6 +4099,16 @@
         "product": "Apple MacBook Pro M5 (2025) 14\" 16 GB RAM / 1 TB Black",
         "productId": 15672157176152,
         "variantId": 56981602206040,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Logitech G G309 Lightspeed",
+        "productId": 15674107429208,
+        "variantId": 56987698102616,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
