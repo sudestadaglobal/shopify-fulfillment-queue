@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-30T20:13:49.010Z",
+  "generatedAt": "2026-03-30T22:12:14.694Z",
   "summary": {
-    "totalUnfulfilled": 184,
-    "canFulfill": 29,
-    "blocked": 155
+    "totalUnfulfilled": 195,
+    "canFulfill": 32,
+    "blocked": 163
   },
   "fulfillableOrders": [
     {
@@ -179,6 +179,24 @@
       "name": "#3103",
       "createdAt": "2026-03-30T21:27:43+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12204524470616,
+      "name": "#3106",
+      "createdAt": "2026-03-30T22:33:59+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12204534858072,
+      "name": "#3108",
+      "createdAt": "2026-03-30T22:38:19+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12204597444952,
+      "name": "#3111",
+      "createdAt": "2026-03-30T23:06:31+02:00",
+      "itemCount": 2
     }
   ],
   "blockedOrders": [
@@ -2932,6 +2950,162 @@
           "needed": 2
         }
       ]
+    },
+    {
+      "id": 12204527845720,
+      "name": "#3107",
+      "customerName": "steven Stinissen",
+      "createdAt": "2026-03-30T22:35:26+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12204539707736,
+      "name": "#3109",
+      "customerName": "JAVIER Barragan",
+      "createdAt": "2026-03-30T22:41:26+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "132244 Jinbe - The Azure Sea's Seven OP14‑040 V2 NM (English) — OP14‑040/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131438 Promotion Pack 2022 One Piece Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131592 Paramount War One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12204577096024,
+      "name": "#3110",
+      "customerName": "Jackson Bauer",
+      "createdAt": "2026-03-30T22:57:26+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "119123 Beartic - Scarlet & Violet Black Bolt 110/086 NM (English) — 110/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119213 Braviary - Scarlet & Violet Black Bolt 155/086 NM (English) — 155/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12204607340888,
+      "name": "#3112",
+      "customerName": "Ben Flanagan",
+      "createdAt": "2026-03-30T23:10:42+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "125828 MEGA Dream ex Booster Box 10 Booster Packs (Japanese) — 10 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12204611830104,
+      "name": "#3113",
+      "customerName": "Suzan Sukiasyan",
+      "createdAt": "2026-03-30T23:12:48+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "118672 Victini - Scarlet & Violet White Flare 172/086 NM (English) — 172/086, Near-Mint / Double Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12204637454680,
+      "name": "#3114",
+      "customerName": "Luis Mesa Provencio",
+      "createdAt": "2026-03-30T23:24:11+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "110062 Scarlet & Violet Twilight Masquerade Booster Box 36 pack (English) — 36 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12204660523352,
+      "name": "#3115",
+      "customerName": "Scott Smith",
+      "createdAt": "2026-03-30T23:34:27+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 5,
+          "needed": 1
+        },
+        {
+          "product": "134040 Mega Evolution Perfect Order Booster Box 36 Booster Packs (English) Pre‑order",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12204674253144,
+      "name": "#3116",
+      "customerName": "Karl Olov Hällström",
+      "createdAt": "2026-03-30T23:41:19+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "136087 2022 World Championships Deck Rikuto Ohashi Ice Rider Palkia (English) — 60 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "136101 MEGA Start Deck 100 Battle Collection (Japanese) — 60 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2949,8 +3123,8 @@
         "productId": 15641336906072,
         "variantId": 56849295966552,
         "onHand": 8,
-        "committed": 11,
-        "demand": 11
+        "committed": 12,
+        "demand": 12
       },
       {
         "product": "Scarlet & Violet Prismatic Evolutions Sylveon Mini Tin 2 Booster Pack (English)",
@@ -3165,8 +3339,8 @@
         "productId": 15642773913944,
         "variantId": 56856323359064,
         "onHand": 0,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "134030 Legacy of the Master One Piece Booster Pack (English) — 12 Cards / Green",
@@ -3853,8 +4027,8 @@
         "productId": 15657433923928,
         "variantId": 56922650935640,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
@@ -4069,8 +4243,8 @@
         "productId": 15641337299288,
         "variantId": 56849296359768,
         "onHand": 0,
-        "committed": 9,
-        "demand": 9
+        "committed": 10,
+        "demand": 10
       },
       {
         "product": "125832 Mega Gengar ex - MEGA Dream ex 230/193 NM (Japanese) — 230/193, Near-Mint / Ultra Rare",
@@ -4365,8 +4539,8 @@
         "productId": 15641389039960,
         "variantId": 56849460199768,
         "onHand": 3,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "127894 Yamato - Carrying on His Will OP13‑054 V2 NM (English) — OP13‑054/V2, Near-Mint / Alternate Art",
@@ -4639,6 +4813,102 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131456 Winner Pack 2024 Oct‑Dec One Piece Booster Pack (English) — 1 card / black / white",
+        "productId": 15650758066520,
+        "variantId": 56886286483800,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132244 Jinbe - The Azure Sea's Seven OP14‑040 V2 NM (English) — OP14‑040/V2, Near-Mint / Alternate Art",
+        "productId": 15641325011288,
+        "variantId": 56849279517016,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131592 Paramount War One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Multicolor",
+        "productId": 15641340707160,
+        "variantId": 56849300226392,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119123 Beartic - Scarlet & Violet Black Bolt 110/086 NM (English) — 110/086, Near-Mint / Illustration Rare",
+        "productId": 15641514180952,
+        "variantId": 56849656152408,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119213 Braviary - Scarlet & Violet Black Bolt 155/086 NM (English) — 155/086, Near-Mint / Illustration Rare",
+        "productId": 15641512345944,
+        "variantId": 56849653301592,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "118672 Victini - Scarlet & Violet White Flare 172/086 NM (English) — 172/086, Near-Mint / Double Rare",
+        "productId": 15641522831704,
+        "variantId": 56849669325144,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110062 Scarlet & Violet Twilight Masquerade Booster Box 36 pack (English) — 36 booster pack / Multicolor",
+        "productId": 15641567461720,
+        "variantId": 56849733484888,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116760 Scarlet & Violet Destined Rivals Build & Battle Kit (English) — 3 Booster pack, 40 cards / Multicolor",
+        "productId": 15641523388760,
+        "variantId": 56849676140888,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "136087 2022 World Championships Deck Rikuto Ohashi Ice Rider Palkia (English) — 60 cards / Multicolor",
+        "productId": 15641266684248,
+        "variantId": 56849190879576,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+        "productId": 15641268355416,
+        "variantId": 56849193173336,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "136101 MEGA Start Deck 100 Battle Collection (Japanese) — 60 cards / Multicolor",
+        "productId": 15641266127192,
+        "variantId": 56849190027608,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
+        "productId": 15641321341272,
+        "variantId": 56849271554392,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -4693,6 +4963,16 @@
         "shortfall": 6
       },
       {
+        "product": "134040 Mega Evolution Perfect Order Booster Box 36 Booster Packs (English) Pre‑order",
+        "productId": 15642773913944,
+        "variantId": 56856323359064,
+        "onHand": 0,
+        "committed": 4,
+        "incoming": 0,
+        "available": -4,
+        "shortfall": 4
+      },
+      {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336775000,
         "variantId": 56849295835480,
@@ -4706,16 +4986,6 @@
         "product": "134042 Mega Evolution Perfect Order Sleeved Booster Pack (English) Pre‑order — Multicolor",
         "productId": 15642611810648,
         "variantId": 56855474143576,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 0,
-        "available": -3,
-        "shortfall": 3
-      },
-      {
-        "product": "134040 Mega Evolution Perfect Order Booster Box 36 Booster Packs (English) Pre‑order",
-        "productId": 15642773913944,
-        "variantId": 56856323359064,
         "onHand": 0,
         "committed": 3,
         "incoming": 0,
