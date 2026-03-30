@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-30T18:13:18.002Z",
+  "generatedAt": "2026-03-30T20:13:49.010Z",
   "summary": {
-    "totalUnfulfilled": 175,
-    "canFulfill": 27,
-    "blocked": 148
+    "totalUnfulfilled": 184,
+    "canFulfill": 29,
+    "blocked": 155
   },
   "fulfillableOrders": [
     {
@@ -166,6 +166,18 @@
       "id": 12203084218712,
       "name": "#3090",
       "createdAt": "2026-03-30T03:41:05+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12204345983320,
+      "name": "#3102",
+      "createdAt": "2026-03-30T21:26:04+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12204350341464,
+      "name": "#3103",
+      "createdAt": "2026-03-30T21:27:43+02:00",
       "itemCount": 1
     }
   ],
@@ -2791,6 +2803,135 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12204239978840,
+      "name": "#3097",
+      "customerName": "Chad Taylor",
+      "createdAt": "2026-03-30T20:46:45+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12204262359384,
+      "name": "#3098",
+      "customerName": "Fabian Langguth",
+      "createdAt": "2026-03-30T20:55:16+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "131546 Tournament Pack 2025 Vol.1 One Piece Booster Pack (English) — 1 card / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12204289229144,
+      "name": "#3099",
+      "customerName": "Tobias Eckl",
+      "createdAt": "2026-03-30T21:05:03+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "113534 Scarlet & Violet Prismatic Evolutions Mini Tin Display 8 Booster Pack (English) — 8 Mini Tin, 2 booster pack, 1 coin each / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12204301648216,
+      "name": "#3100",
+      "customerName": "Krzysztof Jeśka",
+      "createdAt": "2026-03-30T21:09:48+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12204314558808,
+      "name": "#3101",
+      "customerName": "Taaf Stroo",
+      "createdAt": "2026-03-30T21:14:23+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "120825 Pikachu & Zekrom GX - Sun & Moon Team Up 033/181 NM (English) — 33/181, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "120805 Eevee & Snorlax GX - Sun & Moon Team Up 171/181 NM (English) — 171/181, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "124054 Mega Charizard X ex - Phantasmal Flames 125/094 NM (English) — 125/094, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12204354896216,
+      "name": "#3104",
+      "customerName": "David Markert",
+      "createdAt": "2026-03-30T21:29:18+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131606 500 Years into the Future One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12204449726808,
+      "name": "#3105",
+      "customerName": "Kevin Jansen",
+      "createdAt": "2026-03-30T22:04:47+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "119397 Scarlet & Violet Black Bolt Zekrom 65-Sleeves — 66 x 91mm / Black / Blue",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 2
+        },
+        {
+          "product": "119039 Scarlet & Violet White Flare Reshiram 65-Sleeves — 66 x 91 mm / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2840,8 +2981,8 @@
         "productId": 15641336840536,
         "variantId": 56849295901016,
         "onHand": 7,
-        "committed": 5,
-        "demand": 5
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -2864,8 +3005,8 @@
         "productId": 15642608370008,
         "variantId": 56855458120024,
         "onHand": 4,
-        "committed": 18,
-        "demand": 19
+        "committed": 19,
+        "demand": 20
       },
       {
         "product": "134042 Mega Evolution Perfect Order Sleeved Booster Pack (English) Pre‑order — Multicolor",
@@ -2968,16 +3109,16 @@
         "productId": 15642692911448,
         "variantId": 56856050270552,
         "onHand": 0,
-        "committed": 25,
-        "demand": 25
+        "committed": 26,
+        "demand": 26
       },
       {
         "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
         "productId": 15641340051800,
         "variantId": 56849299571032,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "Swanna – Scarlet & Violet White Flare 110/173 NM (English)",
@@ -3448,8 +3589,8 @@
         "productId": 15641342247256,
         "variantId": 56849302028632,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "130768 Charlotte Pudding - The Best Vol.2 PRB02‑010 NM V2 (English) — PRB02‑010/V2, Near-Mint / Alternate Art",
@@ -3784,24 +3925,24 @@
         "productId": 15641508348248,
         "variantId": 56849646485848,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "119039 Scarlet & Violet White Flare Reshiram 65-Sleeves — 66 x 91 mm / Multicolor",
         "productId": 15641515917656,
         "variantId": 56849658806616,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "124034 Phantasmal Flames Mega Charizard X ex 65-Sleeves (English) — Standard (66x91mm) / Blue",
         "productId": 15641487638872,
         "variantId": 56849614373208,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119901 Scarlet & Violet 151 65-Sleeves — 66 x 91 mm / Multicolor",
@@ -4458,6 +4599,46 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "113534 Scarlet & Violet Prismatic Evolutions Mini Tin Display 8 Booster Pack (English) — 8 Mini Tin, 2 booster pack, 1 coin each / Multicolor",
+        "productId": 15641562644824,
+        "variantId": 56849718051160,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "120825 Pikachu & Zekrom GX - Sun & Moon Team Up 033/181 NM (English) — 33/181, Near-Mint / Ultra Rare",
+        "productId": 15641500451160,
+        "variantId": 56849634558296,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "120805 Eevee & Snorlax GX - Sun & Moon Team Up 171/181 NM (English) — 171/181, Near-Mint / Ultra Rare",
+        "productId": 15641500778840,
+        "variantId": 56849634885976,
+        "onHand": 0,
+        "committed": 0,
+        "demand": 1
+      },
+      {
+        "product": "124054 Mega Charizard X ex - Phantasmal Flames 125/094 NM (English) — 125/094, Near-Mint / Special Illustration Rare",
+        "productId": 15641486950744,
+        "variantId": 56849613652312,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131606 500 Years into the Future One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+        "productId": 15641340182872,
+        "variantId": 56849299702104,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -4466,10 +4647,10 @@
         "productId": 15642692911448,
         "variantId": 56856050270552,
         "onHand": 0,
-        "committed": 25,
+        "committed": 26,
         "incoming": 10,
-        "available": -25,
-        "shortfall": 15
+        "available": -26,
+        "shortfall": 16
       },
       {
         "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -4506,10 +4687,10 @@
         "productId": 15642608370008,
         "variantId": 56855458120024,
         "onHand": 4,
-        "committed": 18,
+        "committed": 19,
         "incoming": 9,
-        "available": -14,
-        "shortfall": 5
+        "available": -15,
+        "shortfall": 6
       },
       {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
