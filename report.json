@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-30T10:53:37.925Z",
+  "generatedAt": "2026-03-30T15:00:52.070Z",
   "summary": {
-    "totalUnfulfilled": 174,
-    "canFulfill": 20,
-    "blocked": 154
+    "totalUnfulfilled": 175,
+    "canFulfill": 22,
+    "blocked": 153
   },
   "fulfillableOrders": [
     {
@@ -22,6 +22,12 @@
       "id": 12077797769560,
       "name": "#2631",
       "createdAt": "2026-02-19T15:27:38+01:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12097274184024,
+      "name": "#2794",
+      "createdAt": "2026-03-04T01:54:59+01:00",
       "itemCount": 2
     },
     {
@@ -53,6 +59,12 @@
       "name": "#2999",
       "createdAt": "2026-03-20T16:06:14+01:00",
       "itemCount": 1
+    },
+    {
+      "id": 12192209240408,
+      "name": "#3029",
+      "createdAt": "2026-03-24T00:06:34+01:00",
+      "itemCount": 3
     },
     {
       "id": 12199370096984,
@@ -1083,21 +1095,6 @@
       ]
     },
     {
-      "id": 12097274184024,
-      "name": "#2794",
-      "customerName": "Brandon Bento",
-      "createdAt": "2026-03-04T01:54:59+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "51281 Magic: The Gathering – Edge of Eternities Play Booster (EN) — 1 Booster",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12098145976664,
       "name": "#2812",
       "customerName": "Mumin Altan",
@@ -1211,21 +1208,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
-        }
-      ]
-    },
-    {
-      "id": 12101339087192,
-      "name": "#2836",
-      "customerName": "",
-      "createdAt": "2026-03-06T17:09:56+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "51281 Magic: The Gathering – Edge of Eternities Play Booster (EN) — 1 Booster",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -2163,33 +2145,6 @@
       ]
     },
     {
-      "id": 12192209240408,
-      "name": "#3029",
-      "customerName": "Mumin Altan",
-      "createdAt": "2026-03-24T00:06:34+01:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "113488 Leafeon ex - Scarlet & Violet Prismatic Evolution 144/131 NM (English) — 144/131, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "113493 Vaporeon ex - Scarlet & Violet Prismatic Evolution 149/131 NM (English) — 149/131, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "113491 Flareon ex - Scarlet & Violet Prismatic Evolution 146/131 NM (English) — 146/131, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12192213860696,
       "name": "#3030",
       "customerName": "lucas angelotti",
@@ -2863,6 +2818,36 @@
           "needed": 8
         }
       ]
+    },
+    {
+      "id": 12203691245912,
+      "name": "#3095",
+      "customerName": "Kevin Hau",
+      "createdAt": "2026-03-30T14:43:49+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Apple Airpods 4",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12203769790808,
+      "name": "#3096",
+      "customerName": "Walter Bengtsson",
+      "createdAt": "2026-03-30T15:38:17+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Nintendo Switch 2 - Mario Kart World Bundle",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3319,9 +3304,9 @@
         "product": "51281 Magic: The Gathering – Edge of Eternities Play Booster (EN) — 1 Booster",
         "productId": 15643918205272,
         "variantId": 56858861502808,
-        "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "113494 Roaring Moon ex - Scarlet & Violet Prismatic Evolution 162/131 NM (English) — 162/131, Near-Mint / Special Illustration Rare",
@@ -4071,7 +4056,7 @@
         "product": "113488 Leafeon ex - Scarlet & Violet Prismatic Evolution 144/131 NM (English) — 144/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563595096,
         "variantId": 56849719492952,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -4079,7 +4064,7 @@
         "product": "113493 Vaporeon ex - Scarlet & Violet Prismatic Evolution 149/131 NM (English) — 149/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563464024,
         "variantId": 56849719034200,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -4087,7 +4072,7 @@
         "product": "113491 Flareon ex - Scarlet & Violet Prismatic Evolution 146/131 NM (English) — 146/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563496792,
         "variantId": 56849719394648,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -4530,6 +4515,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Apple Airpods 4",
+        "productId": 15579554382168,
+        "variantId": 56602249658712,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Nintendo Switch 2 - Mario Kart World Bundle",
+        "productId": 15120406643032,
+        "variantId": 55021154959704,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -4624,16 +4625,6 @@
         "shortfall": 2
       },
       {
-        "product": "51281 Magic: The Gathering – Edge of Eternities Play Booster (EN) — 1 Booster",
-        "productId": 15643918205272,
-        "variantId": 56858861502808,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
         "product": "134048 Mega Evolution Perfect Order Meganium Premium Checklane Blister Booster Pack (English) Pre‑order — 10 cards / Multicolor",
         "productId": 15643927413080,
         "variantId": 56858946273624,
@@ -4657,16 +4648,6 @@
         "product": "110044 Sword & Shield VMAX Climax Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
         "productId": 15641567691096,
         "variantId": 56849733714264,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
-        "productId": 15641340051800,
-        "variantId": 56849299571032,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -4827,6 +4808,26 @@
         "product": "Logitech G G309 Lightspeed",
         "productId": 15674107429208,
         "variantId": 56987698102616,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Apple Airpods 4",
+        "productId": 15579554382168,
+        "variantId": 56602249658712,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Nintendo Switch 2 - Mario Kart World Bundle",
+        "productId": 15120406643032,
+        "variantId": 55021154959704,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
