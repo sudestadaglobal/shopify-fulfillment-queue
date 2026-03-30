@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-30T15:00:52.070Z",
+  "generatedAt": "2026-03-30T18:13:18.002Z",
   "summary": {
     "totalUnfulfilled": 175,
-    "canFulfill": 22,
-    "blocked": 153
+    "canFulfill": 27,
+    "blocked": 148
   },
   "fulfillableOrders": [
     {
@@ -31,10 +31,22 @@
       "itemCount": 2
     },
     {
+      "id": 12099523936600,
+      "name": "#2827",
+      "createdAt": "2026-03-05T16:05:30+01:00",
+      "itemCount": 2
+    },
+    {
       "id": 12107625005400,
       "name": "#2874",
       "createdAt": "2026-03-10T20:11:25+01:00",
       "itemCount": 2
+    },
+    {
+      "id": 12107711578456,
+      "name": "#2879",
+      "createdAt": "2026-03-10T21:10:25+01:00",
+      "itemCount": 1
     },
     {
       "id": 12153358090584,
@@ -49,6 +61,12 @@
       "itemCount": 1
     },
     {
+      "id": 12183087120728,
+      "name": "#2962",
+      "createdAt": "2026-03-17T17:44:57+01:00",
+      "itemCount": 1
+    },
+    {
       "id": 12187410989400,
       "name": "#2996",
       "createdAt": "2026-03-20T15:21:04+01:00",
@@ -58,6 +76,18 @@
       "id": 12187473838424,
       "name": "#2999",
       "createdAt": "2026-03-20T16:06:14+01:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12191564431704,
+      "name": "#3011",
+      "createdAt": "2026-03-23T15:58:51+01:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12192177389912,
+      "name": "#3026",
+      "createdAt": "2026-03-23T23:25:37+01:00",
       "itemCount": 1
     },
     {
@@ -643,12 +673,6 @@
           "needed": 5
         },
         {
-          "product": "134044 Mega Evolution Perfect Order Chikorita Blister 3 Booster Packs (English) Pre‑order",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "134040 Mega Evolution Perfect Order Booster Box 36 Booster Packs (English) Pre‑order",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -814,7 +838,7 @@
       "name": "#2686",
       "customerName": "eric weiss",
       "createdAt": "2026-02-24T20:24:15+01:00",
-      "itemCount": 5,
+      "itemCount": 6,
       "reasons": [
         {
           "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (English) — 175/165, Near-Mint / Illustration Rare",
@@ -1161,21 +1185,6 @@
       ]
     },
     {
-      "id": 12099523936600,
-      "name": "#2827",
-      "customerName": "Damian Meza",
-      "createdAt": "2026-03-05T16:05:30+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "134044 Mega Evolution Perfect Order Chikorita Blister 3 Booster Packs (English) Pre‑order",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12099540418904,
       "name": "#2828",
       "customerName": "james paul",
@@ -1270,12 +1279,6 @@
       "itemCount": 2,
       "reasons": [
         {
-          "product": "134044 Mega Evolution Perfect Order Chikorita Blister 3 Booster Packs (English) Pre‑order",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1292,21 +1295,6 @@
       "reasons": [
         {
           "product": "131546 Tournament Pack 2025 Vol.1 One Piece Booster Pack (English) — 1 card / Black / White",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12107711578456,
-      "name": "#2879",
-      "customerName": "Ricards Sandris Megi",
-      "createdAt": "2026-03-10T21:10:25+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "134044 Mega Evolution Perfect Order Chikorita Blister 3 Booster Packs (English) Pre‑order",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1686,21 +1674,6 @@
       ]
     },
     {
-      "id": 12183087120728,
-      "name": "#2962",
-      "customerName": "Tyler Jasperson",
-      "createdAt": "2026-03-17T17:44:57+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "134044 Mega Evolution Perfect Order Chikorita Blister 3 Booster Packs (English) Pre‑order",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12184492114264,
       "name": "#2971",
       "customerName": "Ryan Christiaanse",
@@ -1787,8 +1760,8 @@
       "reasons": [
         {
           "product": "134044 Mega Evolution Perfect Order Chikorita Blister 3 Booster Packs (English) Pre‑order",
-          "reason": "Insufficient stock",
-          "stock": 0,
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 7,
           "needed": 1
         }
       ]
@@ -1980,21 +1953,6 @@
       ]
     },
     {
-      "id": 12191564431704,
-      "name": "#3011",
-      "customerName": "Alexandre Martins",
-      "createdAt": "2026-03-23T15:58:51+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "127670 Carrying on His Will One Piece Booster Pack (English) — 12 cards / Red",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12191615123800,
       "name": "#3013",
       "customerName": "Erik Moen",
@@ -2102,21 +2060,6 @@
       "reasons": [
         {
           "product": "125864 Mega Dragonite ex - MEGA Dream ex 232/193 NM (Japanese) — 232/193, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12192177389912,
-      "name": "#3026",
-      "customerName": "Dwayne Saunders",
-      "createdAt": "2026-03-23T23:25:37+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "127670 Carrying on His Will One Piece Booster Pack (English) — 12 cards / Red",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2633,8 +2576,8 @@
         },
         {
           "product": "127670 Carrying on His Will One Piece Booster Pack (English) — 12 cards / Red",
-          "reason": "Insufficient stock",
-          "stock": 0,
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 8,
           "needed": 2
         }
       ]
@@ -3077,14 +3020,6 @@
         "demand": 1
       },
       {
-        "product": "134044 Mega Evolution Perfect Order Chikorita Blister 3 Booster Packs (English) Pre‑order",
-        "productId": 15642769260888,
-        "variantId": 56856313463128,
-        "onHand": 0,
-        "committed": 6,
-        "demand": 6
-      },
-      {
         "product": "134040 Mega Evolution Perfect Order Booster Box 36 Booster Packs (English) Pre‑order",
         "productId": 15642773913944,
         "variantId": 56856323359064,
@@ -3121,7 +3056,7 @@
         "productId": 15642852000088,
         "variantId": 56856452333912,
         "onHand": 0,
-        "committed": 1,
+        "committed": 0,
         "demand": 1
       },
       {
@@ -3169,7 +3104,7 @@
         "productId": 15641506021720,
         "variantId": 56849643405656,
         "onHand": 0,
-        "committed": 2,
+        "committed": 1,
         "demand": 2
       },
       {
@@ -3267,14 +3202,6 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "127670 Carrying on His Will One Piece Booster Pack (English) — 12 cards / Red",
-        "productId": 15641380487512,
-        "variantId": 56849450402136,
-        "onHand": 2,
-        "committed": 7,
-        "demand": 7
       },
       {
         "product": "131402 DON!! Card Pack Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -4658,26 +4585,6 @@
         "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563627864,
         "variantId": 56849719525720,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "128078 Charizard - XY Promos 280/XY‑P MT (Japanese) — 280/XY-P Near-Mint / Promo",
-        "productId": 15642852000088,
-        "variantId": 56856452333912,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (English) — 175/165, Near-Mint / Illustration Rare",
-        "productId": 15641506021720,
-        "variantId": 56849643405656,
         "onHand": 0,
         "committed": 2,
         "incoming": 1,
