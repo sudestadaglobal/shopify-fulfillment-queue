@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-03-30T22:12:14.694Z",
+  "generatedAt": "2026-03-31T00:04:20.760Z",
   "summary": {
-    "totalUnfulfilled": 195,
-    "canFulfill": 32,
+    "totalUnfulfilled": 196,
+    "canFulfill": 33,
     "blocked": 163
   },
   "fulfillableOrders": [
@@ -136,13 +136,13 @@
       "id": 12199562314072,
       "name": "#3073",
       "createdAt": "2026-03-27T18:30:12+01:00",
-      "itemCount": 1
+      "itemCount": 2
     },
     {
       "id": 12203067638104,
       "name": "#3082",
       "createdAt": "2026-03-30T02:35:59+02:00",
-      "itemCount": 1
+      "itemCount": 2
     },
     {
       "id": 12203068719448,
@@ -160,7 +160,7 @@
       "id": 12203082613080,
       "name": "#3088",
       "createdAt": "2026-03-30T03:33:03+02:00",
-      "itemCount": 2
+      "itemCount": 3
     },
     {
       "id": 12203084218712,
@@ -196,6 +196,12 @@
       "id": 12204597444952,
       "name": "#3111",
       "createdAt": "2026-03-30T23:06:31+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12204772458840,
+      "name": "#3117",
+      "createdAt": "2026-03-31T00:58:27+02:00",
       "itemCount": 2
     }
   ],
@@ -652,7 +658,7 @@
       "name": "#2587",
       "customerName": "William Jones",
       "createdAt": "2026-02-16T20:16:49+01:00",
-      "itemCount": 4,
+      "itemCount": 6,
       "reasons": [
         {
           "product": "Swanna – Scarlet & Violet White Flare 110/173 NM (English)",
@@ -668,6 +674,18 @@
         },
         {
           "product": "118750 Swanna - Scarlet & Violet White Flare 110/086 NM (English) — 110/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "118752 Vanillite - Scarlet & Violet White Flare 111/086 NM (English) — 111/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "124108 Dewgong - Phantasmal Flames 097/094 NM (English) — 097/094, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1579,7 +1597,7 @@
       "name": "#2946",
       "customerName": "Mike van Vianen",
       "createdAt": "2026-03-16T19:04:32+01:00",
-      "itemCount": 5,
+      "itemCount": 6,
       "reasons": [
         {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
@@ -1708,7 +1726,7 @@
       "name": "#2971",
       "customerName": "Ryan Christiaanse",
       "createdAt": "2026-03-18T14:15:14+01:00",
-      "itemCount": 3,
+      "itemCount": 4,
       "reasons": [
         {
           "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -1882,7 +1900,7 @@
       "name": "#2994",
       "customerName": "Tobias Eckl",
       "createdAt": "2026-03-20T14:34:40+01:00",
-      "itemCount": 1,
+      "itemCount": 2,
       "reasons": [
         {
           "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
@@ -1987,7 +2005,7 @@
       "name": "#3013",
       "customerName": "Erik Moen",
       "createdAt": "2026-03-23T16:23:29+01:00",
-      "itemCount": 1,
+      "itemCount": 2,
       "reasons": [
         {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
@@ -2332,7 +2350,7 @@
       "name": "#3054",
       "customerName": "steven Stinissen",
       "createdAt": "2026-03-25T20:54:39+01:00",
-      "itemCount": 1,
+      "itemCount": 2,
       "reasons": [
         {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
@@ -2362,7 +2380,7 @@
       "name": "#3057",
       "customerName": "Leonidas Bairaktaris",
       "createdAt": "2026-03-26T23:31:31+01:00",
-      "itemCount": 2,
+      "itemCount": 3,
       "reasons": [
         {
           "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
@@ -2494,7 +2512,7 @@
       "name": "#3075",
       "customerName": "Zoel von Hessberg",
       "createdAt": "2026-03-30T01:58:39+02:00",
-      "itemCount": 1,
+      "itemCount": 2,
       "reasons": [
         {
           "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
@@ -2617,7 +2635,7 @@
       "name": "#3084",
       "customerName": "Boban Dimeski",
       "createdAt": "2026-03-30T02:44:37+02:00",
-      "itemCount": 2,
+      "itemCount": 3,
       "reasons": [
         {
           "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
@@ -2782,7 +2800,7 @@
       "name": "#3094",
       "customerName": "Rodney Le",
       "createdAt": "2026-03-30T04:03:13+02:00",
-      "itemCount": 1,
+      "itemCount": 2,
       "reasons": [
         {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
@@ -2878,7 +2896,7 @@
       "name": "#3100",
       "customerName": "Krzysztof Jeśka",
       "createdAt": "2026-03-30T21:09:48+02:00",
-      "itemCount": 1,
+      "itemCount": 2,
       "reasons": [
         {
           "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
@@ -2893,7 +2911,7 @@
       "name": "#3101",
       "customerName": "Taaf Stroo",
       "createdAt": "2026-03-30T21:14:23+02:00",
-      "itemCount": 4,
+      "itemCount": 5,
       "reasons": [
         {
           "product": "120825 Pikachu & Zekrom GX - Sun & Moon Team Up 033/181 NM (English) — 33/181, Near-Mint / Ultra Rare",
@@ -2920,7 +2938,7 @@
       "name": "#3104",
       "customerName": "David Markert",
       "createdAt": "2026-03-30T21:29:18+02:00",
-      "itemCount": 1,
+      "itemCount": 2,
       "reasons": [
         {
           "product": "131606 500 Years into the Future One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
@@ -3034,7 +3052,7 @@
       "name": "#3113",
       "customerName": "Suzan Sukiasyan",
       "createdAt": "2026-03-30T23:12:48+02:00",
-      "itemCount": 1,
+      "itemCount": 2,
       "reasons": [
         {
           "product": "118672 Victini - Scarlet & Violet White Flare 172/086 NM (English) — 172/086, Near-Mint / Double Rare",
@@ -3064,7 +3082,7 @@
       "name": "#3115",
       "customerName": "Scott Smith",
       "createdAt": "2026-03-30T23:34:27+02:00",
-      "itemCount": 3,
+      "itemCount": 4,
       "reasons": [
         {
           "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
@@ -3315,7 +3333,23 @@
         "productId": 15641521193304,
         "variantId": 56849667227992,
         "onHand": 0,
-        "committed": 1,
+        "committed": 0,
+        "demand": 1
+      },
+      {
+        "product": "118752 Vanillite - Scarlet & Violet White Flare 111/086 NM (English) — 111/086, Near-Mint / Illustration Rare",
+        "productId": 15641521160536,
+        "variantId": 56849667195224,
+        "onHand": 0,
+        "committed": 0,
+        "demand": 1
+      },
+      {
+        "product": "124108 Dewgong - Phantasmal Flames 097/094 NM (English) — 097/094, Near-Mint / Illustration Rare",
+        "productId": 15641484624216,
+        "variantId": 56849608999256,
+        "onHand": 0,
+        "committed": 0,
         "demand": 1
       },
       {
@@ -4235,8 +4269,8 @@
         "productId": 15641508512088,
         "variantId": 56849646649688,
         "onHand": 3,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
