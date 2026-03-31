@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-31T16:20:11.920Z",
+  "generatedAt": "2026-03-31T19:49:41.445Z",
   "summary": {
-    "totalUnfulfilled": 170,
-    "canFulfill": 29,
-    "blocked": 141
+    "totalUnfulfilled": 178,
+    "canFulfill": 31,
+    "blocked": 147
   },
   "fulfillableOrders": [
     {
@@ -178,6 +178,18 @@
       "id": 12205402915160,
       "name": "#3122",
       "createdAt": "2026-03-31T14:10:54+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12205766246744,
+      "name": "#3126",
+      "createdAt": "2026-03-31T18:25:25+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12205805076824,
+      "name": "#3128",
+      "createdAt": "2026-03-31T18:53:34+02:00",
       "itemCount": 1
     }
   ],
@@ -2692,6 +2704,96 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12205759922520,
+      "name": "#3125",
+      "customerName": "Ricards Sandris Megi",
+      "createdAt": "2026-03-31T18:21:07+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 2,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12205776109912,
+      "name": "#3127",
+      "customerName": "Bas Oost",
+      "createdAt": "2026-03-31T18:32:39+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12205808517464,
+      "name": "#3129",
+      "customerName": "Matthias Kurath",
+      "createdAt": "2026-03-31T18:56:06+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "118770 Swoobat - Scarlet & Violet White Flare 120/086 NM (English) — 120/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12205819330904,
+      "name": "#3130",
+      "customerName": "gerard valentin sancho",
+      "createdAt": "2026-03-31T19:04:41+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12205962821976,
+      "name": "#3131",
+      "customerName": "Max Hörner",
+      "createdAt": "2026-03-31T20:44:42+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "131512 Emperors in the New World One Piece Booster Pack (English) — 12 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 3,
+          "needed": 19
+        }
+      ]
+    },
+    {
+      "id": 12205979271512,
+      "name": "#3132",
+      "customerName": "Leonidas Bairaktaris",
+      "createdAt": "2026-03-31T20:55:27+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "110062 Scarlet & Violet Twilight Masquerade Booster Box 36 pack (English) — 36 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2733,7 +2835,7 @@
         "productId": 15641336840536,
         "variantId": 56849295901016,
         "onHand": 6,
-        "committed": 5,
+        "committed": 6,
         "demand": 5
       },
       {
@@ -2869,8 +2971,8 @@
         "productId": 15642692911448,
         "variantId": 56856050270552,
         "onHand": 5,
-        "committed": 21,
-        "demand": 21
+        "committed": 22,
+        "demand": 22
       },
       {
         "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
@@ -3013,8 +3115,8 @@
         "productId": 15641523421528,
         "variantId": 56849676173656,
         "onHand": 3,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (English) — 175/165, Near-Mint / Illustration Rare",
@@ -3125,8 +3227,8 @@
         "productId": 15641380487512,
         "variantId": 56849450402136,
         "onHand": 9,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "131402 DON!! Card Pack Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -3294,7 +3396,7 @@
         "variantId": 56849303667032,
         "onHand": 3,
         "committed": 1,
-        "demand": 1
+        "demand": 20
       },
       {
         "product": "131524 Two Legends One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -3349,7 +3451,7 @@
         "productId": 15641342247256,
         "variantId": 56849302028632,
         "onHand": 0,
-        "committed": 3,
+        "committed": 4,
         "demand": 3
       },
       {
@@ -3701,8 +3803,8 @@
         "productId": 15641566216536,
         "variantId": 56849731518808,
         "onHand": 8,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "124048 Mega Lopunny ex - Phantasmal Flames 128/094 NM (English) — 128/094, Near-Mint / Special Illustration Rare",
@@ -3741,8 +3843,8 @@
         "productId": 15641560842584,
         "variantId": 56849715429720,
         "onHand": 6,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
@@ -3757,8 +3859,8 @@
         "productId": 15641337299288,
         "variantId": 56849296359768,
         "onHand": 0,
-        "committed": 10,
-        "demand": 10
+        "committed": 11,
+        "demand": 11
       },
       {
         "product": "125832 Mega Gengar ex - MEGA Dream ex 230/193 NM (Japanese) — 230/193, Near-Mint / Ultra Rare",
@@ -3821,8 +3923,8 @@
         "productId": 15641503891800,
         "variantId": 56849639604568,
         "onHand": 2,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "116768 Scarlet & Violet Destined Rivals Zarude 1 Booster Pack Blister (English) — 1 Booster pack, 3 cards / Multicolor",
@@ -4349,8 +4451,8 @@
         "productId": 15641567461720,
         "variantId": 56849733484888,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "116760 Scarlet & Violet Destined Rivals Build & Battle Kit (English) — 3 Booster pack, 40 cards / Multicolor",
@@ -4431,6 +4533,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "118770 Swoobat - Scarlet & Violet White Flare 120/086 NM (English) — 120/086, Near-Mint / Illustration Rare",
+        "productId": 15641520865624,
+        "variantId": 56849666867544,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
+        "productId": 15641380454744,
+        "variantId": 56849450369368,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -4439,10 +4557,10 @@
         "productId": 15642692911448,
         "variantId": 56856050270552,
         "onHand": 5,
-        "committed": 21,
+        "committed": 22,
         "incoming": 0,
-        "available": -16,
-        "shortfall": 16
+        "available": -17,
+        "shortfall": 17
       },
       {
         "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
