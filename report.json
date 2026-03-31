@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-31T11:25:53.860Z",
+  "generatedAt": "2026-03-31T12:14:36.060Z",
   "summary": {
-    "totalUnfulfilled": 163,
-    "canFulfill": 19,
-    "blocked": 144
+    "totalUnfulfilled": 167,
+    "canFulfill": 20,
+    "blocked": 147
   },
   "fulfillableOrders": [
     {
@@ -119,6 +119,12 @@
       "name": "#3117",
       "createdAt": "2026-03-31T00:58:27+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12205342294360,
+      "name": "#3118",
+      "createdAt": "2026-03-31T13:29:12+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -2731,6 +2737,51 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12205348159832,
+      "name": "#3119",
+      "customerName": "Erik Moen",
+      "createdAt": "2026-03-31T13:32:24+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "110293 XY Generations Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12205377421656,
+      "name": "#3120",
+      "customerName": "Jacob Gracan",
+      "createdAt": "2026-03-31T13:53:19+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
+        }
+      ]
+    },
+    {
+      "id": 12205396885848,
+      "name": "#3121",
+      "customerName": "arturs Baltins",
+      "createdAt": "2026-03-31T14:07:05+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131602 A Fist of Divine Speed One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2804,8 +2855,8 @@
         "productId": 15642608370008,
         "variantId": 56855458120024,
         "onHand": 0,
-        "committed": 15,
-        "demand": 16
+        "committed": 18,
+        "demand": 19
       },
       {
         "product": "134042 Mega Evolution Perfect Order Sleeved Booster Pack (English) Pre‑order — Multicolor",
@@ -3812,8 +3863,8 @@
         "productId": 15641508512088,
         "variantId": 56849646649688,
         "onHand": 3,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
@@ -3884,7 +3935,7 @@
         "productId": 15641503891800,
         "variantId": 56849639604568,
         "onHand": 2,
-        "committed": 3,
+        "committed": 4,
         "demand": 3
       },
       {
@@ -4454,6 +4505,38 @@
         "onHand": 3,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131480 Kingdoms of Intrigue One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641344672088,
+        "variantId": 56849304715608,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110291 XY Evolutions Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641564348760,
+        "variantId": 56849720869208,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110293 XY Generations Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641564315992,
+        "variantId": 56849720836440,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131602 A Fist of Divine Speed One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
+        "productId": 15641340346712,
+        "variantId": 56849299865944,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -4502,10 +4585,10 @@
         "productId": 15642608370008,
         "variantId": 56855458120024,
         "onHand": 0,
-        "committed": 15,
-        "incoming": 9,
-        "available": -15,
-        "shortfall": 6
+        "committed": 18,
+        "incoming": 13,
+        "available": -18,
+        "shortfall": 5
       },
       {
         "product": "134040 Mega Evolution Perfect Order Booster Box 36 Booster Packs (English) Pre‑order",
