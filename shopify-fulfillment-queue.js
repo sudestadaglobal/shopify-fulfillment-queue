@@ -306,7 +306,9 @@ async function main() {
 
     for (const item of order.line_items) {
       // Skip unresolvable items (custom items, tips, deleted products, etc.)
+      // Also skip items with no fulfillable quantity (removed/edited line items)
       if (!item.variant_id || !variantMap[item.variant_id]) continue;
+      if ((item.fulfillable_quantity ?? item.quantity) === 0) continue;
 
       const v = variantMap[item.variant_id];
       const stock = available[v.inventoryItemId] ?? 0;
@@ -336,6 +338,7 @@ async function main() {
       // Commit the allocation — deduct stock and increment per-item order count
       for (const item of order.line_items) {
         if (!item.variant_id) continue;
+        if ((item.fulfillable_quantity ?? item.quantity) === 0) continue;
         const v = variantMap[item.variant_id];
         if (!v) continue;
         available[v.inventoryItemId] = (available[v.inventoryItemId] ?? 0) - item.quantity;
