@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-01T18:07:47.450Z",
+  "generatedAt": "2026-04-01T20:15:49.593Z",
   "summary": {
-    "totalUnfulfilled": 175,
+    "totalUnfulfilled": 177,
     "canFulfill": 30,
-    "blocked": 145
+    "blocked": 147
   },
   "fulfillableOrders": [
     {
@@ -2698,6 +2698,36 @@
           "needed": 2
         }
       ]
+    },
+    {
+      "id": 12207437807960,
+      "name": "#3148",
+      "customerName": "steven Stinissen",
+      "createdAt": "2026-04-01T20:20:01+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12207438856536,
+      "name": "#3149",
+      "customerName": "steven Stinissen",
+      "createdAt": "2026-04-01T20:20:46+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2787,8 +2817,8 @@
         "productId": 15641321406808,
         "variantId": 56849271619928,
         "onHand": 0,
-        "committed": 30,
-        "demand": 30
+        "committed": 32,
+        "demand": 32
       },
       {
         "product": "120769 Sun & Moon Team Up Pikachu 1 Booster Pack Blister (English) — 1 card, 1 Blister / Multicolor",
@@ -3755,8 +3785,8 @@
         "productId": 15641337299288,
         "variantId": 56849296359768,
         "onHand": 0,
-        "committed": 12,
-        "demand": 12
+        "committed": 14,
+        "demand": 14
       },
       {
         "product": "125832 Mega Gengar ex - MEGA Dream ex 230/193 NM (Japanese) — 230/193, Near-Mint / Ultra Rare",
@@ -4501,6 +4531,16 @@
         "shortfall": 10
       },
       {
+        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+        "productId": 15641321406808,
+        "variantId": 56849271619928,
+        "onHand": 0,
+        "committed": 32,
+        "incoming": 23,
+        "available": -32,
+        "shortfall": 9
+      },
+      {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336676696,
         "variantId": 56849295737176,
@@ -4508,16 +4548,6 @@
         "committed": 7,
         "incoming": 0,
         "available": -7,
-        "shortfall": 7
-      },
-      {
-        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-        "productId": 15641321406808,
-        "variantId": 56849271619928,
-        "onHand": 0,
-        "committed": 30,
-        "incoming": 23,
-        "available": -30,
         "shortfall": 7
       },
       {
