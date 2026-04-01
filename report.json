@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-01T10:21:57.940Z",
+  "generatedAt": "2026-04-01T14:58:43.212Z",
   "summary": {
-    "totalUnfulfilled": 186,
+    "totalUnfulfilled": 187,
     "canFulfill": 41,
-    "blocked": 145
+    "blocked": 146
   },
   "fulfillableOrders": [
     {
@@ -2752,6 +2752,33 @@
           "needed": 4
         }
       ]
+    },
+    {
+      "id": 12207017230680,
+      "name": "#3142",
+      "customerName": "Jakub Grabarz",
+      "createdAt": "2026-04-01T15:20:53+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 14
+        },
+        {
+          "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 5
+        },
+        {
+          "product": "131594 Kingdoms of Intrigue One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3809,8 +3836,8 @@
         "productId": 15641508512088,
         "variantId": 56849646649688,
         "onHand": 3,
-        "committed": 8,
-        "demand": 8
+        "committed": 22,
+        "demand": 22
       },
       {
         "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
@@ -4505,8 +4532,8 @@
         "productId": 15641380454744,
         "variantId": 56849450369368,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "136043 Mega Gengar ex Mega Battle Deck (English) — 60 cards / Multicolor",
@@ -4520,6 +4547,14 @@
         "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
         "productId": 15641569788248,
         "variantId": 56849737253208,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131594 Kingdoms of Intrigue One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+        "productId": 15641340608856,
+        "variantId": 56849300128088,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -4582,6 +4617,16 @@
         "variantId": 56856323359064,
         "onHand": 0,
         "committed": 4,
+        "incoming": 0,
+        "available": -4,
+        "shortfall": 4
+      },
+      {
+        "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
+        "productId": 15641380454744,
+        "variantId": 56849450369368,
+        "onHand": 2,
+        "committed": 6,
         "incoming": 0,
         "available": -4,
         "shortfall": 4
@@ -4800,6 +4845,16 @@
         "product": "RØDE PodMic Dynamic Broadcast Microphone",
         "productId": 15680153190744,
         "variantId": 57008129245528,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "131594 Kingdoms of Intrigue One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+        "productId": 15641340608856,
+        "variantId": 56849300128088,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
