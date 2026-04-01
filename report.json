@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-01T06:20:46.084Z",
+  "generatedAt": "2026-04-01T10:21:57.940Z",
   "summary": {
     "totalUnfulfilled": 186,
-    "canFulfill": 39,
-    "blocked": 147
+    "canFulfill": 41,
+    "blocked": 145
   },
   "fulfillableOrders": [
     {
@@ -127,6 +127,12 @@
       "itemCount": 8
     },
     {
+      "id": 12191366840664,
+      "name": "#3008",
+      "createdAt": "2026-03-23T13:29:04+01:00",
+      "itemCount": 1
+    },
+    {
       "id": 12192177389912,
       "name": "#3026",
       "createdAt": "2026-03-23T23:25:37+01:00",
@@ -136,6 +142,12 @@
       "id": 12192223920472,
       "name": "#3033",
       "createdAt": "2026-03-24T00:34:36+01:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12195739107672,
+      "name": "#3053",
+      "createdAt": "2026-03-25T20:51:02+01:00",
       "itemCount": 1
     },
     {
@@ -1152,7 +1164,7 @@
         {
           "product": "JAZWARES Pokémon Gengar Plush Toy",
           "reason": "Insufficient stock",
-          "stock": -1,
+          "stock": 0,
           "needed": 1
         }
       ]
@@ -1467,21 +1479,6 @@
       ]
     },
     {
-      "id": 12191366840664,
-      "name": "#3008",
-      "customerName": "Eddie Heikkinen",
-      "createdAt": "2026-03-23T13:29:04+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Play by Play Hello Kitty 50th Anniversary Pink Plush Toy",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12191615123800,
       "name": "#3013",
       "customerName": "Erik Moen",
@@ -1772,21 +1769,6 @@
       "reasons": [
         {
           "product": "131640 Meowth‑ex - Nihil Zero 114/080 NM (Japanese) — 114/080, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12195739107672,
-      "name": "#3053",
-      "customerName": "João Joaquim",
-      "createdAt": "2026-03-25T20:51:02+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -3594,7 +3576,7 @@
         "product": "JAZWARES Pokémon Gengar Plush Toy",
         "productId": 15486272864600,
         "variantId": 56324932469080,
-        "onHand": -1,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       },
@@ -3794,7 +3776,7 @@
         "product": "Play by Play Hello Kitty 50th Anniversary Pink Plush Toy",
         "productId": 15666812748120,
         "variantId": 56956407447896,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -4026,7 +4008,7 @@
         "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507266904,
         "variantId": 56849645109592,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
