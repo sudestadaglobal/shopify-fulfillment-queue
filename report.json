@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-01T23:59:11.860Z",
+  "generatedAt": "2026-04-02T05:58:30.919Z",
   "summary": {
-    "totalUnfulfilled": 180,
+    "totalUnfulfilled": 178,
     "canFulfill": 28,
-    "blocked": 152
+    "blocked": 150
   },
   "fulfillableOrders": [
     {
@@ -176,36 +176,6 @@
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12039400096088,
-      "name": "#2361",
-      "customerName": "Andre Cravo",
-      "createdAt": "2026-02-01T01:55:07+01:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "Scarlet & Violet Prismatic Evolutions Sylveon Mini Tin 2 Booster Pack (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12039466254680,
-      "name": "#2377",
-      "customerName": "Hugo Pessin",
-      "createdAt": "2026-02-01T05:17:28+01:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "110044 Sword & Shield VMAX Climax Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
     {
       "id": 12044287213912,
       "name": "#2410",
@@ -2826,30 +2796,6 @@
   "stockAlerts": {
     "lowStock": [
       {
-        "product": "Scarlet & Violet Prismatic Evolutions Sylveon Mini Tin 2 Booster Pack (English)",
-        "productId": 15329744585048,
-        "variantId": 55818173219160,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "Super Electric Breaker Booster Box (Japanese)",
-        "productId": 15498123477336,
-        "variantId": 56351007474008,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "110044 Sword & Shield VMAX Climax Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
-        "productId": 15641567691096,
-        "variantId": 56849733714264,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
         "productId": 15641336840536,
         "variantId": 56849295901016,
@@ -4728,26 +4674,6 @@
         "incoming": 0,
         "available": -2,
         "shortfall": 2
-      },
-      {
-        "product": "Scarlet & Violet Prismatic Evolutions Sylveon Mini Tin 2 Booster Pack (English)",
-        "productId": 15329744585048,
-        "variantId": 55818173219160,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "110044 Sword & Shield VMAX Climax Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
-        "productId": 15641567691096,
-        "variantId": 56849733714264,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
       },
       {
         "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
