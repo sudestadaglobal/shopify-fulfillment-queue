@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-02T09:48:50.077Z",
+  "generatedAt": "2026-04-02T12:08:29.731Z",
   "summary": {
     "totalUnfulfilled": 162,
-    "canFulfill": 26,
-    "blocked": 136
+    "canFulfill": 30,
+    "blocked": 132
   },
   "fulfillableOrders": [
     {
@@ -79,9 +79,21 @@
       "itemCount": 1
     },
     {
+      "id": 12185141739864,
+      "name": "#2972",
+      "createdAt": "2026-03-18T22:22:04+01:00",
+      "itemCount": 6
+    },
+    {
       "id": 12187410989400,
       "name": "#2996",
       "createdAt": "2026-03-20T15:21:04+01:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12187504116056,
+      "name": "#3000",
+      "createdAt": "2026-03-20T16:29:00+01:00",
       "itemCount": 1
     },
     {
@@ -103,6 +115,12 @@
       "itemCount": 1
     },
     {
+      "id": 12191781781848,
+      "name": "#3018",
+      "createdAt": "2026-03-23T18:29:18+01:00",
+      "itemCount": 3
+    },
+    {
       "id": 12191791087960,
       "name": "#3019",
       "createdAt": "2026-03-23T18:37:12+01:00",
@@ -112,6 +130,12 @@
       "id": 12191938543960,
       "name": "#3023",
       "createdAt": "2026-03-23T20:26:13+01:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12192998949208,
+      "name": "#3038",
+      "createdAt": "2026-03-24T15:30:04+01:00",
       "itemCount": 1
     },
     {
@@ -296,12 +320,6 @@
       "reasons": [
         {
           "product": "120769 Sun & Moon Team Up Pikachu 1 Booster Pack Blister (English) — 1 card, 1 Blister / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "120771 Sun & Moon Team Up Mimikyu 1 Booster Pack Blister (English) — 1 card, 1 Blister / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -961,12 +979,6 @@
           "needed": 1
         },
         {
-          "product": "132302 Roronoa Zoro - The Azure Sea's Seven OP14‑015 V2 NM (English) — OP14‑015/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 2,
-          "needed": 3
-        },
-        {
           "product": "131372 Romance Dawn One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 1,
@@ -1086,21 +1098,6 @@
       ]
     },
     {
-      "id": 12185141739864,
-      "name": "#2972",
-      "customerName": "Fabian Langguth",
-      "createdAt": "2026-03-18T22:22:04+01:00",
-      "itemCount": 6,
-      "reasons": [
-        {
-          "product": "131474 Winner Pack 2025 Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12185187975512,
       "name": "#2974",
       "customerName": "Philipp Kermer",
@@ -1161,21 +1158,6 @@
       ]
     },
     {
-      "id": 12187504116056,
-      "name": "#3000",
-      "customerName": "Ian Byrne",
-      "createdAt": "2026-03-20T16:29:00+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "120771 Sun & Moon Team Up Mimikyu 1 Booster Pack Blister (English) — 1 card, 1 Blister / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12191615123800,
       "name": "#3013",
       "customerName": "Erik Moen",
@@ -1220,27 +1202,6 @@
       "reasons": [
         {
           "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (English) — 175/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12191781781848,
-      "name": "#3018",
-      "customerName": "Fabian Langguth",
-      "createdAt": "2026-03-23T18:29:18+01:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "131474 Winner Pack 2025 Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1334,21 +1295,6 @@
       "reasons": [
         {
           "product": "134614 Jirachi - Generations RC13/RC32 NM (English) — RC13/RC32, Near-Mint / Uncommon",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12192998949208,
-      "name": "#3038",
-      "customerName": "james paul",
-      "createdAt": "2026-03-24T15:30:04+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "121007 Mega Lucario ex - Mega Evolution 179/132 NM (English) — 179/132, Near-Mint / Special Ilustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1656,12 +1602,6 @@
       "createdAt": "2026-03-30T02:26:34+02:00",
       "itemCount": 2,
       "reasons": [
-        {
-          "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
         {
           "product": "127670 Carrying on His Will One Piece Booster Pack (English) — 12 cards / Red",
           "reason": "Insufficient stock",
@@ -2039,12 +1979,6 @@
       "reasons": [
         {
           "product": "132244 Jinbe - The Azure Sea's Seven OP14‑040 V2 NM (English) — OP14‑040/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131592 Paramount War One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2500,22 +2434,10 @@
       "itemCount": 4,
       "reasons": [
         {
-          "product": "131474 Winner Pack 2025 Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "131434 Sealed Battle Kit Vol.1 One Piece Booster Pack (English) — 2 cards / Black / White",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
         }
       ]
     },
@@ -2619,7 +2541,7 @@
         "product": "120771 Sun & Moon Team Up Mimikyu 1 Booster Pack Blister (English) — 1 card, 1 Blister / Multicolor",
         "productId": 15641501401432,
         "variantId": 56849635541336,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2820,14 +2742,6 @@
         "productId": 15641565266264,
         "variantId": 56849722114392,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "110174 Scalet & Violet Trick or Trade 2024 Booster Pack (English) — 3 cards / Multicolor",
-        "productId": 15641566511448,
-        "variantId": 56849732305240,
-        "onHand": 6,
         "committed": 1,
         "demand": 1
       },
@@ -3107,7 +3021,7 @@
         "product": "99732 Charizard V - Sword & Shield Black Star Promos 050/307 NM (English) — 050/307, Near-Mint / Promo",
         "productId": 15641569558872,
         "variantId": 56849736991064,
-        "onHand": 2,
+        "onHand": 3,
         "committed": 3,
         "demand": 3
       },
@@ -3187,7 +3101,7 @@
         "product": "132302 Roronoa Zoro - The Azure Sea's Seven OP14‑015 V2 NM (English) — OP14‑015/V2, Near-Mint / Alternate Art",
         "productId": 15641322979672,
         "variantId": 56849277485400,
-        "onHand": 3,
+        "onHand": 4,
         "committed": 4,
         "demand": 4
       },
@@ -3419,7 +3333,7 @@
         "product": "131474 Winner Pack 2025 Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
         "productId": 15641344868696,
         "variantId": 56849304912216,
-        "onHand": 0,
+        "onHand": 4,
         "committed": 3,
         "demand": 3
       },
@@ -3523,7 +3437,7 @@
         "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
         "productId": 15667333103960,
         "variantId": 56960147652952,
-        "onHand": 0,
+        "onHand": 4,
         "committed": 4,
         "demand": 4
       },
@@ -3635,7 +3549,7 @@
         "product": "121007 Mega Lucario ex - Mega Evolution 179/132 NM (English) — 179/132, Near-Mint / Special Ilustration Rare",
         "productId": 15641496715608,
         "variantId": 56849626792280,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -4035,7 +3949,7 @@
         "product": "131592 Paramount War One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Multicolor",
         "productId": 15641340707160,
         "variantId": 56849300226392,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
