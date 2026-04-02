@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-02T15:48:34.772Z",
+  "generatedAt": "2026-04-02T18:12:32.161Z",
   "summary": {
-    "totalUnfulfilled": 147,
+    "totalUnfulfilled": 149,
     "canFulfill": 20,
-    "blocked": 127
+    "blocked": 129
   },
   "fulfillableOrders": [
     {
@@ -2326,6 +2326,36 @@
           "needed": 12
         }
       ]
+    },
+    {
+      "id": 12208740696408,
+      "name": "#3153",
+      "customerName": "Jose Daniel Salazar Palenque",
+      "createdAt": "2026-04-02T19:28:58+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "110213 Scarlet & Violet Obsidian Flames Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12208747741528,
+      "name": "#3154",
+      "customerName": "Kristoffer Bergström",
+      "createdAt": "2026-04-02T19:34:29+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3343,8 +3373,8 @@
         "productId": 15641565692248,
         "variantId": 56849722802520,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "134614 Jirachi - Generations RC13/RC32 NM (English) — RC13/RC32, Near-Mint / Uncommon",
@@ -3903,8 +3933,8 @@
         "productId": 15641380454744,
         "variantId": 56849450369368,
         "onHand": 1,
-        "committed": 0,
-        "demand": 5
+        "committed": 2,
+        "demand": 7
       },
       {
         "product": "131594 Kingdoms of Intrigue One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
@@ -3969,6 +3999,14 @@
         "onHand": 8,
         "committed": 12,
         "demand": 12
+      },
+      {
+        "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
+        "productId": 15641345753432,
+        "variantId": 56849305796952,
+        "onHand": 9,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -4136,16 +4174,6 @@
         "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
         "productId": 15657571811672,
         "variantId": 56923414757720,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "110213 Scarlet & Violet Obsidian Flames Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641565692248,
-        "variantId": 56849722802520,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
