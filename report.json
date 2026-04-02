@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-02T18:12:32.161Z",
+  "generatedAt": "2026-04-02T20:08:31.925Z",
   "summary": {
-    "totalUnfulfilled": 149,
-    "canFulfill": 20,
-    "blocked": 129
+    "totalUnfulfilled": 152,
+    "canFulfill": 21,
+    "blocked": 131
   },
   "fulfillableOrders": [
     {
@@ -125,6 +125,12 @@
       "name": "#3146",
       "createdAt": "2026-04-01T19:08:30+02:00",
       "itemCount": 8
+    },
+    {
+      "id": 12208864657752,
+      "name": "#3156",
+      "createdAt": "2026-04-02T21:14:40+02:00",
+      "itemCount": 3
     }
   ],
   "blockedOrders": [
@@ -2356,6 +2362,36 @@
           "needed": 2
         }
       ]
+    },
+    {
+      "id": 12208856858968,
+      "name": "#3155",
+      "customerName": "Liam Cathelyn",
+      "createdAt": "2026-04-02T21:07:49+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "109984 Charmander - Scarlet & Violet Black Star Promos 044/225 (NM) — 044/225, Near-Mint / Promo",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12208872325464,
+      "name": "#3157",
+      "customerName": "Kenneth Davis",
+      "createdAt": "2026-04-02T21:21:02+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132652 Canari - Mega Evolution Ascended Heroes 257/217 NM (English) — 257/217, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3685,8 +3721,8 @@
         "productId": 15641568837976,
         "variantId": 56849736204632,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "132867 Mega Scrafty ex - Mega Evolution Ascended Heroes 270/217 NM (English) - Ultra Rare",
@@ -4007,6 +4043,38 @@
         "onHand": 9,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131864 Nihil Zero Booster Pack (Japanese) — 5 cards / Multicolor",
+        "productId": 15641337626968,
+        "variantId": 56849296687448,
+        "onHand": 8,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110300 Scarlet & Violet Cyber Judge Booster Pack (Japanese) — 5 cards / Multicolor",
+        "productId": 15641564217688,
+        "variantId": 56849720508760,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110225 Scalet & Violet Trick or Trade 2023 Booster Pack (English) — 3 cards / Multicolor",
+        "productId": 15641565495640,
+        "variantId": 56849722343768,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132652 Canari - Mega Evolution Ascended Heroes 257/217 NM (English) — 257/217, Near-Mint / Ultra Rare",
+        "productId": 15641320292696,
+        "variantId": 56849269391704,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -4124,16 +4192,6 @@
         "product": "132614 Pikachu ex - Ascended Heroes 276/217 NM (English) — Special Illustration Rare / 276/217 Near-Mint",
         "productId": 15643894612312,
         "variantId": 56858778698072,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "113494 Roaring Moon ex - Scarlet & Violet Prismatic Evolution 162/131 NM (English) — 162/131, Near-Mint / Special Illustration Rare",
-        "productId": 15641563431256,
-        "variantId": 56849719001432,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
