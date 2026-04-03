@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-03T14:14:12.581Z",
+  "generatedAt": "2026-04-03T16:08:43.127Z",
   "summary": {
-    "totalUnfulfilled": 152,
-    "canFulfill": 21,
-    "blocked": 131
+    "totalUnfulfilled": 155,
+    "canFulfill": 22,
+    "blocked": 133
   },
   "fulfillableOrders": [
     {
@@ -131,6 +131,12 @@
       "name": "#3156",
       "createdAt": "2026-04-02T21:14:40+02:00",
       "itemCount": 3
+    },
+    {
+      "id": 12209995186520,
+      "name": "#3158",
+      "createdAt": "2026-04-03T17:45:08+02:00",
+      "itemCount": 2
     }
   ],
   "blockedOrders": [
@@ -2392,6 +2398,36 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12210008326488,
+      "name": "#3159",
+      "customerName": "Ricards Sandris Megi",
+      "createdAt": "2026-04-03T17:52:53+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12210021237080,
+      "name": "#3160",
+      "customerName": "Leon Berthold",
+      "createdAt": "2026-04-03T18:01:05+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "136125 Deluxe Battle Deck Koraidon ex (English) — 60 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3305,8 +3341,8 @@
         "productId": 15641337299288,
         "variantId": 56849296359768,
         "onHand": 0,
-        "committed": 14,
-        "demand": 14
+        "committed": 15,
+        "demand": 15
       },
       {
         "product": "125832 Mega Gengar ex - MEGA Dream ex 230/193 NM (Japanese) — 230/193, Near-Mint / Ultra Rare",
@@ -3633,8 +3669,8 @@
         "productId": 15641566216536,
         "variantId": 56849731518808,
         "onHand": 4,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -4072,6 +4108,22 @@
         "product": "132652 Canari - Mega Evolution Ascended Heroes 257/217 NM (English) — 257/217, Near-Mint / Ultra Rare",
         "productId": 15641320292696,
         "variantId": 56849269391704,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119415 Mega Evolution Tyranitar Premium Checklane Blister (English) — 1 booster pack / Multicolor",
+        "productId": 15641507823960,
+        "variantId": 56849645666648,
+        "onHand": 8,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "136125 Deluxe Battle Deck Koraidon ex (English) — 60 cards / Multicolor",
+        "productId": 15641265373528,
+        "variantId": 56849188979032,
         "onHand": 0,
         "committed": 1,
         "demand": 1
