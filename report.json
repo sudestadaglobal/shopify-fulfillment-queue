@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-03T16:08:43.127Z",
+  "generatedAt": "2026-04-03T18:05:51.181Z",
   "summary": {
-    "totalUnfulfilled": 155,
-    "canFulfill": 22,
-    "blocked": 133
+    "totalUnfulfilled": 162,
+    "canFulfill": 24,
+    "blocked": 138
   },
   "fulfillableOrders": [
     {
@@ -137,6 +137,18 @@
       "name": "#3158",
       "createdAt": "2026-04-03T17:45:08+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12210025955672,
+      "name": "#3161",
+      "createdAt": "2026-04-03T18:03:55+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12210051285336,
+      "name": "#3165",
+      "createdAt": "2026-04-03T18:21:26+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -2428,6 +2440,81 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12210036343128,
+      "name": "#3162",
+      "customerName": "Donald Syrianoudis",
+      "createdAt": "2026-04-03T18:10:23+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "130936 Vinsmoke Reiju - The Best Vol.1 OP06‑068 NM V3 (English) — OP06‑068/V3, Near-Mint / Common",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12210039390552,
+      "name": "#3163",
+      "customerName": "Cory Baus Baus",
+      "createdAt": "2026-04-03T18:12:25+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "114536 Wailord - Scarlet & Violet Journey Together 162/159 NM (English) — 162/159, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12210044731736,
+      "name": "#3164",
+      "customerName": "Jeremy Slaven",
+      "createdAt": "2026-04-03T18:15:48+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12210059182424,
+      "name": "#3166",
+      "customerName": "Enrico Rinaldi",
+      "createdAt": "2026-04-03T18:26:34+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "110078 Scarlet & Violet Future Flash Booster Box (Japanese) — 30 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12210070487384,
+      "name": "#3167",
+      "customerName": "Kevin Benoit",
+      "createdAt": "2026-04-03T18:35:09+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (English) — 175/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2477,8 +2564,8 @@
         "productId": 15642608370008,
         "variantId": 56855458120024,
         "onHand": 0,
-        "committed": 18,
-        "demand": 19
+        "committed": 19,
+        "demand": 20
       },
       {
         "product": "134042 Mega Evolution Perfect Order Sleeved Booster Pack (English) Pre‑order — Multicolor",
@@ -3357,8 +3444,8 @@
         "productId": 15641506021720,
         "variantId": 56849643405656,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
@@ -4127,6 +4214,62 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131522 Wings of the Captain Pre‑Release Pack One Piece Booster Pack (English) — 2 cards / Black / White",
+        "productId": 15641343295832,
+        "variantId": 56849303241048,
+        "onHand": 8,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "130936 Vinsmoke Reiju - The Best Vol.1 OP06‑068 NM V3 (English) — OP06‑068/V3, Near-Mint / Common",
+        "productId": 15641359581528,
+        "variantId": 56849416683864,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "114536 Wailord - Scarlet & Violet Journey Together 162/159 NM (English) — 162/159, Near-Mint / Illustration Rare",
+        "productId": 15641558942040,
+        "variantId": 56849713430872,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110066 Scarlet & Violet Crimson Haze Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567363416,
+        "variantId": 56849733386584,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110078 Scarlet & Violet Future Flash Booster Box (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567166808,
+        "variantId": 56849733189976,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110100 Scarlet & Violet Paradise Dragona Booster Box 30 Booster Pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641566806360,
+        "variantId": 56849732632920,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110076 Scarlet & Violet Ancient Roar Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567199576,
+        "variantId": 56849733222744,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -4159,16 +4302,6 @@
         "incoming": 0,
         "available": -7,
         "shortfall": 7
-      },
-      {
-        "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
-        "productId": 15642608370008,
-        "variantId": 56855458120024,
-        "onHand": 0,
-        "committed": 18,
-        "incoming": 13,
-        "available": -18,
-        "shortfall": 5
       },
       {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
