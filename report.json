@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05T06:02:39.478Z",
+  "generatedAt": "2026-04-05T08:11:18.025Z",
   "summary": {
     "totalUnfulfilled": 161,
     "canFulfill": 24,
@@ -1553,12 +1553,6 @@
         },
         {
           "product": "136057 Miraidon ex League Battle Deck (English) — 60 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "136109 Deluxe Battle Deck Ninetales ex (English) — 60 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -3682,14 +3676,6 @@
         "product": "136057 Miraidon ex League Battle Deck (English) — 60 cards / Multicolor",
         "productId": 15641267667288,
         "variantId": 56849192255832,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "136109 Deluxe Battle Deck Ninetales ex (English) — 60 cards / Multicolor",
-        "productId": 15641265832280,
-        "variantId": 56849189568856,
         "onHand": 0,
         "committed": 1,
         "demand": 1
