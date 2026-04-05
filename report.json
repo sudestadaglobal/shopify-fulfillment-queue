@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-04T23:56:13.655Z",
+  "generatedAt": "2026-04-05T06:02:39.478Z",
   "summary": {
-    "totalUnfulfilled": 162,
+    "totalUnfulfilled": 161,
     "canFulfill": 24,
-    "blocked": 138
+    "blocked": 137
   },
   "fulfillableOrders": [
     {
@@ -152,39 +152,6 @@
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12044287213912,
-      "name": "#2410",
-      "customerName": "Lars Hollemans",
-      "createdAt": "2026-02-04T01:03:50+01:00",
-      "itemCount": 13,
-      "reasons": [
-        {
-          "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
     {
       "id": 12049128522072,
       "name": "#2420",
@@ -2520,36 +2487,12 @@
   "stockAlerts": {
     "lowStock": [
       {
-        "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
-        "productId": 15641336840536,
-        "variantId": 56849295901016,
-        "onHand": 5,
-        "committed": 5,
-        "demand": 5
-      },
-      {
         "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336611160,
         "variantId": 56849295671640,
         "onHand": 0,
         "committed": 11,
-        "demand": 11
-      },
-      {
-        "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
-        "productId": 15641336906072,
-        "variantId": 56849295966552,
-        "onHand": 5,
-        "committed": 4,
-        "demand": 4
-      },
-      {
-        "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-        "productId": 15641336676696,
-        "variantId": 56849295737176,
-        "onHand": 0,
-        "committed": 7,
-        "demand": 8
+        "demand": 10
       },
       {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -2557,15 +2500,7 @@
         "variantId": 56849295835480,
         "onHand": 0,
         "committed": 12,
-        "demand": 13
-      },
-      {
-        "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
-        "productId": 15642608370008,
-        "variantId": 56855458120024,
-        "onHand": 0,
-        "committed": 19,
-        "demand": 20
+        "demand": 12
       },
       {
         "product": "134042 Mega Evolution Perfect Order Sleeved Booster Pack (English) Pre‑order — Multicolor",
@@ -2582,6 +2517,14 @@
         "onHand": 0,
         "committed": 32,
         "demand": 32
+      },
+      {
+        "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336676696,
+        "variantId": 56849295737176,
+        "onHand": 0,
+        "committed": 7,
+        "demand": 7
       },
       {
         "product": "120769 Sun & Moon Team Up Pikachu 1 Booster Pack Blister (English) — 1 card, 1 Blister / Multicolor",
@@ -2774,6 +2717,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
+        "productId": 15641336906072,
+        "variantId": 56849295966552,
+        "onHand": 5,
+        "committed": 4,
+        "demand": 3
+      },
+      {
+        "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
+        "productId": 15641336840536,
+        "variantId": 56849295901016,
+        "onHand": 5,
+        "committed": 5,
+        "demand": 4
       },
       {
         "product": "Nefeltari Vivi - The Azure Sea's Seven EB04‑025 NM V2 (English)",
@@ -3230,6 +3189,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
+        "productId": 15642608370008,
+        "variantId": 56855458120024,
+        "onHand": 0,
+        "committed": 19,
+        "demand": 19
       },
       {
         "product": "132220 Jinbe - The Azure Sea's Seven OP14‑049 V2 NM (English) — OP14‑049/V2, Near-Mint / Alternate Art",
