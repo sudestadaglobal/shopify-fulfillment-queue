@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-05T22:08:17.198Z",
+  "generatedAt": "2026-04-05T23:59:46.938Z",
   "summary": {
-    "totalUnfulfilled": 161,
-    "canFulfill": 24,
-    "blocked": 137
+    "totalUnfulfilled": 171,
+    "canFulfill": 26,
+    "blocked": 145
   },
   "fulfillableOrders": [
     {
@@ -148,6 +148,18 @@
       "id": 12210051285336,
       "name": "#3165",
       "createdAt": "2026-04-03T18:21:26+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12213091008856,
+      "name": "#3169",
+      "createdAt": "2026-04-06T00:30:52+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12213101592920,
+      "name": "#3173",
+      "createdAt": "2026-04-06T00:50:05+02:00",
       "itemCount": 1
     }
   ],
@@ -2482,6 +2494,132 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12213087863128,
+      "name": "#3168",
+      "customerName": "Cole Conover",
+      "createdAt": "2026-04-06T00:26:44+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (English) — 175/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12213094154584,
+      "name": "#3170",
+      "customerName": "Kristoffer Bergström",
+      "createdAt": "2026-04-06T00:36:06+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "141085 One Piece Card Game Heroines Edition Booster Box 24 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12213096481112,
+      "name": "#3171",
+      "customerName": "Ruffy Eggers",
+      "createdAt": "2026-04-06T00:40:09+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "113539 Scarlet & Violet Prismatic Evolutions Flareon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "113535 Scarlet & Violet Prismatic Evolutions Vaporeon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12213100380504,
+      "name": "#3172",
+      "customerName": "Stevie Mertens",
+      "createdAt": "2026-04-06T00:47:33+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 6,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12213105459544,
+      "name": "#3174",
+      "customerName": "Ben Flanagan",
+      "createdAt": "2026-04-06T00:58:11+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "116655 Blaziken - Scarlet & Violet Destined Rivals 192/182 NM (English) — 192/182, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12213119943000,
+      "name": "#3175",
+      "customerName": "Nicholas Byrne",
+      "createdAt": "2026-04-06T01:31:44+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "134710 Chromatic Lantern - Secret Lair Drop Series #202 NM (English) — Secret Lair Drop Series #202, Near-Mint / Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12213121548632,
+      "name": "#3176",
+      "customerName": "Tomas Vojnarovič",
+      "createdAt": "2026-04-06T01:36:27+02:00",
+      "itemCount": 7,
+      "reasons": [
+        {
+          "product": "110182 Scarlet & Violet Night Wanderer Booster Pack (Japanese) — 5 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12213125644632,
+      "name": "#3177",
+      "customerName": "Vlada Morozova",
+      "createdAt": "2026-04-06T01:48:20+02:00",
+      "itemCount": 9,
+      "reasons": [
+        {
+          "product": "110191 Play! Pokémon Prize Pack Series Four Booster Pack (English) — 6 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2587,8 +2725,8 @@
         "productId": 15641507922264,
         "variantId": 56849645928792,
         "onHand": 9,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131908 Mega Evolution Ascended Heroes Charmander Tech Sticker Collection 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
@@ -3411,8 +3549,8 @@
         "productId": 15641506021720,
         "variantId": 56849643405656,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
@@ -3443,8 +3581,8 @@
         "productId": 15641566642520,
         "variantId": 56849732436312,
         "onHand": 9,
-        "committed": 2,
-        "demand": 2
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
@@ -3611,8 +3749,8 @@
         "productId": 15641389039960,
         "variantId": 56849460199768,
         "onHand": 2,
-        "committed": 15,
-        "demand": 15
+        "committed": 16,
+        "demand": 16
       },
       {
         "product": "127894 Yamato - Carrying on His Will OP13‑054 V2 NM (English) — OP13‑054/V2, Near-Mint / Alternate Art",
@@ -3715,40 +3853,40 @@
         "productId": 15641566085464,
         "variantId": 56849731420504,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566216536,
         "variantId": 56849731518808,
         "onHand": 4,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566052696,
         "variantId": 56849731354968,
         "onHand": 8,
-        "committed": 2,
-        "demand": 2
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "110204 Scarlet & Violet Future Flash Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641565888856,
         "variantId": 56849731158360,
         "onHand": 6,
-        "committed": 2,
-        "demand": 2
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "110220 Scarlet & Violet Clay Burst Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641565593944,
         "variantId": 56849722704216,
         "onHand": 9,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "124010 Phantasmal Flames Mega Evolution Build & Battle Box 4 Booster Pack(English) — 4 Booster Packs / Multicolor",
@@ -4043,8 +4181,8 @@
         "productId": 15641566347608,
         "variantId": 56849732141400,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
@@ -4235,6 +4373,62 @@
         "productId": 15641567199576,
         "variantId": 56849733222744,
         "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "141085 One Piece Card Game Heroines Edition Booster Box 24 Booster Packs (English)",
+        "productId": 15691118477656,
+        "variantId": 57056588726616,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113539 Scarlet & Violet Prismatic Evolutions Flareon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
+        "productId": 15641562480984,
+        "variantId": 56849717854552,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113546 Scarlet & Violet Prismatic Evolutions Glaceon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
+        "productId": 15641562349912,
+        "variantId": 56849717264728,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113535 Scarlet & Violet Prismatic Evolutions Vaporeon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
+        "productId": 15641562612056,
+        "variantId": 56849718018392,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113542 Scarlet & Violet Prismatic Evolutions Espeon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
+        "productId": 15641562415448,
+        "variantId": 56849717330264,
+        "onHand": 3,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "116655 Blaziken - Scarlet & Violet Destined Rivals 192/182 NM (English) — 192/182, Near-Mint / Illustration Rare",
+        "productId": 15641540460888,
+        "variantId": 56849693737304,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134710 Chromatic Lantern - Secret Lair Drop Series #202 NM (English) — Secret Lair Drop Series #202, Near-Mint / Rare",
+        "productId": 15641269666136,
+        "variantId": 56849194975576,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
