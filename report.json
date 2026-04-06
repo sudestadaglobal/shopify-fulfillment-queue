@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-06T10:44:15.612Z",
+  "generatedAt": "2026-04-06T14:22:33.514Z",
   "summary": {
-    "totalUnfulfilled": 176,
+    "totalUnfulfilled": 177,
     "canFulfill": 27,
-    "blocked": 149
+    "blocked": 150
   },
   "fulfillableOrders": [
     {
@@ -2686,6 +2686,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12213668839768,
+      "name": "#3183",
+      "customerName": "Czel Gergely",
+      "createdAt": "2026-04-06T13:53:10+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "iPhone Air 1TB Cloud White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2911,7 +2926,7 @@
         "productId": 15641502384472,
         "variantId": 56849637015896,
         "onHand": 1,
-        "committed": 2,
+        "committed": 1,
         "demand": 2
       },
       {
@@ -4529,6 +4544,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "iPhone Air 1TB Cloud White",
+        "productId": 15691576770904,
+        "variantId": 57058013512024,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -4610,16 +4633,6 @@
         "committed": 2,
         "incoming": 1,
         "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "120717 Lapras GX - Sun & Moon 139/149 NM (English) — 139/149, Near-Mint / Ultra Rare",
-        "productId": 15641502384472,
-        "variantId": 56849637015896,
-        "onHand": 1,
-        "committed": 2,
-        "incoming": 0,
-        "available": -1,
         "shortfall": 1
       },
       {
@@ -4726,6 +4739,16 @@
         "product": "RØDE PodMic Dynamic Broadcast Microphone",
         "productId": 15680153190744,
         "variantId": 57008129245528,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "iPhone Air 1TB Cloud White",
+        "productId": 15691576770904,
+        "variantId": 57058013512024,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
