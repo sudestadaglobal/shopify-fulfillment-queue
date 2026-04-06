@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-06T17:19:46.125Z",
+  "generatedAt": "2026-04-06T20:04:13.957Z",
   "summary": {
-    "totalUnfulfilled": 178,
-    "canFulfill": 27,
-    "blocked": 151
+    "totalUnfulfilled": 181,
+    "canFulfill": 28,
+    "blocked": 153
   },
   "fulfillableOrders": [
     {
@@ -167,39 +167,15 @@
       "name": "#3178",
       "createdAt": "2026-04-06T02:06:00+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12214145778008,
+      "name": "#3185",
+      "createdAt": "2026-04-06T19:47:31+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12049128522072,
-      "name": "#2420",
-      "customerName": "Timo Brandt",
-      "createdAt": "2026-02-05T19:28:54+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12049185112408,
-      "name": "#2428",
-      "customerName": "Anthony Martin",
-      "createdAt": "2026-02-05T20:09:26+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
     {
       "id": 12049441489240,
       "name": "#2440",
@@ -2722,26 +2698,136 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12214150299992,
+      "name": "#3186",
+      "customerName": "Eric Mansouri",
+      "createdAt": "2026-04-06T19:50:48+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12214211248472,
+      "name": "#3187",
+      "customerName": "Kevin Mühlschuster",
+      "createdAt": "2026-04-06T20:33:14+02:00",
+      "itemCount": 25,
+      "reasons": [
+        {
+          "product": "109976 Ivysaur - Scarlet & Violet 151 167/165 NM (Japanese) — 167/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "118762 Joltik - Scarlet & Violet White Flare 116/086 NM (English) — 116/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "121029 Bulbasaur - Mega Evolution 133/132 NM (English) — 133/132, Near-Mint / Ilustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "125766 Snorunt - Paradox Rift 188/182 NM (English) — 188/182, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119485 Nidoking - Scarlet & Violet 151 174/165 NM (English) — 174/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "116667 Shaymin - Scarlet & Violet Destined Rivals 185/182 NM (English) — 185/182, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119481 Caterpie - Scarlet & Violet 151 172/165 NM (English) — 172/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "110213 Scarlet & Violet Obsidian Flames Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "116756 Scarlet & Violet Destined Rivals Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
+        },
+        {
+          "product": "110191 Play! Pokémon Prize Pack Series Four Booster Pack (English) — 6 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 4
+        },
+        {
+          "product": "131498 Special DON!! Card Pack DP‑06 One Piece Booster Pack (English) — 1 card / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131506 Promotion Pack 2023 Vol.1 One Piece Booster Pack (English) — 5 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12214319808856,
+      "name": "#3188",
+      "customerName": "Takács Péter",
+      "createdAt": "2026-04-06T21:48:54+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12214326755672,
+      "name": "#3189",
+      "customerName": "Sylvain Grundmann",
+      "createdAt": "2026-04-06T21:53:48+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "121029 Bulbasaur - Mega Evolution 133/132 NM (English) — 133/132, Near-Mint / Ilustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
     "lowStock": [
-      {
-        "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-        "productId": 15641336611160,
-        "variantId": 56849295671640,
-        "onHand": 0,
-        "committed": 11,
-        "demand": 10
-      },
-      {
-        "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-        "productId": 15641336775000,
-        "variantId": 56849295835480,
-        "onHand": 0,
-        "committed": 12,
-        "demand": 12
-      },
       {
         "product": "134042 Mega Evolution Perfect Order Sleeved Booster Pack (English) Pre‑order — Multicolor",
         "productId": 15642611810648,
@@ -2755,7 +2841,7 @@
         "productId": 15641321406808,
         "variantId": 56849271619928,
         "onHand": 0,
-        "committed": 32,
+        "committed": 33,
         "demand": 32
       },
       {
@@ -2791,6 +2877,14 @@
         "demand": 1
       },
       {
+        "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336775000,
+        "variantId": 56849295835480,
+        "onHand": 0,
+        "committed": 12,
+        "demand": 11
+      },
+      {
         "product": "Mega Evolution Psyduck 3 Booster Pack Blister (English)",
         "productId": 15305734488408,
         "variantId": 55727154725208,
@@ -2805,6 +2899,14 @@
         "onHand": 3,
         "committed": 0,
         "demand": 1
+      },
+      {
+        "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336611160,
+        "variantId": 56849295671640,
+        "onHand": 0,
+        "committed": 11,
+        "demand": 9
       },
       {
         "product": "116762 Scarlet & Violet Destined Rivals Zebstrika 3 Booster Pack Blister (English) — 3 Booster pack, 1 card / Multicolor",
@@ -3539,8 +3641,8 @@
         "productId": 15641343852888,
         "variantId": 56849303863640,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131468 Winner Pack 2025 Vol.4 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -3739,8 +3841,8 @@
         "productId": 15641565692248,
         "variantId": 56849722802520,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "134614 Jirachi - Generations RC13/RC32 NM (English) — RC13/RC32, Near-Mint / Uncommon",
@@ -3827,8 +3929,8 @@
         "productId": 15641538527576,
         "variantId": 56849691803992,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "Shining Mew - Shining Pokémon Poké Ball Box CSMJC‑005 NM (S‑Chinese)",
@@ -3955,8 +4057,8 @@
         "productId": 15641566085464,
         "variantId": 56849731420504,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -4275,8 +4377,8 @@
         "productId": 15643186921816,
         "variantId": 56857168576856,
         "onHand": 4,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "110182 Scarlet & Violet Night Wanderer Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -4581,6 +4683,94 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
+        "productId": 15641561432408,
+        "variantId": 56849716019544,
+        "onHand": 1,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "109976 Ivysaur - Scarlet & Violet 151 167/165 NM (Japanese) — 167/165, Near-Mint / Illustration Rare",
+        "productId": 15641568969048,
+        "variantId": 56849736335704,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "118762 Joltik - Scarlet & Violet White Flare 116/086 NM (English) — 116/086, Near-Mint / Illustration Rare",
+        "productId": 15641520996696,
+        "variantId": 56849666998616,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "121029 Bulbasaur - Mega Evolution 133/132 NM (English) — 133/132, Near-Mint / Ilustration Rare",
+        "productId": 15641496289624,
+        "variantId": 56849626300760,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "125766 Snorunt - Paradox Rift 188/182 NM (English) — 188/182, Near-Mint / Illustration Rare",
+        "productId": 15641390252376,
+        "variantId": 56849461838168,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119485 Nidoking - Scarlet & Violet 151 174/165 NM (English) — 174/165, Near-Mint / Illustration Rare",
+        "productId": 15641506087256,
+        "variantId": 56849643471192,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119481 Caterpie - Scarlet & Violet 151 172/165 NM (English) — 172/165, Near-Mint / Illustration Rare",
+        "productId": 15641506152792,
+        "variantId": 56849643536728,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116756 Scarlet & Violet Destined Rivals Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641523454296,
+        "variantId": 56849676370264,
+        "onHand": 0,
+        "committed": 3,
+        "demand": 3
+      },
+      {
+        "product": "110231 Sword & Shield VSTAR Universe Booster Pack (Japanese) — 10 cards / Multicolor",
+        "productId": 15641565397336,
+        "variantId": 56849722245464,
+        "onHand": 9,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131498 Special DON!! Card Pack DP‑06 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641344180568,
+        "variantId": 56849304224088,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641336152408,
+        "variantId": 56849295245656,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -4595,16 +4785,6 @@
         "shortfall": 10
       },
       {
-        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-        "productId": 15641321406808,
-        "variantId": 56849271619928,
-        "onHand": 0,
-        "committed": 32,
-        "incoming": 23,
-        "available": -32,
-        "shortfall": 9
-      },
-      {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336676696,
         "variantId": 56849295737176,
@@ -4615,16 +4795,6 @@
         "shortfall": 7
       },
       {
-        "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-        "productId": 15641336775000,
-        "variantId": 56849295835480,
-        "onHand": 0,
-        "committed": 12,
-        "incoming": 9,
-        "available": -12,
-        "shortfall": 3
-      },
-      {
         "product": "134042 Mega Evolution Perfect Order Sleeved Booster Pack (English) Pre‑order — Multicolor",
         "productId": 15642611810648,
         "variantId": 56855474143576,
@@ -4632,6 +4802,16 @@
         "committed": 3,
         "incoming": 0,
         "available": -3,
+        "shortfall": 3
+      },
+      {
+        "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336775000,
+        "variantId": 56849295835480,
+        "onHand": 0,
+        "committed": 12,
+        "incoming": 9,
+        "available": -12,
         "shortfall": 3
       },
       {
