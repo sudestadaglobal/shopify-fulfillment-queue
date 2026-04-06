@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-06T14:22:33.514Z",
+  "generatedAt": "2026-04-06T17:19:46.125Z",
   "summary": {
-    "totalUnfulfilled": 177,
+    "totalUnfulfilled": 178,
     "canFulfill": 27,
-    "blocked": 150
+    "blocked": 151
   },
   "fulfillableOrders": [
     {
@@ -2701,6 +2701,27 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12214015754584,
+      "name": "#3184",
+      "customerName": "Daniel Balconi",
+      "createdAt": "2026-04-06T18:12:09+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "Apple AirPods Pro 3",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "Apple Airpods 4",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -4046,8 +4067,8 @@
         "productId": 15579554382168,
         "variantId": 56602249658712,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "Nintendo Switch 2 - Mario Kart World Bundle",
@@ -4552,6 +4573,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Apple AirPods Pro 3",
+        "productId": 15338563338584,
+        "variantId": 55853592019288,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -4610,10 +4639,10 @@
         "productId": 15579554382168,
         "variantId": 56602249658712,
         "onHand": 0,
-        "committed": 2,
+        "committed": 3,
         "incoming": 0,
-        "available": -2,
-        "shortfall": 2
+        "available": -3,
+        "shortfall": 3
       },
       {
         "product": "131480 Kingdoms of Intrigue One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -4749,6 +4778,16 @@
         "product": "iPhone Air 1TB Cloud White",
         "productId": 15691576770904,
         "variantId": 57058013512024,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Apple AirPods Pro 3",
+        "productId": 15338563338584,
+        "variantId": 55853592019288,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
