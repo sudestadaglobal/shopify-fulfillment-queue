@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-06T20:04:13.957Z",
+  "generatedAt": "2026-04-06T22:01:11.088Z",
   "summary": {
-    "totalUnfulfilled": 181,
-    "canFulfill": 28,
-    "blocked": 153
+    "totalUnfulfilled": 185,
+    "canFulfill": 29,
+    "blocked": 156
   },
   "fulfillableOrders": [
     {
@@ -173,6 +173,12 @@
       "name": "#3185",
       "createdAt": "2026-04-06T19:47:31+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12214343795032,
+      "name": "#3191",
+      "createdAt": "2026-04-06T22:05:04+02:00",
+      "itemCount": 2
     }
   ],
   "blockedOrders": [
@@ -2824,6 +2830,63 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12214337274200,
+      "name": "#3190",
+      "customerName": "Ian Byrne",
+      "createdAt": "2026-04-06T22:00:23+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12214351397208,
+      "name": "#3192",
+      "customerName": "Antonio Ibanez",
+      "createdAt": "2026-04-06T22:09:48+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 2,
+          "needed": 3
+        },
+        {
+          "product": "121005 Mega Latias ex - Mega Evolution 181/132 NM (English) — 181/132, Near-Mint / Special Ilustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "121063 Mega Absol ex - Mega Evolution 161/132 NM (English) — 161/132, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12214372663640,
+      "name": "#3193",
+      "customerName": "Bas Oost",
+      "createdAt": "2026-04-06T22:25:05+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2842,7 +2905,7 @@
         "variantId": 56849271619928,
         "onHand": 0,
         "committed": 33,
-        "demand": 32
+        "demand": 33
       },
       {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -3705,8 +3768,8 @@
         "productId": 15641523421528,
         "variantId": 56849676173656,
         "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
@@ -3737,8 +3800,8 @@
         "productId": 15641337299288,
         "variantId": 56849296359768,
         "onHand": 0,
-        "committed": 15,
-        "demand": 15
+        "committed": 16,
+        "demand": 16
       },
       {
         "product": "125832 Mega Gengar ex - MEGA Dream ex 230/193 NM (Japanese) — 230/193, Near-Mint / Ultra Rare",
@@ -4753,8 +4816,8 @@
         "productId": 15641565397336,
         "variantId": 56849722245464,
         "onHand": 9,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131498 Special DON!! Card Pack DP‑06 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -4768,6 +4831,38 @@
         "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
         "productId": 15641336152408,
         "variantId": 56849295245656,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
+        "productId": 15641566871896,
+        "variantId": 56849732698456,
+        "onHand": 2,
+        "committed": 3,
+        "demand": 3
+      },
+      {
+        "product": "119391 Scarlet & Violet Black Bolt Reuniclus Tech Sticker Collection (English) — 3 booster pack / Black / Blue",
+        "productId": 15641508446552,
+        "variantId": 56849646584152,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "121005 Mega Latias ex - Mega Evolution 181/132 NM (English) — 181/132, Near-Mint / Special Ilustration Rare",
+        "productId": 15641496781144,
+        "variantId": 56849627644248,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "121063 Mega Absol ex - Mega Evolution 161/132 NM (English) — 161/132, Near-Mint / Ultra Rare",
+        "productId": 15641495601496,
+        "variantId": 56849624695128,
         "onHand": 0,
         "committed": 1,
         "demand": 1
