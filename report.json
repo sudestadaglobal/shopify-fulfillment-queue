@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-07T15:03:24.020Z",
+  "generatedAt": "2026-04-07T18:18:31.929Z",
   "summary": {
-    "totalUnfulfilled": 163,
-    "canFulfill": 12,
-    "blocked": 151
+    "totalUnfulfilled": 170,
+    "canFulfill": 14,
+    "blocked": 156
   },
   "fulfillableOrders": [
     {
@@ -76,6 +76,18 @@
       "id": 12215485366616,
       "name": "#3197",
       "createdAt": "2026-04-07T16:35:39+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12215580819800,
+      "name": "#3199",
+      "createdAt": "2026-04-07T17:32:15+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12215664935256,
+      "name": "#3201",
+      "createdAt": "2026-04-07T18:20:57+02:00",
       "itemCount": 1
     }
   ],
@@ -2740,6 +2752,81 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12215624171864,
+      "name": "#3200",
+      "customerName": "M.N. Ton",
+      "createdAt": "2026-04-07T17:55:20+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12215668113752,
+      "name": "#3202",
+      "customerName": "Robert Maser",
+      "createdAt": "2026-04-07T18:23:12+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
+        }
+      ]
+    },
+    {
+      "id": 12215671062872,
+      "name": "#3203",
+      "customerName": "Kyle Sculley",
+      "createdAt": "2026-04-07T18:25:42+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "127670 Carrying on His Will One Piece Booster Pack (English) — 12 cards / Red",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 6
+        }
+      ]
+    },
+    {
+      "id": 12215683154264,
+      "name": "#3204",
+      "customerName": "Jorn Sprakel",
+      "createdAt": "2026-04-07T18:34:27+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "110048 Sword & Shield Shiny Star V Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12215705928024,
+      "name": "#3205",
+      "customerName": "João Joaquim",
+      "createdAt": "2026-04-07T18:50:16+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "109970 Pikachu - Sword & Shield Crown Zenith 160/159 NM (English) — 160/159, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2869,8 +2956,8 @@
         "productId": 15641340051800,
         "variantId": 56849299571032,
         "onHand": 0,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "Swanna – Scarlet & Violet White Flare 110/173 NM (English)",
@@ -3069,8 +3156,8 @@
         "productId": 15641380487512,
         "variantId": 56849450402136,
         "onHand": 1,
-        "committed": 4,
-        "demand": 4
+        "committed": 10,
+        "demand": 10
       },
       {
         "product": "131402 DON!! Card Pack Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -3173,8 +3260,8 @@
         "productId": 15641345130840,
         "variantId": 56849305174360,
         "onHand": 8,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131422 Memorial Collection One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -3237,8 +3324,8 @@
         "productId": 15641344934232,
         "variantId": 56849304977752,
         "onHand": 9,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131524 Two Legends One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -3573,8 +3660,8 @@
         "productId": 15642692911448,
         "variantId": 56856050270552,
         "onHand": 3,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
@@ -3613,8 +3700,8 @@
         "productId": 15641337299288,
         "variantId": 56849296359768,
         "onHand": 0,
-        "committed": 16,
-        "demand": 16
+        "committed": 19,
+        "demand": 19
       },
       {
         "product": "125832 Mega Gengar ex - MEGA Dream ex 230/193 NM (Japanese) — 230/193, Near-Mint / Ultra Rare",
@@ -4621,8 +4708,8 @@
         "productId": 15641566871896,
         "variantId": 56849732698456,
         "onHand": 2,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "119391 Scarlet & Violet Black Bolt Reuniclus Tech Sticker Collection (English) — 3 booster pack / Black / Blue",
@@ -4668,6 +4755,38 @@
         "product": "114534 Articuno - Scarlet & Violet Journey Together 161/159 NM (English) — 161/159, Near-Mint / Illustration Rare",
         "productId": 15641559368024,
         "variantId": 56849713889624,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131584 Awakening of the New Era One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / White",
+        "productId": 15641340969304,
+        "variantId": 56849300586840,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131600 Two Legends One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Green",
+        "productId": 15641340412248,
+        "variantId": 56849299931480,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110048 Sword & Shield Shiny Star V Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
+        "productId": 15641567625560,
+        "variantId": 56849733648728,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "109970 Pikachu - Sword & Shield Crown Zenith 160/159 NM (English) — 160/159, Near-Mint / Secret Rare",
+        "productId": 15641569067352,
+        "variantId": 56849736434008,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -4798,16 +4917,6 @@
         "product": "iPhone Air 1TB Cloud White",
         "productId": 15691576770904,
         "variantId": 57058013512024,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132042 Crocodile - The Azure Sea's Seven OP14‑120 NM V2 (English) — OP14‑120/V2, Near-Mint / Alternate Art",
-        "productId": 15641332056408,
-        "variantId": 56849290494296,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
