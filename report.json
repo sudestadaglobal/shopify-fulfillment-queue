@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T18:18:31.929Z",
+  "generatedAt": "2026-04-07T20:13:51.742Z",
   "summary": {
     "totalUnfulfilled": 170,
     "canFulfill": 14,
@@ -4907,16 +4907,6 @@
         "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
         "productId": 15657571811672,
         "variantId": 56923414757720,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "iPhone Air 1TB Cloud White",
-        "productId": 15691576770904,
-        "variantId": 57058013512024,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
