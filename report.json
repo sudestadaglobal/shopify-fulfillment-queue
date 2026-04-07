@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-07T06:09:40.009Z",
+  "generatedAt": "2026-04-07T10:22:50.069Z",
   "summary": {
     "totalUnfulfilled": 183,
-    "canFulfill": 29,
-    "blocked": 154
+    "canFulfill": 31,
+    "blocked": 152
   },
   "fulfillableOrders": [
     {
@@ -17,6 +17,12 @@
       "name": "#2587",
       "createdAt": "2026-02-16T20:16:49+01:00",
       "itemCount": 6
+    },
+    {
+      "id": 12074816504152,
+      "name": "#2593",
+      "createdAt": "2026-02-17T16:32:30+01:00",
+      "itemCount": 4
     },
     {
       "id": 12075181736280,
@@ -94,6 +100,12 @@
       "id": 12191938543960,
       "name": "#3023",
       "createdAt": "2026-03-23T20:26:13+01:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12193521369432,
+      "name": "#3044",
+      "createdAt": "2026-03-24T21:49:09+01:00",
       "itemCount": 1
     },
     {
@@ -398,21 +410,6 @@
       "reasons": [
         {
           "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12074816504152,
-      "name": "#2593",
-      "customerName": "Yuming Zhao",
-      "createdAt": "2026-02-17T16:32:30+01:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1179,21 +1176,6 @@
       ]
     },
     {
-      "id": 12193521369432,
-      "name": "#3044",
-      "customerName": "Kevin Kellner",
-      "createdAt": "2026-03-24T21:49:09+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Svive Echo 5 Wireless Gaming Headset",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12195707748696,
       "name": "#3049",
       "customerName": "Mark Widulla",
@@ -1475,12 +1457,6 @@
       "reasons": [
         {
           "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "113484 Jolteon ex - Scarlet & Violet Prismatic Evolution 153/131 NM (English) — 153/131, Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -3033,7 +3009,7 @@
         "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563627864,
         "variantId": 56849719525720,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -3905,7 +3881,7 @@
         "product": "Svive Echo 5 Wireless Gaming Headset",
         "productId": 15624699380056,
         "variantId": 56782785577304,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -4025,7 +4001,7 @@
         "product": "113484 Jolteon ex - Scarlet & Violet Prismatic Evolution 153/131 NM (English) — 153/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563693400,
         "variantId": 56849719591256,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -4903,10 +4879,10 @@
         "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563627864,
         "variantId": 56849719525720,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
-        "incoming": 1,
-        "available": -2,
+        "incoming": 0,
+        "available": -1,
         "shortfall": 1
       },
       {
@@ -4963,16 +4939,6 @@
         "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
         "productId": 15657571811672,
         "variantId": 56923414757720,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Svive Echo 5 Wireless Gaming Headset",
-        "productId": 15624699380056,
-        "variantId": 56782785577304,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
