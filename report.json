@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-08T15:04:19.598Z",
+  "generatedAt": "2026-04-08T19:03:06.332Z",
   "summary": {
-    "totalUnfulfilled": 163,
-    "canFulfill": 35,
-    "blocked": 128
+    "totalUnfulfilled": 169,
+    "canFulfill": 38,
+    "blocked": 131
   },
   "fulfillableOrders": [
     {
@@ -215,6 +215,24 @@
       "name": "#3203",
       "createdAt": "2026-04-07T18:25:42+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12217458622808,
+      "name": "#3210",
+      "createdAt": "2026-04-08T19:07:54+02:00",
+      "itemCount": 5
+    },
+    {
+      "id": 12217590612312,
+      "name": "#3211",
+      "createdAt": "2026-04-08T20:44:08+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12217603490136,
+      "name": "#3212",
+      "createdAt": "2026-04-08T20:54:05+02:00",
+      "itemCount": 5
     }
   ],
   "blockedOrders": [
@@ -2464,10 +2482,67 @@
       "name": "#3206",
       "customerName": "Boban Dimeski",
       "createdAt": "2026-04-08T16:46:07+02:00",
-      "itemCount": 1,
+      "itemCount": 2,
       "reasons": [
         {
           "product": "Nintendo Switch 2 - Mario Kart World Bundle",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "Apple AirPods Pro 3",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12217285149016,
+      "name": "#3207",
+      "customerName": "Francisco Sarabia sanchez",
+      "createdAt": "2026-04-08T17:25:02+02:00",
+      "itemCount": 8,
+      "reasons": [
+        {
+          "product": "110191 Play! Pokémon Prize Pack Series Four Booster Pack (English) — 6 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "118662 Scarlet & Violet White Flare Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12217434964312,
+      "name": "#3208",
+      "customerName": "Jeremy Slaven",
+      "createdAt": "2026-04-08T18:50:03+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 3
+        }
+      ]
+    },
+    {
+      "id": 12217449939288,
+      "name": "#3209",
+      "customerName": "gijs Meelen",
+      "createdAt": "2026-04-08T19:01:24+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "121041 Mega Kangaskhan ex - Mega Evolution 164/132 NM (English) — 164/132, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -3194,16 +3269,16 @@
         "productId": 15641508512088,
         "variantId": 56849646649688,
         "onHand": 1,
-        "committed": 20,
-        "demand": 20
+        "committed": 23,
+        "demand": 23
       },
       {
         "product": "118664 Scarlet & Violet White Flare Booster Bundle 6 Booster Pack (English) — 6 booster pack / Multicolor",
         "productId": 15641522962776,
         "variantId": 56849669456216,
         "onHand": 9,
-        "committed": 3,
-        "demand": 3
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
@@ -3250,8 +3325,8 @@
         "productId": 15641566642520,
         "variantId": 56849732436312,
         "onHand": 7,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
@@ -3498,16 +3573,16 @@
         "productId": 15641566085464,
         "variantId": 56849731420504,
         "onHand": 0,
-        "committed": 6,
-        "demand": 6
+        "committed": 7,
+        "demand": 7
       },
       {
         "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566216536,
         "variantId": 56849731518808,
         "onHand": 4,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -3834,16 +3909,16 @@
         "productId": 15643186921816,
         "variantId": 56857168576856,
         "onHand": 4,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "110182 Scarlet & Violet Night Wanderer Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566347608,
         "variantId": 56849732141400,
         "onHand": 5,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
@@ -3938,8 +4013,8 @@
         "productId": 15641321570648,
         "variantId": 56849271783768,
         "onHand": 8,
-        "committed": 12,
-        "demand": 12
+        "committed": 14,
+        "demand": 14
       },
       {
         "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
@@ -4122,8 +4197,8 @@
         "productId": 15338563338584,
         "variantId": 55853592019288,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
@@ -4298,6 +4373,62 @@
         "productId": 15641569067352,
         "variantId": 56849736434008,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110175 Play! Pokémon Prize Pack Series Five Booster Pack (English) — 6 cards / Multicolor",
+        "productId": 15641566478680,
+        "variantId": 56849732272472,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "118662 Scarlet & Violet White Flare Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641522995544,
+        "variantId": 56849669488984,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110265 Sword & Shield Pokémon GO Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565036888,
+        "variantId": 56849721852248,
+        "onHand": 9,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110273 Sword & Shield Fusion Strike Fun Pack (English) — 3 cards / Multicolor",
+        "productId": 15641564741976,
+        "variantId": 56849721262424,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "121041 Mega Kangaskhan ex - Mega Evolution 164/132 NM (English) — 164/132, Near-Mint / Ultra Rare",
+        "productId": 15641495994712,
+        "variantId": 56849625088344,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
+        "productId": 15641340477784,
+        "variantId": 56849299997016,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131864 Nihil Zero Booster Pack (Japanese) — 5 cards / Multicolor",
+        "productId": 15641337626968,
+        "variantId": 56849296687448,
+        "onHand": 7,
         "committed": 1,
         "demand": 1
       }
