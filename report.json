@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-08T19:03:06.332Z",
+  "generatedAt": "2026-04-08T21:37:11.932Z",
   "summary": {
-    "totalUnfulfilled": 169,
-    "canFulfill": 38,
-    "blocked": 131
+    "totalUnfulfilled": 175,
+    "canFulfill": 39,
+    "blocked": 136
   },
   "fulfillableOrders": [
     {
@@ -232,6 +232,12 @@
       "id": 12217603490136,
       "name": "#3212",
       "createdAt": "2026-04-08T20:54:05+02:00",
+      "itemCount": 5
+    },
+    {
+      "id": 12217629507928,
+      "name": "#3215",
+      "createdAt": "2026-04-08T21:14:09+02:00",
       "itemCount": 5
     }
   ],
@@ -2548,6 +2554,111 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12217608077656,
+      "name": "#3213",
+      "customerName": "Jose Meza",
+      "createdAt": "2026-04-08T20:58:04+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119467 Giovanni’s Charisma - Scarlet & Violet 151 197/165 NM (English) — 197/165, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12217617842520,
+      "name": "#3214",
+      "customerName": "Vince Marks",
+      "createdAt": "2026-04-08T21:05:20+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12217636782424,
+      "name": "#3216",
+      "customerName": "luca van der ent",
+      "createdAt": "2026-04-08T21:19:52+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "121025 Ivysaur - Mega Evolution 134/132 NM (English) — 134/132, Near-Mint / Ilustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "121011 Mega Venusaur ex - Mega Evolution 177/132 NM (English) — 177/132, Near-Mint / Special Ilustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131634 Mega Zygarde‑ex - Nihil Zero 117/080 NM (Japanese) — 117/080, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12217705955672,
+      "name": "#3217",
+      "customerName": "Mathys Chapoulie",
+      "createdAt": "2026-04-08T22:01:44+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12217714278744,
+      "name": "#3218",
+      "customerName": "Mathys Chapoulie",
+      "createdAt": "2026-04-08T22:06:39+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "128236 25th Anniversary Edition Booster Pack (JP) — 1 card / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
+        },
+        {
+          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 1,
+          "needed": 1
+        },
+        {
+          "product": "110046 Sword & Shield Battle Styles Booster Box 36 pack (English) — 36 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2589,8 +2700,8 @@
         "productId": 15641336775000,
         "variantId": 56849295835480,
         "onHand": 0,
-        "committed": 12,
-        "demand": 10
+        "committed": 13,
+        "demand": 11
       },
       {
         "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
@@ -3005,8 +3116,8 @@
         "productId": 15641342640472,
         "variantId": 56849302421848,
         "onHand": 5,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "132584 Canari - Mega Evolution Ascended Heroes 291/217 NM (English) — 291/217, Near-Mint / Special Illustration Rare",
@@ -3213,8 +3324,8 @@
         "productId": 15657571811672,
         "variantId": 56923414757720,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131506 Promotion Pack 2023 Vol.1 One Piece Booster Pack (English) — 5 cards / Multicolor",
@@ -3285,8 +3396,8 @@
         "productId": 15641337299288,
         "variantId": 56849296359768,
         "onHand": 7,
-        "committed": 19,
-        "demand": 19
+        "committed": 20,
+        "demand": 20
       },
       {
         "product": "125832 Mega Gengar ex - MEGA Dream ex 230/193 NM (Japanese) — 230/193, Near-Mint / Ultra Rare",
@@ -3669,8 +3780,8 @@
         "productId": 15641373671768,
         "variantId": 56849439261016,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "109984 Charmander - Scarlet & Violet Black Star Promos 044/225 (NM) — 044/225, Near-Mint / Promo",
@@ -3717,8 +3828,8 @@
         "productId": 15641340051800,
         "variantId": 56849299571032,
         "onHand": 0,
-        "committed": 3,
-        "demand": 3
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "120825 Pikachu & Zekrom GX - Sun & Moon Team Up 033/181 NM (English) — 33/181, Near-Mint / Ultra Rare",
@@ -3853,8 +3964,8 @@
         "productId": 15641321341272,
         "variantId": 56849271554392,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110291 XY Evolutions Booster Pack (English) — 10 cards / Multicolor",
@@ -4357,8 +4468,8 @@
         "productId": 15641340412248,
         "variantId": 56849299931480,
         "onHand": 3,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110048 Sword & Shield Shiny Star V Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
@@ -4431,6 +4542,54 @@
         "onHand": 7,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "119467 Giovanni’s Charisma - Scarlet & Violet 151 197/165 NM (English) — 197/165, Near-Mint / Ultra Rare",
+        "productId": 15641506546008,
+        "variantId": 56849644093784,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131532 Tournament Pack Vol.4 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641342902616,
+        "variantId": 56849302716760,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "121025 Ivysaur - Mega Evolution 134/132 NM (English) — 134/132, Near-Mint / Ilustration Rare",
+        "productId": 15641496355160,
+        "variantId": 56849626366296,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "121011 Mega Venusaur ex - Mega Evolution 177/132 NM (English) — 177/132, Near-Mint / Special Ilustration Rare",
+        "productId": 15641496617304,
+        "variantId": 56849626628440,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131634 Mega Zygarde‑ex - Nihil Zero 117/080 NM (Japanese) — 117/080, Near-Mint / Secret Rare",
+        "productId": 15641340019032,
+        "variantId": 56849299538264,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110046 Sword & Shield Battle Styles Booster Box 36 pack (English) — 36 booster pack / Multicolor",
+        "productId": 15641567658328,
+        "variantId": 56849733681496,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -4459,10 +4618,10 @@
         "productId": 15641336775000,
         "variantId": 56849295835480,
         "onHand": 0,
-        "committed": 12,
+        "committed": 13,
         "incoming": 9,
-        "available": -12,
-        "shortfall": 3
+        "available": -13,
+        "shortfall": 4
       },
       {
         "product": "131480 Kingdoms of Intrigue One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -4528,16 +4687,6 @@
         "product": "132596 Mega Scrafty ex - Mega Evolution Ascended Heroes 285/217 NM (English) — Near-Mint / Special Illustration Rare",
         "productId": 15653258461528,
         "variantId": 56897717764440,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
-        "productId": 15657571811672,
-        "variantId": 56923414757720,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
