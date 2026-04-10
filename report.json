@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-10T20:02:25.787Z",
+  "generatedAt": "2026-04-10T22:03:51.747Z",
   "summary": {
-    "totalUnfulfilled": 142,
-    "canFulfill": 12,
-    "blocked": 130
+    "totalUnfulfilled": 144,
+    "canFulfill": 13,
+    "blocked": 131
   },
   "fulfillableOrders": [
     {
@@ -77,6 +77,12 @@
       "name": "#3233",
       "createdAt": "2026-04-10T18:52:51+02:00",
       "itemCount": 4
+    },
+    {
+      "id": 12220967518552,
+      "name": "#3238",
+      "createdAt": "2026-04-10T21:58:28+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -2377,6 +2383,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12220991537496,
+      "name": "#3239",
+      "customerName": "Frédéric Pépin-Toulouse",
+      "createdAt": "2026-04-10T22:09:26+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "113481 Espeon ex - Scarlet & Violet Prismatic Evolution 155/131 NM (English) — 155/131, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -4025,6 +4046,22 @@
         "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
         "productId": 15641563300184,
         "variantId": 56849718870360,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "124004 Phantasmal Flames Mega Evolution Pokémon Center Elite Trainer Box 11 Booster Pack (English) — 11 Booster Packs / Multicolor",
+        "productId": 15641488621912,
+        "variantId": 56849615487320,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113481 Espeon ex - Scarlet & Violet Prismatic Evolution 155/131 NM (English) — 155/131, Near-Mint / Special Illustration Rare",
+        "productId": 15641563726168,
+        "variantId": 56849719624024,
         "onHand": 0,
         "committed": 1,
         "demand": 1
