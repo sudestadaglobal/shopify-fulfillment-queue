@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-09T22:16:06.125Z",
+  "generatedAt": "2026-04-10T00:09:43.289Z",
   "summary": {
-    "totalUnfulfilled": 167,
+    "totalUnfulfilled": 168,
     "canFulfill": 26,
-    "blocked": 141
+    "blocked": 142
   },
   "fulfillableOrders": [
     {
@@ -2680,6 +2680,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12219538375000,
+      "name": "#3229",
+      "customerName": "Lee O Reilly",
+      "createdAt": "2026-04-10T01:53:32+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Nintendo Switch 2 Pro Controller",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -4393,8 +4408,8 @@
         "productId": 15364397990232,
         "variantId": 55951980888408,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "GoPro HERO13",
@@ -4519,6 +4534,16 @@
         "shortfall": 2
       },
       {
+        "product": "Nintendo Switch 2 Pro Controller",
+        "productId": 15364397990232,
+        "variantId": 55951980888408,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
         "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563627864,
         "variantId": 56849719525720,
@@ -4566,16 +4591,6 @@
         "committed": 2,
         "incoming": 1,
         "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "Nintendo Switch 2 Pro Controller",
-        "productId": 15364397990232,
-        "variantId": 55951980888408,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
         "shortfall": 1
       },
       {
