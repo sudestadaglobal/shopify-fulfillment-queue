@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-10T14:38:32.790Z",
+  "generatedAt": "2026-04-10T17:42:03.331Z",
   "summary": {
-    "totalUnfulfilled": 136,
-    "canFulfill": 11,
-    "blocked": 125
+    "totalUnfulfilled": 139,
+    "canFulfill": 13,
+    "blocked": 126
   },
   "fulfillableOrders": [
     {
@@ -71,6 +71,18 @@
       "name": "#3225",
       "createdAt": "2026-04-09T22:29:36+02:00",
       "itemCount": 5
+    },
+    {
+      "id": 12220559130968,
+      "name": "#3232",
+      "createdAt": "2026-04-10T18:12:53+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12220611232088,
+      "name": "#3233",
+      "createdAt": "2026-04-10T18:52:51+02:00",
+      "itemCount": 4
     }
   ],
   "blockedOrders": [
@@ -2266,6 +2278,39 @@
           "needed": 12
         }
       ]
+    },
+    {
+      "id": 12220520694104,
+      "name": "#3231",
+      "customerName": "Mike Geßner",
+      "createdAt": "2026-04-10T17:45:26+02:00",
+      "itemCount": 12,
+      "reasons": [
+        {
+          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "121671 Trick or Trade BOOster Bundle 40 Booster Packs (English) — 40 Mini Booster Pack, 3 cards each / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "113611 Scarlet & Violet Prismatic Evolution Glaceon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2371,8 +2416,8 @@
         "productId": 15641336840536,
         "variantId": 56849295901016,
         "onHand": 4,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "Nefeltari Vivi - The Azure Sea's Seven EB04‑025 NM V2 (English)",
@@ -2667,8 +2712,8 @@
         "productId": 15641488556376,
         "variantId": 56849615421784,
         "onHand": 7,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
@@ -2683,32 +2728,32 @@
         "productId": 15641560842584,
         "variantId": 56849715429720,
         "onHand": 5,
-        "committed": 5,
-        "demand": 5
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
         "productId": 15641508512088,
         "variantId": 56849646649688,
         "onHand": 3,
-        "committed": 5,
-        "demand": 9
+        "committed": 6,
+        "demand": 10
       },
       {
         "product": "118664 Scarlet & Violet White Flare Booster Bundle 6 Booster Pack (English) — 6 booster pack / Multicolor",
         "productId": 15641522962776,
         "variantId": 56849669456216,
         "onHand": 9,
-        "committed": 6,
-        "demand": 6
+        "committed": 7,
+        "demand": 7
       },
       {
         "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
         "productId": 15641337299288,
         "variantId": 56849296359768,
         "onHand": 0,
-        "committed": 13,
-        "demand": 13
+        "committed": 14,
+        "demand": 14
       },
       {
         "product": "118772 Sigilyph - Scarlet & Violet White Flare 121/086 NM (English) — 121/086, Near-Mint / Illustration Rare",
@@ -3195,16 +3240,16 @@
         "productId": 15641345458520,
         "variantId": 56849305502040,
         "onHand": 5,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131508 Wings of the Captain One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641343787352,
         "variantId": 56849303798104,
         "onHand": 9,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131480 Kingdoms of Intrigue One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -3651,8 +3696,8 @@
         "productId": 15641344934232,
         "variantId": 56849304977752,
         "onHand": 7,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110048 Sword & Shield Shiny Star V Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
@@ -3853,6 +3898,62 @@
         "onHand": 1,
         "committed": 12,
         "demand": 12
+      },
+      {
+        "product": "125812 Pokémon TCG: Holiday Calendar 2025 Box 6 Booster Packs (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641389236568,
+        "variantId": 56849460396376,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "121671 Trick or Trade BOOster Bundle 40 Booster Packs (English) — 40 Mini Booster Pack, 3 cards each / Multicolor",
+        "productId": 15641489473880,
+        "variantId": 56849616339288,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "118668 Scarlet & Violet White Flare Gothitelle Tech Sticker Collection (English) — 3 booster pack / Multicolor",
+        "productId": 15641522897240,
+        "variantId": 56849669390680,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113612 Scarlet & Violet Prismatic Evolution Sylveon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
+        "productId": 15641561203032,
+        "variantId": 56849715790168,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113611 Scarlet & Violet Prismatic Evolution Glaceon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
+        "productId": 15641561268568,
+        "variantId": 56849715855704,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "136093 Mew VMAX League Battle Deck (English) — 60 cards / Multicolor",
+        "productId": 15641266454872,
+        "variantId": 56849190551896,
+        "onHand": 9,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119413 Mega Evolution Psyduck 3 Booster Pack Blister (English) — 3 booster pack / Multicolor",
+        "productId": 15641507922264,
+        "variantId": 56849645928792,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
