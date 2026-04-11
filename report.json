@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-11T19:57:11.119Z",
+  "generatedAt": "2026-04-11T21:10:19.074Z",
   "summary": {
-    "totalUnfulfilled": 142,
+    "totalUnfulfilled": 141,
     "canFulfill": 13,
-    "blocked": 129
+    "blocked": 128
   },
   "fulfillableOrders": [
     {
@@ -86,21 +86,6 @@
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12057299353944,
-      "name": "#2505",
-      "customerName": "Ryan Christiaanse",
-      "createdAt": "2026-02-10T20:55:14+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
     {
       "id": 12059034419544,
       "name": "#2520",
@@ -2373,14 +2358,6 @@
   "stockAlerts": {
     "lowStock": [
       {
-        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-        "productId": 15641321406808,
-        "variantId": 56849271619928,
-        "onHand": 0,
-        "committed": 33,
-        "demand": 30
-      },
-      {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336775000,
         "variantId": 56849295835480,
@@ -2403,6 +2380,14 @@
         "onHand": 0,
         "committed": 11,
         "demand": 8
+      },
+      {
+        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+        "productId": 15641321406808,
+        "variantId": 56849271619928,
+        "onHand": 0,
+        "committed": 33,
+        "demand": 29
       },
       {
         "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
