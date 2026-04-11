@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-11T21:10:19.074Z",
+  "generatedAt": "2026-04-11T22:08:17.321Z",
   "summary": {
-    "totalUnfulfilled": 141,
-    "canFulfill": 13,
+    "totalUnfulfilled": 143,
+    "canFulfill": 15,
     "blocked": 128
   },
   "fulfillableOrders": [
@@ -82,6 +82,18 @@
       "id": 12220967518552,
       "name": "#3238",
       "createdAt": "2026-04-10T21:58:28+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12223921389912,
+      "name": "#3240",
+      "createdAt": "2026-04-11T23:44:30+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12223934660952,
+      "name": "#3241",
+      "createdAt": "2026-04-11T23:51:53+02:00",
       "itemCount": 1
     }
   ],
@@ -2850,8 +2862,8 @@
         "productId": 15641389039960,
         "variantId": 56849460199768,
         "onHand": 1,
-        "committed": 15,
-        "demand": 15
+        "committed": 16,
+        "demand": 16
       },
       {
         "product": "127894 Yamato - Carrying on His Will OP13‑054 V2 NM (English) — OP13‑054/V2, Near-Mint / Alternate Art",
@@ -3914,8 +3926,8 @@
         "productId": 15641380487512,
         "variantId": 56849450402136,
         "onHand": 1,
-        "committed": 12,
-        "demand": 12
+        "committed": 13,
+        "demand": 13
       },
       {
         "product": "125812 Pokémon TCG: Holiday Calendar 2025 Box 6 Booster Packs (English) — 6 Booster Packs / Multicolor",
