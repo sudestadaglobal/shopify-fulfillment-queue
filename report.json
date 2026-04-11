@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-10T23:59:42.867Z",
+  "generatedAt": "2026-04-11T05:26:52.936Z",
   "summary": {
-    "totalUnfulfilled": 144,
+    "totalUnfulfilled": 143,
     "canFulfill": 13,
-    "blocked": 131
+    "blocked": 130
   },
   "fulfillableOrders": [
     {
@@ -86,21 +86,6 @@
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12055902323032,
-      "name": "#2493",
-      "customerName": "Paul Jordi Julca Melgarejo",
-      "createdAt": "2026-02-10T01:04:48+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
     {
       "id": 12057127551320,
       "name": "#2503",
@@ -2403,20 +2388,20 @@
   "stockAlerts": {
     "lowStock": [
       {
-        "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-        "productId": 15641336775000,
-        "variantId": 56849295835480,
-        "onHand": 0,
-        "committed": 13,
-        "demand": 11
-      },
-      {
         "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
         "productId": 15641321406808,
         "variantId": 56849271619928,
         "onHand": 0,
         "committed": 33,
         "demand": 31
+      },
+      {
+        "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336775000,
+        "variantId": 56849295835480,
+        "onHand": 0,
+        "committed": 13,
+        "demand": 10
       },
       {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
