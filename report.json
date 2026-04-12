@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-11T22:08:17.321Z",
+  "generatedAt": "2026-04-12T00:02:03.854Z",
   "summary": {
-    "totalUnfulfilled": 143,
-    "canFulfill": 15,
-    "blocked": 128
+    "totalUnfulfilled": 151,
+    "canFulfill": 19,
+    "blocked": 132
   },
   "fulfillableOrders": [
     {
@@ -94,6 +94,30 @@
       "id": 12223934660952,
       "name": "#3241",
       "createdAt": "2026-04-11T23:51:53+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12223985910104,
+      "name": "#3243",
+      "createdAt": "2026-04-12T00:20:33+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12223991710040,
+      "name": "#3244",
+      "createdAt": "2026-04-12T00:23:36+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12224080150872,
+      "name": "#3245",
+      "createdAt": "2026-04-12T01:16:44+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12224084377944,
+      "name": "#3246",
+      "createdAt": "2026-04-12T01:19:29+02:00",
       "itemCount": 1
     }
   ],
@@ -2365,6 +2389,84 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12223972114776,
+      "name": "#3242",
+      "customerName": "vic Dejaegere",
+      "createdAt": "2026-04-12T00:12:45+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "116641 Team Rocket's Mewtwo ex - Scarlet & Violet Destined Rivals 213/182 NM (English) — 213/182, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12224100761944,
+      "name": "#3247",
+      "customerName": "Marvin Mendel",
+      "createdAt": "2026-04-12T01:30:29+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "110213 Scarlet & Violet Obsidian Flames Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12224110231896,
+      "name": "#3248",
+      "customerName": "Marvin Mendel",
+      "createdAt": "2026-04-12T01:36:31+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12224118751576,
+      "name": "#3249",
+      "customerName": "Dan Morgan",
+      "createdAt": "2026-04-12T01:42:02+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "110078 Scarlet & Violet Future Flash Booster Box (Japanese) — 30 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "110071 Scarlet & Violet Wild Force Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "114523 Scarlet & Violet Journey Together Booster Box 36 Booster Pack (English) — 36 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2390,8 +2492,8 @@
         "productId": 15641336611160,
         "variantId": 56849295671640,
         "onHand": 0,
-        "committed": 11,
-        "demand": 8
+        "committed": 12,
+        "demand": 10
       },
       {
         "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
@@ -2758,8 +2860,8 @@
         "productId": 15641560842584,
         "variantId": 56849715429720,
         "onHand": 5,
-        "committed": 6,
-        "demand": 6
+        "committed": 7,
+        "demand": 7
       },
       {
         "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
@@ -2782,8 +2884,8 @@
         "productId": 15641337299288,
         "variantId": 56849296359768,
         "onHand": 0,
-        "committed": 16,
-        "demand": 16
+        "committed": 17,
+        "demand": 17
       },
       {
         "product": "118772 Sigilyph - Scarlet & Violet White Flare 121/086 NM (English) — 121/086, Near-Mint / Illustration Rare",
@@ -2822,8 +2924,8 @@
         "productId": 15641565692248,
         "variantId": 56849722802520,
         "onHand": 0,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
@@ -3406,8 +3508,8 @@
         "productId": 15641567166808,
         "variantId": 56849733189976,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110100 Scarlet & Violet Paradise Dragona Booster Box 30 Booster Pack (Japanese) — 30 booster pack / Multicolor",
@@ -4032,19 +4134,65 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "116641 Team Rocket's Mewtwo ex - Scarlet & Violet Destined Rivals 213/182 NM (English) — 213/182, Near-Mint / Ultra Rare",
+        "productId": 15641542984024,
+        "variantId": 56849696358744,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131534 Tournament Pack Vol.5 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641342804312,
+        "variantId": 56849302585688,
+        "onHand": 9,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131584 Awakening of the New Era One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / White",
+        "productId": 15641340969304,
+        "variantId": 56849300586840,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116760 Scarlet & Violet Destined Rivals Build & Battle Kit (English) — 3 Booster pack, 40 cards / Multicolor",
+        "productId": 15641523388760,
+        "variantId": 56849676140888,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131512 Emperors in the New World One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641343656280,
+        "variantId": 56849303667032,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110071 Scarlet & Violet Wild Force Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567297880,
+        "variantId": 56849733321048,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "114523 Scarlet & Violet Journey Together Booster Box 36 Booster Pack (English) — 36 Booster pack / Multicolor",
+        "productId": 15641561104728,
+        "variantId": 56849715691864,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
-      {
-        "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-        "productId": 15641336611160,
-        "variantId": 56849295671640,
-        "onHand": 0,
-        "committed": 11,
-        "incoming": 1,
-        "available": -11,
-        "shortfall": 10
-      },
       {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336676696,
@@ -4054,6 +4202,16 @@
         "incoming": 0,
         "available": -7,
         "shortfall": 7
+      },
+      {
+        "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336611160,
+        "variantId": 56849295671640,
+        "onHand": 0,
+        "committed": 12,
+        "incoming": 6,
+        "available": -12,
+        "shortfall": 6
       },
       {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -4099,6 +4257,16 @@
         "product": "GoPro HERO13",
         "productId": 15698863948120,
         "variantId": 57079791714648,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "114523 Scarlet & Violet Journey Together Booster Box 36 Booster Pack (English) — 36 Booster pack / Multicolor",
+        "productId": 15641561104728,
+        "variantId": 56849715691864,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
