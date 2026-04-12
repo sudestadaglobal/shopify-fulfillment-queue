@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-12T22:56:01.565Z",
+  "generatedAt": "2026-04-12T23:47:00.169Z",
   "summary": {
-    "totalUnfulfilled": 155,
+    "totalUnfulfilled": 154,
     "canFulfill": 21,
-    "blocked": 134
+    "blocked": 133
   },
   "fulfillableOrders": [
     {
@@ -134,21 +134,6 @@
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12059034419544,
-      "name": "#2520",
-      "customerName": "Armaan Sheikh",
-      "createdAt": "2026-02-11T23:58:59+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
     {
       "id": 12060228059480,
       "name": "#2536",
@@ -2520,14 +2505,6 @@
   "stockAlerts": {
     "lowStock": [
       {
-        "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-        "productId": 15641336775000,
-        "variantId": 56849295835480,
-        "onHand": 0,
-        "committed": 13,
-        "demand": 10
-      },
-      {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336676696,
         "variantId": 56849295737176,
@@ -2542,6 +2519,14 @@
         "onHand": 0,
         "committed": 12,
         "demand": 10
+      },
+      {
+        "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336775000,
+        "variantId": 56849295835480,
+        "onHand": 0,
+        "committed": 13,
+        "demand": 9
       },
       {
         "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
