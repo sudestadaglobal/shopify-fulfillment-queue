@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-12T00:02:03.854Z",
+  "generatedAt": "2026-04-12T06:18:04.754Z",
   "summary": {
-    "totalUnfulfilled": 151,
-    "canFulfill": 19,
-    "blocked": 132
+    "totalUnfulfilled": 155,
+    "canFulfill": 21,
+    "blocked": 134
   },
   "fulfillableOrders": [
     {
@@ -118,6 +118,18 @@
       "id": 12224084377944,
       "name": "#3246",
       "createdAt": "2026-04-12T01:19:29+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12224224100696,
+      "name": "#3252",
+      "createdAt": "2026-04-12T02:53:38+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12224231145816,
+      "name": "#3253",
+      "createdAt": "2026-04-12T02:58:41+02:00",
       "itemCount": 1
     }
   ],
@@ -2467,6 +2479,42 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12224199197016,
+      "name": "#3250",
+      "customerName": "JAVIER Barragan",
+      "createdAt": "2026-04-12T02:35:54+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "131498 Special DON!! Card Pack DP‑06 One Piece Booster Pack (English) — 1 card / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12224218530136,
+      "name": "#3251",
+      "customerName": "Magnus Eskemose",
+      "createdAt": "2026-04-12T02:49:41+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2868,8 +2916,8 @@
         "productId": 15641508512088,
         "variantId": 56849646649688,
         "onHand": 3,
-        "committed": 6,
-        "demand": 10
+        "committed": 7,
+        "demand": 11
       },
       {
         "product": "118664 Scarlet & Violet White Flare Booster Bundle 6 Booster Pack (English) — 6 booster pack / Multicolor",
@@ -2884,8 +2932,8 @@
         "productId": 15641337299288,
         "variantId": 56849296359768,
         "onHand": 0,
-        "committed": 17,
-        "demand": 17
+        "committed": 18,
+        "demand": 18
       },
       {
         "product": "118772 Sigilyph - Scarlet & Violet White Flare 121/086 NM (English) — 121/086, Near-Mint / Illustration Rare",
@@ -3220,8 +3268,8 @@
         "productId": 15641340707160,
         "variantId": 56849300226392,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119123 Beartic - Scarlet & Violet Black Bolt 110/086 NM (English) — 110/086, Near-Mint / Illustration Rare",
@@ -3748,8 +3796,8 @@
         "productId": 15641344180568,
         "variantId": 56849304224088,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
@@ -4190,6 +4238,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "134040 Mega Evolution Perfect Order Booster Box 36 Booster Packs (English) Pre‑order",
+        "productId": 15642773913944,
+        "variantId": 56856323359064,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110074 Scarlet & Violet Paradox Rift Booster 36 pack(English) — 36 booster pack / Multicolor",
+        "productId": 15641567232344,
+        "variantId": 56849733255512,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -4257,16 +4321,6 @@
         "product": "GoPro HERO13",
         "productId": 15698863948120,
         "variantId": 57079791714648,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "114523 Scarlet & Violet Journey Together Booster Box 36 Booster Pack (English) — 36 Booster pack / Multicolor",
-        "productId": 15641561104728,
-        "variantId": 56849715691864,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
