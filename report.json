@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T11:03:11.266Z",
+  "generatedAt": "2026-04-13T12:14:14.092Z",
   "summary": {
     "totalUnfulfilled": 154,
     "canFulfill": 21,
@@ -2941,7 +2941,7 @@
         "productId": 15641566576984,
         "variantId": 56849732370776,
         "onHand": 4,
-        "committed": 1,
+        "committed": 0,
         "demand": 1
       },
       {
@@ -2949,7 +2949,7 @@
         "productId": 15641566445912,
         "variantId": 56849732239704,
         "onHand": 9,
-        "committed": 1,
+        "committed": 0,
         "demand": 1
       },
       {
@@ -2957,7 +2957,7 @@
         "productId": 15641565692248,
         "variantId": 56849722802520,
         "onHand": 0,
-        "committed": 4,
+        "committed": 3,
         "demand": 4
       },
       {
@@ -3029,7 +3029,7 @@
         "productId": 15641567035736,
         "variantId": 56849732862296,
         "onHand": 0,
-        "committed": 2,
+        "committed": 1,
         "demand": 3
       },
       {
