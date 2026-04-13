@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-13T19:54:49.022Z",
+  "generatedAt": "2026-04-13T21:06:44.183Z",
   "summary": {
-    "totalUnfulfilled": 143,
+    "totalUnfulfilled": 142,
     "canFulfill": 12,
-    "blocked": 131
+    "blocked": 130
   },
   "fulfillableOrders": [
     {
@@ -80,27 +80,6 @@
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12061120921944,
-      "name": "#2546",
-      "customerName": "Adrià Cáceres",
-      "createdAt": "2026-02-12T21:59:10+01:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
     {
       "id": 12068766712152,
       "name": "#2559",
@@ -2391,12 +2370,12 @@
   "stockAlerts": {
     "lowStock": [
       {
-        "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-        "productId": 15641336611160,
-        "variantId": 56849295671640,
+        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+        "productId": 15641321406808,
+        "variantId": 56849271619928,
         "onHand": 0,
-        "committed": 12,
-        "demand": 9
+        "committed": 33,
+        "demand": 29
       },
       {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -2404,15 +2383,7 @@
         "variantId": 56849295835480,
         "onHand": 0,
         "committed": 13,
-        "demand": 9
-      },
-      {
-        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-        "productId": 15641321406808,
-        "variantId": 56849271619928,
-        "onHand": 0,
-        "committed": 33,
-        "demand": 29
+        "demand": 8
       },
       {
         "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
@@ -2445,6 +2416,14 @@
         "onHand": 0,
         "committed": 3,
         "demand": 3
+      },
+      {
+        "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336611160,
+        "variantId": 56849295671640,
+        "onHand": 0,
+        "committed": 12,
+        "demand": 8
       },
       {
         "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
