@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-13T14:15:02.888Z",
+  "generatedAt": "2026-04-13T15:52:45.555Z",
   "summary": {
     "totalUnfulfilled": 154,
-    "canFulfill": 21,
-    "blocked": 133
+    "canFulfill": 25,
+    "blocked": 129
   },
   "fulfillableOrders": [
     {
@@ -19,6 +19,12 @@
       "itemCount": 5
     },
     {
+      "id": 12204354896216,
+      "name": "#3104",
+      "createdAt": "2026-03-30T21:29:18+02:00",
+      "itemCount": 2
+    },
+    {
       "id": 12204637454680,
       "name": "#3114",
       "createdAt": "2026-03-30T23:24:11+02:00",
@@ -31,15 +37,33 @@
       "itemCount": 2
     },
     {
+      "id": 12206273266008,
+      "name": "#3140",
+      "createdAt": "2026-04-01T01:01:59+02:00",
+      "itemCount": 2
+    },
+    {
       "id": 12207687565656,
       "name": "#3150",
       "createdAt": "2026-04-01T23:50:17+02:00",
       "itemCount": 1
     },
     {
+      "id": 12208747741528,
+      "name": "#3154",
+      "createdAt": "2026-04-02T19:34:29+02:00",
+      "itemCount": 2
+    },
+    {
       "id": 12213142585688,
       "name": "#3180",
       "createdAt": "2026-04-06T02:22:02+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12213668839768,
+      "name": "#3183",
+      "createdAt": "2026-04-06T13:53:10+02:00",
       "itemCount": 1
     },
     {
@@ -134,27 +158,6 @@
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12060228059480,
-      "name": "#2536",
-      "customerName": "FRANCOIS Alexis",
-      "createdAt": "2026-02-12T16:34:14+01:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
     {
       "id": 12061120921944,
       "name": "#2546",
@@ -993,21 +996,6 @@
       ]
     },
     {
-      "id": 12204354896216,
-      "name": "#3104",
-      "customerName": "David Markert",
-      "createdAt": "2026-03-30T21:29:18+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131606 500 Years into the Future One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12204539707736,
       "name": "#3109",
       "customerName": "JAVIER Barragan",
@@ -1188,21 +1176,6 @@
       ]
     },
     {
-      "id": 12206273266008,
-      "name": "#3140",
-      "customerName": "Ricards Sandris Megi",
-      "createdAt": "2026-04-01T01:01:59+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12206275723608,
       "name": "#3141",
       "customerName": "Jakub Grabarz",
@@ -1320,7 +1293,7 @@
         {
           "product": "131594 Kingdoms of Intrigue One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 3,
           "needed": 12
         }
       ]
@@ -1337,21 +1310,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12208747741528,
-      "name": "#3154",
-      "customerName": "Kristoffer Bergström",
-      "createdAt": "2026-04-02T19:34:29+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
-          "reason": "Insufficient stock",
-          "stock": 1,
-          "needed": 2
         }
       ]
     },
@@ -1625,21 +1583,6 @@
       "reasons": [
         {
           "product": "119193 Axew - Scarlet & Violet Black Bolt 145/086 NM (English) — 145/086, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12213668839768,
-      "name": "#3183",
-      "customerName": "Czel Gergely",
-      "createdAt": "2026-04-06T13:53:10+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "iPhone Air 1TB Cloud White",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2281,12 +2224,6 @@
           "needed": 1
         },
         {
-          "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "113611 Scarlet & Violet Prismatic Evolution Glaceon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -2486,9 +2423,18 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
+        }
+      ]
+    },
+    {
+      "id": 12227380937048,
+      "name": "#3254",
+      "customerName": "Bas Oost",
+      "createdAt": "2026-04-13T16:50:16+02:00",
+      "itemCount": 1,
+      "reasons": [
         {
-          "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
+          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2499,20 +2445,12 @@
   "stockAlerts": {
     "lowStock": [
       {
-        "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-        "productId": 15641336676696,
-        "variantId": 56849295737176,
-        "onHand": 0,
-        "committed": 7,
-        "demand": 5
-      },
-      {
         "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336611160,
         "variantId": 56849295671640,
         "onHand": 0,
         "committed": 12,
-        "demand": 10
+        "demand": 9
       },
       {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -2569,6 +2507,14 @@
         "onHand": 4,
         "committed": 5,
         "demand": 5
+      },
+      {
+        "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336676696,
+        "variantId": 56849295737176,
+        "onHand": 0,
+        "committed": 7,
+        "demand": 4
       },
       {
         "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
@@ -2894,7 +2840,7 @@
         "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
         "productId": 15641508512088,
         "variantId": 56849646649688,
-        "onHand": 3,
+        "onHand": 7,
         "committed": 7,
         "demand": 11
       },
@@ -2911,8 +2857,8 @@
         "productId": 15641337299288,
         "variantId": 56849296359768,
         "onHand": 0,
-        "committed": 18,
-        "demand": 18
+        "committed": 19,
+        "demand": 19
       },
       {
         "product": "118772 Sigilyph - Scarlet & Violet White Flare 121/086 NM (English) — 121/086, Near-Mint / Illustration Rare",
@@ -3230,7 +3176,7 @@
         "product": "131606 500 Years into the Future One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
         "productId": 15641340182872,
         "variantId": 56849299702104,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3350,7 +3296,7 @@
         "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
         "productId": 15641569788248,
         "variantId": 56849737253208,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -3462,7 +3408,7 @@
         "product": "131594 Kingdoms of Intrigue One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
         "productId": 15641340608856,
         "variantId": 56849300128088,
-        "onHand": 0,
+        "onHand": 3,
         "committed": 12,
         "demand": 12
       },
@@ -3478,7 +3424,7 @@
         "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
         "productId": 15641380454744,
         "variantId": 56849450369368,
-        "onHand": 1,
+        "onHand": 3,
         "committed": 2,
         "demand": 2
       },
@@ -3662,7 +3608,7 @@
         "product": "iPhone Air 1TB Cloud White",
         "productId": 15691576770904,
         "variantId": 57058013512024,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
