@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T12:14:14.092Z",
+  "generatedAt": "2026-04-13T14:15:02.888Z",
   "summary": {
     "totalUnfulfilled": 154,
     "canFulfill": 21,
@@ -716,12 +716,6 @@
       "reasons": [
         {
           "product": "118836 Watchog - Scarlet & Violet White Flare 153/086 NM (English) — 153/086, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "110213 Scarlet & Violet Obsidian Flames Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
