@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-13T15:52:45.555Z",
+  "generatedAt": "2026-04-13T17:16:40.408Z",
   "summary": {
-    "totalUnfulfilled": 154,
-    "canFulfill": 25,
-    "blocked": 129
+    "totalUnfulfilled": 161,
+    "canFulfill": 29,
+    "blocked": 132
   },
   "fulfillableOrders": [
     {
@@ -154,6 +154,30 @@
       "id": 12224231145816,
       "name": "#3253",
       "createdAt": "2026-04-12T02:58:41+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12227482091864,
+      "name": "#3256",
+      "createdAt": "2026-04-13T18:02:01+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12227495035224,
+      "name": "#3258",
+      "createdAt": "2026-04-13T18:12:00+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12227499393368,
+      "name": "#3259",
+      "createdAt": "2026-04-13T18:15:08+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12227501392216,
+      "name": "#3260",
+      "createdAt": "2026-04-13T18:16:28+02:00",
       "itemCount": 1
     }
   ],
@@ -2440,6 +2464,51 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12227468951896,
+      "name": "#3255",
+      "customerName": "Bilal Gültan",
+      "createdAt": "2026-04-13T17:52:27+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "110240 Sword & Shield Silver Tempest Sleeved Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12227489136984,
+      "name": "#3257",
+      "customerName": "Dan Morgan",
+      "createdAt": "2026-04-13T18:07:17+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12227505226072,
+      "name": "#3261",
+      "customerName": "Enrico Rinaldi",
+      "createdAt": "2026-04-13T18:19:28+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "136131 MEGA Start Deck 100 Battle Collection CoroCiao Version (Japanese) — 60 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2593,8 +2662,8 @@
         "productId": 15641485541720,
         "variantId": 56849611260248,
         "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "110324 Charizard V - Sword & Shield Champion's Path 079/073 NM (English) — 079/073, Near-Mint / Secret Rare",
@@ -2857,8 +2926,8 @@
         "productId": 15641337299288,
         "variantId": 56849296359768,
         "onHand": 0,
-        "committed": 19,
-        "demand": 19
+        "committed": 20,
+        "demand": 20
       },
       {
         "product": "118772 Sigilyph - Scarlet & Violet White Flare 121/086 NM (English) — 121/086, Near-Mint / Illustration Rare",
@@ -3953,8 +4022,8 @@
         "productId": 15641565233496,
         "variantId": 56849722081624,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "124020 Phantasmal Flames Mega Evolution Cottonee 1 Booster Pack Blister (English) — 1 Booster Pack / Multicolor",
@@ -4177,6 +4246,30 @@
         "productId": 15641567232344,
         "variantId": 56849733255512,
         "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116770 Scarlet & Violet Destined Rivals Skeledirge Premium Checklane 1 Booster Pack Blister (English) — 1 Booster pack, 3 cards / Multicolor",
+        "productId": 15641523224920,
+        "variantId": 56849675977048,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119407 Mega Evolution Booster Box (English) — 36 booster pack / Multicolor",
+        "productId": 15641508086104,
+        "variantId": 56849646223704,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "136131 MEGA Start Deck 100 Battle Collection CoroCiao Version (Japanese) — 60 cards / Multicolor",
+        "productId": 15641265111384,
+        "variantId": 56849188585816,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
