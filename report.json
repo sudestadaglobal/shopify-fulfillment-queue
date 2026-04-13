@@ -1,57 +1,15 @@
 {
-  "generatedAt": "2026-04-13T17:16:40.408Z",
+  "generatedAt": "2026-04-13T18:22:44.274Z",
   "summary": {
-    "totalUnfulfilled": 161,
-    "canFulfill": 29,
-    "blocked": 132
+    "totalUnfulfilled": 143,
+    "canFulfill": 12,
+    "blocked": 131
   },
   "fulfillableOrders": [
-    {
-      "id": 12204301648216,
-      "name": "#3100",
-      "createdAt": "2026-03-30T21:09:48+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12204314558808,
-      "name": "#3101",
-      "createdAt": "2026-03-30T21:14:23+02:00",
-      "itemCount": 5
-    },
-    {
-      "id": 12204354896216,
-      "name": "#3104",
-      "createdAt": "2026-03-30T21:29:18+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12204637454680,
-      "name": "#3114",
-      "createdAt": "2026-03-30T23:24:11+02:00",
-      "itemCount": 1
-    },
     {
       "id": 12205377421656,
       "name": "#3120",
       "createdAt": "2026-03-31T13:53:19+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12206273266008,
-      "name": "#3140",
-      "createdAt": "2026-04-01T01:01:59+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12207687565656,
-      "name": "#3150",
-      "createdAt": "2026-04-01T23:50:17+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12208747741528,
-      "name": "#3154",
-      "createdAt": "2026-04-02T19:34:29+02:00",
       "itemCount": 2
     },
     {
@@ -61,40 +19,10 @@
       "itemCount": 1
     },
     {
-      "id": 12213668839768,
-      "name": "#3183",
-      "createdAt": "2026-04-06T13:53:10+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12214015754584,
-      "name": "#3184",
-      "createdAt": "2026-04-06T18:12:09+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12214319808856,
-      "name": "#3188",
-      "createdAt": "2026-04-06T21:48:54+02:00",
-      "itemCount": 1
-    },
-    {
       "id": 12217434964312,
       "name": "#3208",
       "createdAt": "2026-04-08T18:50:03+02:00",
       "itemCount": 3
-    },
-    {
-      "id": 12219397472600,
-      "name": "#3225",
-      "createdAt": "2026-04-09T22:29:36+02:00",
-      "itemCount": 5
-    },
-    {
-      "id": 12220559130968,
-      "name": "#3232",
-      "createdAt": "2026-04-10T18:12:53+02:00",
-      "itemCount": 1
     },
     {
       "id": 12220611232088,
@@ -121,39 +49,9 @@
       "itemCount": 1
     },
     {
-      "id": 12223985910104,
-      "name": "#3243",
-      "createdAt": "2026-04-12T00:20:33+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12223991710040,
-      "name": "#3244",
-      "createdAt": "2026-04-12T00:23:36+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12224080150872,
-      "name": "#3245",
-      "createdAt": "2026-04-12T01:16:44+02:00",
-      "itemCount": 2
-    },
-    {
       "id": 12224084377944,
       "name": "#3246",
       "createdAt": "2026-04-12T01:19:29+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12224224100696,
-      "name": "#3252",
-      "createdAt": "2026-04-12T02:53:38+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12224231145816,
-      "name": "#3253",
-      "createdAt": "2026-04-12T02:58:41+02:00",
       "itemCount": 1
     },
     {
@@ -1458,21 +1356,6 @@
       ]
     },
     {
-      "id": 12210070487384,
-      "name": "#3167",
-      "customerName": "Kevin Benoit",
-      "createdAt": "2026-04-03T18:35:09+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (Japanese) — 175/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12213087863128,
       "name": "#3168",
       "customerName": "Cole Conover",
@@ -1482,7 +1365,7 @@
         {
           "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (Japanese) — 175/165, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": -1,
           "needed": 1
         }
       ]
@@ -2041,12 +1924,6 @@
           "product": "110046 Sword & Shield Battle Styles Booster Box 36 pack (English) — 36 booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "Blister 1 figure Bitty POP Pokemon",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 56,
           "needed": 1
         }
       ]
@@ -2885,9 +2762,9 @@
         "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
         "productId": 15641488556376,
         "variantId": 56849615421784,
-        "onHand": 7,
-        "committed": 5,
-        "demand": 5
+        "onHand": 6,
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
@@ -2901,9 +2778,9 @@
         "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
         "productId": 15641560842584,
         "variantId": 56849715429720,
-        "onHand": 5,
-        "committed": 7,
-        "demand": 7
+        "onHand": 4,
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
@@ -3170,6 +3047,14 @@
         "demand": 1
       },
       {
+        "product": "124024 Phantasmal Flames Mega Evolution Blaziken Premium Checklane 1 Booster Pack Blister (English) — 1 Booster Pack / Multicolor",
+        "productId": 15641488064856,
+        "variantId": 56849614831960,
+        "onHand": 9,
+        "committed": 2,
+        "demand": 2
+      },
+      {
         "product": "124048 Mega Lopunny ex - Phantasmal Flames 128/094 NM (English) — 128/094, Near-Mint / Special Illustration Rare",
         "productId": 15641487180120,
         "variantId": 56849613881688,
@@ -3206,46 +3091,6 @@
         "productId": 15641562644824,
         "variantId": 56849718051160,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
-        "productId": 15641340051800,
-        "variantId": 56849299571032,
-        "onHand": 2,
-        "committed": 5,
-        "demand": 5
-      },
-      {
-        "product": "120825 Pikachu & Zekrom GX - Sun & Moon Team Up 033/181 NM (English) — 33/181, Near-Mint / Ultra Rare",
-        "productId": 15641500451160,
-        "variantId": 56849634558296,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "120805 Eevee & Snorlax GX - Sun & Moon Team Up 171/181 NM (English) — 171/181, Near-Mint / Ultra Rare",
-        "productId": 15641500778840,
-        "variantId": 56849634885976,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "124054 Mega Charizard X ex - Phantasmal Flames 125/094 NM (English) — 125/094, Near-Mint / Special Illustration Rare",
-        "productId": 15641486950744,
-        "variantId": 56849613652312,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131606 500 Years into the Future One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
-        "productId": 15641340182872,
-        "variantId": 56849299702104,
-        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3288,14 +3133,6 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "110062 Scarlet & Violet Twilight Masquerade Booster Box 36 pack (English) — 36 booster pack / Multicolor",
-        "productId": 15641567461720,
-        "variantId": 56849733484888,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
       },
       {
         "product": "136087 2022 World Championships Deck Rikuto Ohashi Ice Rider Palkia (English) — 60 cards / Multicolor",
@@ -3354,20 +3191,20 @@
         "demand": 1
       },
       {
+        "product": "110062 Scarlet & Violet Twilight Masquerade Booster Box 36 pack (English) — 36 booster pack / Multicolor",
+        "productId": 15641567461720,
+        "variantId": 56849733484888,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
         "product": "136043 Mega Gengar ex Mega Battle Deck (English) — 60 cards / Multicolor",
         "productId": 15641268191576,
         "variantId": 56849192976728,
         "onHand": 0,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
-        "productId": 15641569788248,
-        "variantId": 56849737253208,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
       },
       {
         "product": "118738 Chandelure - Scarlet & Violet White Flare 103/086 NM (English) — 103/086, Near-Mint / Illustration Rare",
@@ -3482,22 +3319,6 @@
         "demand": 12
       },
       {
-        "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
-        "productId": 15641345753432,
-        "variantId": 56849305796952,
-        "onHand": 9,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
-        "productId": 15641380454744,
-        "variantId": 56849450369368,
-        "onHand": 3,
-        "committed": 2,
-        "demand": 2
-      },
-      {
         "product": "109984 Charmander - Scarlet & Violet Black Star Promos 044/225 (NM) — 044/225, Near-Mint / Promo",
         "productId": 15641568837976,
         "variantId": 56849736204632,
@@ -3573,9 +3394,9 @@
         "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (Japanese) — 175/165, Near-Mint / Illustration Rare",
         "productId": 15641506021720,
         "variantId": 56849643405656,
-        "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "onHand": -1,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "141085 One Piece Card Game Heroines Edition Booster Box 24 Booster Packs (English)",
@@ -3670,30 +3491,6 @@
         "productId": 15641512804696,
         "variantId": 56849653858648,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "iPhone Air 1TB Cloud White",
-        "productId": 15691576770904,
-        "variantId": 57058013512024,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "Apple AirPods Pro 3",
-        "productId": 15338563338584,
-        "variantId": 55853592019288,
-        "onHand": 5,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "Apple Airpods 4",
-        "productId": 15579554382168,
-        "variantId": 56602249658712,
-        "onHand": 5,
         "committed": 1,
         "demand": 1
       },
@@ -3794,14 +3591,6 @@
         "demand": 2
       },
       {
-        "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
-        "productId": 15641336152408,
-        "variantId": 56849295245656,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
         "productId": 15641566871896,
         "variantId": 56849732698456,
@@ -3866,6 +3655,14 @@
         "demand": 2
       },
       {
+        "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
+        "productId": 15641340051800,
+        "variantId": 56849299571032,
+        "onHand": 0,
+        "committed": 3,
+        "demand": 3
+      },
+      {
         "product": "131472 Royal Blood One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641344934232,
         "variantId": 56849304977752,
@@ -3894,6 +3691,14 @@
         "productId": 15120406643032,
         "variantId": 55021154959704,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Apple AirPods Pro 3",
+        "productId": 15338563338584,
+        "variantId": 55853592019288,
+        "onHand": 4,
         "committed": 1,
         "demand": 1
       },
@@ -4018,22 +3823,6 @@
         "demand": 1
       },
       {
-        "product": "110240 Sword & Shield Silver Tempest Sleeved Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641565233496,
-        "variantId": 56849722081624,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "124020 Phantasmal Flames Mega Evolution Cottonee 1 Booster Pack Blister (English) — 1 Booster Pack / Multicolor",
-        "productId": 15641488195928,
-        "variantId": 56849614963032,
-        "onHand": 7,
-        "committed": 2,
-        "demand": 2
-      },
-      {
         "product": "124092 Wigglytuff - Phantasmal Flames 105/094 NM (English) — 105/094, Near-Mint / Illustration Rare",
         "productId": 15641485312344,
         "variantId": 56849611030872,
@@ -4122,14 +3911,6 @@
         "demand": 1
       },
       {
-        "product": "119413 Mega Evolution Psyduck 3 Booster Pack Blister (English) — 3 booster pack / Multicolor",
-        "productId": 15641507922264,
-        "variantId": 56849645928792,
-        "onHand": 6,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "119409 Mega Evolution Enhanced Booster Box (English) — 36 booster pack / Multicolor",
         "productId": 15641508020568,
         "variantId": 56849646158168,
@@ -4150,6 +3931,14 @@
         "productId": 15642791805272,
         "variantId": 56856364450136,
         "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
+        "productId": 15641569788248,
+        "variantId": 56849737253208,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       },
@@ -4186,30 +3975,6 @@
         "demand": 1
       },
       {
-        "product": "131534 Tournament Pack Vol.5 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641342804312,
-        "variantId": 56849302585688,
-        "onHand": 9,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131584 Awakening of the New Era One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / White",
-        "productId": 15641340969304,
-        "variantId": 56849300586840,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "116760 Scarlet & Violet Destined Rivals Build & Battle Kit (English) — 3 Booster pack, 40 cards / Multicolor",
-        "productId": 15641523388760,
-        "variantId": 56849676140888,
-        "onHand": 2,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "131512 Emperors in the New World One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641343656280,
         "variantId": 56849303667032,
@@ -4242,10 +4007,10 @@
         "demand": 1
       },
       {
-        "product": "110074 Scarlet & Violet Paradox Rift Booster 36 pack(English) — 36 booster pack / Multicolor",
-        "productId": 15641567232344,
-        "variantId": 56849733255512,
-        "onHand": 3,
+        "product": "110240 Sword & Shield Silver Tempest Sleeved Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565233496,
+        "variantId": 56849722081624,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       },
