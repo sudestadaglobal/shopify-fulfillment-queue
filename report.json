@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-14T15:49:01.747Z",
+  "generatedAt": "2026-04-14T16:54:40.019Z",
   "summary": {
-    "totalUnfulfilled": 143,
+    "totalUnfulfilled": 144,
     "canFulfill": 14,
-    "blocked": 129
+    "blocked": 130
   },
   "fulfillableOrders": [
     {
@@ -2362,6 +2362,33 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12234819567960,
+      "name": "#3263",
+      "customerName": "Benjamin Hope",
+      "createdAt": "2026-04-14T18:33:41+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "BANPRESTO One Piece Beyond the Trials Roronoa Zoro Ichibansho Figure",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "BANPRESTO One Piece Beyond the Trials Monkey D. Luffy Ichibansho Figure",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "BANPRESTO One Piece Gold D. Roger Grandline Series Special Figure",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -4013,6 +4040,30 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "BANPRESTO One Piece Beyond the Trials Roronoa Zoro Ichibansho Figure",
+        "productId": 15707123548504,
+        "variantId": 57107741901144,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "BANPRESTO One Piece Beyond the Trials Monkey D. Luffy Ichibansho Figure",
+        "productId": 15707111129432,
+        "variantId": 57107690324312,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "BANPRESTO One Piece Gold D. Roger Grandline Series Special Figure",
+        "productId": 15707109949784,
+        "variantId": 57107686949208,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -4080,6 +4131,36 @@
         "product": "GoPro HERO13",
         "productId": 15698863948120,
         "variantId": 57079791714648,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "BANPRESTO One Piece Beyond the Trials Roronoa Zoro Ichibansho Figure",
+        "productId": 15707123548504,
+        "variantId": 57107741901144,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "BANPRESTO One Piece Beyond the Trials Monkey D. Luffy Ichibansho Figure",
+        "productId": 15707111129432,
+        "variantId": 57107690324312,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "BANPRESTO One Piece Gold D. Roger Grandline Series Special Figure",
+        "productId": 15707109949784,
+        "variantId": 57107686949208,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
