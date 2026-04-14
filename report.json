@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-04-14T14:19:42.812Z",
+  "generatedAt": "2026-04-14T15:49:01.747Z",
   "summary": {
-    "totalUnfulfilled": 142,
-    "canFulfill": 12,
-    "blocked": 130
+    "totalUnfulfilled": 143,
+    "canFulfill": 14,
+    "blocked": 129
   },
   "fulfillableOrders": [
+    {
+      "id": 12181907898712,
+      "name": "#2951",
+      "createdAt": "2026-03-16T20:25:25+01:00",
+      "itemCount": 1
+    },
     {
       "id": 12205377421656,
       "name": "#3120",
       "createdAt": "2026-03-31T13:53:19+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12205819330904,
+      "name": "#3130",
+      "createdAt": "2026-03-31T19:04:41+02:00",
       "itemCount": 2
     },
     {
@@ -474,21 +486,6 @@
       ]
     },
     {
-      "id": 12181907898712,
-      "name": "#2951",
-      "customerName": "Christian Salmen",
-      "createdAt": "2026-03-16T20:25:25+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12181916320088,
       "name": "#2953",
       "customerName": "David Silver Laatspera",
@@ -635,12 +632,6 @@
       "reasons": [
         {
           "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -995,21 +986,6 @@
       "reasons": [
         {
           "product": "118770 Swoobat - Scarlet & Violet White Flare 120/086 NM (English) — 120/086, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12205819330904,
-      "name": "#3130",
-      "customerName": "gerard valentin sancho",
-      "createdAt": "2026-03-31T19:04:41+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1882,12 +1858,6 @@
       "itemCount": 6,
       "reasons": [
         {
-          "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        },
-        {
           "product": "128236 25th Anniversary Edition Booster Pack (JP) — 1 card / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1903,6 +1873,12 @@
           "product": "110046 Sword & Shield Battle Styles Booster Box 36 pack (English) — 36 booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "Blister 1 figure Bitty POP Pokemon",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 55,
           "needed": 1
         }
       ]
@@ -2365,6 +2341,27 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12234632855896,
+      "name": "#3262",
+      "customerName": "Šimon Vích",
+      "createdAt": "2026-04-14T16:22:37+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "109970 Pikachu - Sword & Shield Crown Zenith 160/159 NM (English) — 160/159, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119439 Charizard ex - Scarlet & Violet 151 183/165 NM (English) — 183/165, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2693,7 +2690,7 @@
         "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
         "productId": 15657571811672,
         "variantId": 56923414757720,
-        "onHand": 0,
+        "onHand": 5,
         "committed": 3,
         "demand": 3
       },
@@ -2829,7 +2826,7 @@
         "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
         "productId": 15641503891800,
         "variantId": 56849639604568,
-        "onHand": 0,
+        "onHand": 5,
         "committed": 2,
         "demand": 2
       },
@@ -3446,8 +3443,8 @@
         "productId": 15641507070296,
         "variantId": 56849644749144,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "114541 Lillie's Ribombee - Scarlet & Violet Journey Together 164/159 ( EN) — 164/159, Near-Mint / Illustration Rare",
@@ -3662,8 +3659,8 @@
         "productId": 15641569067352,
         "variantId": 56849736434008,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "Nintendo Switch 2 - Mario Kart World Bundle",
