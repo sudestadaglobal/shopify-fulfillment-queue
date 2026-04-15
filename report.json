@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-15T14:04:49.720Z",
+  "generatedAt": "2026-04-15T15:22:10.172Z",
   "summary": {
-    "totalUnfulfilled": 146,
+    "totalUnfulfilled": 148,
     "canFulfill": 32,
-    "blocked": 114
+    "blocked": 116
   },
   "fulfillableOrders": [
     {
@@ -1842,7 +1842,7 @@
         {
           "product": "127670 Carrying on His Will One Piece Booster Pack (English) — 12 cards / Red",
           "reason": "Insufficient stock",
-          "stock": 1,
+          "stock": 11,
           "needed": 12
         }
       ]
@@ -2228,6 +2228,72 @@
       "reasons": [
         {
           "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12236065898840,
+      "name": "#3269",
+      "customerName": "james paul",
+      "createdAt": "2026-04-15T16:10:41+02:00",
+      "itemCount": 12,
+      "reasons": [
+        {
+          "product": "141085 One Piece Card Game Heroines Edition Booster Box 24 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131512 Emperors in the New World One Piece Booster Pack (English) — 12 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 2
+        },
+        {
+          "product": "131560 Judge Pack Vol. 5 One Piece Booster Pack (English) — 1 card / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12236158796120,
+      "name": "#3270",
+      "customerName": "Samuel Dominguez Carver",
+      "createdAt": "2026-04-15T17:14:13+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "NZXT Kraken Core RGB 360mm AIO Liquid Cooler",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "Corsair RM1000e (2025) 1000W Full‑Modular Power Supply",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "AMD Ryzen 7 9800X3D",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "ASUS ROG Strix X870-F Gaming WIFI AM5 Motherboard",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -3042,8 +3108,8 @@
         "productId": 15641345130840,
         "variantId": 56849305174360,
         "onHand": 7,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "131514 Royal Blood One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -3218,8 +3284,8 @@
         "productId": 15691118477656,
         "variantId": 57056588726616,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "113539 Scarlet & Violet Prismatic Evolutions Flareon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
@@ -3482,8 +3548,8 @@
         "productId": 15641344934232,
         "variantId": 56849304977752,
         "onHand": 7,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "110048 Sword & Shield Shiny Star V Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
@@ -3650,8 +3716,8 @@
         "productId": 15641341657432,
         "variantId": 56849301438808,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
@@ -3668,14 +3734,6 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "127670 Carrying on His Will One Piece Booster Pack (English) — 12 cards / Red",
-        "productId": 15641380487512,
-        "variantId": 56849450402136,
-        "onHand": 1,
-        "committed": 13,
-        "demand": 13
       },
       {
         "product": "125812 Pokémon TCG: Holiday Calendar 2025 Box 6 Booster Packs (English) — 6 Booster Packs / Multicolor",
@@ -3794,8 +3852,8 @@
         "productId": 15641343656280,
         "variantId": 56849303667032,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "110071 Scarlet & Violet Wild Force Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
@@ -3940,6 +3998,86 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131552 Kingdoms of Intrigue Dash Pack One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641341985112,
+        "variantId": 56849301766488,
+        "onHand": 9,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131532 Tournament Pack Vol.4 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641342902616,
+        "variantId": 56849302716760,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
+        "productId": 15641345753432,
+        "variantId": 56849305796952,
+        "onHand": 8,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131422 Memorial Collection One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641345556824,
+        "variantId": 56849305600344,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15643970961752,
+        "variantId": 56858997653848,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641343951192,
+        "variantId": 56849303994712,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "NZXT Kraken Core RGB 360mm AIO Liquid Cooler",
+        "productId": 15708632809816,
+        "variantId": 57114052067672,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Corsair RM1000e (2025) 1000W Full‑Modular Power Supply",
+        "productId": 15708641034584,
+        "variantId": 57114090537304,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "AMD Ryzen 7 9800X3D",
+        "productId": 15225097027928,
+        "variantId": 55408545464664,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "ASUS ROG Strix X870-F Gaming WIFI AM5 Motherboard",
+        "productId": 15708655419736,
+        "variantId": 57114149355864,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3982,6 +4120,46 @@
         "incoming": 0,
         "available": -2,
         "shortfall": 2
+      },
+      {
+        "product": "NZXT Kraken Core RGB 360mm AIO Liquid Cooler",
+        "productId": 15708632809816,
+        "variantId": 57114052067672,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Corsair RM1000e (2025) 1000W Full‑Modular Power Supply",
+        "productId": 15708641034584,
+        "variantId": 57114090537304,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "AMD Ryzen 7 9800X3D",
+        "productId": 15225097027928,
+        "variantId": 55408545464664,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "ASUS ROG Strix X870-F Gaming WIFI AM5 Motherboard",
+        "productId": 15708655419736,
+        "variantId": 57114149355864,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
       }
     ]
   }
