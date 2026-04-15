@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-15T17:54:02.794Z",
+  "generatedAt": "2026-04-15T19:32:41.981Z",
   "summary": {
-    "totalUnfulfilled": 132,
+    "totalUnfulfilled": 133,
     "canFulfill": 15,
-    "blocked": 117
+    "blocked": 118
   },
   "fulfillableOrders": [
     {
@@ -2236,6 +2236,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12236488278360,
+      "name": "#3272",
+      "customerName": "Jonathan Couto",
+      "createdAt": "2026-04-15T21:07:18+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132576 Mega Dragonite ex - Mega Evolution Ascended Heroes 295/217 NM (English) — 295/217, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3900,6 +3915,14 @@
         "product": "119451 Golem ex - Scarlet & Violet 151 189/165 NM (English) — 189/165, Near-Mint / Ultra Rare",
         "productId": 15641506808152,
         "variantId": 56849644519768,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132576 Mega Dragonite ex - Mega Evolution Ascended Heroes 295/217 NM (English) — 295/217, Near-Mint / Secret Rare",
+        "productId": 15641321177432,
+        "variantId": 56849271292248,
         "onHand": 0,
         "committed": 1,
         "demand": 1
