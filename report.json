@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T08:02:49.458Z",
+  "generatedAt": "2026-04-15T09:50:02.391Z",
   "summary": {
     "totalUnfulfilled": 147,
     "canFulfill": 15,
@@ -4241,36 +4241,6 @@
         "product": "GoPro HERO13",
         "productId": 15698863948120,
         "variantId": 57079791714648,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "BANPRESTO One Piece Beyond the Trials Roronoa Zoro Ichibansho Figure",
-        "productId": 15707123548504,
-        "variantId": 57107741901144,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "BANPRESTO One Piece Beyond the Trials Monkey D. Luffy Ichibansho Figure",
-        "productId": 15707111129432,
-        "variantId": 57107690324312,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "BANPRESTO One Piece Gold D. Roger Grandline Series Special Figure",
-        "productId": 15707109949784,
-        "variantId": 57107686949208,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
