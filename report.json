@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-15T20:32:53.547Z",
+  "generatedAt": "2026-04-15T21:35:17.320Z",
   "summary": {
-    "totalUnfulfilled": 135,
+    "totalUnfulfilled": 137,
     "canFulfill": 16,
-    "blocked": 119
+    "blocked": 121
   },
   "fulfillableOrders": [
     {
@@ -2272,6 +2272,42 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12236617285976,
+      "name": "#3275",
+      "customerName": "Tobias Eckl",
+      "createdAt": "2026-04-15T22:45:18+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "121009 Mega Gardevoir ex - Mega Evolution 178/132 NM (English) — 178/132, Near-Mint / Special Ilustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "110316 Latias ex - Scarlet & Violet Surging Sparks 239/191 NM (English) — 239/191, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12236636750168,
+      "name": "#3276",
+      "customerName": "Robin Sprengers",
+      "createdAt": "2026-04-15T23:04:10+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "110191 Play! Pokémon Prize Pack Series Four Booster Pack (English) — 6 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2761,8 +2797,8 @@
         "productId": 15641566085464,
         "variantId": 56849731420504,
         "onHand": 0,
-        "committed": 8,
-        "demand": 8
+        "committed": 9,
+        "demand": 9
       },
       {
         "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -3441,16 +3477,16 @@
         "productId": 15641496355160,
         "variantId": 56849626366296,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "121011 Mega Venusaur ex - Mega Evolution 177/132 NM (English) — 177/132, Near-Mint / Special Ilustration Rare",
         "productId": 15641496617304,
         "variantId": 56849626628440,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131634 Mega Zygarde‑ex - Nihil Zero 117/080 NM (Japanese) — 117/080, Near-Mint / Secret Rare",
@@ -3955,6 +3991,30 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "121009 Mega Gardevoir ex - Mega Evolution 178/132 NM (English) — 178/132, Near-Mint / Special Ilustration Rare",
+        "productId": 15641496650072,
+        "variantId": 56849626661208,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110316 Latias ex - Scarlet & Violet Surging Sparks 239/191 NM (English) — 239/191, Near-Mint / Special Illustration Rare",
+        "productId": 15641564021080,
+        "variantId": 56849720312152,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110198 Scarlet & Violet Paldean Fates Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566019928,
+        "variantId": 56849731322200,
+        "onHand": 7,
+        "committed": 2,
+        "demand": 2
       }
     ],
     "demandExceedsStock": [
