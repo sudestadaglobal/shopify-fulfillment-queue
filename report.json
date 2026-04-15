@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-15T19:32:41.981Z",
+  "generatedAt": "2026-04-15T20:32:53.547Z",
   "summary": {
-    "totalUnfulfilled": 133,
-    "canFulfill": 15,
-    "blocked": 118
+    "totalUnfulfilled": 135,
+    "canFulfill": 16,
+    "blocked": 119
   },
   "fulfillableOrders": [
     {
@@ -95,6 +95,12 @@
       "name": "#3256",
       "createdAt": "2026-04-13T18:02:01+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12236563218776,
+      "name": "#3274",
+      "createdAt": "2026-04-15T22:01:47+02:00",
+      "itemCount": 2
     }
   ],
   "blockedOrders": [
@@ -2251,6 +2257,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12236559024472,
+      "name": "#3273",
+      "customerName": "CJ Jagel",
+      "createdAt": "2026-04-15T21:58:42+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "116818 Magic: The Gathering - Time Spiral Remastered Booster Box",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3868,8 +3889,8 @@
         "productId": 15643970961752,
         "variantId": 56858997653848,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -3923,6 +3944,14 @@
         "product": "132576 Mega Dragonite ex - Mega Evolution Ascended Heroes 295/217 NM (English) — 295/217, Near-Mint / Secret Rare",
         "productId": 15641321177432,
         "variantId": 56849271292248,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116818 Magic: The Gathering - Time Spiral Remastered Booster Box",
+        "productId": 15709017735512,
+        "variantId": 57115561460056,
         "onHand": 0,
         "committed": 1,
         "demand": 1
