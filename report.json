@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T09:50:02.391Z",
+  "generatedAt": "2026-04-15T10:53:52.147Z",
   "summary": {
     "totalUnfulfilled": 147,
     "canFulfill": 15,
@@ -4216,36 +4216,6 @@
         "incoming": 0,
         "available": -2,
         "shortfall": 2
-      },
-      {
-        "product": "Nintendo Switch 2 Pro Controller",
-        "productId": 15364397990232,
-        "variantId": 55951980888408,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "Nintendo Switch 2 - Mario Kart World Bundle",
-        "productId": 15120406643032,
-        "variantId": 55021154959704,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "GoPro HERO13",
-        "productId": 15698863948120,
-        "variantId": 57079791714648,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
       }
     ]
   }
