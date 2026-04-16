@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-16T19:29:11.059Z",
+  "generatedAt": "2026-04-16T20:16:33.544Z",
   "summary": {
-    "totalUnfulfilled": 142,
-    "canFulfill": 36,
-    "blocked": 106
+    "totalUnfulfilled": 145,
+    "canFulfill": 37,
+    "blocked": 108
   },
   "fulfillableOrders": [
     {
@@ -220,6 +220,12 @@
       "id": 12238395179352,
       "name": "#3281",
       "createdAt": "2026-04-16T21:21:55+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12238407565656,
+      "name": "#3283",
+      "createdAt": "2026-04-16T21:27:34+02:00",
       "itemCount": 1
     }
   ],
@@ -2143,6 +2149,36 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12238402945368,
+      "name": "#3282",
+      "customerName": "Francisco Sarabia sanchez",
+      "createdAt": "2026-04-16T21:25:38+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "110184 Scarlet & Violet Twilight Masquerade (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12238411989336,
+      "name": "#3284",
+      "customerName": "Leon Berthold",
+      "createdAt": "2026-04-16T21:29:41+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "99732 Charizard V - Sword & Shield Black Star Promos 050/307 NM (English) — 050/307, Near-Mint / Promo",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2704,8 +2740,8 @@
         "productId": 15641488064856,
         "variantId": 56849614831960,
         "onHand": 9,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "128236 25th Anniversary Edition Booster Pack (JP) — 1 card / Multicolor",
@@ -3872,6 +3908,38 @@
         "productId": 15641345032536,
         "variantId": 56849305076056,
         "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110184 Scarlet & Violet Twilight Masquerade (English) — 10 cards / Multicolor",
+        "productId": 15641566249304,
+        "variantId": 56849732043096,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "99732 Charizard V - Sword & Shield Black Star Promos 050/307 NM (English) — 050/307, Near-Mint / Promo",
+        "productId": 15641569558872,
+        "variantId": 56849736991064,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131866 Mega Gallade ex Special Card Set - 8 Booster Packs (Japanese) — 8 Booster Packs / Multicolor",
+        "productId": 15641337561432,
+        "variantId": 56849296621912,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119395 Scarlet & Violet Black Bolt Binder Collection (English) — 5 booster pack / Black / Blue",
+        "productId": 15641508413784,
+        "variantId": 56849646551384,
+        "onHand": 4,
         "committed": 1,
         "demand": 1
       }
