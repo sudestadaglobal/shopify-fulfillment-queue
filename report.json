@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-16T22:06:07.187Z",
+  "generatedAt": "2026-04-16T23:09:59.346Z",
   "summary": {
-    "totalUnfulfilled": 147,
-    "canFulfill": 37,
-    "blocked": 110
+    "totalUnfulfilled": 152,
+    "canFulfill": 41,
+    "blocked": 111
   },
   "fulfillableOrders": [
     {
@@ -226,6 +226,30 @@
       "id": 12238407565656,
       "name": "#3283",
       "createdAt": "2026-04-16T21:27:34+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12238578712920,
+      "name": "#3287",
+      "createdAt": "2026-04-17T00:07:18+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12238586151256,
+      "name": "#3289",
+      "createdAt": "2026-04-17T00:20:59+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12238587199832,
+      "name": "#3290",
+      "createdAt": "2026-04-17T00:22:51+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12238587789656,
+      "name": "#3291",
+      "createdAt": "2026-04-17T00:23:52+02:00",
       "itemCount": 1
     }
   ],
@@ -2215,6 +2239,33 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12238581399896,
+      "name": "#3288",
+      "customerName": "Emil Christiansen",
+      "createdAt": "2026-04-17T00:12:25+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "120803 Gengar & Mimikyu GX - Sun & Moon Team Up 053/181 NM (English) — 053/181, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132835 N’s Zoroark ex - Mega Evolution Ascended Heroes 286/217 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132828 \tSteven’s Metagross ex - Mega Evolution Ascended Heroes 289/217 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2280,8 +2331,8 @@
         "productId": 15641336906072,
         "variantId": 56849295966552,
         "onHand": 4,
-        "committed": 5,
-        "demand": 5
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -2345,7 +2396,7 @@
         "variantId": 56858778698072,
         "onHand": 1,
         "committed": 1,
-        "demand": 1
+        "demand": 2
       },
       {
         "product": "131546 Tournament Pack 2025 Vol.1 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -2896,8 +2947,8 @@
         "productId": 15641343590744,
         "variantId": 56849303601496,
         "onHand": 4,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131426 Two Legends One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
@@ -3088,8 +3139,8 @@
         "productId": 15641562415448,
         "variantId": 56849717330264,
         "onHand": 4,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "116655 Blaziken - Scarlet & Violet Destined Rivals 192/182 NM (English) — 192/182, Near-Mint / Illustration Rare",
@@ -4016,6 +4067,30 @@
         "productId": 15641344541016,
         "variantId": 56849304584536,
         "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "120803 Gengar & Mimikyu GX - Sun & Moon Team Up 053/181 NM (English) — 053/181, Near-Mint / Ultra Rare",
+        "productId": 15641500811608,
+        "variantId": 56849634918744,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132835 N’s Zoroark ex - Mega Evolution Ascended Heroes 286/217 NM (English) - Special Illustration Rare",
+        "productId": 15710876500312,
+        "variantId": 57123566256472,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132828 \tSteven’s Metagross ex - Mega Evolution Ascended Heroes 289/217 NM (English) - Special Illustration Rare",
+        "productId": 15710876074328,
+        "variantId": 57123564585304,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
