@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-16T09:55:47.173Z",
+  "generatedAt": "2026-04-16T11:15:09.119Z",
   "summary": {
     "totalUnfulfilled": 137,
-    "canFulfill": 30,
-    "blocked": 107
+    "canFulfill": 32,
+    "blocked": 105
   },
   "fulfillableOrders": [
     {
@@ -23,6 +23,12 @@
       "name": "#3014",
       "createdAt": "2026-03-23T16:28:36+01:00",
       "itemCount": 10
+    },
+    {
+      "id": 12204539707736,
+      "name": "#3109",
+      "createdAt": "2026-03-30T22:41:26+02:00",
+      "itemCount": 3
     },
     {
       "id": 12204611830104,
@@ -53,6 +59,12 @@
       "name": "#3144",
       "createdAt": "2026-04-01T18:04:12+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12207370436952,
+      "name": "#3147",
+      "createdAt": "2026-04-01T19:30:04+02:00",
+      "itemCount": 7
     },
     {
       "id": 12207438856536,
@@ -795,21 +807,6 @@
       ]
     },
     {
-      "id": 12204539707736,
-      "name": "#3109",
-      "customerName": "JAVIER Barragan",
-      "createdAt": "2026-03-30T22:41:26+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "132244 Jinbe - The Azure Sea's Seven OP14‑040 V2 NM (English) — OP14‑040/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12204577096024,
       "name": "#3110",
       "customerName": "Jackson Bauer",
@@ -911,21 +908,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 11
-        }
-      ]
-    },
-    {
-      "id": 12207370436952,
-      "name": "#3147",
-      "customerName": "james paul",
-      "createdAt": "2026-04-01T19:30:04+02:00",
-      "itemCount": 7,
-      "reasons": [
-        {
-          "product": "131480 Kingdoms of Intrigue One Piece Booster Pack (English) — 12 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
         }
       ]
     },
@@ -1265,18 +1247,6 @@
       "reasons": [
         {
           "product": "132042 Crocodile - The Azure Sea's Seven OP14‑120 NM V2 (English) — OP14‑120/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132176 Donquixote Doflamingo - The Azure Sea's Seven OP14‑069 NM V2 (English) — OP14‑069/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "114534 Articuno - Scarlet & Violet Journey Together 161/159 NM (English) — 161/159, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2700,7 +2670,7 @@
         "product": "132244 Jinbe - The Azure Sea's Seven OP14‑040 V2 NM (English) — OP14‑040/V2, Near-Mint / Alternate Art",
         "productId": 15641325011288,
         "variantId": 56849279517016,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2820,7 +2790,7 @@
         "product": "131480 Kingdoms of Intrigue One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641344672088,
         "variantId": 56849304715608,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -3196,7 +3166,7 @@
         "product": "132176 Donquixote Doflamingo - The Azure Sea's Seven OP14‑069 NM V2 (English) — OP14‑069/V2, Near-Mint / Alternate Art",
         "productId": 15641327370584,
         "variantId": 56849281876312,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3204,7 +3174,7 @@
         "product": "114534 Articuno - Scarlet & Violet Journey Together 161/159 NM (English) — 161/159, Near-Mint / Illustration Rare",
         "productId": 15641559368024,
         "variantId": 56849713889624,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3847,16 +3817,6 @@
         "incoming": 9,
         "available": -13,
         "shortfall": 4
-      },
-      {
-        "product": "131480 Kingdoms of Intrigue One Piece Booster Pack (English) — 12 cards / Multicolor",
-        "productId": 15641344672088,
-        "variantId": 56849304715608,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
       },
       {
         "product": "NZXT Kraken Core RGB 360mm AIO Liquid Cooler",
