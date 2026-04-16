@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-16T12:15:57.182Z",
+  "generatedAt": "2026-04-16T14:21:44.681Z",
   "summary": {
     "totalUnfulfilled": 137,
-    "canFulfill": 32,
-    "blocked": 105
+    "canFulfill": 33,
+    "blocked": 104
   },
   "fulfillableOrders": [
     {
@@ -119,6 +119,12 @@
       "name": "#3168",
       "createdAt": "2026-04-06T00:26:44+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12213094154584,
+      "name": "#3170",
+      "createdAt": "2026-04-06T00:36:06+02:00",
+      "itemCount": 2
     },
     {
       "id": 12213138587992,
@@ -973,21 +979,6 @@
           "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
           "reason": "Per-product limit reached (max 3 orders per run)",
           "stock": 1,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12213094154584,
-      "name": "#3170",
-      "customerName": "Kristoffer Bergström",
-      "createdAt": "2026-04-06T00:36:06+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "141085 One Piece Card Game Heroines Edition Booster Box 24 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
           "needed": 1
         }
       ]
@@ -2926,7 +2917,7 @@
         "product": "141085 One Piece Card Game Heroines Edition Booster Box 24 Booster Packs (English)",
         "productId": 15691118477656,
         "variantId": 57056588726616,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -3817,46 +3808,6 @@
         "incoming": 9,
         "available": -13,
         "shortfall": 4
-      },
-      {
-        "product": "NZXT Kraken Core RGB 360mm AIO Liquid Cooler",
-        "productId": 15708632809816,
-        "variantId": 57114052067672,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Corsair RM1000e (2025) 1000W Full‑Modular Power Supply",
-        "productId": 15708641034584,
-        "variantId": 57114090537304,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "AMD Ryzen 7 9800X3D",
-        "productId": 15225097027928,
-        "variantId": 55408545464664,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "ASUS ROG Strix X870-F Gaming WIFI AM5 Motherboard",
-        "productId": 15708655419736,
-        "variantId": 57114149355864,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
       }
     ]
   }
