@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-17T11:44:20.416Z",
+  "generatedAt": "2026-04-17T12:50:04.630Z",
   "summary": {
-    "totalUnfulfilled": 127,
-    "canFulfill": 23,
+    "totalUnfulfilled": 128,
+    "canFulfill": 24,
     "blocked": 104
   },
   "fulfillableOrders": [
@@ -143,6 +143,12 @@
       "name": "#3274",
       "createdAt": "2026-04-15T22:01:47+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12239266251096,
+      "name": "#3292",
+      "createdAt": "2026-04-17T14:28:54+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -2080,7 +2086,7 @@
         "productId": 15641321406808,
         "variantId": 56849271619928,
         "onHand": 0,
-        "committed": 33,
+        "committed": 25,
         "demand": 27
       },
       {
