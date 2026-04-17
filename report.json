@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-17T14:17:26.244Z",
+  "generatedAt": "2026-04-17T15:23:56.065Z",
   "summary": {
-    "totalUnfulfilled": 131,
+    "totalUnfulfilled": 133,
     "canFulfill": 26,
-    "blocked": 105
+    "blocked": 107
   },
   "fulfillableOrders": [
     {
@@ -2086,6 +2086,36 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12239443525976,
+      "name": "#3297",
+      "customerName": "Max Busch",
+      "createdAt": "2026-04-17T16:32:00+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "110269 Sword & Shield Brilliant Stars Booster (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12239496380760,
+      "name": "#3298",
+      "customerName": "Mathys Chapoulie",
+      "createdAt": "2026-04-17T17:08:08+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "68991 Sword & Shield Vivid Voltage Booster Box — 36 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3015,8 +3045,8 @@
         "productId": 15641566871896,
         "variantId": 56849732698456,
         "onHand": 1,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "119391 Scarlet & Violet Black Bolt Reuniclus Tech Sticker Collection (English) — 3 booster pack / Black / Blue",
@@ -3809,6 +3839,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "110269 Sword & Shield Brilliant Stars Booster (English) — 10 cards / Multicolor",
+        "productId": 15641564840280,
+        "variantId": 56849721360728,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "68991 Sword & Shield Vivid Voltage Booster Box — 36 booster pack / Multicolor",
+        "productId": 15641569657176,
+        "variantId": 56849737122136,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3843,19 +3889,9 @@
         "shortfall": 4
       },
       {
-        "product": "133948 Tashigi - Legacy of the Master OP12‑031 NM V2 (English) — OP12‑031/V2, Near-Mint / Alternate Art",
-        "productId": 15641288016216,
-        "variantId": 56849225843032,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "140923 Nico Robin - Heroines Edition EB03-055 NM V1 (English) - Super Rare",
-        "productId": 15713235566936,
-        "variantId": 57129075573080,
+        "product": "68991 Sword & Shield Vivid Voltage Booster Box — 36 booster pack / Multicolor",
+        "productId": 15641569657176,
+        "variantId": 56849737122136,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
