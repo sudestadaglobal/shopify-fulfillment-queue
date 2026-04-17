@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-17T17:33:57.983Z",
+  "generatedAt": "2026-04-17T18:36:49.375Z",
   "summary": {
-    "totalUnfulfilled": 132,
+    "totalUnfulfilled": 133,
     "canFulfill": 26,
-    "blocked": 106
+    "blocked": 107
   },
   "fulfillableOrders": [
     {
@@ -2101,6 +2101,51 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12239752560984,
+      "name": "#3299",
+      "customerName": "Emil Christiansen",
+      "createdAt": "2026-04-17T20:27:14+02:00",
+      "itemCount": 9,
+      "reasons": [
+        {
+          "product": "132580 Surfer - Mega Evolution Ascended Heroes 293/217 NM (English) — 293/217, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132586 Mega Dragonite ex - Mega Evolution Ascended Heroes 290/217 NM (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132602 Mega Diancie ex - Mega Evolution Ascended Heroes 282/217 NM (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132622 Mega Meganium ex - Mega Evolution Ascended Heroes 272/217 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132612 Pikachu ex - Ascended Heroes 277/217 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132604 Team Rocket’s Mewtwo ex - Mega Evolution Ascended Heroes 281/217 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3840,6 +3885,78 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "132578 Mega Charizard Y ex - Mega Evolution Ascended Heroes 294/217 NM (English) — 294/217, Near-Mint / Secret Rare",
+        "productId": 15641321079128,
+        "variantId": 56849271193944,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132580 Surfer - Mega Evolution Ascended Heroes 293/217 NM (English) — 293/217, Near-Mint / Special Illustration Rare",
+        "productId": 15641321013592,
+        "variantId": 56849271095640,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "63011 Mega Hawlucha ex - Mega Evolution Ascended Heroes 283/217 NM (English) — Size 283/217 / Special Illustration Rare",
+        "productId": 15653256200536,
+        "variantId": 56897712324952,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132620 Mega Emboar ex - Mega Evolution Ascended Heroes 273/217 NM (English) — Special Illustration Rare / Size 273/217",
+        "productId": 15653254889816,
+        "variantId": 56897702330712,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132586 Mega Dragonite ex - Mega Evolution Ascended Heroes 290/217 NM (English)",
+        "productId": 15640175804760,
+        "variantId": 56844011733336,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132602 Mega Diancie ex - Mega Evolution Ascended Heroes 282/217 NM (English)",
+        "productId": 15713422770520,
+        "variantId": 57130752344408,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132622 Mega Meganium ex - Mega Evolution Ascended Heroes 272/217 NM (English) - Special Illustration Rare",
+        "productId": 15713423655256,
+        "variantId": 57130759323992,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132612 Pikachu ex - Ascended Heroes 277/217 NM (English) - Special Illustration Rare",
+        "productId": 15713423819096,
+        "variantId": 57130759848280,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132604 Team Rocket’s Mewtwo ex - Mega Evolution Ascended Heroes 281/217 NM (English) - Special Illustration Rare",
+        "productId": 15713423884632,
+        "variantId": 57130760143192,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3872,6 +3989,26 @@
         "incoming": 9,
         "available": -13,
         "shortfall": 4
+      },
+      {
+        "product": "132622 Mega Meganium ex - Mega Evolution Ascended Heroes 272/217 NM (English) - Special Illustration Rare",
+        "productId": 15713423655256,
+        "variantId": 57130759323992,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132612 Pikachu ex - Ascended Heroes 277/217 NM (English) - Special Illustration Rare",
+        "productId": 15713423819096,
+        "variantId": 57130759848280,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
       }
     ]
   }
