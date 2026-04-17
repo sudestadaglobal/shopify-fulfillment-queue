@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-17T15:23:56.065Z",
+  "generatedAt": "2026-04-17T16:35:19.234Z",
   "summary": {
-    "totalUnfulfilled": 133,
+    "totalUnfulfilled": 132,
     "canFulfill": 26,
-    "blocked": 107
+    "blocked": 106
   },
   "fulfillableOrders": [
     {
@@ -164,21 +164,6 @@
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12073022718296,
-      "name": "#2577",
-      "customerName": "FRANCOIS Alexis",
-      "createdAt": "2026-02-16T16:41:42+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
     {
       "id": 12074816504152,
       "name": "#2593",
@@ -2121,14 +2106,6 @@
   "stockAlerts": {
     "lowStock": [
       {
-        "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-        "productId": 15641336775000,
-        "variantId": 56849295835480,
-        "onHand": 0,
-        "committed": 13,
-        "demand": 8
-      },
-      {
         "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563627864,
         "variantId": 56849719525720,
@@ -2151,6 +2128,14 @@
         "onHand": 0,
         "committed": 25,
         "demand": 19
+      },
+      {
+        "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336775000,
+        "variantId": 56849295835480,
+        "onHand": 0,
+        "committed": 13,
+        "demand": 7
       },
       {
         "product": "Mega Evolution Perfect Order Cinderace Premium Checklane Blister Booster Pack (English) Pre‑order",
@@ -3887,16 +3872,6 @@
         "incoming": 9,
         "available": -13,
         "shortfall": 4
-      },
-      {
-        "product": "68991 Sword & Shield Vivid Voltage Booster Box — 36 booster pack / Multicolor",
-        "productId": 15641569657176,
-        "variantId": 56849737122136,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
       }
     ]
   }
