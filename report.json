@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-17T10:48:19.635Z",
+  "generatedAt": "2026-04-17T11:44:20.416Z",
   "summary": {
-    "totalUnfulfilled": 136,
-    "canFulfill": 32,
+    "totalUnfulfilled": 127,
+    "canFulfill": 23,
     "blocked": 104
   },
   "fulfillableOrders": [
@@ -97,12 +97,6 @@
       "itemCount": 3
     },
     {
-      "id": 12219413102936,
-      "name": "#3227",
-      "createdAt": "2026-04-09T22:42:23+02:00",
-      "itemCount": 2
-    },
-    {
       "id": 12220611232088,
       "name": "#3233",
       "createdAt": "2026-04-10T18:52:51+02:00",
@@ -149,54 +143,6 @@
       "name": "#3274",
       "createdAt": "2026-04-15T22:01:47+02:00",
       "itemCount": 2
-    },
-    {
-      "id": 12238379319640,
-      "name": "#3279",
-      "createdAt": "2026-04-16T21:14:29+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12238389379416,
-      "name": "#3280",
-      "createdAt": "2026-04-16T21:19:09+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12238395179352,
-      "name": "#3281",
-      "createdAt": "2026-04-16T21:21:55+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12238407565656,
-      "name": "#3283",
-      "createdAt": "2026-04-16T21:27:34+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12238578712920,
-      "name": "#3287",
-      "createdAt": "2026-04-17T00:07:18+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12238586151256,
-      "name": "#3289",
-      "createdAt": "2026-04-17T00:20:59+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12238587199832,
-      "name": "#3290",
-      "createdAt": "2026-04-17T00:22:51+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12238587789656,
-      "name": "#3291",
-      "createdAt": "2026-04-17T00:23:52+02:00",
-      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -734,6 +680,12 @@
         },
         {
           "product": "136105 Lycanroc vs Corviknight V Battle Deck (English) — 2 pack, 60 cards each / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2159,9 +2111,9 @@
         "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
         "productId": 15641336906072,
         "variantId": 56849295966552,
-        "onHand": 9,
-        "committed": 6,
-        "demand": 6
+        "onHand": 7,
+        "committed": 4,
+        "demand": 5
       },
       {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -2175,8 +2127,8 @@
         "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
         "productId": 15641336840536,
         "variantId": 56849295901016,
-        "onHand": 3,
-        "committed": 4,
+        "onHand": 1,
+        "committed": 2,
         "demand": 4
       },
       {
@@ -2543,9 +2495,9 @@
         "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566216536,
         "variantId": 56849731518808,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -2615,9 +2567,9 @@
         "product": "124024 Phantasmal Flames Mega Evolution Blaziken Premium Checklane 1 Booster Pack Blister (English) — 1 Booster Pack / Multicolor",
         "productId": 15641488064856,
         "variantId": 56849614831960,
-        "onHand": 9,
-        "committed": 3,
-        "demand": 3
+        "onHand": 8,
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "128236 25th Anniversary Edition Booster Pack (JP) — 1 card / Multicolor",
@@ -2711,17 +2663,17 @@
         "product": "131466 The Best Vol.2 One Piece Sleeved Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641345130840,
         "variantId": 56849305174360,
-        "onHand": 6,
-        "committed": 5,
-        "demand": 5
+        "onHand": 5,
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "131514 Royal Blood One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641343590744,
         "variantId": 56849303601496,
-        "onHand": 4,
-        "committed": 2,
-        "demand": 2
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "131426 Two Legends One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
@@ -2855,9 +2807,9 @@
         "product": "113542 Scarlet & Violet Prismatic Evolutions Espeon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
         "productId": 15641562415448,
         "variantId": 56849717330264,
-        "onHand": 4,
-        "committed": 3,
-        "demand": 3
+        "onHand": 3,
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "116655 Blaziken - Scarlet & Violet Destined Rivals 192/182 NM (English) — 192/182, Near-Mint / Illustration Rare",
@@ -3228,14 +3180,6 @@
         "demand": 1
       },
       {
-        "product": "131560 Judge Pack Vol. 5 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641341657432,
-        "variantId": 56849301438808,
-        "onHand": 5,
-        "committed": 2,
-        "demand": 2
-      },
-      {
         "product": "125812 Pokémon TCG: Holiday Calendar 2025 Box 6 Booster Packs (English) — 6 Booster Packs / Multicolor",
         "productId": 15641389236568,
         "variantId": 56849460396376,
@@ -3548,6 +3492,14 @@
         "demand": 1
       },
       {
+        "product": "131560 Judge Pack Vol. 5 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641341657432,
+        "variantId": 56849301438808,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
         "product": "131532 Tournament Pack Vol.4 One Piece Booster Pack (English) — 1 card / Black / White",
         "productId": 15641342902616,
         "variantId": 56849302716760,
@@ -3696,22 +3648,6 @@
         "productId": 15641488425304,
         "variantId": 56849615290712,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "110273 Sword & Shield Fusion Strike Fun Pack (English) — 3 cards / Multicolor",
-        "productId": 15641564741976,
-        "variantId": 56849721262424,
-        "onHand": 3,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131470 Pillars of Strength One Piece Booster Pack (English) — 12 cards / Multicolor",
-        "productId": 15641345032536,
-        "variantId": 56849305076056,
-        "onHand": 2,
         "committed": 1,
         "demand": 1
       },
