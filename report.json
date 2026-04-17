@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T18:36:49.375Z",
+  "generatedAt": "2026-04-17T19:51:53.292Z",
   "summary": {
     "totalUnfulfilled": 133,
     "canFulfill": 26,
@@ -3989,26 +3989,6 @@
         "incoming": 9,
         "available": -13,
         "shortfall": 4
-      },
-      {
-        "product": "132622 Mega Meganium ex - Mega Evolution Ascended Heroes 272/217 NM (English) - Special Illustration Rare",
-        "productId": 15713423655256,
-        "variantId": 57130759323992,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132612 Pikachu ex - Ascended Heroes 277/217 NM (English) - Special Illustration Rare",
-        "productId": 15713423819096,
-        "variantId": 57130759848280,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
       }
     ]
   }
