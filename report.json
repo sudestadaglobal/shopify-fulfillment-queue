@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-17T12:50:04.630Z",
+  "generatedAt": "2026-04-17T14:17:26.244Z",
   "summary": {
-    "totalUnfulfilled": 128,
-    "canFulfill": 24,
-    "blocked": 104
+    "totalUnfulfilled": 131,
+    "canFulfill": 26,
+    "blocked": 105
   },
   "fulfillableOrders": [
     {
@@ -148,6 +148,18 @@
       "id": 12239266251096,
       "name": "#3292",
       "createdAt": "2026-04-17T14:28:54+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12239333491032,
+      "name": "#3293",
+      "createdAt": "2026-04-17T15:15:28+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12239346925912,
+      "name": "#3294",
+      "createdAt": "2026-04-17T15:25:01+02:00",
       "itemCount": 1
     }
   ],
@@ -737,21 +749,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12203089166680,
-      "name": "#3094",
-      "customerName": "Rodney Le",
-      "createdAt": "2026-03-30T04:03:13+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 8
         }
       ]
     },
@@ -2053,6 +2050,42 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12239353184600,
+      "name": "#3295",
+      "customerName": "james paul",
+      "createdAt": "2026-04-17T15:29:01+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "131496 Special DON!! Card Pack DP‑01 One Piece Booster Pack (English) — 1 card / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12239394537816,
+      "name": "#3296",
+      "customerName": "Kevin Enseling/Engelhard",
+      "createdAt": "2026-04-17T15:58:58+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "133948 Tashigi - Legacy of the Master OP12‑031 NM V2 (English) — OP12‑031/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "140923 Nico Robin - Heroines Edition EB03-055 NM V1 (English) - Super Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2087,7 +2120,7 @@
         "variantId": 56849271619928,
         "onHand": 0,
         "committed": 25,
-        "demand": 27
+        "demand": 19
       },
       {
         "product": "Mega Evolution Perfect Order Cinderace Premium Checklane Blister Booster Pack (English) Pre‑order",
@@ -2118,8 +2151,8 @@
         "productId": 15641336906072,
         "variantId": 56849295966552,
         "onHand": 7,
-        "committed": 4,
-        "demand": 5
+        "committed": 6,
+        "demand": 7
       },
       {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -2134,8 +2167,8 @@
         "productId": 15641336840536,
         "variantId": 56849295901016,
         "onHand": 1,
-        "committed": 2,
-        "demand": 4
+        "committed": 3,
+        "demand": 5
       },
       {
         "product": "Nefeltari Vivi - The Azure Sea's Seven EB04‑025 NM V2 (English)",
@@ -2670,8 +2703,8 @@
         "productId": 15641345130840,
         "variantId": 56849305174360,
         "onHand": 5,
-        "committed": 4,
-        "demand": 4
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "131514 Royal Blood One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -2694,8 +2727,8 @@
         "productId": 15641343787352,
         "variantId": 56849303798104,
         "onHand": 9,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "131480 Kingdoms of Intrigue One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -3238,8 +3271,8 @@
         "productId": 15641344934232,
         "variantId": 56849304977752,
         "onHand": 6,
-        "committed": 2,
-        "demand": 2
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "119409 Mega Evolution Enhanced Booster Box (English) — 36 booster pack / Multicolor",
@@ -3752,6 +3785,30 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131496 Special DON!! Card Pack DP‑01 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641344246104,
+        "variantId": 56849304289624,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "133948 Tashigi - Legacy of the Master OP12‑031 NM V2 (English) — OP12‑031/V2, Near-Mint / Alternate Art",
+        "productId": 15641288016216,
+        "variantId": 56849225843032,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "140923 Nico Robin - Heroines Edition EB03-055 NM V1 (English) - Super Rare",
+        "productId": 15713235566936,
+        "variantId": 57129075573080,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3784,6 +3841,26 @@
         "incoming": 9,
         "available": -13,
         "shortfall": 4
+      },
+      {
+        "product": "133948 Tashigi - Legacy of the Master OP12‑031 NM V2 (English) — OP12‑031/V2, Near-Mint / Alternate Art",
+        "productId": 15641288016216,
+        "variantId": 56849225843032,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "140923 Nico Robin - Heroines Edition EB03-055 NM V1 (English) - Super Rare",
+        "productId": 15713235566936,
+        "variantId": 57129075573080,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
       }
     ]
   }
