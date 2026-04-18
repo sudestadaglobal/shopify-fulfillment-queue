@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-18T21:46:50.044Z",
+  "generatedAt": "2026-04-18T22:22:31.525Z",
   "summary": {
-    "totalUnfulfilled": 132,
+    "totalUnfulfilled": 131,
     "canFulfill": 26,
-    "blocked": 106
+    "blocked": 105
   },
   "fulfillableOrders": [
     {
@@ -164,21 +164,6 @@
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12075306484056,
-      "name": "#2603",
-      "customerName": "Lars Hollemans",
-      "createdAt": "2026-02-17T22:51:29+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
     {
       "id": 12083138003288,
       "name": "#2651",
@@ -2136,14 +2121,6 @@
   "stockAlerts": {
     "lowStock": [
       {
-        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-        "productId": 15641321406808,
-        "variantId": 56849271619928,
-        "onHand": 0,
-        "committed": 25,
-        "demand": 19
-      },
-      {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336775000,
         "variantId": 56849295835480,
@@ -2166,6 +2143,14 @@
         "onHand": 0,
         "committed": 3,
         "demand": 3
+      },
+      {
+        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+        "productId": 15641321406808,
+        "variantId": 56849271619928,
+        "onHand": 0,
+        "committed": 25,
+        "demand": 18
       },
       {
         "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
