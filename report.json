@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-18T15:15:21.997Z",
+  "generatedAt": "2026-04-18T16:00:44.399Z",
   "summary": {
-    "totalUnfulfilled": 133,
+    "totalUnfulfilled": 132,
     "canFulfill": 26,
-    "blocked": 107
+    "blocked": 106
   },
   "fulfillableOrders": [
     {
@@ -164,21 +164,6 @@
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12074816504152,
-      "name": "#2593",
-      "customerName": "Yuming Zhao",
-      "createdAt": "2026-02-17T16:32:30+01:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
     {
       "id": 12075306484056,
       "name": "#2603",
@@ -2150,22 +2135,6 @@
   ],
   "stockAlerts": {
     "lowStock": [
-      {
-        "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
-        "productId": 15641563627864,
-        "variantId": 56849719525720,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "120811 Pikachu & Zekrom GX - Sun & Moon Team Up 162/181 NM (English) — 162/181, Near-Mint / Rainbow Rare",
-        "productId": 15641500713304,
-        "variantId": 56849634820440,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
       {
         "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
         "productId": 15641321406808,
