@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-20T10:25:11.574Z",
+  "generatedAt": "2026-04-20T11:58:25.407Z",
   "summary": {
-    "totalUnfulfilled": 131,
-    "canFulfill": 26,
-    "blocked": 105
+    "totalUnfulfilled": 136,
+    "canFulfill": 29,
+    "blocked": 107
   },
   "fulfillableOrders": [
     {
@@ -161,6 +161,24 @@
       "name": "#3294",
       "createdAt": "2026-04-17T15:25:01+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12243687833944,
+      "name": "#3300",
+      "createdAt": "2026-04-20T13:30:56+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12243693896024,
+      "name": "#3302",
+      "createdAt": "2026-04-20T13:35:40+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12243709722968,
+      "name": "#3304",
+      "createdAt": "2026-04-20T13:46:05+02:00",
+      "itemCount": 3
     }
   ],
   "blockedOrders": [
@@ -2116,6 +2134,42 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12243691995480,
+      "name": "#3301",
+      "customerName": "Elie richart luna",
+      "createdAt": "2026-04-20T13:33:52+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "125940 Mega Dragonite ex - MEGA Dream ex 250/193 NM (Japanese) — 250/193, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12243698811224,
+      "name": "#3303",
+      "customerName": "Stephen McDonald",
+      "createdAt": "2026-04-20T13:39:06+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "131490 Special DON!! Card Pack DP‑03 One Piece Booster Pack (English) — 1 card / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131500 Special DON!! Card Pack DP‑07 One Piece Booster Pack (English) — 1 card / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2389,8 +2443,8 @@
         "productId": 15641488556376,
         "variantId": 56849615421784,
         "onHand": 4,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
@@ -2725,8 +2779,8 @@
         "productId": 15641343590744,
         "variantId": 56849303601496,
         "onHand": 3,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131426 Two Legends One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
@@ -3365,8 +3419,8 @@
         "productId": 15641343656280,
         "variantId": 56849303667032,
         "onHand": 2,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "110078 Scarlet & Violet Future Flash Booster Box (Japanese) — 30 booster pack / Multicolor",
@@ -3911,6 +3965,30 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "125940 Mega Dragonite ex - MEGA Dream ex 250/193 NM (Japanese) — 250/193, Near-Mint / Secret Rare",
+        "productId": 15641387172184,
+        "variantId": 56849458135384,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131490 Special DON!! Card Pack DP‑03 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641344409944,
+        "variantId": 56849304420696,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131500 Special DON!! Card Pack DP‑07 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641344115032,
+        "variantId": 56849304158552,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
       }
     ],
     "demandExceedsStock": [
