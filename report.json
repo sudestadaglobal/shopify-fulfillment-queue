@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-20T16:47:47.245Z",
+  "generatedAt": "2026-04-20T17:49:30.189Z",
   "summary": {
-    "totalUnfulfilled": 142,
-    "canFulfill": 42,
+    "totalUnfulfilled": 138,
+    "canFulfill": 38,
     "blocked": 100
   },
   "fulfillableOrders": [
@@ -163,12 +163,6 @@
       "itemCount": 1
     },
     {
-      "id": 12220991537496,
-      "name": "#3239",
-      "createdAt": "2026-04-10T22:09:26+02:00",
-      "itemCount": 1
-    },
-    {
       "id": 12223934660952,
       "name": "#3241",
       "createdAt": "2026-04-11T23:51:53+02:00",
@@ -185,12 +179,6 @@
       "name": "#3255",
       "createdAt": "2026-04-13T17:52:27+02:00",
       "itemCount": 2
-    },
-    {
-      "id": 12227482091864,
-      "name": "#3256",
-      "createdAt": "2026-04-13T18:02:01+02:00",
-      "itemCount": 1
     },
     {
       "id": 12234819567960,
@@ -211,12 +199,6 @@
       "itemCount": 2
     },
     {
-      "id": 12239266251096,
-      "name": "#3292",
-      "createdAt": "2026-04-17T14:28:54+02:00",
-      "itemCount": 1
-    },
-    {
       "id": 12239346925912,
       "name": "#3294",
       "createdAt": "2026-04-17T15:25:01+02:00",
@@ -226,12 +208,6 @@
       "id": 12243687833944,
       "name": "#3300",
       "createdAt": "2026-04-20T13:30:56+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12243693896024,
-      "name": "#3302",
-      "createdAt": "2026-04-20T13:35:40+02:00",
       "itemCount": 1
     },
     {
@@ -3295,14 +3271,6 @@
         "product": "124004 Phantasmal Flames Mega Evolution Pokémon Center Elite Trainer Box 11 Booster Pack (English) — 11 Booster Packs / Multicolor",
         "productId": 15641488621912,
         "variantId": 56849615487320,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "113481 Espeon ex - Scarlet & Violet Prismatic Evolution 155/131 NM (English) — 155/131, Near-Mint / Special Illustration Rare",
-        "productId": 15641563726168,
-        "variantId": 56849719624024,
         "onHand": 1,
         "committed": 1,
         "demand": 1
