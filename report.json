@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-20T11:58:25.407Z",
+  "generatedAt": "2026-04-20T14:01:17.978Z",
   "summary": {
-    "totalUnfulfilled": 136,
-    "canFulfill": 29,
-    "blocked": 107
+    "totalUnfulfilled": 140,
+    "canFulfill": 31,
+    "blocked": 109
   },
   "fulfillableOrders": [
     {
@@ -178,6 +178,18 @@
       "id": 12243709722968,
       "name": "#3304",
       "createdAt": "2026-04-20T13:46:05+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12243719651672,
+      "name": "#3305",
+      "createdAt": "2026-04-20T13:52:52+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12243881361752,
+      "name": "#3307",
+      "createdAt": "2026-04-20T15:43:30+02:00",
       "itemCount": 3
     }
   ],
@@ -2170,6 +2182,36 @@
           "needed": 2
         }
       ]
+    },
+    {
+      "id": 12243753075032,
+      "name": "#3306",
+      "customerName": "Dennis Juhl",
+      "createdAt": "2026-04-20T14:14:16+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12243897581912,
+      "name": "#3308",
+      "customerName": "Antonio Ibanez",
+      "createdAt": "2026-04-20T15:53:43+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2819,7 +2861,7 @@
         "productId": 15641344868696,
         "variantId": 56849304912216,
         "onHand": 2,
-        "committed": 1,
+        "committed": 2,
         "demand": 1
       },
       {
@@ -3083,8 +3125,8 @@
         "productId": 15641566871896,
         "variantId": 56849732698456,
         "onHand": 1,
-        "committed": 4,
-        "demand": 4
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "119391 Scarlet & Violet Black Bolt Reuniclus Tech Sticker Collection (English) — 3 booster pack / Black / Blue",
@@ -3989,6 +4031,46 @@
         "onHand": 0,
         "committed": 2,
         "demand": 2
+      },
+      {
+        "product": "110273 Sword & Shield Fusion Strike Fun Pack (English) — 3 cards / Multicolor",
+        "productId": 15641564741976,
+        "variantId": 56849721262424,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+        "productId": 15641268355416,
+        "variantId": 56849193173336,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110261 Sword & Shield Lost Origin Sleeved Booster (English) — 10 cards / Multicolor",
+        "productId": 15641565135192,
+        "variantId": 56849721983320,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119417 Mega Evolution Meowscarada Premium Checklane Blister (English) — 1 booster pack / Multicolor",
+        "productId": 15641507725656,
+        "variantId": 56849645568344,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119413 Mega Evolution Psyduck 3 Booster Pack Blister (English) — 3 booster pack / Multicolor",
+        "productId": 15641507922264,
+        "variantId": 56849645928792,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
