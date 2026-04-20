@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-20T19:54:25.169Z",
+  "generatedAt": "2026-04-20T21:00:57.085Z",
   "summary": {
-    "totalUnfulfilled": 127,
+    "totalUnfulfilled": 128,
     "canFulfill": 26,
-    "blocked": 101
+    "blocked": 102
   },
   "fulfillableOrders": [
     {
@@ -2020,6 +2020,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12244707639640,
+      "name": "#3316",
+      "customerName": "jonathan sorpola",
+      "createdAt": "2026-04-20T22:53:19+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3764,6 +3779,14 @@
         "product": "141865 MEGA Ninja Spinner Booster Box 30 Booster Packs (Japanese) - Multicolor",
         "productId": 15720140046680,
         "variantId": 57151562678616,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641336152408,
+        "variantId": 56849295245656,
         "onHand": 0,
         "committed": 1,
         "demand": 1
