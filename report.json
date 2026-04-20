@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-20T14:01:17.978Z",
+  "generatedAt": "2026-04-20T15:26:52.560Z",
   "summary": {
-    "totalUnfulfilled": 140,
-    "canFulfill": 31,
-    "blocked": 109
+    "totalUnfulfilled": 142,
+    "canFulfill": 32,
+    "blocked": 110
   },
   "fulfillableOrders": [
     {
@@ -191,6 +191,12 @@
       "name": "#3307",
       "createdAt": "2026-04-20T15:43:30+02:00",
       "itemCount": 3
+    },
+    {
+      "id": 12243901546840,
+      "name": "#3309",
+      "createdAt": "2026-04-20T15:56:15+02:00",
+      "itemCount": 2
     }
   ],
   "blockedOrders": [
@@ -2212,6 +2218,21 @@
           "needed": 2
         }
       ]
+    },
+    {
+      "id": 12243925991768,
+      "name": "#3310",
+      "customerName": "Frédéric Pépin-Toulouse",
+      "createdAt": "2026-04-20T16:12:27+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2862,7 +2883,7 @@
         "variantId": 56849304912216,
         "onHand": 2,
         "committed": 2,
-        "demand": 1
+        "demand": 2
       },
       {
         "product": "131434 Sealed Battle Kit Vol.1 One Piece Booster Pack (English) — 2 cards / Black / White",
@@ -4069,6 +4090,14 @@
         "productId": 15641507922264,
         "variantId": 56849645928792,
         "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
+        "productId": 15641340477784,
+        "variantId": 56849299997016,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
