@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-20T21:00:57.085Z",
+  "generatedAt": "2026-04-20T21:59:02.460Z",
   "summary": {
-    "totalUnfulfilled": 128,
+    "totalUnfulfilled": 129,
     "canFulfill": 26,
-    "blocked": 102
+    "blocked": 103
   },
   "fulfillableOrders": [
     {
@@ -2035,6 +2035,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12244712096088,
+      "name": "#3317",
+      "customerName": "Shawn J",
+      "createdAt": "2026-04-20T22:57:18+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "134684 Seething Song - Secret Lair Drop Series Foil #7051 NM (English) — Secret Lair Drop Series #7051, Near-Mint / Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3787,6 +3802,14 @@
         "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
         "productId": 15641336152408,
         "variantId": 56849295245656,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134684 Seething Song - Secret Lair Drop Series Foil #7051 NM (English) — Secret Lair Drop Series #7051, Near-Mint / Rare",
+        "productId": 15641279562072,
+        "variantId": 56849211949400,
         "onHand": 0,
         "committed": 1,
         "demand": 1
