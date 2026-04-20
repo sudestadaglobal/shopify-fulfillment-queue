@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-20T18:50:10.340Z",
+  "generatedAt": "2026-04-20T19:54:25.169Z",
   "summary": {
-    "totalUnfulfilled": 134,
-    "canFulfill": 31,
-    "blocked": 103
+    "totalUnfulfilled": 127,
+    "canFulfill": 26,
+    "blocked": 101
   },
   "fulfillableOrders": [
     {
@@ -11,12 +11,6 @@
       "name": "#2783",
       "createdAt": "2026-03-04T00:37:20+01:00",
       "itemCount": 6
-    },
-    {
-      "id": 12199565787480,
-      "name": "#3074",
-      "createdAt": "2026-03-27T18:32:39+01:00",
-      "itemCount": 1
     },
     {
       "id": 12203085070680,
@@ -115,12 +109,6 @@
       "itemCount": 3
     },
     {
-      "id": 12219140964696,
-      "name": "#3219",
-      "createdAt": "2026-04-09T19:33:28+02:00",
-      "itemCount": 1
-    },
-    {
       "id": 12220611232088,
       "name": "#3233",
       "createdAt": "2026-04-10T18:52:51+02:00",
@@ -157,28 +145,10 @@
       "itemCount": 2
     },
     {
-      "id": 12239346925912,
-      "name": "#3294",
-      "createdAt": "2026-04-17T15:25:01+02:00",
-      "itemCount": 1
-    },
-    {
       "id": 12243709722968,
       "name": "#3304",
       "createdAt": "2026-04-20T13:46:05+02:00",
       "itemCount": 3
-    },
-    {
-      "id": 12243881361752,
-      "name": "#3307",
-      "createdAt": "2026-04-20T15:43:30+02:00",
-      "itemCount": 3
-    },
-    {
-      "id": 12243901546840,
-      "name": "#3309",
-      "createdAt": "2026-04-20T15:56:15+02:00",
-      "itemCount": 2
     },
     {
       "id": 12244472824152,
@@ -798,21 +768,6 @@
       ]
     },
     {
-      "id": 12210008326488,
-      "name": "#3159",
-      "customerName": "Ricards Sandris Megi",
-      "createdAt": "2026-04-03T17:52:53+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12213096481112,
       "name": "#3171",
       "customerName": "Ruffy Eggers",
@@ -1233,21 +1188,6 @@
       ]
     },
     {
-      "id": 12219538375000,
-      "name": "#3229",
-      "customerName": "Lee O Reilly",
-      "createdAt": "2026-04-10T01:53:32+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Nintendo Switch 2 Pro Controller",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12220520694104,
       "name": "#3231",
       "customerName": "Mike Geßner",
@@ -1481,33 +1421,6 @@
         },
         {
           "product": "119439 Charizard ex - Scarlet & Violet 151 183/165 NM (English) — 183/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12234819567960,
-      "name": "#3263",
-      "customerName": "Benjamin Hope",
-      "createdAt": "2026-04-14T18:33:41+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "BANPRESTO One Piece Beyond the Trials Roronoa Zoro Ichibansho Figure",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "BANPRESTO One Piece Beyond the Trials Monkey D. Luffy Ichibansho Figure",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "BANPRESTO One Piece Gold D. Roger Grandline Series Special Figure",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2092,6 +2005,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12244532953432,
+      "name": "#3315",
+      "customerName": "Jonathan Dominguez",
+      "createdAt": "2026-04-20T20:55:15+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "141865 MEGA Ninja Spinner Booster Box 30 Booster Packs (Japanese) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2367,14 +2295,6 @@
         "onHand": 0,
         "committed": 4,
         "demand": 4
-      },
-      {
-        "product": "131506 Promotion Pack 2023 Vol.1 One Piece Booster Pack (English) — 5 cards / Multicolor",
-        "productId": 15641343852888,
-        "variantId": 56849303863640,
-        "onHand": 2,
-        "committed": 1,
-        "demand": 2
       },
       {
         "product": "127894 Yamato - Carrying on His Will OP13‑054 V2 NM (English) — OP13‑054/V2, Near-Mint / Alternate Art",
@@ -2654,7 +2574,7 @@
         "variantId": 56849303798104,
         "onHand": 8,
         "committed": 3,
-        "demand": 4
+        "demand": 3
       },
       {
         "product": "131480 Kingdoms of Intrigue One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -2678,7 +2598,7 @@
         "variantId": 56849304912216,
         "onHand": 1,
         "committed": 1,
-        "demand": 2
+        "demand": 1
       },
       {
         "product": "131434 Sealed Battle Kit Vol.1 One Piece Booster Pack (English) — 2 cards / Black / White",
@@ -2711,14 +2631,6 @@
         "onHand": 1,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
-        "productId": 15641337299288,
-        "variantId": 56849296359768,
-        "onHand": 0,
-        "committed": 13,
-        "demand": 14
       },
       {
         "product": "130936 Vinsmoke Reiju - The Best Vol.1 OP06‑068 NM V3 (English) — OP06‑068/V3, Near-Mint / Common",
@@ -2937,6 +2849,14 @@
         "demand": 1
       },
       {
+        "product": "131506 Promotion Pack 2023 Vol.1 One Piece Booster Pack (English) — 5 cards / Multicolor",
+        "productId": 15641343852888,
+        "variantId": 56849303863640,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
         "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
         "productId": 15641566871896,
         "variantId": 56849732698456,
@@ -2967,6 +2887,14 @@
         "onHand": 1,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+        "productId": 15641337299288,
+        "variantId": 56849296359768,
+        "onHand": 0,
+        "committed": 13,
+        "demand": 13
       },
       {
         "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
@@ -3103,14 +3031,6 @@
         "onHand": 1,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "Nintendo Switch 2 Pro Controller",
-        "productId": 15364397990232,
-        "variantId": 55951980888408,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 2
       },
       {
         "product": "119493 Tangela - Scarlet & Violet 151 178/165 NM (English) — 178/165, Near-Mint / Illustration Rare",
@@ -3334,30 +3254,6 @@
         "variantId": 56849188585816,
         "onHand": 0,
         "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "BANPRESTO One Piece Beyond the Trials Roronoa Zoro Ichibansho Figure",
-        "productId": 15707123548504,
-        "variantId": 57107741901144,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "BANPRESTO One Piece Beyond the Trials Monkey D. Luffy Ichibansho Figure",
-        "productId": 15707111129432,
-        "variantId": 57107690324312,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "BANPRESTO One Piece Gold D. Roger Grandline Series Special Figure",
-        "productId": 15707109949784,
-        "variantId": 57107686949208,
-        "onHand": 0,
-        "committed": 0,
         "demand": 1
       },
       {
@@ -3809,30 +3705,6 @@
         "demand": 1
       },
       {
-        "product": "110261 Sword & Shield Lost Origin Sleeved Booster (English) — 10 cards / Multicolor",
-        "productId": 15641565135192,
-        "variantId": 56849721983320,
-        "onHand": 4,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "119417 Mega Evolution Meowscarada Premium Checklane Blister (English) — 1 booster pack / Multicolor",
-        "productId": 15641507725656,
-        "variantId": 56849645568344,
-        "onHand": 2,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "119413 Mega Evolution Psyduck 3 Booster Pack Blister (English) — 3 booster pack / Multicolor",
-        "productId": 15641507922264,
-        "variantId": 56849645928792,
-        "onHand": 4,
-        "committed": 0,
-        "demand": 1
-      },
-      {
         "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
         "productId": 15641340477784,
         "variantId": 56849299997016,
@@ -3885,6 +3757,14 @@
         "productId": 15641566478680,
         "variantId": 56849732272472,
         "onHand": 6,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "141865 MEGA Ninja Spinner Booster Box 30 Booster Packs (Japanese) - Multicolor",
+        "productId": 15720140046680,
+        "variantId": 57151562678616,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
