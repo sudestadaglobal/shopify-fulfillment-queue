@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T22:57:19.068Z",
+  "generatedAt": "2026-04-20T23:56:18.883Z",
   "summary": {
     "totalUnfulfilled": 129,
     "canFulfill": 26,
@@ -1852,12 +1852,6 @@
           "needed": 1
         },
         {
-          "product": "132602 Mega Diancie ex - Mega Evolution Ascended Heroes 282/217 NM (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "132622 Mega Meganium ex - Mega Evolution Ascended Heroes 272/217 NM (English) - Special Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -3666,14 +3660,6 @@
         "product": "132586 Mega Dragonite ex - Mega Evolution Ascended Heroes 290/217 NM (English)",
         "productId": 15640175804760,
         "variantId": 56844011733336,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "132602 Mega Diancie ex - Mega Evolution Ascended Heroes 282/217 NM (English)",
-        "productId": 15713422770520,
-        "variantId": 57130752344408,
         "onHand": 0,
         "committed": 1,
         "demand": 1
