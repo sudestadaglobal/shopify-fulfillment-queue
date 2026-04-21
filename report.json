@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-21T12:07:31.746Z",
+  "generatedAt": "2026-04-21T14:15:45.915Z",
   "summary": {
-    "totalUnfulfilled": 129,
-    "canFulfill": 25,
-    "blocked": 104
+    "totalUnfulfilled": 136,
+    "canFulfill": 26,
+    "blocked": 110
   },
   "fulfillableOrders": [
     {
@@ -154,6 +154,12 @@
       "id": 12244507525464,
       "name": "#3313",
       "createdAt": "2026-04-20T20:36:33+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12245606465880,
+      "name": "#3323",
+      "createdAt": "2026-04-21T15:30:11+02:00",
       "itemCount": 1
     }
   ],
@@ -2065,6 +2071,102 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12245529067864,
+      "name": "#3319",
+      "customerName": "Jonathan Van Praet",
+      "createdAt": "2026-04-21T14:44:37+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Apple Watch Series 11 Aluminum Jet Black 46mm",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12245554233688,
+      "name": "#3320",
+      "customerName": "Sander van der Linden",
+      "createdAt": "2026-04-21T15:01:02+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "114536 Wailord - Scarlet & Violet Journey Together 162/159 NM (English) — 162/159, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12245563998552,
+      "name": "#3321",
+      "customerName": "M.N. Ton",
+      "createdAt": "2026-04-21T15:06:31+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12245577171288,
+      "name": "#3322",
+      "customerName": "Kasperek Bastiaans",
+      "createdAt": "2026-04-21T15:14:23+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "GoPro HERO13",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12245625897304,
+      "name": "#3324",
+      "customerName": "Younes El Ghalbzouri",
+      "createdAt": "2026-04-21T15:41:05+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "116677 Team Rocket's Moltres ex - Scarlet & Violet Destined Rivals 208/182 NM (English) — 208/182, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12245643919704,
+      "name": "#3325",
+      "customerName": "Emile Vermeulen",
+      "createdAt": "2026-04-21T15:50:00+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "120765 Sun & Moon Team Up Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2114,8 +2216,8 @@
         "productId": 15641336906072,
         "variantId": 56849295966552,
         "onHand": 6,
-        "committed": 5,
-        "demand": 6
+        "committed": 7,
+        "demand": 8
       },
       {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -2666,8 +2768,8 @@
         "productId": 15641558942040,
         "variantId": 56849713430872,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (Japanese) — 175/165, Near-Mint / Illustration Rare",
@@ -2842,8 +2944,8 @@
         "productId": 15641523454296,
         "variantId": 56849676370264,
         "onHand": 3,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "110231 Sword & Shield VSTAR Universe Booster Pack (Japanese) — 10 cards / Multicolor",
@@ -2978,8 +3080,8 @@
         "productId": 15641508512088,
         "variantId": 56849646649688,
         "onHand": 6,
-        "committed": 5,
-        "demand": 5
+        "committed": 7,
+        "demand": 7
       },
       {
         "product": "119467 Giovanni’s Charisma - Scarlet & Violet 151 197/165 NM (English) — 197/165, Near-Mint / Ultra Rare",
@@ -3026,8 +3128,8 @@
         "productId": 15641340051800,
         "variantId": 56849299571032,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
@@ -3594,7 +3696,7 @@
         "productId": 15641344246104,
         "variantId": 56849304289624,
         "onHand": 0,
-        "committed": 1,
+        "committed": 2,
         "demand": 1
       },
       {
@@ -3738,8 +3840,8 @@
         "productId": 15641340477784,
         "variantId": 56849299997016,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "132690 Team Rocket’s Mimikyu - Mega Evolution Ascended Heroes 238/217 NM (English) — 238/217, Near-Mint / Illustration Rare",
@@ -3828,6 +3930,38 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Apple Watch Series 11 Aluminum Jet Black 46mm",
+        "productId": 15338507469144,
+        "variantId": 55853485457752,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "GoPro HERO13",
+        "productId": 15698863948120,
+        "variantId": 57079791714648,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116677 Team Rocket's Moltres ex - Scarlet & Violet Destined Rivals 208/182 NM (English) — 208/182, Near-Mint / Ultra Rare",
+        "productId": 15641536889176,
+        "variantId": 56849689968984,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "120765 Sun & Moon Team Up Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641501499736,
+        "variantId": 56849635672408,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3875,6 +4009,26 @@
         "product": "Sony PS5 Slim Digital Edition (EU Plug)",
         "productId": 15545996083544,
         "variantId": 56482549170520,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Apple Watch Series 11 Aluminum Jet Black 46mm",
+        "productId": 15338507469144,
+        "variantId": 55853485457752,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "GoPro HERO13",
+        "productId": 15698863948120,
+        "variantId": 57079791714648,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
