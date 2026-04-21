@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T20:12:08.316Z",
+  "generatedAt": "2026-04-21T21:12:27.252Z",
   "summary": {
     "totalUnfulfilled": 130,
     "canFulfill": 25,
@@ -3722,7 +3722,7 @@
         "product": "Playstation 5 Pro (PS5) 2TB",
         "productId": 15083676762456,
         "variantId": 54866653479256,
-        "onHand": -1,
+        "onHand": 0,
         "committed": 0,
         "demand": 1
       },
@@ -3845,46 +3845,6 @@
         "incoming": 9,
         "available": -13,
         "shortfall": 4
-      },
-      {
-        "product": "Playstation 5 Pro (PS5) 2TB",
-        "productId": 15083676762456,
-        "variantId": 54866653479256,
-        "onHand": -1,
-        "committed": 0,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Sony PS5 Slim Digital Edition (EU Plug)",
-        "productId": 15545996083544,
-        "variantId": 56482549170520,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Apple Watch Series 11 Aluminum Jet Black 46mm",
-        "productId": 15338507469144,
-        "variantId": 55853485457752,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "GoPro HERO13",
-        "productId": 15698863948120,
-        "variantId": 57079791714648,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
       }
     ]
   }
