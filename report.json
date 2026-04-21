@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-21T10:52:22.495Z",
+  "generatedAt": "2026-04-21T12:07:31.746Z",
   "summary": {
-    "totalUnfulfilled": 128,
+    "totalUnfulfilled": 129,
     "canFulfill": 25,
-    "blocked": 103
+    "blocked": 104
   },
   "fulfillableOrders": [
     {
@@ -91,6 +91,12 @@
       "itemCount": 1
     },
     {
+      "id": 12215471440216,
+      "name": "#3196",
+      "createdAt": "2026-04-07T16:26:22+02:00",
+      "itemCount": 3
+    },
+    {
       "id": 12217434964312,
       "name": "#3208",
       "createdAt": "2026-04-08T18:50:03+02:00",
@@ -107,12 +113,6 @@
       "name": "#3233",
       "createdAt": "2026-04-10T18:52:51+02:00",
       "itemCount": 4
-    },
-    {
-      "id": 12220870721880,
-      "name": "#3236",
-      "createdAt": "2026-04-10T21:15:23+02:00",
-      "itemCount": 2
     },
     {
       "id": 12220967518552,
@@ -752,12 +752,6 @@
           "reason": "Insufficient stock",
           "stock": 10,
           "needed": 12
-        },
-        {
-          "product": "131594 Kingdoms of Intrigue One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
-          "reason": "Insufficient stock",
-          "stock": 3,
-          "needed": 12
         }
       ]
     },
@@ -962,21 +956,6 @@
       "reasons": [
         {
           "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12215471440216,
-      "name": "#3196",
-      "customerName": "Jeremy Slaven",
-      "createdAt": "2026-04-07T16:26:22+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1195,6 +1174,12 @@
           "needed": 1
         },
         {
+          "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
           "product": "121671 Trick or Trade BOOster Bundle 40 Booster Packs (English) — 40 Mini Booster Pack, 3 cards each / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1241,6 +1226,21 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12220870721880,
+      "name": "#3236",
+      "customerName": "Zachary Thomas",
+      "createdAt": "2026-04-10T21:15:23+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 8,
+          "needed": 2
         }
       ]
     },
@@ -1317,6 +1317,12 @@
       "createdAt": "2026-04-12T01:42:02+02:00",
       "itemCount": 4,
       "reasons": [
+        {
+          "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
         {
           "product": "114523 Scarlet & Violet Journey Together Booster Box 36 Booster Pack (English) — 36 Booster pack / Multicolor",
           "reason": "Insufficient stock",
@@ -2044,6 +2050,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12245369127256,
+      "name": "#3318",
+      "customerName": "Giuseppe Salvatore Faso",
+      "createdAt": "2026-04-21T13:07:03+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "Sony PS5 Slim Digital Edition (EU Plug)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2625,14 +2646,6 @@
         "demand": 2
       },
       {
-        "product": "131594 Kingdoms of Intrigue One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
-        "productId": 15641340608856,
-        "variantId": 56849300128088,
-        "onHand": 3,
-        "committed": 12,
-        "demand": 12
-      },
-      {
         "product": "132652 Canari - Mega Evolution Ascended Heroes 257/217 NM (English) — 257/217, Near-Mint / Ultra Rare",
         "productId": 15641320292696,
         "variantId": 56849269391704,
@@ -2916,7 +2929,7 @@
         "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
         "productId": 15641523421528,
         "variantId": 56849676173656,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -3799,6 +3812,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Playstation 5 Pro (PS5) 2TB",
+        "productId": 15083676762456,
+        "variantId": 54866653479256,
+        "onHand": -1,
+        "committed": 0,
+        "demand": 1
+      },
+      {
+        "product": "Sony PS5 Slim Digital Edition (EU Plug)",
+        "productId": 15545996083544,
+        "variantId": 56482549170520,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3831,6 +3860,26 @@
         "incoming": 9,
         "available": -13,
         "shortfall": 4
+      },
+      {
+        "product": "Playstation 5 Pro (PS5) 2TB",
+        "productId": 15083676762456,
+        "variantId": 54866653479256,
+        "onHand": -1,
+        "committed": 0,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Sony PS5 Slim Digital Edition (EU Plug)",
+        "productId": 15545996083544,
+        "variantId": 56482549170520,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
       }
     ]
   }
