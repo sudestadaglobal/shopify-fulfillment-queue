@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-21T16:49:07.532Z",
+  "generatedAt": "2026-04-21T17:50:45.580Z",
   "summary": {
-    "totalUnfulfilled": 139,
-    "canFulfill": 34,
+    "totalUnfulfilled": 130,
+    "canFulfill": 25,
     "blocked": 105
   },
   "fulfillableOrders": [
@@ -79,12 +79,6 @@
       "itemCount": 1
     },
     {
-      "id": 12213105459544,
-      "name": "#3174",
-      "createdAt": "2026-04-06T00:58:11+02:00",
-      "itemCount": 1
-    },
-    {
       "id": 12213138587992,
       "name": "#3179",
       "createdAt": "2026-04-06T02:09:15+02:00",
@@ -103,39 +97,15 @@
       "itemCount": 1
     },
     {
-      "id": 12214326755672,
-      "name": "#3189",
-      "createdAt": "2026-04-06T21:53:48+02:00",
-      "itemCount": 1
-    },
-    {
       "id": 12215471440216,
       "name": "#3196",
       "createdAt": "2026-04-07T16:26:22+02:00",
       "itemCount": 3
     },
     {
-      "id": 12215488708952,
-      "name": "#3198",
-      "createdAt": "2026-04-07T16:38:09+02:00",
-      "itemCount": 3
-    },
-    {
-      "id": 12215705928024,
-      "name": "#3205",
-      "createdAt": "2026-04-07T18:50:16+02:00",
-      "itemCount": 1
-    },
-    {
       "id": 12217434964312,
       "name": "#3208",
       "createdAt": "2026-04-08T18:50:03+02:00",
-      "itemCount": 3
-    },
-    {
-      "id": 12217636782424,
-      "name": "#3216",
-      "createdAt": "2026-04-08T21:19:52+02:00",
       "itemCount": 3
     },
     {
@@ -169,12 +139,6 @@
       "itemCount": 1
     },
     {
-      "id": 12223972114776,
-      "name": "#3242",
-      "createdAt": "2026-04-12T00:12:45+02:00",
-      "itemCount": 1
-    },
-    {
       "id": 12224084377944,
       "name": "#3246",
       "createdAt": "2026-04-12T01:19:29+02:00",
@@ -191,24 +155,6 @@
       "name": "#3304",
       "createdAt": "2026-04-20T13:46:05+02:00",
       "itemCount": 3
-    },
-    {
-      "id": 12244472824152,
-      "name": "#3311",
-      "createdAt": "2026-04-20T20:12:52+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12244507525464,
-      "name": "#3313",
-      "createdAt": "2026-04-20T20:36:33+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12245606465880,
-      "name": "#3323",
-      "createdAt": "2026-04-21T15:30:11+02:00",
-      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -2725,14 +2671,6 @@
         "demand": 2
       },
       {
-        "product": "116655 Blaziken - Scarlet & Violet Destined Rivals 192/182 NM (English) — 192/182, Near-Mint / Illustration Rare",
-        "productId": 15641540460888,
-        "variantId": 56849693737304,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "134710 Chromatic Lantern - Secret Lair Drop Series #202 NM (English) — Secret Lair Drop Series #202, Near-Mint / Rare",
         "productId": 15641269666136,
         "variantId": 56849194975576,
@@ -2800,9 +2738,9 @@
         "product": "121029 Bulbasaur - Mega Evolution 133/132 NM (English) — 133/132, Near-Mint / Ilustration Rare",
         "productId": 15641496289624,
         "variantId": 56849626300760,
-        "onHand": 2,
-        "committed": 2,
-        "demand": 2
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "125766 Snorunt - Paradox Rift 188/182 NM (English) — 188/182, Near-Mint / Illustration Rare",
@@ -2941,38 +2879,6 @@
         "demand": 2
       },
       {
-        "product": "132042 Crocodile - The Azure Sea's Seven OP14‑120 NM V2 (English) — OP14‑120/V2, Near-Mint / Alternate Art",
-        "productId": 15641332056408,
-        "variantId": 56849290494296,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "132176 Donquixote Doflamingo - The Azure Sea's Seven OP14‑069 NM V2 (English) — OP14‑069/V2, Near-Mint / Alternate Art",
-        "productId": 15641327370584,
-        "variantId": 56849281876312,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "114534 Articuno - Scarlet & Violet Journey Together 161/159 NM (English) — 161/159, Near-Mint / Illustration Rare",
-        "productId": 15641559368024,
-        "variantId": 56849713889624,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "109970 Pikachu - Sword & Shield Crown Zenith 160/159 NM (English) — 160/159, Near-Mint / Secret Rare",
-        "productId": 15641569067352,
-        "variantId": 56849736434008,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
-      },
-      {
         "product": "118664 Scarlet & Violet White Flare Booster Bundle 6 Booster Pack (English) — 6 booster pack / Multicolor",
         "productId": 15641522962776,
         "variantId": 56849669456216,
@@ -2984,39 +2890,15 @@
         "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
         "productId": 15641508512088,
         "variantId": 56849646649688,
-        "onHand": 6,
-        "committed": 7,
-        "demand": 7
+        "onHand": 4,
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "119467 Giovanni’s Charisma - Scarlet & Violet 151 197/165 NM (English) — 197/165, Near-Mint / Ultra Rare",
         "productId": 15641506546008,
         "variantId": 56849644093784,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "121025 Ivysaur - Mega Evolution 134/132 NM (English) — 134/132, Near-Mint / Ilustration Rare",
-        "productId": 15641496355160,
-        "variantId": 56849626366296,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "121011 Mega Venusaur ex - Mega Evolution 177/132 NM (English) — 177/132, Near-Mint / Special Ilustration Rare",
-        "productId": 15641496617304,
-        "variantId": 56849626628440,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "131634 Mega Zygarde‑ex - Nihil Zero 117/080 NM (Japanese) — 117/080, Near-Mint / Secret Rare",
-        "productId": 15641340019032,
-        "variantId": 56849299538264,
-        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3213,14 +3095,6 @@
         "demand": 2
       },
       {
-        "product": "116641 Team Rocket's Mewtwo ex - Scarlet & Violet Destined Rivals 213/182 NM (English) — 213/182, Near-Mint / Ultra Rare",
-        "productId": 15641542984024,
-        "variantId": 56849696358744,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "131512 Emperors in the New World One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641343656280,
         "variantId": 56849303667032,
@@ -3280,6 +3154,14 @@
         "product": "136131 MEGA Start Deck 100 Battle Collection CoroCiao Version (Japanese) — 60 cards / Multicolor",
         "productId": 15641265111384,
         "variantId": 56849188585816,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "109970 Pikachu - Sword & Shield Crown Zenith 160/159 NM (English) — 160/159, Near-Mint / Secret Rare",
+        "productId": 15641569067352,
+        "variantId": 56849736434008,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -3432,6 +3314,22 @@
         "product": "116818 Magic: The Gathering - Time Spiral Remastered Booster Box",
         "productId": 15709017735512,
         "variantId": 57115561460056,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "121025 Ivysaur - Mega Evolution 134/132 NM (English) — 134/132, Near-Mint / Ilustration Rare",
+        "productId": 15641496355160,
+        "variantId": 56849626366296,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "121011 Mega Venusaur ex - Mega Evolution 177/132 NM (English) — 177/132, Near-Mint / Special Ilustration Rare",
+        "productId": 15641496617304,
+        "variantId": 56849626628440,
         "onHand": 0,
         "committed": 1,
         "demand": 1
