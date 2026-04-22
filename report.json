@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-22T18:45:43.374Z",
+  "generatedAt": "2026-04-22T19:58:01.827Z",
   "summary": {
-    "totalUnfulfilled": 124,
-    "canFulfill": 27,
-    "blocked": 97
+    "totalUnfulfilled": 132,
+    "canFulfill": 30,
+    "blocked": 102
   },
   "fulfillableOrders": [
     {
@@ -167,6 +167,24 @@
       "name": "#3304",
       "createdAt": "2026-04-20T13:46:05+02:00",
       "itemCount": 3
+    },
+    {
+      "id": 12248317526360,
+      "name": "#3333",
+      "createdAt": "2026-04-22T21:42:01+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12248321032536,
+      "name": "#3334",
+      "createdAt": "2026-04-22T21:43:45+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12248336564568,
+      "name": "#3337",
+      "createdAt": "2026-04-22T21:52:12+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1948,6 +1966,81 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12248300519768,
+      "name": "#3330",
+      "customerName": "Anton Linné",
+      "createdAt": "2026-04-22T21:32:38+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12248302846296,
+      "name": "#3331",
+      "customerName": "james paul",
+      "createdAt": "2026-04-22T21:33:59+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131512 Emperors in the New World One Piece Booster Pack (English) — 12 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12248305926488,
+      "name": "#3332",
+      "customerName": "Dimitrios Zisios",
+      "createdAt": "2026-04-22T21:35:43+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "116774 Scarlet & Violet Destined Rivals Team Rocket's Mewtwo ex Box 4 Booster Pack (English) — 4 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12248324538712,
+      "name": "#3335",
+      "customerName": "Kevin Jansen",
+      "createdAt": "2026-04-22T21:45:39+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "141863 MEGA Ninja Spinner Booster Pack (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 4
+        }
+      ]
+    },
+    {
+      "id": 12248327323992,
+      "name": "#3336",
+      "customerName": "Lukas van Rijt",
+      "createdAt": "2026-04-22T21:47:20+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1981,8 +2074,8 @@
         "productId": 15641321406808,
         "variantId": 56849271619928,
         "onHand": 0,
-        "committed": 25,
-        "demand": 18
+        "committed": 26,
+        "demand": 19
       },
       {
         "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -2701,8 +2794,8 @@
         "productId": 15641565692248,
         "variantId": 56849722802520,
         "onHand": 4,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "116756 Scarlet & Violet Destined Rivals Booster Pack (English) — 10 cards / Multicolor",
@@ -2989,8 +3082,8 @@
         "productId": 15641343656280,
         "variantId": 56849303667032,
         "onHand": 2,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "134040 Mega Evolution Perfect Order Booster Box 36 Booster Packs (English) Pre‑order",
@@ -3509,8 +3602,8 @@
         "productId": 15720120385880,
         "variantId": 57151497830744,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "125852 Mega Scrafty ex - MEGA Dream ex 241/193 NM (Japanese) - Illustration Rare",
@@ -3549,8 +3642,8 @@
         "productId": 15641336152408,
         "variantId": 56849295245656,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "134684 Seething Song - Secret Lair Drop Series Foil #7051 NM (English) — Secret Lair Drop Series #7051, Near-Mint / Rare",
@@ -3661,6 +3754,22 @@
         "productId": 15721594913112,
         "variantId": 57156955210072,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116774 Scarlet & Violet Destined Rivals Team Rocket's Mewtwo ex Box 4 Booster Pack (English) — 4 booster pack / Multicolor",
+        "productId": 15641523126616,
+        "variantId": 56849669620056,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641503891800,
+        "variantId": 56849639604568,
+        "onHand": 3,
         "committed": 1,
         "demand": 1
       }
