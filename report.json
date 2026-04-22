@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-22T11:49:34.865Z",
+  "generatedAt": "2026-04-22T12:53:55.789Z",
   "summary": {
     "totalUnfulfilled": 129,
-    "canFulfill": 31,
-    "blocked": 98
+    "canFulfill": 29,
+    "blocked": 100
   },
   "fulfillableOrders": [
     {
@@ -133,12 +133,6 @@
       "itemCount": 4
     },
     {
-      "id": 12220670443864,
-      "name": "#3234",
-      "createdAt": "2026-04-10T19:39:52+02:00",
-      "itemCount": 1
-    },
-    {
       "id": 12220967518552,
       "name": "#3238",
       "createdAt": "2026-04-10T21:58:28+02:00",
@@ -161,12 +155,6 @@
       "name": "#3247",
       "createdAt": "2026-04-12T01:30:29+02:00",
       "itemCount": 3
-    },
-    {
-      "id": 12236488278360,
-      "name": "#3272",
-      "createdAt": "2026-04-15T21:07:18+02:00",
-      "itemCount": 1
     },
     {
       "id": 12236563218776,
@@ -1029,6 +1017,21 @@
       ]
     },
     {
+      "id": 12220670443864,
+      "name": "#3234",
+      "customerName": "Lars Komin",
+      "createdAt": "2026-04-10T19:39:52+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "Blister 1 figure Bitty POP Pokemon",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 45,
+          "needed": 1
+        }
+      ]
+    },
+    {
       "id": 12220691579224,
       "name": "#3235",
       "customerName": "JAVIER Barragan",
@@ -1048,13 +1051,19 @@
       "name": "#3236",
       "customerName": "Zachary Thomas",
       "createdAt": "2026-04-10T21:15:23+02:00",
-      "itemCount": 2,
+      "itemCount": 3,
       "reasons": [
         {
           "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
           "reason": "Per-product limit reached (max 3 orders per run)",
           "stock": 8,
           "needed": 2
+        },
+        {
+          "product": "Blister 1 figure Bitty POP Pokemon",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 45,
+          "needed": 1
         }
       ]
     },
@@ -1311,6 +1320,21 @@
       ]
     },
     {
+      "id": 12236488278360,
+      "name": "#3272",
+      "customerName": "Jonathan Couto",
+      "createdAt": "2026-04-15T21:07:18+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "Blister 1 figure Bitty POP Pokemon",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 45,
+          "needed": 1
+        }
+      ]
+    },
+    {
       "id": 12236559024472,
       "name": "#3273",
       "customerName": "CJ Jagel",
@@ -1363,7 +1387,7 @@
       "name": "#3277",
       "customerName": "Bilal Gültan",
       "createdAt": "2026-04-16T20:42:22+02:00",
-      "itemCount": 5,
+      "itemCount": 6,
       "reasons": [
         {
           "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
@@ -1382,6 +1406,12 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
+        },
+        {
+          "product": "Blister 1 figure Bitty POP Pokemon",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 45,
+          "needed": 2
         }
       ]
     },
@@ -1435,7 +1465,7 @@
       "name": "#3286",
       "customerName": "Stephen McDonald",
       "createdAt": "2026-04-16T23:54:39+02:00",
-      "itemCount": 10,
+      "itemCount": 11,
       "reasons": [
         {
           "product": "134659 Sanji - Unnumbered Promos OP01‑013 V1 NM (Japanese) - Rare",
@@ -1456,7 +1486,7 @@
       "name": "#3288",
       "customerName": "Emil Christiansen",
       "createdAt": "2026-04-17T00:12:25+02:00",
-      "itemCount": 4,
+      "itemCount": 5,
       "reasons": [
         {
           "product": "120803 Gengar & Mimikyu GX - Sun & Moon Team Up 053/181 NM (English) — 053/181, Near-Mint / Ultra Rare",
@@ -1474,6 +1504,12 @@
           "product": "132828 \tSteven’s Metagross ex - Mega Evolution Ascended Heroes 289/217 NM (English) - Special Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "Blister 1 figure Bitty POP Pokemon",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 45,
           "needed": 1
         }
       ]
@@ -1534,12 +1570,18 @@
       "name": "#3298",
       "customerName": "Mathys Chapoulie",
       "createdAt": "2026-04-17T17:08:08+02:00",
-      "itemCount": 2,
+      "itemCount": 3,
       "reasons": [
         {
           "product": "68991 Sword & Shield Vivid Voltage Booster Box — 36 booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "Blister 1 figure Bitty POP Pokemon",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 45,
           "needed": 1
         }
       ]
@@ -1549,7 +1591,7 @@
       "name": "#3299",
       "customerName": "Emil Christiansen",
       "createdAt": "2026-04-17T20:27:14+02:00",
-      "itemCount": 9,
+      "itemCount": 10,
       "reasons": [
         {
           "product": "132580 Surfer - Mega Evolution Ascended Heroes 293/217 NM (English) — 293/217, Near-Mint / Special Illustration Rare",
@@ -1586,6 +1628,12 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
+        },
+        {
+          "product": "Blister 1 figure Bitty POP Pokemon",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 45,
+          "needed": 1
         }
       ]
     },
@@ -1594,12 +1642,18 @@
       "name": "#3301",
       "customerName": "Elie richart luna",
       "createdAt": "2026-04-20T13:33:52+02:00",
-      "itemCount": 1,
+      "itemCount": 2,
       "reasons": [
         {
           "product": "125940 Mega Dragonite ex - MEGA Dream ex 250/193 NM (Japanese) — 250/193, Near-Mint / Secret Rare",
           "reason": "Insufficient stock",
           "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "Blister 1 figure Bitty POP Pokemon",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 45,
           "needed": 1
         }
       ]
@@ -1645,12 +1699,18 @@
       "name": "#3308",
       "customerName": "Antonio Ibanez",
       "createdAt": "2026-04-20T15:53:43+02:00",
-      "itemCount": 1,
+      "itemCount": 2,
       "reasons": [
         {
           "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 1,
+          "needed": 2
+        },
+        {
+          "product": "Blister 1 figure Bitty POP Pokemon",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 45,
           "needed": 2
         }
       ]
@@ -1660,7 +1720,7 @@
       "name": "#3310",
       "customerName": "Frédéric Pépin-Toulouse",
       "createdAt": "2026-04-20T16:12:27+02:00",
-      "itemCount": 1,
+      "itemCount": 2,
       "reasons": [
         {
           "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
@@ -1864,13 +1924,19 @@
       "name": "#3325",
       "customerName": "Emile Vermeulen",
       "createdAt": "2026-04-21T15:50:00+02:00",
-      "itemCount": 2,
+      "itemCount": 3,
       "reasons": [
         {
           "product": "120765 Sun & Moon Team Up Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
+        },
+        {
+          "product": "Blister 1 figure Bitty POP Pokemon",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 45,
+          "needed": 2
         }
       ]
     },
