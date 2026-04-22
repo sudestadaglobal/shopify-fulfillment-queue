@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-22T14:54:21.199Z",
+  "generatedAt": "2026-04-22T16:17:29.047Z",
   "summary": {
-    "totalUnfulfilled": 125,
+    "totalUnfulfilled": 124,
     "canFulfill": 27,
-    "blocked": 98
+    "blocked": 97
   },
   "fulfillableOrders": [
     {
@@ -970,27 +970,6 @@
           "product": "113611 Scarlet & Violet Prismatic Evolution Glaceon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12220670443864,
-      "name": "#3234",
-      "customerName": "Lars Komin",
-      "createdAt": "2026-04-10T19:39:52+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "119409 Mega Evolution Enhanced Booster Box (English) — 36 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "Blister 1 figure Bitty POP Pokemon",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 42,
           "needed": 1
         }
       ]
@@ -2956,14 +2935,6 @@
         "onHand": 6,
         "committed": 6,
         "demand": 6
-      },
-      {
-        "product": "119409 Mega Evolution Enhanced Booster Box (English) — 36 booster pack / Multicolor",
-        "productId": 15641508020568,
-        "variantId": 56849646158168,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
       },
       {
         "product": "131456 Winner Pack 2024 Oct‑Dec One Piece Booster Pack (English) — 1 card / black / white",
