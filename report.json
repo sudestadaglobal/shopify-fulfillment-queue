@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-22T09:05:27.339Z",
+  "generatedAt": "2026-04-22T10:45:27.929Z",
   "summary": {
-    "totalUnfulfilled": 130,
-    "canFulfill": 26,
-    "blocked": 104
+    "totalUnfulfilled": 129,
+    "canFulfill": 31,
+    "blocked": 98
   },
   "fulfillableOrders": [
     {
@@ -97,16 +97,22 @@
       "itemCount": 1
     },
     {
+      "id": 12214372663640,
+      "name": "#3193",
+      "createdAt": "2026-04-06T22:25:05+02:00",
+      "itemCount": 2
+    },
+    {
       "id": 12215471440216,
       "name": "#3196",
       "createdAt": "2026-04-07T16:26:22+02:00",
       "itemCount": 3
     },
     {
-      "id": 12217434964312,
-      "name": "#3208",
-      "createdAt": "2026-04-08T18:50:03+02:00",
-      "itemCount": 3
+      "id": 12219361165656,
+      "name": "#3222",
+      "createdAt": "2026-04-09T22:06:01+02:00",
+      "itemCount": 1
     },
     {
       "id": 12219365327192,
@@ -127,6 +133,12 @@
       "itemCount": 4
     },
     {
+      "id": 12220670443864,
+      "name": "#3234",
+      "createdAt": "2026-04-10T19:39:52+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12220967518552,
       "name": "#3238",
       "createdAt": "2026-04-10T21:58:28+02:00",
@@ -145,6 +157,12 @@
       "itemCount": 1
     },
     {
+      "id": 12224100761944,
+      "name": "#3247",
+      "createdAt": "2026-04-12T01:30:29+02:00",
+      "itemCount": 3
+    },
+    {
       "id": 12236488278360,
       "name": "#3272",
       "createdAt": "2026-04-15T21:07:18+02:00",
@@ -154,6 +172,18 @@
       "id": 12236563218776,
       "name": "#3274",
       "createdAt": "2026-04-15T22:01:47+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12238331052376,
+      "name": "#3278",
+      "createdAt": "2026-04-16T20:51:32+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12239333491032,
+      "name": "#3293",
+      "createdAt": "2026-04-17T15:15:28+02:00",
       "itemCount": 2
     },
     {
@@ -601,6 +631,12 @@
           "needed": 1
         },
         {
+          "product": "124010 Phantasmal Flames Mega Evolution Build & Battle Box 4 Booster Pack(English) — 4 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
           "product": "124016 Phantasmal Flames Mega Evolution Sneasel 3 Booster Pack Blister (English) — 3 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -846,21 +882,6 @@
       ]
     },
     {
-      "id": 12214372663640,
-      "name": "#3193",
-      "customerName": "Bas Oost",
-      "createdAt": "2026-04-06T22:25:05+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12215668113752,
       "name": "#3202",
       "customerName": "Robert Maser",
@@ -870,8 +891,23 @@
         {
           "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 2,
           "needed": 3
+        }
+      ]
+    },
+    {
+      "id": 12217434964312,
+      "name": "#3208",
+      "customerName": "Jeremy Slaven",
+      "createdAt": "2026-04-08T18:50:03+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "Blister 1 figure Bitty POP Pokemon",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 45,
+          "needed": 1
         }
       ]
     },
@@ -934,12 +970,6 @@
           "needed": 3
         },
         {
-          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
           "stock": 45,
@@ -956,21 +986,6 @@
       "reasons": [
         {
           "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12219361165656,
-      "name": "#3222",
-      "customerName": "Francesco Racanati",
-      "createdAt": "2026-04-09T22:06:01+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1000,40 +1015,13 @@
       "itemCount": 12,
       "reasons": [
         {
-          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
         },
         {
-          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "113611 Scarlet & Violet Prismatic Evolution Glaceon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12220670443864,
-      "name": "#3234",
-      "customerName": "Lars Komin",
-      "createdAt": "2026-04-10T19:39:52+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "119409 Mega Evolution Enhanced Booster Box (English) — 36 booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1080,26 +1068,11 @@
         {
           "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 1,
           "needed": 2
         },
         {
           "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12224100761944,
-      "name": "#3247",
-      "customerName": "Marvin Mendel",
-      "createdAt": "2026-04-12T01:30:29+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1115,27 +1088,6 @@
       "reasons": [
         {
           "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12224118751576,
-      "name": "#3249",
-      "customerName": "Dan Morgan",
-      "createdAt": "2026-04-12T01:42:02+02:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "114523 Scarlet & Violet Journey Together Booster Box 36 Booster Pack (English) — 36 Booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1434,21 +1386,6 @@
       ]
     },
     {
-      "id": 12238331052376,
-      "name": "#3278",
-      "customerName": "Gabriel Hellerschmid",
-      "createdAt": "2026-04-16T20:51:32+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "114523 Scarlet & Violet Journey Together Booster Box 36 Booster Pack (English) — 36 Booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12238402945368,
       "name": "#3282",
       "customerName": "Francisco Sarabia sanchez",
@@ -1535,21 +1472,6 @@
         },
         {
           "product": "132828 \tSteven’s Metagross ex - Mega Evolution Ascended Heroes 289/217 NM (English) - Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12239333491032,
-      "name": "#3293",
-      "customerName": "Tobias Eckl",
-      "createdAt": "2026-04-17T15:15:28+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2081,7 +2003,7 @@
         "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
         "productId": 15641336840536,
         "variantId": 56849295901016,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 4
       },
@@ -2401,7 +2323,7 @@
         "product": "124010 Phantasmal Flames Mega Evolution Build & Battle Box 4 Booster Pack(English) — 4 Booster Packs / Multicolor",
         "productId": 15641488458072,
         "variantId": 56849615323480,
-        "onHand": 1,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       },
@@ -2849,7 +2771,7 @@
         "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
         "productId": 15641337299288,
         "variantId": 56849296359768,
-        "onHand": 0,
+        "onHand": 3,
         "committed": 13,
         "demand": 13
       },
@@ -2858,8 +2780,8 @@
         "productId": 15641560842584,
         "variantId": 56849715429720,
         "onHand": 1,
-        "committed": 3,
-        "demand": 3
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
@@ -3033,7 +2955,7 @@
         "product": "119409 Mega Evolution Enhanced Booster Box (English) — 36 booster pack / Multicolor",
         "productId": 15641508020568,
         "variantId": 56849646158168,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3092,30 +3014,6 @@
         "onHand": 2,
         "committed": 4,
         "demand": 4
-      },
-      {
-        "product": "110078 Scarlet & Violet Future Flash Booster Box (Japanese) — 30 booster pack / Multicolor",
-        "productId": 15641567166808,
-        "variantId": 56849733189976,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "110071 Scarlet & Violet Wild Force Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
-        "productId": 15641567297880,
-        "variantId": 56849733321048,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "114523 Scarlet & Violet Journey Together Booster Box 36 Booster Pack (English) — 36 Booster pack / Multicolor",
-        "productId": 15641561104728,
-        "variantId": 56849715691864,
-        "onHand": 0,
-        "committed": 2,
-        "demand": 2
       },
       {
         "product": "134040 Mega Evolution Perfect Order Booster Box 36 Booster Packs (English) Pre‑order",
@@ -3366,6 +3264,14 @@
         "demand": 2
       },
       {
+        "product": "114523 Scarlet & Violet Journey Together Booster Box 36 Booster Pack (English) — 36 Booster pack / Multicolor",
+        "productId": 15641561104728,
+        "variantId": 56849715691864,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
         "product": "110100 Scarlet & Violet Paradise Dragona Booster Box 30 Booster Pack (Japanese) — 30 booster pack / Multicolor",
         "productId": 15641566806360,
         "variantId": 56849732632920,
@@ -3377,7 +3283,7 @@
         "product": "124012 Phantasmal Flames Mega Evolution Booster Bundle 6 Booster Pack (English) — 6 Booster Packs / Multicolor",
         "productId": 15641488425304,
         "variantId": 56849615290712,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       },
@@ -3836,6 +3742,16 @@
         "incoming": 9,
         "available": -13,
         "shortfall": 4
+      },
+      {
+        "product": "124010 Phantasmal Flames Mega Evolution Build & Battle Box 4 Booster Pack(English) — 4 Booster Packs / Multicolor",
+        "productId": 15641488458072,
+        "variantId": 56849615323480,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
       }
     ]
   }
