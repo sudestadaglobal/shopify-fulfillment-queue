@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-22T12:53:55.789Z",
+  "generatedAt": "2026-04-22T14:54:21.199Z",
   "summary": {
-    "totalUnfulfilled": 129,
-    "canFulfill": 29,
-    "blocked": 100
+    "totalUnfulfilled": 125,
+    "canFulfill": 27,
+    "blocked": 98
   },
   "fulfillableOrders": [
     {
@@ -11,12 +11,6 @@
       "name": "#3076",
       "createdAt": "2026-03-30T02:01:45+02:00",
       "itemCount": 3
-    },
-    {
-      "id": 12203085070680,
-      "name": "#3091",
-      "createdAt": "2026-03-30T03:44:49+02:00",
-      "itemCount": 1
     },
     {
       "id": 12204611830104,
@@ -47,6 +41,12 @@
       "name": "#3147",
       "createdAt": "2026-04-01T19:30:04+02:00",
       "itemCount": 7
+    },
+    {
+      "id": 12207701262680,
+      "name": "#3152",
+      "createdAt": "2026-04-02T00:07:03+02:00",
+      "itemCount": 2
     },
     {
       "id": 12208872325464,
@@ -97,15 +97,15 @@
       "itemCount": 1
     },
     {
-      "id": 12214372663640,
-      "name": "#3193",
-      "createdAt": "2026-04-06T22:25:05+02:00",
-      "itemCount": 2
-    },
-    {
       "id": 12215471440216,
       "name": "#3196",
       "createdAt": "2026-04-07T16:26:22+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12217434964312,
+      "name": "#3208",
+      "createdAt": "2026-04-08T18:50:03+02:00",
       "itemCount": 3
     },
     {
@@ -151,22 +151,10 @@
       "itemCount": 1
     },
     {
-      "id": 12224100761944,
-      "name": "#3247",
-      "createdAt": "2026-04-12T01:30:29+02:00",
-      "itemCount": 3
-    },
-    {
       "id": 12236563218776,
       "name": "#3274",
       "createdAt": "2026-04-15T22:01:47+02:00",
       "itemCount": 2
-    },
-    {
-      "id": 12238331052376,
-      "name": "#3278",
-      "createdAt": "2026-04-16T20:51:32+02:00",
-      "itemCount": 3
     },
     {
       "id": 12239333491032,
@@ -577,7 +565,7 @@
       "name": "#3085",
       "customerName": "Leonidas Bairaktaris",
       "createdAt": "2026-03-30T02:53:00+02:00",
-      "itemCount": 1,
+      "itemCount": 3,
       "reasons": [
         {
           "product": "110086 Scarlet & Violet Paldea Evolved Booster Box 36 pack(English) — 36 booster pack / Multicolor",
@@ -632,6 +620,21 @@
         },
         {
           "product": "120993 Mega Evolution Drifblim 1 Booster Pack Blister (English) — 1 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12203085070680,
+      "name": "#3091",
+      "customerName": "Cameron Moore",
+      "createdAt": "2026-03-30T03:44:49+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "128236 25th Anniversary Edition Booster Pack (JP) — 1 card / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -740,21 +743,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12207701262680,
-      "name": "#3152",
-      "customerName": "Ricardo Varius",
-      "createdAt": "2026-04-02T00:07:03+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
-          "reason": "Insufficient stock",
-          "stock": 10,
-          "needed": 12
         }
       ]
     },
@@ -879,23 +867,8 @@
         {
           "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 2,
+          "stock": 1,
           "needed": 3
-        }
-      ]
-    },
-    {
-      "id": 12217434964312,
-      "name": "#3208",
-      "customerName": "Jeremy Slaven",
-      "createdAt": "2026-04-08T18:50:03+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "Blister 1 figure Bitty POP Pokemon",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 45,
-          "needed": 1
         }
       ]
     },
@@ -945,27 +918,6 @@
       ]
     },
     {
-      "id": 12217714278744,
-      "name": "#3218",
-      "customerName": "Mathys Chapoulie",
-      "createdAt": "2026-04-08T22:06:39+02:00",
-      "itemCount": 6,
-      "reasons": [
-        {
-          "product": "128236 25th Anniversary Edition Booster Pack (JP) — 1 card / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 2,
-          "needed": 3
-        },
-        {
-          "product": "Blister 1 figure Bitty POP Pokemon",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 45,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12219337081176,
       "name": "#3221",
       "customerName": "Blaine Wilhelm",
@@ -1003,6 +955,12 @@
       "itemCount": 12,
       "reasons": [
         {
+          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
           "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1024,9 +982,15 @@
       "itemCount": 2,
       "reasons": [
         {
+          "product": "119409 Mega Evolution Enhanced Booster Box (English) — 36 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 45,
+          "stock": 42,
           "needed": 1
         }
       ]
@@ -1062,7 +1026,7 @@
         {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 45,
+          "stock": 42,
           "needed": 1
         }
       ]
@@ -1077,11 +1041,26 @@
         {
           "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 1,
+          "stock": 0,
           "needed": 2
         },
         {
           "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12224100761944,
+      "name": "#3247",
+      "customerName": "Marvin Mendel",
+      "createdAt": "2026-04-12T01:30:29+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1329,7 +1308,7 @@
         {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 45,
+          "stock": 42,
           "needed": 1
         }
       ]
@@ -1410,7 +1389,7 @@
         {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 45,
+          "stock": 42,
           "needed": 2
         }
       ]
@@ -1509,7 +1488,7 @@
         {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 45,
+          "stock": 42,
           "needed": 1
         }
       ]
@@ -1581,7 +1560,7 @@
         {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 45,
+          "stock": 42,
           "needed": 1
         }
       ]
@@ -1632,7 +1611,7 @@
         {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 45,
+          "stock": 42,
           "needed": 1
         }
       ]
@@ -1653,7 +1632,7 @@
         {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 45,
+          "stock": 42,
           "needed": 1
         }
       ]
@@ -1710,23 +1689,8 @@
         {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 45,
+          "stock": 42,
           "needed": 2
-        }
-      ]
-    },
-    {
-      "id": 12243925991768,
-      "name": "#3310",
-      "customerName": "Frédéric Pépin-Toulouse",
-      "createdAt": "2026-04-20T16:12:27+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -1935,7 +1899,7 @@
         {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 45,
+          "stock": 42,
           "needed": 2
         }
       ]
@@ -2437,9 +2401,9 @@
         "product": "128236 25th Anniversary Edition Booster Pack (JP) — 1 card / Multicolor",
         "productId": 15641373671768,
         "variantId": 56849439261016,
-        "onHand": 3,
-        "committed": 4,
-        "demand": 4
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "131554 Emperors in the New World 2nd Anniversary Tournament One Piece Booster Pack (English) — 2 cards / Black / White",
@@ -2834,14 +2798,6 @@
         "demand": 1
       },
       {
-        "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
-        "productId": 15641337299288,
-        "variantId": 56849296359768,
-        "onHand": 3,
-        "committed": 13,
-        "demand": 13
-      },
-      {
         "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
         "productId": 15641560842584,
         "variantId": 56849715429720,
@@ -2856,6 +2812,14 @@
         "onHand": 1,
         "committed": 2,
         "demand": 2
+      },
+      {
+        "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+        "productId": 15641337299288,
+        "variantId": 56849296359768,
+        "onHand": 1,
+        "committed": 11,
+        "demand": 11
       },
       {
         "product": "118664 Scarlet & Violet White Flare Booster Bundle 6 Booster Pack (English) — 6 booster pack / Multicolor",
@@ -2896,30 +2860,6 @@
         "onHand": 0,
         "committed": 3,
         "demand": 3
-      },
-      {
-        "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
-        "productId": 15657571811672,
-        "variantId": 56923414757720,
-        "onHand": 3,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
-        "productId": 15641321341272,
-        "variantId": 56849271554392,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "110046 Sword & Shield Battle Styles Booster Box 36 pack (English) — 36 booster pack / Multicolor",
-        "productId": 15641567658328,
-        "variantId": 56849733681496,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
       },
       {
         "product": "119493 Tangela - Scarlet & Violet 151 178/165 NM (English) — 178/165, Near-Mint / Illustration Rare",
@@ -3021,8 +2961,8 @@
         "product": "119409 Mega Evolution Enhanced Booster Box (English) — 36 booster pack / Multicolor",
         "productId": 15641508020568,
         "variantId": 56849646158168,
-        "onHand": 1,
-        "committed": 1,
+        "onHand": 0,
+        "committed": 0,
         "demand": 1
       },
       {
@@ -3330,30 +3270,6 @@
         "demand": 2
       },
       {
-        "product": "114523 Scarlet & Violet Journey Together Booster Box 36 Booster Pack (English) — 36 Booster pack / Multicolor",
-        "productId": 15641561104728,
-        "variantId": 56849715691864,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "110100 Scarlet & Violet Paradise Dragona Booster Box 30 Booster Pack (Japanese) — 30 booster pack / Multicolor",
-        "productId": 15641566806360,
-        "variantId": 56849732632920,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "124012 Phantasmal Flames Mega Evolution Booster Bundle 6 Booster Pack (English) — 6 Booster Packs / Multicolor",
-        "productId": 15641488425304,
-        "variantId": 56849615290712,
-        "onHand": 2,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "110184 Scarlet & Violet Twilight Masquerade (English) — 10 cards / Multicolor",
         "productId": 15641566249304,
         "variantId": 56849732043096,
@@ -3413,7 +3329,7 @@
         "product": "61880 Paramount War One Piece Booster Pack (English) — multicolor / 12 cards",
         "productId": 15643972993368,
         "variantId": 56859011187032,
-        "onHand": 2,
+        "onHand": 7,
         "committed": 1,
         "demand": 1
       },
@@ -3602,14 +3518,6 @@
         "demand": 1
       },
       {
-        "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
-        "productId": 15641340477784,
-        "variantId": 56849299997016,
-        "onHand": 0,
-        "committed": 2,
-        "demand": 2
-      },
-      {
         "product": "132690 Team Rocket’s Mimikyu - Mega Evolution Ascended Heroes 238/217 NM (English) — 238/217, Near-Mint / Illustration Rare",
         "productId": 15641319244120,
         "variantId": 56849268343128,
@@ -3701,6 +3609,14 @@
         "product": "Apple Watch Series 11 Aluminum Jet Black 46mm",
         "productId": 15338507469144,
         "variantId": 55853485457752,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
+        "productId": 15641340477784,
+        "variantId": 56849299997016,
         "onHand": 0,
         "committed": 1,
         "demand": 1
