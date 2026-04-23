@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-23T18:14:04.518Z",
+  "generatedAt": "2026-04-23T19:47:12.336Z",
   "summary": {
-    "totalUnfulfilled": 125,
+    "totalUnfulfilled": 124,
     "canFulfill": 22,
-    "blocked": 103
+    "blocked": 102
   },
   "fulfillableOrders": [
     {
@@ -140,21 +140,6 @@
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12083138003288,
-      "name": "#2651",
-      "customerName": "Gabriel Mocharenko",
-      "createdAt": "2026-02-22T19:53:02+01:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
     {
       "id": 12084606271832,
       "name": "#2668",
@@ -2007,14 +1992,6 @@
   "stockAlerts": {
     "lowStock": [
       {
-        "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-        "productId": 15641336775000,
-        "variantId": 56849295835480,
-        "onHand": 0,
-        "committed": 13,
-        "demand": 7
-      },
-      {
         "product": "Mega Evolution Perfect Order Cinderace Premium Checklane Blister Booster Pack (English) Pre‑order",
         "productId": 15625266200920,
         "variantId": 56785039753560,
@@ -2029,6 +2006,14 @@
         "onHand": 0,
         "committed": 3,
         "demand": 3
+      },
+      {
+        "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336775000,
+        "variantId": 56849295835480,
+        "onHand": 0,
+        "committed": 13,
+        "demand": 6
       },
       {
         "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
