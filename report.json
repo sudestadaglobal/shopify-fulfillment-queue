@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-23T16:53:59.997Z",
+  "generatedAt": "2026-04-23T18:14:04.518Z",
   "summary": {
-    "totalUnfulfilled": 123,
-    "canFulfill": 21,
-    "blocked": 102
+    "totalUnfulfilled": 125,
+    "canFulfill": 22,
+    "blocked": 103
   },
   "fulfillableOrders": [
     {
@@ -130,6 +130,12 @@
       "id": 12248336564568,
       "name": "#3337",
       "createdAt": "2026-04-22T21:52:12+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12250569113944,
+      "name": "#3341",
+      "createdAt": "2026-04-23T19:45:28+02:00",
       "itemCount": 1
     }
   ],
@@ -1981,6 +1987,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12250501382488,
+      "name": "#3340",
+      "customerName": "james paul",
+      "createdAt": "2026-04-23T19:09:57+02:00",
+      "itemCount": 7,
+      "reasons": [
+        {
+          "product": "131496 Special DON!! Card Pack DP‑01 One Piece Booster Pack (English) — 1 card / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2646,8 +2667,8 @@
         "productId": 15641343852888,
         "variantId": 56849303863640,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
@@ -2854,16 +2875,16 @@
         "productId": 15641344934232,
         "variantId": 56849304977752,
         "onHand": 6,
-        "committed": 6,
-        "demand": 6
+        "committed": 7,
+        "demand": 7
       },
       {
         "product": "131466 The Best Vol.2 One Piece Sleeved Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641345130840,
         "variantId": 56849305174360,
         "onHand": 4,
-        "committed": 6,
-        "demand": 6
+        "committed": 7,
+        "demand": 7
       },
       {
         "product": "131456 Winner Pack 2024 Oct‑Dec One Piece Booster Pack (English) — 1 card / black / white",
@@ -3078,8 +3099,8 @@
         "productId": 15643970961752,
         "variantId": 56858997653848,
         "onHand": 2,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -3278,8 +3299,8 @@
         "productId": 15641344246104,
         "variantId": 56849304289624,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "133948 Tashigi - Legacy of the Master OP12‑031 NM V2 (English) — OP12‑031/V2, Near-Mint / Alternate Art",
@@ -3622,6 +3643,14 @@
         "productId": 15641503891800,
         "variantId": 56849639604568,
         "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131392 Romance Dawn One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641346212184,
+        "variantId": 56849306354008,
+        "onHand": 6,
         "committed": 1,
         "demand": 1
       }
