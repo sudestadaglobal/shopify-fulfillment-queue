@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-23T06:14:50.943Z",
+  "generatedAt": "2026-04-23T08:17:17.456Z",
   "summary": {
-    "totalUnfulfilled": 132,
-    "canFulfill": 30,
+    "totalUnfulfilled": 131,
+    "canFulfill": 29,
     "blocked": 102
   },
   "fulfillableOrders": [
@@ -41,12 +41,6 @@
       "name": "#3147",
       "createdAt": "2026-04-01T19:30:04+02:00",
       "itemCount": 7
-    },
-    {
-      "id": 12207701262680,
-      "name": "#3152",
-      "createdAt": "2026-04-02T00:07:03+02:00",
-      "itemCount": 2
     },
     {
       "id": 12208872325464,
