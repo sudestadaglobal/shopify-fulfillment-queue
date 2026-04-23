@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-23T15:03:01.412Z",
+  "generatedAt": "2026-04-23T16:53:59.997Z",
   "summary": {
-    "totalUnfulfilled": 121,
+    "totalUnfulfilled": 123,
     "canFulfill": 21,
-    "blocked": 100
+    "blocked": 102
   },
   "fulfillableOrders": [
     {
@@ -1951,6 +1951,36 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12250252443992,
+      "name": "#3338",
+      "customerName": "Max Hörner",
+      "createdAt": "2026-04-23T17:04:55+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "127670 Carrying on His Will One Piece Booster Pack (English) — 12 cards / Red",
+          "reason": "Insufficient stock",
+          "stock": 4,
+          "needed": 35
+        }
+      ]
+    },
+    {
+      "id": 12250378273112,
+      "name": "#3339",
+      "customerName": "Nick Regz",
+      "createdAt": "2026-04-23T18:05:43+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "141865 MEGA Ninja Spinner Booster Box 30 Booster Packs (Japanese) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2880,8 +2910,8 @@
         "productId": 15641380487512,
         "variantId": 56849450402136,
         "onHand": 5,
-        "committed": 2,
-        "demand": 2
+        "committed": 37,
+        "demand": 37
       },
       {
         "product": "131512 Emperors in the New World One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -3448,8 +3478,8 @@
         "productId": 15720140046680,
         "variantId": 57151562678616,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
@@ -3597,6 +3627,16 @@
       }
     ],
     "demandExceedsStock": [
+      {
+        "product": "127670 Carrying on His Will One Piece Booster Pack (English) — 12 cards / Red",
+        "productId": 15641380487512,
+        "variantId": 56849450402136,
+        "onHand": 5,
+        "committed": 37,
+        "incoming": 23,
+        "available": -32,
+        "shortfall": 9
+      },
       {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336676696,
