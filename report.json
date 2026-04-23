@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-23T10:03:47.400Z",
+  "generatedAt": "2026-04-23T11:23:48.398Z",
   "summary": {
-    "totalUnfulfilled": 122,
-    "canFulfill": 22,
+    "totalUnfulfilled": 121,
+    "canFulfill": 21,
     "blocked": 100
   },
   "fulfillableOrders": [
@@ -106,12 +106,6 @@
       "id": 12236563218776,
       "name": "#3274",
       "createdAt": "2026-04-15T22:01:47+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12239333491032,
-      "name": "#3293",
-      "createdAt": "2026-04-17T15:15:28+02:00",
       "itemCount": 2
     },
     {
@@ -523,7 +517,7 @@
       "itemCount": 2,
       "reasons": [
         {
-          "product": "125828 MEGA Dream ex Booster Box 10 Booster Packs (Japanese) — 10 Booster Packs / Multicolor",
+          "product": "Product #15641389039960 — 10 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 3
@@ -760,7 +754,7 @@
       "itemCount": 10,
       "reasons": [
         {
-          "product": "125828 MEGA Dream ex Booster Box 10 Booster Packs (Japanese) — 10 Booster Packs / Multicolor",
+          "product": "Product #15641389039960 — 10 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2005,9 +1999,9 @@
         "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
         "productId": 15641336906072,
         "variantId": 56849295966552,
-        "onHand": 6,
-        "committed": 7,
-        "demand": 8
+        "onHand": 4,
+        "committed": 5,
+        "demand": 6
       },
       {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -2021,9 +2015,9 @@
         "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
         "productId": 15641336840536,
         "variantId": 56849295901016,
-        "onHand": 6,
-        "committed": 2,
-        "demand": 4
+        "onHand": 5,
+        "committed": 1,
+        "demand": 3
       },
       {
         "product": "Nefeltari Vivi - The Azure Sea's Seven EB04‑025 NM V2 (English)",
@@ -2210,7 +2204,7 @@
         "demand": 1
       },
       {
-        "product": "125828 MEGA Dream ex Booster Box 10 Booster Packs (Japanese) — 10 Booster Packs / Multicolor",
+        "product": "Product #15641389039960 — 10 Booster Packs / Multicolor",
         "productId": 15641389039960,
         "variantId": 56849460199768,
         "onHand": 0,
