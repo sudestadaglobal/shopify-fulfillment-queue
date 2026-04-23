@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T11:23:48.398Z",
+  "generatedAt": "2026-04-23T12:46:12.232Z",
   "summary": {
     "totalUnfulfilled": 121,
     "canFulfill": 21,
@@ -517,7 +517,7 @@
       "itemCount": 2,
       "reasons": [
         {
-          "product": "Product #15641389039960 — 10 Booster Packs / Multicolor",
+          "product": "125828 MEGA Dream ex Booster Box 10 Booster Packs (Japanese) — 10 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 3
@@ -754,7 +754,7 @@
       "itemCount": 10,
       "reasons": [
         {
-          "product": "Product #15641389039960 — 10 Booster Packs / Multicolor",
+          "product": "125828 MEGA Dream ex Booster Box 10 Booster Packs (Japanese) — 10 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2204,7 +2204,7 @@
         "demand": 1
       },
       {
-        "product": "Product #15641389039960 — 10 Booster Packs / Multicolor",
+        "product": "125828 MEGA Dream ex Booster Box 10 Booster Packs (Japanese) — 10 Booster Packs / Multicolor",
         "productId": 15641389039960,
         "variantId": 56849460199768,
         "onHand": 0,
