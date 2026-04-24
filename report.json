@@ -1,17 +1,11 @@
 {
-  "generatedAt": "2026-04-24T10:12:08.349Z",
+  "generatedAt": "2026-04-24T11:40:34.713Z",
   "summary": {
-    "totalUnfulfilled": 124,
-    "canFulfill": 25,
-    "blocked": 99
+    "totalUnfulfilled": 115,
+    "canFulfill": 18,
+    "blocked": 97
   },
   "fulfillableOrders": [
-    {
-      "id": 12203072061784,
-      "name": "#3085",
-      "createdAt": "2026-03-30T02:53:00+02:00",
-      "itemCount": 3
-    },
     {
       "id": 12210044731736,
       "name": "#3164",
@@ -35,18 +29,6 @@
       "name": "#3180",
       "createdAt": "2026-04-06T02:22:02+02:00",
       "itemCount": 1
-    },
-    {
-      "id": 12214150299992,
-      "name": "#3186",
-      "createdAt": "2026-04-06T19:50:48+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12214351397208,
-      "name": "#3192",
-      "createdAt": "2026-04-06T22:09:48+02:00",
-      "itemCount": 6
     },
     {
       "id": 12215471440216,
@@ -109,6 +91,12 @@
       "itemCount": 1
     },
     {
+      "id": 12236488278360,
+      "name": "#3272",
+      "createdAt": "2026-04-15T21:07:18+02:00",
+      "itemCount": 2
+    },
+    {
       "id": 12236563218776,
       "name": "#3274",
       "createdAt": "2026-04-15T22:01:47+02:00",
@@ -121,39 +109,9 @@
       "itemCount": 3
     },
     {
-      "id": 12245369127256,
-      "name": "#3318",
-      "createdAt": "2026-04-21T13:07:03+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12245529067864,
-      "name": "#3319",
-      "createdAt": "2026-04-21T14:44:37+02:00",
-      "itemCount": 1
-    },
-    {
       "id": 12248317526360,
       "name": "#3333",
       "createdAt": "2026-04-22T21:42:01+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12248321032536,
-      "name": "#3334",
-      "createdAt": "2026-04-22T21:43:45+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12248336564568,
-      "name": "#3337",
-      "createdAt": "2026-04-22T21:52:12+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12250569113944,
-      "name": "#3341",
-      "createdAt": "2026-04-23T19:45:28+02:00",
       "itemCount": 1
     }
   ],
@@ -801,6 +759,21 @@
       ]
     },
     {
+      "id": 12214351397208,
+      "name": "#3192",
+      "customerName": "Antonio Ibanez",
+      "createdAt": "2026-04-06T22:09:48+02:00",
+      "itemCount": 6,
+      "reasons": [
+        {
+          "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 3
+        }
+      ]
+    },
+    {
       "id": 12215668113752,
       "name": "#3202",
       "customerName": "Robert Maser",
@@ -1200,21 +1173,6 @@
       ]
     },
     {
-      "id": 12236488278360,
-      "name": "#3272",
-      "customerName": "Jonathan Couto",
-      "createdAt": "2026-04-15T21:07:18+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "Blister 1 figure Bitty POP Pokemon",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 39,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12236559024472,
       "name": "#3273",
       "customerName": "CJ Jagel",
@@ -1270,18 +1228,6 @@
       "itemCount": 6,
       "reasons": [
         {
-          "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "110086 Scarlet & Violet Paldea Evolved Booster Box 36 pack(English) — 36 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "116768 Scarlet & Violet Destined Rivals Zarude 1 Booster Pack Blister (English) — 1 Booster pack, 3 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1290,7 +1236,7 @@
         {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 39,
+          "stock": 38,
           "needed": 2
         }
       ]
@@ -1389,7 +1335,7 @@
         {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 39,
+          "stock": 38,
           "needed": 1
         }
       ]
@@ -1453,12 +1399,6 @@
       "itemCount": 3,
       "reasons": [
         {
-          "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "68991 Sword & Shield Vivid Voltage Booster Box — 36 booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1467,7 +1407,7 @@
         {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 39,
+          "stock": 38,
           "needed": 1
         }
       ]
@@ -1481,12 +1421,6 @@
       "reasons": [
         {
           "product": "132580 Surfer - Mega Evolution Ascended Heroes 293/217 NM (English) — 293/217, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132586 Mega Dragonite ex - Mega Evolution Ascended Heroes 290/217 NM (English)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1510,15 +1444,9 @@
           "needed": 1
         },
         {
-          "product": "132604 Team Rocket’s Mewtwo ex - Mega Evolution Ascended Heroes 281/217 NM (English) - Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 39,
+          "stock": 38,
           "needed": 1
         }
       ]
@@ -1539,7 +1467,7 @@
         {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 39,
+          "stock": 38,
           "needed": 1
         }
       ]
@@ -1577,27 +1505,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12243897581912,
-      "name": "#3308",
-      "customerName": "Antonio Ibanez",
-      "createdAt": "2026-04-20T15:53:43+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        },
-        {
-          "product": "Blister 1 figure Bitty POP Pokemon",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 39,
-          "needed": 2
         }
       ]
     },
@@ -1731,21 +1638,6 @@
       ]
     },
     {
-      "id": 12245577171288,
-      "name": "#3322",
-      "customerName": "Kasperek Bastiaans",
-      "createdAt": "2026-04-21T15:14:23+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "GoPro HERO13",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12245625897304,
       "name": "#3324",
       "customerName": "Younes El Ghalbzouri",
@@ -1776,7 +1668,7 @@
         {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 39,
+          "stock": 38,
           "needed": 2
         }
       ]
@@ -2227,14 +2119,6 @@
         "demand": 4
       },
       {
-        "product": "110086 Scarlet & Violet Paldea Evolved Booster Box 36 pack(English) — 36 booster pack / Multicolor",
-        "productId": 15641567035736,
-        "variantId": 56849732862296,
-        "onHand": 3,
-        "committed": 2,
-        "demand": 4
-      },
-      {
         "product": "136139 Pokémon GO Mewtwo V Battle Deck (English) — 60 cards / Multicolor",
         "productId": 15641264882008,
         "variantId": 56849188225368,
@@ -2523,14 +2407,6 @@
         "demand": 1
       },
       {
-        "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
-        "productId": 15641561432408,
-        "variantId": 56849716019544,
-        "onHand": 3,
-        "committed": 2,
-        "demand": 2
-      },
-      {
         "product": "109976 Ivysaur - Scarlet & Violet 151 167/165 NM (Japanese) — 167/165, Near-Mint / Illustration Rare",
         "productId": 15641568969048,
         "variantId": 56849736335704,
@@ -2590,9 +2466,9 @@
         "product": "110213 Scarlet & Violet Obsidian Flames Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641565692248,
         "variantId": 56849722802520,
-        "onHand": 4,
-        "committed": 3,
-        "demand": 3
+        "onHand": 3,
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "116756 Scarlet & Violet Destined Rivals Booster Pack (English) — 10 cards / Multicolor",
@@ -2638,9 +2514,9 @@
         "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
         "productId": 15641566871896,
         "variantId": 56849732698456,
-        "onHand": 3,
-        "committed": 6,
-        "demand": 6
+        "onHand": 1,
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "119391 Scarlet & Violet Black Bolt Reuniclus Tech Sticker Collection (English) — 3 booster pack / Black / Blue",
@@ -3134,7 +3010,15 @@
         "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507365208,
         "variantId": 56849645207896,
-        "onHand": 0,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110086 Scarlet & Violet Paldea Evolved Booster Box 36 pack(English) — 36 booster pack / Multicolor",
+        "productId": 15641567035736,
+        "variantId": 56849732862296,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       },
@@ -3302,7 +3186,7 @@
         "product": "132578 Mega Charizard Y ex - Mega Evolution Ascended Heroes 294/217 NM (English) — 294/217, Near-Mint / Secret Rare",
         "productId": 15641321079128,
         "variantId": 56849271193944,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       },
@@ -3334,7 +3218,7 @@
         "product": "132586 Mega Dragonite ex - Mega Evolution Ascended Heroes 290/217 NM (English)",
         "productId": 15640175804760,
         "variantId": 56844011733336,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3366,7 +3250,7 @@
         "product": "132604 Team Rocket’s Mewtwo ex - Mega Evolution Ascended Heroes 281/217 NM (English) - Special Illustration Rare",
         "productId": 15713423884632,
         "variantId": 57130760143192,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3483,30 +3367,6 @@
         "demand": 1
       },
       {
-        "product": "Playstation 5 Pro (PS5) 2TB",
-        "productId": 15083676762456,
-        "variantId": 54866653479256,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "Sony PS5 Slim Digital Edition (EU Plug)",
-        "productId": 15545996083544,
-        "variantId": 56482549170520,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "Apple Watch Series 11 Aluminum Jet Black 46mm",
-        "productId": 15338507469144,
-        "variantId": 55853485457752,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "114536 Wailord - Scarlet & Violet Journey Together 162/159 NM (English) — 162/159, Near-Mint / Illustration Rare",
         "productId": 15641558942040,
         "variantId": 56849713430872,
@@ -3520,14 +3380,6 @@
         "variantId": 56849299997016,
         "onHand": 0,
         "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "GoPro HERO13",
-        "productId": 15698863948120,
-        "variantId": 57079791714648,
-        "onHand": 0,
-        "committed": 0,
         "demand": 1
       },
       {
@@ -3599,14 +3451,6 @@
         "productId": 15641523126616,
         "variantId": 56849669620056,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
-        "productId": 15641503891800,
-        "variantId": 56849639604568,
-        "onHand": 3,
         "committed": 1,
         "demand": 1
       },
