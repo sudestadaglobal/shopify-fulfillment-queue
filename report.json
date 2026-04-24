@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-04-24T06:17:10.145Z",
+  "generatedAt": "2026-04-24T08:29:31.091Z",
   "summary": {
     "totalUnfulfilled": 124,
-    "canFulfill": 22,
-    "blocked": 102
+    "canFulfill": 26,
+    "blocked": 98
   },
   "fulfillableOrders": [
+    {
+      "id": 12203072061784,
+      "name": "#3085",
+      "createdAt": "2026-03-30T02:53:00+02:00",
+      "itemCount": 3
+    },
     {
       "id": 12210044731736,
       "name": "#3164",
@@ -35,6 +41,12 @@
       "name": "#3186",
       "createdAt": "2026-04-06T19:50:48+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12214351397208,
+      "name": "#3192",
+      "createdAt": "2026-04-06T22:09:48+02:00",
+      "itemCount": 6
     },
     {
       "id": 12215471440216,
@@ -97,12 +109,6 @@
       "itemCount": 1
     },
     {
-      "id": 12236488278360,
-      "name": "#3272",
-      "createdAt": "2026-04-15T21:07:18+02:00",
-      "itemCount": 2
-    },
-    {
       "id": 12236563218776,
       "name": "#3274",
       "createdAt": "2026-04-15T22:01:47+02:00",
@@ -113,6 +119,24 @@
       "name": "#3304",
       "createdAt": "2026-04-20T13:46:05+02:00",
       "itemCount": 3
+    },
+    {
+      "id": 12245369127256,
+      "name": "#3318",
+      "createdAt": "2026-04-21T13:07:03+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12245529067864,
+      "name": "#3319",
+      "createdAt": "2026-04-21T14:44:37+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12245577171288,
+      "name": "#3322",
+      "createdAt": "2026-04-21T15:14:23+02:00",
+      "itemCount": 1
     },
     {
       "id": 12248317526360,
@@ -516,21 +540,6 @@
       ]
     },
     {
-      "id": 12203072061784,
-      "name": "#3085",
-      "customerName": "Leonidas Bairaktaris",
-      "createdAt": "2026-03-30T02:53:00+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "110086 Scarlet & Violet Paldea Evolved Booster Box 36 pack(English) — 36 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 3
-        }
-      ]
-    },
-    {
       "id": 12203074027864,
       "name": "#3086",
       "customerName": "Karl Olov Hällström",
@@ -794,21 +803,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12214351397208,
-      "name": "#3192",
-      "customerName": "Antonio Ibanez",
-      "createdAt": "2026-04-06T22:09:48+02:00",
-      "itemCount": 6,
-      "reasons": [
-        {
-          "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 1,
-          "needed": 3
         }
       ]
     },
@@ -1212,6 +1206,21 @@
       ]
     },
     {
+      "id": 12236488278360,
+      "name": "#3272",
+      "customerName": "Jonathan Couto",
+      "createdAt": "2026-04-15T21:07:18+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "Blister 1 figure Bitty POP Pokemon",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 39,
+          "needed": 1
+        }
+      ]
+    },
+    {
       "id": 12236559024472,
       "name": "#3273",
       "customerName": "CJ Jagel",
@@ -1287,7 +1296,7 @@
         {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 40,
+          "stock": 39,
           "needed": 2
         }
       ]
@@ -1386,7 +1395,7 @@
         {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 40,
+          "stock": 39,
           "needed": 1
         }
       ]
@@ -1450,6 +1459,12 @@
       "itemCount": 3,
       "reasons": [
         {
+          "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
           "product": "68991 Sword & Shield Vivid Voltage Booster Box — 36 booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1458,7 +1473,7 @@
         {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 40,
+          "stock": 39,
           "needed": 1
         }
       ]
@@ -1509,7 +1524,7 @@
         {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 40,
+          "stock": 39,
           "needed": 1
         }
       ]
@@ -1530,7 +1545,7 @@
         {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 40,
+          "stock": 39,
           "needed": 1
         }
       ]
@@ -1581,13 +1596,13 @@
         {
           "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 1,
+          "stock": 0,
           "needed": 2
         },
         {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 40,
+          "stock": 39,
           "needed": 2
         }
       ]
@@ -1686,36 +1701,6 @@
       ]
     },
     {
-      "id": 12245369127256,
-      "name": "#3318",
-      "customerName": "Giuseppe Salvatore Faso",
-      "createdAt": "2026-04-21T13:07:03+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "Sony PS5 Slim Digital Edition (EU Plug)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12245529067864,
-      "name": "#3319",
-      "customerName": "Jonathan Van Praet",
-      "createdAt": "2026-04-21T14:44:37+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Apple Watch Series 11 Aluminum Jet Black 46mm",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12245554233688,
       "name": "#3320",
       "customerName": "Sander van der Linden",
@@ -1745,21 +1730,6 @@
         },
         {
           "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12245577171288,
-      "name": "#3322",
-      "customerName": "Kasperek Bastiaans",
-      "createdAt": "2026-04-21T15:14:23+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "GoPro HERO13",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1797,7 +1767,7 @@
         {
           "product": "Blister 1 figure Bitty POP Pokemon",
           "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 40,
+          "stock": 39,
           "needed": 2
         }
       ]
@@ -2251,7 +2221,7 @@
         "product": "110086 Scarlet & Violet Paldea Evolved Booster Box 36 pack(English) — 36 booster pack / Multicolor",
         "productId": 15641567035736,
         "variantId": 56849732862296,
-        "onHand": 0,
+        "onHand": 3,
         "committed": 2,
         "demand": 4
       },
@@ -2659,7 +2629,7 @@
         "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
         "productId": 15641566871896,
         "variantId": 56849732698456,
-        "onHand": 1,
+        "onHand": 3,
         "committed": 6,
         "demand": 6
       },
@@ -3515,7 +3485,7 @@
         "product": "Sony PS5 Slim Digital Edition (EU Plug)",
         "productId": 15545996083544,
         "variantId": 56482549170520,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3523,7 +3493,7 @@
         "product": "Apple Watch Series 11 Aluminum Jet Black 46mm",
         "productId": 15338507469144,
         "variantId": 55853485457752,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3547,7 +3517,7 @@
         "product": "GoPro HERO13",
         "productId": 15698863948120,
         "variantId": 57079791714648,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
