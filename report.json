@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-24T08:29:31.091Z",
+  "generatedAt": "2026-04-24T10:12:08.349Z",
   "summary": {
     "totalUnfulfilled": 124,
-    "canFulfill": 26,
-    "blocked": 98
+    "canFulfill": 25,
+    "blocked": 99
   },
   "fulfillableOrders": [
     {
@@ -130,12 +130,6 @@
       "id": 12245529067864,
       "name": "#3319",
       "createdAt": "2026-04-21T14:44:37+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12245577171288,
-      "name": "#3322",
-      "createdAt": "2026-04-21T15:14:23+02:00",
       "itemCount": 1
     },
     {
@@ -1730,6 +1724,21 @@
         },
         {
           "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12245577171288,
+      "name": "#3322",
+      "customerName": "Kasperek Bastiaans",
+      "createdAt": "2026-04-21T15:14:23+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "GoPro HERO13",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -3517,8 +3526,8 @@
         "product": "GoPro HERO13",
         "productId": 15698863948120,
         "variantId": 57079791714648,
-        "onHand": 1,
-        "committed": 1,
+        "onHand": 0,
+        "committed": 0,
         "demand": 1
       },
       {
