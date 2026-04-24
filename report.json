@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T11:40:34.713Z",
+  "generatedAt": "2026-04-24T12:50:26.765Z",
   "summary": {
     "totalUnfulfilled": 115,
     "canFulfill": 18,
@@ -1314,12 +1314,6 @@
       "createdAt": "2026-04-17T00:12:25+02:00",
       "itemCount": 5,
       "reasons": [
-        {
-          "product": "120803 Gengar & Mimikyu GX - Sun & Moon Team Up 053/181 NM (English) — 053/181, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
         {
           "product": "132835 N’s Zoroark ex - Mega Evolution Ascended Heroes 286/217 NM (English) - Special Illustration Rare",
           "reason": "Insufficient stock",
@@ -3114,7 +3108,7 @@
         "product": "120803 Gengar & Mimikyu GX - Sun & Moon Team Up 053/181 NM (English) — 053/181, Near-Mint / Ultra Rare",
         "productId": 15641500811608,
         "variantId": 56849634918744,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
