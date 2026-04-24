@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-24T19:18:37.665Z",
+  "generatedAt": "2026-04-24T20:08:35.107Z",
   "summary": {
-    "totalUnfulfilled": 122,
+    "totalUnfulfilled": 121,
     "canFulfill": 21,
-    "blocked": 101
+    "blocked": 100
   },
   "fulfillableOrders": [
     {
@@ -134,21 +134,6 @@
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12084683800920,
-      "name": "#2669",
-      "customerName": "Finn Koffrie",
-      "createdAt": "2026-02-23T20:34:40+01:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "134050 Mega Evolution Perfect Order Cinderace Premium Checklane Blister Booster Pack (English) Pre‑order",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
     {
       "id": 12088799035736,
       "name": "#2706",
@@ -1935,22 +1920,6 @@
   "stockAlerts": {
     "lowStock": [
       {
-        "product": "Mega Evolution Perfect Order Cinderace Premium Checklane Blister Booster Pack (English) Pre‑order",
-        "productId": 15625266200920,
-        "variantId": 56785039753560,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 2
-      },
-      {
-        "product": "134050 Mega Evolution Perfect Order Cinderace Premium Checklane Blister Booster Pack (English) Pre‑order",
-        "productId": 15642630586712,
-        "variantId": 56855559012696,
-        "onHand": 0,
-        "committed": 3,
-        "demand": 2
-      },
-      {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336775000,
         "variantId": 56849295835480,
@@ -2020,6 +1989,22 @@
         "variantId": 56849292460376,
         "onHand": 0,
         "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Mega Evolution Perfect Order Cinderace Premium Checklane Blister Booster Pack (English) Pre‑order",
+        "productId": 15625266200920,
+        "variantId": 56785039753560,
+        "onHand": 0,
+        "committed": 0,
+        "demand": 1
+      },
+      {
+        "product": "134050 Mega Evolution Perfect Order Cinderace Premium Checklane Blister Booster Pack (English) Pre‑order",
+        "productId": 15642630586712,
+        "variantId": 56855559012696,
+        "onHand": 0,
+        "committed": 3,
         "demand": 1
       },
       {
