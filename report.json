@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-24T14:51:31.685Z",
+  "generatedAt": "2026-04-24T16:20:53.846Z",
   "summary": {
-    "totalUnfulfilled": 119,
-    "canFulfill": 19,
-    "blocked": 100
+    "totalUnfulfilled": 123,
+    "canFulfill": 21,
+    "blocked": 102
   },
   "fulfillableOrders": [
     {
@@ -118,6 +118,18 @@
       "id": 12259182444888,
       "name": "#3343",
       "createdAt": "2026-04-24T15:37:08+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12259382427992,
+      "name": "#3347",
+      "createdAt": "2026-04-24T17:02:45+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12259405791576,
+      "name": "#3349",
+      "createdAt": "2026-04-24T17:17:01+02:00",
       "itemCount": 1
     }
   ],
@@ -1903,6 +1915,36 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12259361227096,
+      "name": "#3346",
+      "customerName": "Fabian Langguth",
+      "createdAt": "2026-04-24T16:49:40+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "131462 Event Pack Vol.7 One Piece Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12259401204056,
+      "name": "#3348",
+      "customerName": "Oscar Fransson",
+      "createdAt": "2026-04-24T17:14:03+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131674 Mega Zygarde‑ex - Nihil Zero 097/080 NM (Japanese) — 097/080, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2769,7 +2811,7 @@
         "variantId": 56849305174360,
         "onHand": 4,
         "committed": 8,
-        "demand": 7
+        "demand": 8
       },
       {
         "product": "131456 Winner Pack 2024 Oct‑Dec One Piece Booster Pack (English) — 1 card / black / white",
@@ -2961,7 +3003,7 @@
         "variantId": 56849302716760,
         "onHand": 3,
         "committed": 2,
-        "demand": 1
+        "demand": 2
       },
       {
         "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
@@ -3528,6 +3570,38 @@
         "productId": 15727626813784,
         "variantId": 57176214503768,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131462 Event Pack Vol.7 One Piece Booster Pack (English)",
+        "productId": 15727642935640,
+        "variantId": 57176255398232,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134032 Legacy of the Master One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Green",
+        "productId": 15641283428696,
+        "variantId": 56849219944792,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131674 Mega Zygarde‑ex - Nihil Zero 097/080 NM (Japanese) — 097/080, Near-Mint / Ultra Rare",
+        "productId": 15641338839384,
+        "variantId": 56849298063704,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
+        "productId": 15641321570648,
+        "variantId": 56849271783768,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       }
