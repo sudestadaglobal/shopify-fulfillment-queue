@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-24T12:50:26.765Z",
+  "generatedAt": "2026-04-24T14:51:31.685Z",
   "summary": {
-    "totalUnfulfilled": 115,
-    "canFulfill": 18,
-    "blocked": 97
+    "totalUnfulfilled": 119,
+    "canFulfill": 19,
+    "blocked": 100
   },
   "fulfillableOrders": [
     {
@@ -112,6 +112,12 @@
       "id": 12248317526360,
       "name": "#3333",
       "createdAt": "2026-04-22T21:42:01+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12259182444888,
+      "name": "#3343",
+      "createdAt": "2026-04-24T15:37:08+02:00",
       "itemCount": 1
     }
   ],
@@ -1852,6 +1858,51 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12259094921560,
+      "name": "#3342",
+      "customerName": "james paul",
+      "createdAt": "2026-04-24T15:24:49+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "132068 Boa Hancock - The Azure Sea's Seven OP14‑112 NM V2 (English) — OP14‑112/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12259207807320,
+      "name": "#3344",
+      "customerName": "Ryan Fehrman",
+      "createdAt": "2026-04-24T15:53:29+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "110082 Scarlet & Violet Obsidian Flames Booster Box 36 pack (English) — 36 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12259327934808,
+      "name": "#3345",
+      "customerName": "Valtteri Laine",
+      "createdAt": "2026-04-24T16:37:15+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Logitech Webcam Brio 100 Full HD 1080p Graphite",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2085,8 +2136,8 @@
         "productId": 15641322783064,
         "variantId": 56849277256024,
         "onHand": 4,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "131372 Romance Dawn One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
@@ -2717,7 +2768,7 @@
         "productId": 15641345130840,
         "variantId": 56849305174360,
         "onHand": 4,
-        "committed": 7,
+        "committed": 8,
         "demand": 7
       },
       {
@@ -2909,7 +2960,7 @@
         "productId": 15641342902616,
         "variantId": 56849302716760,
         "onHand": 3,
-        "committed": 1,
+        "committed": 2,
         "demand": 1
       },
       {
@@ -3455,6 +3506,30 @@
         "onHand": 6,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "132068 Boa Hancock - The Azure Sea's Seven OP14‑112 NM V2 (English) — OP14‑112/V2, Near-Mint / Alternate Art",
+        "productId": 15641331204440,
+        "variantId": 56849289478488,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110082 Scarlet & Violet Obsidian Flames Booster Box 36 pack (English) — 36 booster pack / Multicolor",
+        "productId": 15641567101272,
+        "variantId": 56849733124440,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Logitech Webcam Brio 100 Full HD 1080p Graphite",
+        "productId": 15727626813784,
+        "variantId": 57176214503768,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3502,6 +3577,16 @@
         "product": "124010 Phantasmal Flames Mega Evolution Build & Battle Box 4 Booster Pack(English) — 4 Booster Packs / Multicolor",
         "productId": 15641488458072,
         "variantId": 56849615323480,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Logitech Webcam Brio 100 Full HD 1080p Graphite",
+        "productId": 15727626813784,
+        "variantId": 57176214503768,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
