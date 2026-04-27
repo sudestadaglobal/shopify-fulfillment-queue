@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-27T11:23:41.250Z",
+  "generatedAt": "2026-04-27T13:11:25.255Z",
   "summary": {
-    "totalUnfulfilled": 121,
+    "totalUnfulfilled": 123,
     "canFulfill": 21,
-    "blocked": 100
+    "blocked": 102
   },
   "fulfillableOrders": [
     {
@@ -1915,6 +1915,36 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12266311811416,
+      "name": "#3350",
+      "customerName": "Bob Raes",
+      "createdAt": "2026-04-27T14:12:20+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12266352771416,
+      "name": "#3351",
+      "customerName": "Davy Willems",
+      "createdAt": "2026-04-27T14:34:10+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "SteelSeries QcK Performance - Speed Mousepad",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3574,6 +3604,22 @@
         "onHand": 1,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
+        "productId": 15731035668824,
+        "variantId": 57191630569816,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "SteelSeries QcK Performance - Speed Mousepad",
+        "productId": 15624755183960,
+        "variantId": 56783057846616,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3631,6 +3677,26 @@
         "product": "Logitech Webcam Brio 100 Full HD 1080p Graphite",
         "productId": 15727626813784,
         "variantId": 57176214503768,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
+        "productId": 15731035668824,
+        "variantId": 57191630569816,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "SteelSeries QcK Performance - Speed Mousepad",
+        "productId": 15624755183960,
+        "variantId": 56783057846616,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
