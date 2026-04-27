@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-27T22:14:17.433Z",
+  "generatedAt": "2026-04-27T23:16:22.632Z",
   "summary": {
-    "totalUnfulfilled": 103,
+    "totalUnfulfilled": 104,
     "canFulfill": 25,
-    "blocked": 78
+    "blocked": 79
   },
   "fulfillableOrders": [
     {
@@ -1567,6 +1567,45 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12267232657752,
+      "name": "#3353",
+      "customerName": "Mike van Vianen",
+      "createdAt": "2026-04-28T00:58:11+02:00",
+      "itemCount": 9,
+      "reasons": [
+        {
+          "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1624,16 +1663,16 @@
         "productId": 15641321406808,
         "variantId": 56849271619928,
         "onHand": 0,
-        "committed": 26,
-        "demand": 18
+        "committed": 27,
+        "demand": 19
       },
       {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336775000,
         "variantId": 56849295835480,
         "onHand": 0,
-        "committed": 13,
-        "demand": 4
+        "committed": 14,
+        "demand": 5
       },
       {
         "product": "131538 Tournament Pack Vol.7 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -1648,8 +1687,8 @@
         "productId": 15641336611160,
         "variantId": 56849295671640,
         "onHand": 1,
-        "committed": 12,
-        "demand": 7
+        "committed": 13,
+        "demand": 8
       },
       {
         "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
@@ -1760,8 +1799,8 @@
         "productId": 15641336676696,
         "variantId": 56849295737176,
         "onHand": 0,
-        "committed": 7,
-        "demand": 3
+        "committed": 8,
+        "demand": 4
       },
       {
         "product": "136139 Pokémon GO Mewtwo V Battle Deck (English) — 60 cards / Multicolor",
@@ -2272,8 +2311,8 @@
         "productId": 15641336840536,
         "variantId": 56849295901016,
         "onHand": 5,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "118668 Scarlet & Violet White Flare Gothitelle Tech Sticker Collection (English) — 3 booster pack / Multicolor",
@@ -2912,8 +2951,8 @@
         "productId": 15641336152408,
         "variantId": 56849295245656,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "134684 Seething Song - Secret Lair Drop Series Foil #7051 NM (English) — Secret Lair Drop Series #7051, Near-Mint / Rare",
@@ -3074,6 +3113,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131908 Mega Evolution Ascended Heroes Charmander Tech Sticker Collection 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+        "productId": 15641337135448,
+        "variantId": 56849296195928,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131912 Mega Evolution Ascended Heroes Erika’s Tangela Blister 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641336971608,
+        "variantId": 56849296032088,
+        "onHand": 9,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3092,9 +3147,9 @@
         "productId": 15641336676696,
         "variantId": 56849295737176,
         "onHand": 0,
-        "committed": 7,
-        "incoming": 0,
-        "available": -7,
+        "committed": 8,
+        "incoming": 1,
+        "available": -8,
         "shortfall": 7
       },
       {
@@ -3102,9 +3157,9 @@
         "productId": 15641336611160,
         "variantId": 56849295671640,
         "onHand": 1,
-        "committed": 12,
-        "incoming": 5,
-        "available": -11,
+        "committed": 13,
+        "incoming": 6,
+        "available": -12,
         "shortfall": 6
       },
       {
@@ -3112,9 +3167,9 @@
         "productId": 15641336775000,
         "variantId": 56849295835480,
         "onHand": 0,
-        "committed": 13,
-        "incoming": 9,
-        "available": -13,
+        "committed": 14,
+        "incoming": 10,
+        "available": -14,
         "shortfall": 4
       },
       {
