@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T04:12:27.454Z",
+  "generatedAt": "2026-04-28T06:50:27.958Z",
   "summary": {
     "totalUnfulfilled": 105,
     "canFulfill": 25,
@@ -1602,7 +1602,7 @@
         {
           "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 1,
+          "stock": 3,
           "needed": 10
         }
       ]
@@ -2577,7 +2577,7 @@
         "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641343951192,
         "variantId": 56849303994712,
-        "onHand": 1,
+        "onHand": 3,
         "committed": 11,
         "demand": 11
       },
