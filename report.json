@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-28T17:28:00.907Z",
+  "generatedAt": "2026-04-28T19:13:06.688Z",
   "summary": {
-    "totalUnfulfilled": 83,
-    "canFulfill": 5,
-    "blocked": 78
+    "totalUnfulfilled": 91,
+    "canFulfill": 7,
+    "blocked": 84
   },
   "fulfillableOrders": [
     {
@@ -35,6 +35,18 @@
       "name": "#3349",
       "createdAt": "2026-04-24T17:17:01+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12268548063576,
+      "name": "#3357",
+      "createdAt": "2026-04-28T19:51:55+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12268661801304,
+      "name": "#3362",
+      "createdAt": "2026-04-28T20:43:48+02:00",
+      "itemCount": 5
     }
   ],
   "blockedOrders": [
@@ -1477,6 +1489,186 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12268511265112,
+      "name": "#3356",
+      "customerName": "Simon Geurden",
+      "createdAt": "2026-04-28T19:31:04+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "119129 Tynamo - Scarlet & Violet Black Bolt 113/086 NM (English) — 113/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "124106 Piplup - Phantasmal Flames 098/094 NM (English) — 098/094, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12268566380888,
+      "name": "#3358",
+      "customerName": "Fabian Langguth",
+      "createdAt": "2026-04-28T19:58:03+02:00",
+      "itemCount": 7,
+      "reasons": [
+        {
+          "product": "70211 One Piece Card Game Double Pack Set Vol. 10 OP15 2 Booster Packs (English) — 2 Booster Packs / Yellow",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 6
+        },
+        {
+          "product": "134668 Nami - Unnumbered Promos (Japanese) OP01‑016 V2 NM (Japanese) — OP01‑016/V2, Near-Mint / Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "134659 Sanji - Unnumbered Promos OP01‑013 V1 NM (Japanese) - Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12268622217560,
+      "name": "#3359",
+      "customerName": "Mano Boers",
+      "createdAt": "2026-04-28T20:20:13+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12268633915736,
+      "name": "#3360",
+      "customerName": "Tobias Eckl",
+      "createdAt": "2026-04-28T20:27:16+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "114527 Salamence ex - Scarlet & Violet Journey Together 187/159 NM (English) — 187/159, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12268646564184,
+      "name": "#3361",
+      "customerName": "Kristoffer Bergström",
+      "createdAt": "2026-04-28T20:34:36+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "142543 Adventure on Kami’s Island Booster Pack (English) - Yellow",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "141083 One Piece Card Game Heroines Edition 1 Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12268683067736,
+      "name": "#3363",
+      "customerName": "Lars Hollemans",
+      "createdAt": "2026-04-28T20:56:44+02:00",
+      "itemCount": 15,
+      "reasons": [
+        {
+          "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132712 Snorunt - Mega Evolution Ascended Heroes 227/217 NM (English) — 227/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132720 Numel - Mega Evolution Ascended Heroes 223/217 NM (English) — 223/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132633 Mega Diancie ex - Mega Evolution Ascended Heroes 267/217 NM (English) - Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132722 Ethan’s Magcargo - Mega Evolution Ascended Heroes 222/217 NM (English) — 222/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132698 Banette - Mega Evolution Ascended Heroes 234/217 NM (English) — 234/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132728 Beautifly - Mega Evolution Ascended Heroes 219/217 NM (English) — 219/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132678 Cynthia’s Spiritomb - Mega Evolution Ascended Heroes 244/217 NM (English) — 244/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132670 Drakloak - Mega Evolution Ascended Heroes 248/217 NM (English) — 248/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132636 Mega Froslass ex - Mega Evolution Ascended Heroes 265/217 NM (English) — 265/217, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132580 Surfer - Mega Evolution Ascended Heroes 293/217 NM (English) — 293/217, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132850 Mega Eelektross ex - Mega Evolution Ascended Heroes 278/217 NM (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1942,8 +2134,8 @@
         "productId": 15643186921816,
         "variantId": 56857168576856,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131498 Special DON!! Card Pack DP‑06 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -2078,8 +2270,8 @@
         "productId": 15641336840536,
         "variantId": 56849295901016,
         "onHand": 5,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "118668 Scarlet & Violet White Flare Gothitelle Tech Sticker Collection (English) — 3 booster pack / Multicolor",
@@ -2230,8 +2422,8 @@
         "productId": 15641341985112,
         "variantId": 56849301766488,
         "onHand": 9,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131560 Judge Pack Vol. 5 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -2246,8 +2438,8 @@
         "productId": 15641342902616,
         "variantId": 56849302716760,
         "onHand": 3,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
@@ -2414,16 +2606,16 @@
         "productId": 15641484755288,
         "variantId": 56849609523544,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "134659 Sanji - Unnumbered Promos OP01‑013 V1 NM (Japanese) - Rare",
         "productId": 15710871486808,
         "variantId": 57123535126872,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131456 Winner Pack 2024 Oct‑Dec One Piece Booster Pack (English) — 1 card / black / white",
@@ -2470,8 +2662,8 @@
         "productId": 15641344541016,
         "variantId": 56849304584536,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "120803 Gengar & Mimikyu GX - Sun & Moon Team Up 053/181 NM (English) — 053/181, Near-Mint / Ultra Rare",
@@ -2534,24 +2726,24 @@
         "productId": 15641321013592,
         "variantId": 56849271095640,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "63011 Mega Hawlucha ex - Mega Evolution Ascended Heroes 283/217 NM (English) — Size 283/217 / Special Illustration Rare",
         "productId": 15653256200536,
         "variantId": 56897712324952,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "132620 Mega Emboar ex - Mega Evolution Ascended Heroes 273/217 NM (English) — Special Illustration Rare / Size 273/217",
         "productId": 15653254889816,
         "variantId": 56897702330712,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "132586 Mega Dragonite ex - Mega Evolution Ascended Heroes 290/217 NM (English)",
@@ -2678,8 +2870,8 @@
         "productId": 15641336152408,
         "variantId": 56849295245656,
         "onHand": 0,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "134684 Seething Song - Secret Lair Drop Series Foil #7051 NM (English) — Secret Lair Drop Series #7051, Near-Mint / Rare",
@@ -2862,13 +3054,173 @@
         "productId": 15732278362456,
         "variantId": 57196095471960,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 7,
+        "demand": 7
       },
       {
         "product": "68174 Mega Evolution Perfect Order Pokémon Center Elite Trainer Box 11 Booster Packs (English) — 11 Booster Packs / Green x Gray",
         "productId": 15732283605336,
         "variantId": 57196109234520,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119129 Tynamo - Scarlet & Violet Black Bolt 113/086 NM (English) — 113/086, Near-Mint / Illustration Rare",
+        "productId": 15641514082648,
+        "variantId": 56849655988568,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134044 Mega Evolution Perfect Order Chikorita Blister 3 Booster Packs (English) Pre‑order",
+        "productId": 15642769260888,
+        "variantId": 56856313463128,
+        "onHand": 9,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131566 ST15‑ST20 Release Event One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641341460824,
+        "variantId": 56849301209432,
+        "onHand": 8,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134668 Nami - Unnumbered Promos (Japanese) OP01‑016 V2 NM (Japanese) — OP01‑016/V2, Near-Mint / Rare",
+        "productId": 15641280151896,
+        "variantId": 56849212932440,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
+        "productId": 15641318490456,
+        "variantId": 56849267589464,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "114527 Salamence ex - Scarlet & Violet Journey Together 187/159 NM (English) — 187/159, Near-Mint / Special Illustration Rare",
+        "productId": 15641560580440,
+        "variantId": 56849715069272,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "142543 Adventure on Kami’s Island Booster Pack (English) - Yellow",
+        "productId": 15733729952088,
+        "variantId": 57200688398680,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "141083 One Piece Card Game Heroines Edition 1 Booster Pack (English) - Multicolor",
+        "productId": 15733730279768,
+        "variantId": 57200689152344,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "118666 Scarlet & Violet White Flare Reshiram 9-Pocket Album (English) — 9 Pocket Album / White/Black",
+        "productId": 15641522930008,
+        "variantId": 56849669423448,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132712 Snorunt - Mega Evolution Ascended Heroes 227/217 NM (English) — 227/217, Near-Mint / Illustration Rare",
+        "productId": 15641318555992,
+        "variantId": 56849267655000,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132720 Numel - Mega Evolution Ascended Heroes 223/217 NM (English) — 223/217, Near-Mint / Illustration Rare",
+        "productId": 15641318293848,
+        "variantId": 56849266606424,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132633 Mega Diancie ex - Mega Evolution Ascended Heroes 267/217 NM (English) - Ultra Rare",
+        "productId": 15674519552344,
+        "variantId": 56989550969176,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132722 Ethan’s Magcargo - Mega Evolution Ascended Heroes 222/217 NM (English) — 222/217, Near-Mint / Illustration Rare",
+        "productId": 15641318195544,
+        "variantId": 56849266508120,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132698 Banette - Mega Evolution Ascended Heroes 234/217 NM (English) — 234/217, Near-Mint / Illustration Rare",
+        "productId": 15641319014744,
+        "variantId": 56849268080984,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132728 Beautifly - Mega Evolution Ascended Heroes 219/217 NM (English) — 219/217, Near-Mint / Illustration Rare",
+        "productId": 15641317998936,
+        "variantId": 56849266311512,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132678 Cynthia’s Spiritomb - Mega Evolution Ascended Heroes 244/217 NM (English) — 244/217, Near-Mint / Illustration Rare",
+        "productId": 15641319539032,
+        "variantId": 56849268638040,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132670 Drakloak - Mega Evolution Ascended Heroes 248/217 NM (English) — 248/217, Near-Mint / Illustration Rare",
+        "productId": 15641319801176,
+        "variantId": 56849268900184,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132636 Mega Froslass ex - Mega Evolution Ascended Heroes 265/217 NM (English) — 265/217, Near-Mint / Ultra Rare",
+        "productId": 15641320751448,
+        "variantId": 56849269850456,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132596 Mega Scrafty ex - Mega Evolution Ascended Heroes 285/217 NM (English) — Size 285/217 / Special Illustration Rare",
+        "productId": 15653258461528,
+        "variantId": 56897717731672,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132850 Mega Eelektross ex - Mega Evolution Ascended Heroes 278/217 NM (English)",
+        "productId": 15733785493848,
+        "variantId": 57200747774296,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -2919,6 +3271,116 @@
         "product": "124010 Phantasmal Flames Mega Evolution Build & Battle Box 4 Booster Pack(English) — 4 Booster Packs / Multicolor",
         "productId": 15641488458072,
         "variantId": 56849615323480,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132580 Surfer - Mega Evolution Ascended Heroes 293/217 NM (English) — 293/217, Near-Mint / Special Illustration Rare",
+        "productId": 15641321013592,
+        "variantId": 56849271095640,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
+      },
+      {
+        "product": "132712 Snorunt - Mega Evolution Ascended Heroes 227/217 NM (English) — 227/217, Near-Mint / Illustration Rare",
+        "productId": 15641318555992,
+        "variantId": 56849267655000,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132720 Numel - Mega Evolution Ascended Heroes 223/217 NM (English) — 223/217, Near-Mint / Illustration Rare",
+        "productId": 15641318293848,
+        "variantId": 56849266606424,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132633 Mega Diancie ex - Mega Evolution Ascended Heroes 267/217 NM (English) - Ultra Rare",
+        "productId": 15674519552344,
+        "variantId": 56989550969176,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132722 Ethan’s Magcargo - Mega Evolution Ascended Heroes 222/217 NM (English) — 222/217, Near-Mint / Illustration Rare",
+        "productId": 15641318195544,
+        "variantId": 56849266508120,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132698 Banette - Mega Evolution Ascended Heroes 234/217 NM (English) — 234/217, Near-Mint / Illustration Rare",
+        "productId": 15641319014744,
+        "variantId": 56849268080984,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132728 Beautifly - Mega Evolution Ascended Heroes 219/217 NM (English) — 219/217, Near-Mint / Illustration Rare",
+        "productId": 15641317998936,
+        "variantId": 56849266311512,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132678 Cynthia’s Spiritomb - Mega Evolution Ascended Heroes 244/217 NM (English) — 244/217, Near-Mint / Illustration Rare",
+        "productId": 15641319539032,
+        "variantId": 56849268638040,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132670 Drakloak - Mega Evolution Ascended Heroes 248/217 NM (English) — 248/217, Near-Mint / Illustration Rare",
+        "productId": 15641319801176,
+        "variantId": 56849268900184,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132636 Mega Froslass ex - Mega Evolution Ascended Heroes 265/217 NM (English) — 265/217, Near-Mint / Ultra Rare",
+        "productId": 15641320751448,
+        "variantId": 56849269850456,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132850 Mega Eelektross ex - Mega Evolution Ascended Heroes 278/217 NM (English)",
+        "productId": 15733785493848,
+        "variantId": 57200747774296,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
