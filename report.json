@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-28T20:47:01.258Z",
+  "generatedAt": "2026-04-28T21:49:25.175Z",
   "summary": {
-    "totalUnfulfilled": 93,
+    "totalUnfulfilled": 95,
     "canFulfill": 8,
-    "blocked": 85
+    "blocked": 87
   },
   "fulfillableOrders": [
     {
@@ -1690,6 +1690,42 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12268854083928,
+      "name": "#3366",
+      "customerName": "Fabian Moser",
+      "createdAt": "2026-04-28T22:46:15+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131678 Mega Starmie‑ex - Nihil Zero 095/080 NM (Japanese) — 095/080, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12268864569688,
+      "name": "#3367",
+      "customerName": "luca van der ent",
+      "createdAt": "2026-04-28T22:53:46+02:00",
+      "itemCount": 13,
+      "reasons": [
+        {
+          "product": "116671 Team Rocket's Weezing - Scarlet & Violet Destined Rivals 199/182 NM (English) — 199/182, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "120993 Mega Evolution Drifblim 1 Booster Pack Blister (English) — 1 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1979,8 +2015,8 @@
         "productId": 15641496912216,
         "variantId": 56849627775320,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "124024 Phantasmal Flames Mega Evolution Blaziken Premium Checklane 1 Booster Pack Blister (English) — 1 Booster Pack / Multicolor",
@@ -2131,8 +2167,8 @@
         "productId": 15641565692248,
         "variantId": 56849722802520,
         "onHand": 3,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "116756 Scarlet & Violet Destined Rivals Booster Pack (English) — 10 cards / Multicolor",
@@ -2379,8 +2415,8 @@
         "productId": 15641566576984,
         "variantId": 56849732370776,
         "onHand": 4,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119113 Seismitoad - Scarlet & Violet Black Bolt 105/086 NM (English) — 105/086, Near-Mint / Illustration Rare",
@@ -3259,6 +3295,62 @@
         "productId": 15641344672088,
         "variantId": 56849304715608,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131678 Mega Starmie‑ex - Nihil Zero 095/080 NM (Japanese) — 095/080, Near-Mint / Ultra Rare",
+        "productId": 15641338708312,
+        "variantId": 56849297932632,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116671 Team Rocket's Weezing - Scarlet & Violet Destined Rivals 199/182 NM (English) — 199/182, Near-Mint / Illustration Rare",
+        "productId": 15641537839448,
+        "variantId": 56849690984792,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "120991 Mega Evolution Drifloon 1 Booster Pack Blister (English) — 1 booster pack / Multicolor",
+        "productId": 15641496944984,
+        "variantId": 56849627808088,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119417 Mega Evolution Meowscarada Premium Checklane Blister (English) — 1 booster pack / Multicolor",
+        "productId": 15641507725656,
+        "variantId": 56849645568344,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110240 Sword & Shield Silver Tempest Sleeved Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565233496,
+        "variantId": 56849722081624,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110244 Sword & Shield Lost Origin Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565167960,
+        "variantId": 56849722016088,
+        "onHand": 9,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110178 Scarlet & Violet Shrouded Fable Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566445912,
+        "variantId": 56849732239704,
+        "onHand": 9,
         "committed": 1,
         "demand": 1
       }
