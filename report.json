@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-28T19:13:06.688Z",
+  "generatedAt": "2026-04-28T20:47:01.258Z",
   "summary": {
-    "totalUnfulfilled": 91,
-    "canFulfill": 7,
-    "blocked": 84
+    "totalUnfulfilled": 93,
+    "canFulfill": 8,
+    "blocked": 85
   },
   "fulfillableOrders": [
     {
@@ -47,6 +47,12 @@
       "name": "#3362",
       "createdAt": "2026-04-28T20:43:48+02:00",
       "itemCount": 5
+    },
+    {
+      "id": 12268757811544,
+      "name": "#3364",
+      "createdAt": "2026-04-28T21:42:26+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1669,6 +1675,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12268760498520,
+      "name": "#3365",
+      "customerName": "Xander Hoiting",
+      "createdAt": "2026-04-28T21:43:58+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "131480 Kingdoms of Intrigue One Piece Booster Pack (English) — 12 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2662,8 +2683,8 @@
         "productId": 15641344541016,
         "variantId": 56849304584536,
         "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "120803 Gengar & Mimikyu GX - Sun & Moon Team Up 053/181 NM (English) — 053/181, Near-Mint / Ultra Rare",
@@ -3224,6 +3245,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "125828 MEGA Dream ex Booster Box 10 Booster Packs (Japanese) — 10 Booster Packs / Multicolor",
+        "productId": 15641389039960,
+        "variantId": 56849460199768,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131480 Kingdoms of Intrigue One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641344672088,
+        "variantId": 56849304715608,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3271,116 +3308,6 @@
         "product": "124010 Phantasmal Flames Mega Evolution Build & Battle Box 4 Booster Pack(English) — 4 Booster Packs / Multicolor",
         "productId": 15641488458072,
         "variantId": 56849615323480,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132580 Surfer - Mega Evolution Ascended Heroes 293/217 NM (English) — 293/217, Near-Mint / Special Illustration Rare",
-        "productId": 15641321013592,
-        "variantId": 56849271095640,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "132712 Snorunt - Mega Evolution Ascended Heroes 227/217 NM (English) — 227/217, Near-Mint / Illustration Rare",
-        "productId": 15641318555992,
-        "variantId": 56849267655000,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132720 Numel - Mega Evolution Ascended Heroes 223/217 NM (English) — 223/217, Near-Mint / Illustration Rare",
-        "productId": 15641318293848,
-        "variantId": 56849266606424,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132633 Mega Diancie ex - Mega Evolution Ascended Heroes 267/217 NM (English) - Ultra Rare",
-        "productId": 15674519552344,
-        "variantId": 56989550969176,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132722 Ethan’s Magcargo - Mega Evolution Ascended Heroes 222/217 NM (English) — 222/217, Near-Mint / Illustration Rare",
-        "productId": 15641318195544,
-        "variantId": 56849266508120,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132698 Banette - Mega Evolution Ascended Heroes 234/217 NM (English) — 234/217, Near-Mint / Illustration Rare",
-        "productId": 15641319014744,
-        "variantId": 56849268080984,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132728 Beautifly - Mega Evolution Ascended Heroes 219/217 NM (English) — 219/217, Near-Mint / Illustration Rare",
-        "productId": 15641317998936,
-        "variantId": 56849266311512,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132678 Cynthia’s Spiritomb - Mega Evolution Ascended Heroes 244/217 NM (English) — 244/217, Near-Mint / Illustration Rare",
-        "productId": 15641319539032,
-        "variantId": 56849268638040,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132670 Drakloak - Mega Evolution Ascended Heroes 248/217 NM (English) — 248/217, Near-Mint / Illustration Rare",
-        "productId": 15641319801176,
-        "variantId": 56849268900184,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132636 Mega Froslass ex - Mega Evolution Ascended Heroes 265/217 NM (English) — 265/217, Near-Mint / Ultra Rare",
-        "productId": 15641320751448,
-        "variantId": 56849269850456,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132850 Mega Eelektross ex - Mega Evolution Ascended Heroes 278/217 NM (English)",
-        "productId": 15733785493848,
-        "variantId": 57200747774296,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
