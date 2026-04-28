@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-28T09:32:14.445Z",
+  "generatedAt": "2026-04-28T11:27:31.784Z",
   "summary": {
-    "totalUnfulfilled": 105,
-    "canFulfill": 25,
+    "totalUnfulfilled": 104,
+    "canFulfill": 24,
     "blocked": 80
   },
   "fulfillableOrders": [
@@ -95,12 +95,6 @@
       "name": "#3233",
       "createdAt": "2026-04-10T18:52:51+02:00",
       "itemCount": 4
-    },
-    {
-      "id": 12220691579224,
-      "name": "#3235",
-      "createdAt": "2026-04-10T19:58:21+02:00",
-      "itemCount": 3
     },
     {
       "id": 12220967518552,
@@ -2382,30 +2376,6 @@
         "demand": 7
       },
       {
-        "product": "131466 The Best Vol.2 One Piece Sleeved Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641345130840,
-        "variantId": 56849305174360,
-        "onHand": 4,
-        "committed": 8,
-        "demand": 8
-      },
-      {
-        "product": "131456 Winner Pack 2024 Oct‑Dec One Piece Booster Pack (English) — 1 card / black / white",
-        "productId": 15650758066520,
-        "variantId": 56886286483800,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "131432 Event Pack Vol.1 One Piece Booster Pack (English) — Black / White / 1 card",
-        "productId": 15642791805272,
-        "variantId": 56856364450136,
-        "onHand": 3,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
         "productId": 15641569788248,
         "variantId": 56849737253208,
@@ -2566,6 +2536,14 @@
         "demand": 1
       },
       {
+        "product": "131466 The Best Vol.2 One Piece Sleeved Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641345130840,
+        "variantId": 56849305174360,
+        "onHand": 3,
+        "committed": 7,
+        "demand": 7
+      },
+      {
         "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15643970961752,
         "variantId": 56858997653848,
@@ -2713,6 +2691,14 @@
         "product": "134659 Sanji - Unnumbered Promos OP01‑013 V1 NM (Japanese) - Rare",
         "productId": 15710871486808,
         "variantId": 57123535126872,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131456 Winner Pack 2024 Oct‑Dec One Piece Booster Pack (English) — 1 card / black / white",
+        "productId": 15650758066520,
+        "variantId": 56886286483800,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -3211,46 +3197,6 @@
         "product": "124010 Phantasmal Flames Mega Evolution Build & Battle Box 4 Booster Pack(English) — 4 Booster Packs / Multicolor",
         "productId": 15641488458072,
         "variantId": 56849615323480,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Logitech Webcam Brio 100 Full HD 1080p Graphite",
-        "productId": 15727626813784,
-        "variantId": 57176214503768,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
-        "productId": 15731035668824,
-        "variantId": 57191630569816,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "SteelSeries QcK Performance - Speed Mousepad",
-        "productId": 15624755183960,
-        "variantId": 56783057846616,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
-        "productId": 15731088589144,
-        "variantId": 57191832191320,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
