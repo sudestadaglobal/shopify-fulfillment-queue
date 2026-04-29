@@ -1,16 +1,34 @@
 {
-  "generatedAt": "2026-04-29T15:33:40.393Z",
+  "generatedAt": "2026-04-29T17:12:57.935Z",
   "summary": {
     "totalUnfulfilled": 95,
-    "canFulfill": 8,
-    "blocked": 87
+    "canFulfill": 14,
+    "blocked": 81
   },
   "fulfillableOrders": [
+    {
+      "id": 12213096481112,
+      "name": "#3171",
+      "createdAt": "2026-04-06T00:40:09+02:00",
+      "itemCount": 4
+    },
+    {
+      "id": 12214211248472,
+      "name": "#3187",
+      "createdAt": "2026-04-06T20:33:14+02:00",
+      "itemCount": 25
+    },
     {
       "id": 12215471440216,
       "name": "#3196",
       "createdAt": "2026-04-07T16:26:22+02:00",
       "itemCount": 3
+    },
+    {
+      "id": 12215668113752,
+      "name": "#3202",
+      "createdAt": "2026-04-07T18:23:12+02:00",
+      "itemCount": 1
     },
     {
       "id": 12217434964312,
@@ -31,6 +49,30 @@
       "itemCount": 1
     },
     {
+      "id": 12224100761944,
+      "name": "#3247",
+      "createdAt": "2026-04-12T01:30:29+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12227505226072,
+      "name": "#3261",
+      "createdAt": "2026-04-13T18:19:28+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12244707639640,
+      "name": "#3316",
+      "createdAt": "2026-04-20T22:53:19+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12245698642264,
+      "name": "#3328",
+      "createdAt": "2026-04-21T16:18:40+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12259405791576,
       "name": "#3349",
       "createdAt": "2026-04-24T17:17:01+02:00",
@@ -41,12 +83,6 @@
       "name": "#3357",
       "createdAt": "2026-04-28T19:51:55+02:00",
       "itemCount": 2
-    },
-    {
-      "id": 12268661801304,
-      "name": "#3362",
-      "createdAt": "2026-04-28T20:43:48+02:00",
-      "itemCount": 5
     },
     {
       "id": 12268757811544,
@@ -256,24 +292,6 @@
       "itemCount": 21,
       "reasons": [
         {
-          "product": "136057 Miraidon ex League Battle Deck (English) — 60 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "136109 Deluxe Battle Deck Ninetales ex (English) — 60 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "136105 Lycanroc vs Corviknight V Battle Deck (English) — 2 pack, 60 cards each / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -287,12 +305,6 @@
         },
         {
           "product": "124016 Phantasmal Flames Mega Evolution Sneasel 3 Booster Pack Blister (English) — 3 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "120993 Mega Evolution Drifblim 1 Booster Pack Blister (English) — 1 booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -375,27 +387,6 @@
       ]
     },
     {
-      "id": 12213096481112,
-      "name": "#3171",
-      "customerName": "Ruffy Eggers",
-      "createdAt": "2026-04-06T00:40:09+02:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "113539 Scarlet & Violet Prismatic Evolutions Flareon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "113535 Scarlet & Violet Prismatic Evolutions Vaporeon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12213119943000,
       "name": "#3175",
       "customerName": "Nicholas Byrne",
@@ -426,21 +417,6 @@
       ]
     },
     {
-      "id": 12214211248472,
-      "name": "#3187",
-      "customerName": "Kevin Mühlschuster",
-      "createdAt": "2026-04-06T20:33:14+02:00",
-      "itemCount": 25,
-      "reasons": [
-        {
-          "product": "110191 Play! Pokémon Prize Pack Series Four Booster Pack (English) — 6 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 2,
-          "needed": 4
-        }
-      ]
-    },
-    {
       "id": 12214337274200,
       "name": "#3190",
       "customerName": "Ian Byrne",
@@ -465,22 +441,7 @@
         {
           "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 3
-        }
-      ]
-    },
-    {
-      "id": 12215668113752,
-      "name": "#3202",
-      "customerName": "Robert Maser",
-      "createdAt": "2026-04-07T18:23:12+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 1,
+          "stock": 2,
           "needed": 3
         }
       ]
@@ -523,19 +484,7 @@
       "itemCount": 12,
       "reasons": [
         {
-          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -556,28 +505,7 @@
       "itemCount": 3,
       "reasons": [
         {
-          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        },
-        {
           "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12224100761944,
-      "name": "#3247",
-      "customerName": "Marvin Mendel",
-      "createdAt": "2026-04-12T01:30:29+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -608,8 +536,8 @@
       "reasons": [
         {
           "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 6,
           "needed": 1
         }
       ]
@@ -623,23 +551,8 @@
       "reasons": [
         {
           "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12227505226072,
-      "name": "#3261",
-      "customerName": "Enrico Rinaldi",
-      "createdAt": "2026-04-13T18:19:28+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "136131 MEGA Start Deck 100 Battle Collection CoroCiao Version (Japanese) — 60 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 6,
           "needed": 1
         }
       ]
@@ -704,12 +617,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "136073 2023 World Championships Deck Tord Reklev Psychic Elegance (English) — 60 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -720,12 +627,6 @@
       "createdAt": "2026-04-15T16:10:41+02:00",
       "itemCount": 12,
       "reasons": [
-        {
-          "product": "141085 One Piece Card Game Heroines Edition Booster Box 24 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
         {
           "product": "131512 Emperors in the New World One Piece Booster Pack (English) — 12 cards / Multicolor",
           "reason": "Insufficient stock",
@@ -755,6 +656,12 @@
       "reasons": [
         {
           "product": "119451 Golem ex - Scarlet & Violet 151 189/165 NM (English) — 189/165, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119485 Nidoking - Scarlet & Violet 151 174/165 NM (English) — 174/165, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1047,21 +954,6 @@
       ]
     },
     {
-      "id": 12244707639640,
-      "name": "#3316",
-      "customerName": "jonathan sorpola",
-      "createdAt": "2026-04-20T22:53:19+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12244712096088,
       "name": "#3317",
       "customerName": "Shawn J",
@@ -1120,6 +1012,12 @@
       "itemCount": 2,
       "reasons": [
         {
+          "product": "116756 Scarlet & Violet Destined Rivals Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
           "product": "116677 Team Rocket's Moltres ex - Scarlet & Violet Destined Rivals 208/182 NM (English) — 208/182, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1136,21 +1034,6 @@
       "reasons": [
         {
           "product": "124050 Mega Sharpedo ex - Phantasmal Flames 127/094 NM (English) — 127/094, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12245698642264,
-      "name": "#3328",
-      "customerName": "Frédéric Pépin-Toulouse",
-      "createdAt": "2026-04-21T16:18:40+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "141085 One Piece Card Game Heroines Edition Booster Box 24 Booster Packs (English)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1269,7 +1152,7 @@
         {
           "product": "127670 Carrying on His Will One Piece Booster Pack (English) — 12 cards / Red",
           "reason": "Insufficient stock",
-          "stock": 4,
+          "stock": 16,
           "needed": 35
         }
       ]
@@ -1596,6 +1479,21 @@
       ]
     },
     {
+      "id": 12268661801304,
+      "name": "#3362",
+      "customerName": "Luca Maxim Limmroth",
+      "createdAt": "2026-04-28T20:43:48+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "110223 Scarlet & Violet Sleeved Booster Pack (English) — Multicolor / 10 cards",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
       "id": 12268683067736,
       "name": "#3363",
       "customerName": "Lars Hollemans",
@@ -1715,12 +1613,6 @@
       "reasons": [
         {
           "product": "116671 Team Rocket's Weezing - Scarlet & Violet Destined Rivals 199/182 NM (English) — 199/182, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "120993 Mega Evolution Drifblim 1 Booster Pack Blister (English) — 1 booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1910,7 +1802,7 @@
         "product": "136057 Miraidon ex League Battle Deck (English) — 60 cards / Multicolor",
         "productId": 15641267667288,
         "variantId": 56849192255832,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1918,7 +1810,7 @@
         "product": "136109 Deluxe Battle Deck Ninetales ex (English) — 60 cards / Multicolor",
         "productId": 15641265832280,
         "variantId": 56849189568856,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1934,17 +1826,9 @@
         "product": "136105 Lycanroc vs Corviknight V Battle Deck (English) — 2 pack, 60 cards each / Multicolor",
         "productId": 15641265996120,
         "variantId": 56849189831000,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "110191 Play! Pokémon Prize Pack Series Four Booster Pack (English) — 6 cards / Multicolor",
-        "productId": 15641566085464,
-        "variantId": 56849731420504,
-        "onHand": 2,
-        "committed": 6,
-        "demand": 6
       },
       {
         "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -2014,7 +1898,7 @@
         "product": "120993 Mega Evolution Drifblim 1 Booster Pack Blister (English) — 1 booster pack / Multicolor",
         "productId": 15641496912216,
         "variantId": 56849627775320,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2062,7 +1946,7 @@
         "product": "113539 Scarlet & Violet Prismatic Evolutions Flareon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
         "productId": 15641562480984,
         "variantId": 56849717854552,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2078,7 +1962,7 @@
         "product": "113535 Scarlet & Violet Prismatic Evolutions Vaporeon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
         "productId": 15641562612056,
         "variantId": 56849718018392,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2214,7 +2098,7 @@
         "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
         "productId": 15641566871896,
         "variantId": 56849732698456,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 3,
         "demand": 3
       },
@@ -2259,14 +2143,6 @@
         "demand": 2
       },
       {
-        "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
-        "productId": 15641337299288,
-        "variantId": 56849296359768,
-        "onHand": 1,
-        "committed": 10,
-        "demand": 10
-      },
-      {
         "product": "118664 Scarlet & Violet White Flare Booster Bundle 6 Booster Pack (English) — 6 booster pack / Multicolor",
         "productId": 15641522962776,
         "variantId": 56849669456216,
@@ -2278,7 +2154,7 @@
         "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
         "productId": 15641508512088,
         "variantId": 56849646649688,
-        "onHand": 3,
+        "onHand": 5,
         "committed": 4,
         "demand": 4
       },
@@ -2390,7 +2266,7 @@
         "product": "136131 MEGA Start Deck 100 Battle Collection CoroCiao Version (Japanese) — 60 cards / Multicolor",
         "productId": 15641265111384,
         "variantId": 56849188585816,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2454,7 +2330,7 @@
         "product": "136073 2023 World Championships Deck Tord Reklev Psychic Elegance (English) — 60 cards / Multicolor",
         "productId": 15641267175768,
         "variantId": 56849191600472,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2462,7 +2338,7 @@
         "product": "141085 One Piece Card Game Heroines Edition Booster Box 24 Booster Packs (English)",
         "productId": 15691118477656,
         "variantId": 57056588726616,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2707,14 +2583,6 @@
         "demand": 1
       },
       {
-        "product": "127670 Carrying on His Will One Piece Booster Pack (English) — 12 cards / Red",
-        "productId": 15641380487512,
-        "variantId": 56849450402136,
-        "onHand": 4,
-        "committed": 36,
-        "demand": 36
-      },
-      {
         "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641344541016,
         "variantId": 56849304584536,
@@ -2926,7 +2794,7 @@
         "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
         "productId": 15641336152408,
         "variantId": 56849295245656,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 4,
         "demand": 4
       },
@@ -3360,10 +3228,10 @@
         "product": "127670 Carrying on His Will One Piece Booster Pack (English) — 12 cards / Red",
         "productId": 15641380487512,
         "variantId": 56849450402136,
-        "onHand": 4,
+        "onHand": 16,
         "committed": 36,
-        "incoming": 23,
-        "available": -32,
+        "incoming": 11,
+        "available": -20,
         "shortfall": 9
       },
       {
