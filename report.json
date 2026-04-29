@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-29T22:44:09.399Z",
+  "generatedAt": "2026-04-29T23:42:57.682Z",
   "summary": {
-    "totalUnfulfilled": 99,
-    "canFulfill": 20,
-    "blocked": 79
+    "totalUnfulfilled": 103,
+    "canFulfill": 23,
+    "blocked": 80
   },
   "fulfillableOrders": [
     {
@@ -124,6 +124,24 @@
       "id": 12268757811544,
       "name": "#3364",
       "createdAt": "2026-04-28T21:42:26+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12270712324440,
+      "name": "#3373",
+      "createdAt": "2026-04-30T01:28:47+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12270714126680,
+      "name": "#3374",
+      "createdAt": "2026-04-30T01:33:27+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12270714814808,
+      "name": "#3375",
+      "createdAt": "2026-04-30T01:36:06+02:00",
       "itemCount": 1
     }
   ],
@@ -1549,6 +1567,21 @@
           "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12270715535704,
+      "name": "#3376",
+      "customerName": "Dorian Cwienk",
+      "createdAt": "2026-04-30T01:37:39+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 6,
           "needed": 1
         }
       ]
@@ -3121,8 +3154,8 @@
         "productId": 15641496944984,
         "variantId": 56849627808088,
         "onHand": 3,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119417 Mega Evolution Meowscarada Premium Checklane Blister (English) — 1 booster pack / Multicolor",
@@ -3187,19 +3220,17 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "110289 Sword & Shield Shining Legends Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641564381528,
+        "variantId": 56849720901976,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
-      {
-        "product": "127670 Carrying on His Will One Piece Booster Pack (English) — 12 cards / Red",
-        "productId": 15641380487512,
-        "variantId": 56849450402136,
-        "onHand": 16,
-        "committed": 36,
-        "incoming": 11,
-        "available": -20,
-        "shortfall": 9
-      },
       {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336676696,
