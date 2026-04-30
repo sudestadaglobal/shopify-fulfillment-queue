@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-30T20:01:41.701Z",
+  "generatedAt": "2026-04-30T21:16:00.674Z",
   "summary": {
-    "totalUnfulfilled": 92,
-    "canFulfill": 8,
-    "blocked": 84
+    "totalUnfulfilled": 95,
+    "canFulfill": 9,
+    "blocked": 86
   },
   "fulfillableOrders": [
     {
@@ -52,6 +52,12 @@
       "id": 12271481487704,
       "name": "#3382",
       "createdAt": "2026-04-30T14:15:35+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12272278405464,
+      "name": "#3389",
+      "createdAt": "2026-04-30T22:53:19+02:00",
       "itemCount": 1
     }
   ],
@@ -1675,6 +1681,54 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12272257204568,
+      "name": "#3387",
+      "customerName": "Jakub Grabarz",
+      "createdAt": "2026-04-30T22:34:51+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "119077 Snivy - Scarlet & Violet Black Bolt 087/086 NM (English) — 087/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119177 Krookodile - Scarlet & Violet Black Bolt 137/086 NM (English) — 137/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119103 Volcarona - Scarlet & Violet Black Bolt 100/086 NM (English) — 100/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119113 Seismitoad - Scarlet & Violet Black Bolt 105/086 NM (English) — 105/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12272275652952,
+      "name": "#3388",
+      "customerName": "Lars Hollemans",
+      "createdAt": "2026-04-30T22:50:54+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132920 Mega Dragonite ex - Mega Evolution Ascended Heroes 152/217 NM (English) — 152/217, Near-Mint / Double Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1716,8 +1770,8 @@
         "productId": 15642608370008,
         "variantId": 56855458120024,
         "onHand": 7,
-        "committed": 3,
-        "demand": 4
+        "committed": 4,
+        "demand": 5
       },
       {
         "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
@@ -3211,6 +3265,46 @@
         "product": "119121 Cubchoo - Scarlet & Violet Black Bolt 109/086 NM (English) — 109/086, Near-Mint / Illustration Rare",
         "productId": 15641514213720,
         "variantId": 56849656185176,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119077 Snivy - Scarlet & Violet Black Bolt 087/086 NM (English) — 087/086, Near-Mint / Illustration Rare",
+        "productId": 15641515196760,
+        "variantId": 56849657758040,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119177 Krookodile - Scarlet & Violet Black Bolt 137/086 NM (English) — 137/086, Near-Mint / Illustration Rare",
+        "productId": 15641513099608,
+        "variantId": 56849654645080,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119103 Volcarona - Scarlet & Violet Black Bolt 100/086 NM (English) — 100/086, Near-Mint / Illustration Rare",
+        "productId": 15641514606936,
+        "variantId": 56849656938840,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119113 Seismitoad - Scarlet & Violet Black Bolt 105/086 NM (English) — 105/086, Near-Mint / Illustration Rare",
+        "productId": 15641514410328,
+        "variantId": 56849656447320,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132920 Mega Dragonite ex - Mega Evolution Ascended Heroes 152/217 NM (English) — 152/217, Near-Mint / Double Rare",
+        "productId": 15641313444184,
+        "variantId": 56849257496920,
         "onHand": 0,
         "committed": 1,
         "demand": 1
