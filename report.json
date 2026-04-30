@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T13:14:22.935Z",
+  "generatedAt": "2026-04-30T15:28:03.825Z",
   "summary": {
     "totalUnfulfilled": 89,
     "canFulfill": 8,
@@ -3084,16 +3084,6 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
-        "productId": 15641321570648,
-        "variantId": 56849271783768,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
         "shortfall": 1
       },
       {
