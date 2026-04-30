@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-29T23:42:57.682Z",
+  "generatedAt": "2026-04-30T01:29:13.811Z",
   "summary": {
-    "totalUnfulfilled": 103,
+    "totalUnfulfilled": 108,
     "canFulfill": 23,
-    "blocked": 80
+    "blocked": 85
   },
   "fulfillableOrders": [
     {
@@ -1585,6 +1585,147 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12270716223832,
+      "name": "#3377",
+      "customerName": "Elie richart luna",
+      "createdAt": "2026-04-30T01:40:22+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "113509 Bloodmoon Ursaluna ex - Scarlet & Violet Prismatic Evolution 168/131 NM (English) — 168/131, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12270719041880,
+      "name": "#3378",
+      "customerName": "Kevin Enseling/Engelhard",
+      "createdAt": "2026-04-30T01:48:22+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "141886 Monkey D. Luffy - Adventure on Kamis Island EB04-061 NM (English) - Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "140922 Nico Robin - Heroines Edition EB03-055 NM V1 (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12270721794392,
+      "name": "#3379",
+      "customerName": "Joshua Hammerich",
+      "createdAt": "2026-04-30T01:57:30+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "128182 Pop Series 5 Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12270735393112,
+      "name": "#3380",
+      "customerName": "Stefan Lautmann",
+      "createdAt": "2026-04-30T02:18:55+02:00",
+      "itemCount": 9,
+      "reasons": [
+        {
+          "product": "141955 Smoker & Tashigi - Adventure on Kamis Island EB04-003 V2 NM (English) - Special Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "142459 Brook - Adventure on Kami’s Island OP15-032 V2 NM (English) - Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "127956 Sanji - Carrying on His Will OP13‑027 V2 NM (English) — OP13‑027/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "142423 Sanji - Adventure on Kami’s Island OP15-047 V2 NM (English) - Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "141961 Jewelry Bonney - Adventure on Kamis Island EB04-002 V2 NM (English) - Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "130760 Nami - The Best Vol.2 PRB02‑012 NM V2 (English) — PRB02‑012/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "141072 \tDon!! Uta EB03 V2 Heroines Edition (English) - DON!!",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "141887 Monkey D. Luffy - Adventure on Kamis Island EB04-061 V2 NM (English) - Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "141068 Don!! Boa EB03 V2 Heroines Edition (English) - DON!!",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12270750663000,
+      "name": "#3381",
+      "customerName": "Stefan Lautmann",
+      "createdAt": "2026-04-30T03:06:50+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131466 The Best Vol.2 One Piece Sleeved Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 4,
+          "needed": 21
+        },
+        {
+          "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 11
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2346,8 +2487,8 @@
         "productId": 15641345753432,
         "variantId": 56849305796952,
         "onHand": 8,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131422 Memorial Collection One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -2362,16 +2503,16 @@
         "productId": 15641345130840,
         "variantId": 56849305174360,
         "onHand": 4,
-        "committed": 4,
-        "demand": 4
+        "committed": 25,
+        "demand": 25
       },
       {
         "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15643970961752,
         "variantId": 56858997653848,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 12,
+        "demand": 12
       },
       {
         "product": "131472 Royal Blood One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
@@ -2890,8 +3031,8 @@
         "productId": 15641321570648,
         "variantId": 56849271783768,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
@@ -3228,6 +3369,110 @@
         "onHand": 1,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "113509 Bloodmoon Ursaluna ex - Scarlet & Violet Prismatic Evolution 168/131 NM (English) — 168/131, Near-Mint / Special Illustration Rare",
+        "productId": 15641563136344,
+        "variantId": 56849718706520,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "141886 Monkey D. Luffy - Adventure on Kamis Island EB04-061 NM (English) - Secret Rare",
+        "productId": 15736169988440,
+        "variantId": 57207807443288,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "140922 Nico Robin - Heroines Edition EB03-055 NM V1 (English)",
+        "productId": 15736170709336,
+        "variantId": 57207809638744,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "128182 Pop Series 5 Booster Pack (English)",
+        "productId": 15736173494616,
+        "variantId": 57207818027352,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "141955 Smoker & Tashigi - Adventure on Kamis Island EB04-003 V2 NM (English) - Special Rare",
+        "productId": 15736177197400,
+        "variantId": 57207824318808,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "142459 Brook - Adventure on Kami’s Island OP15-032 V2 NM (English) - Alternate Art",
+        "productId": 15736177328472,
+        "variantId": 57207824482648,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "127956 Sanji - Carrying on His Will OP13‑027 V2 NM (English) — OP13‑027/V2, Near-Mint / Alternate Art",
+        "productId": 15641375310168,
+        "variantId": 56849441653080,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "142423 Sanji - Adventure on Kami’s Island OP15-047 V2 NM (English) - Alternate Art",
+        "productId": 15736177459544,
+        "variantId": 57207824613720,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "141961 Jewelry Bonney - Adventure on Kamis Island EB04-002 V2 NM (English) - Alternate Art",
+        "productId": 15736177623384,
+        "variantId": 57207824908632,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "130760 Nami - The Best Vol.2 PRB02‑012 NM V2 (English) — PRB02‑012/V2, Near-Mint / Alternate Art",
+        "productId": 15641363087704,
+        "variantId": 56849421500760,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "141072 \tDon!! Uta EB03 V2 Heroines Edition (English) - DON!!",
+        "productId": 15736177787224,
+        "variantId": 57207825072472,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "141887 Monkey D. Luffy - Adventure on Kamis Island EB04-061 V2 NM (English) - Alternate Art",
+        "productId": 15736178278744,
+        "variantId": 57207825826136,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "141068 Don!! Boa EB03 V2 Heroines Edition (English) - DON!!",
+        "productId": 15736178377048,
+        "variantId": 57207825924440,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3239,6 +3484,16 @@
         "committed": 8,
         "incoming": 1,
         "available": -8,
+        "shortfall": 7
+      },
+      {
+        "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15643970961752,
+        "variantId": 56858997653848,
+        "onHand": 0,
+        "committed": 12,
+        "incoming": 5,
+        "available": -12,
         "shortfall": 7
       },
       {
