@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-30T15:28:03.825Z",
+  "generatedAt": "2026-04-30T17:03:07.379Z",
   "summary": {
-    "totalUnfulfilled": 89,
+    "totalUnfulfilled": 90,
     "canFulfill": 8,
-    "blocked": 81
+    "blocked": 82
   },
   "fulfillableOrders": [
     {
@@ -1576,6 +1576,69 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12271869854040,
+      "name": "#3384",
+      "customerName": "Stefan Lautmann",
+      "createdAt": "2026-04-30T18:03:23+02:00",
+      "itemCount": 10,
+      "reasons": [
+        {
+          "product": "140898 Trafalgar Law - Heroines Edition EB03-062 NM V1 (English) - Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "133740 Jewelry Bonney - Legacy of the Master OP12‑118 V1 NM (English) — OP12‑118/V1, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 4
+        },
+        {
+          "product": "141886 Monkey D. Luffy - Adventure on Kamis Island EB04-061 NM (English) - Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
+        },
+        {
+          "product": "127984 Monkey D. Garp - Carrying on His Will OP13‑016 V2 NM (English) — OP13‑016/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 4
+        },
+        {
+          "product": "140900 Uta - Heroines Edition EB03-061 NM V2 (English) - Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 4
+        },
+        {
+          "product": "133736 Jewelry Bonney - Legacy of the Master OP12‑118 V2 NM (English) — OP12‑118/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 4
+        },
+        {
+          "product": "141969 Monkey D. Luffy - Adventure on Kamis Island OP15-119 V1 NM (English) - Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 4
+        },
+        {
+          "product": "127716 Monkey D. Luffy - Carrying on His Will OP13‑118 V1 NM (English) — OP13‑118/V1, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 4
+        },
+        {
+          "product": "140896 Trafalgar Law - Heroines Edition EB03-062 NM V2 (English) - Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 4
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1673,8 +1736,8 @@
         "productId": 15641324192088,
         "variantId": 56849278697816,
         "onHand": 2,
-        "committed": 2,
-        "demand": 1
+        "committed": 3,
+        "demand": 2
       },
       {
         "product": "132150 Perona - The Azure Sea's Seven OP14‑111 NM V2 (English) — OP14‑111/V2, Near-Mint / Alternate Art",
@@ -2945,8 +3008,8 @@
         "productId": 15736169988440,
         "variantId": 57207807443288,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "140922 Nico Robin - Heroines Edition EB03-055 NM V1 (English)",
@@ -3043,6 +3106,70 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "140898 Trafalgar Law - Heroines Edition EB03-062 NM V1 (English) - Secret Rare",
+        "productId": 15737710838104,
+        "variantId": 57213656695128,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "133740 Jewelry Bonney - Legacy of the Master OP12‑118 V1 NM (English) — OP12‑118/V1, Near-Mint / Secret Rare",
+        "productId": 15641298895192,
+        "variantId": 56849239376216,
+        "onHand": 0,
+        "committed": 4,
+        "demand": 4
+      },
+      {
+        "product": "127984 Monkey D. Garp - Carrying on His Will OP13‑016 V2 NM (English) — OP13‑016/V2, Near-Mint / Alternate Art",
+        "productId": 15641374753112,
+        "variantId": 56849440604504,
+        "onHand": 0,
+        "committed": 4,
+        "demand": 4
+      },
+      {
+        "product": "140900 Uta - Heroines Edition EB03-061 NM V2 (English) - Alternate Art",
+        "productId": 15737715425624,
+        "variantId": 57213667606872,
+        "onHand": 0,
+        "committed": 4,
+        "demand": 4
+      },
+      {
+        "product": "133736 Jewelry Bonney - Legacy of the Master OP12‑118 V2 NM (English) — OP12‑118/V2, Near-Mint / Alternate Art",
+        "productId": 15641299026264,
+        "variantId": 56849239507288,
+        "onHand": 0,
+        "committed": 4,
+        "demand": 4
+      },
+      {
+        "product": "141969 Monkey D. Luffy - Adventure on Kamis Island OP15-119 V1 NM (English) - Secret Rare",
+        "productId": 15737717653848,
+        "variantId": 57213673963864,
+        "onHand": 0,
+        "committed": 4,
+        "demand": 4
+      },
+      {
+        "product": "127716 Monkey D. Luffy - Carrying on His Will OP13‑118 V1 NM (English) — OP13‑118/V1, Near-Mint / Secret Rare",
+        "productId": 15641379766616,
+        "variantId": 56849449648472,
+        "onHand": 0,
+        "committed": 4,
+        "demand": 4
+      },
+      {
+        "product": "140896 Trafalgar Law - Heroines Edition EB03-062 NM V2 (English) - Alternate Art",
+        "productId": 15737722241368,
+        "variantId": 57213685858648,
+        "onHand": 0,
+        "committed": 4,
+        "demand": 4
       }
     ],
     "demandExceedsStock": [
@@ -3075,6 +3202,46 @@
         "incoming": 10,
         "available": -15,
         "shortfall": 5
+      },
+      {
+        "product": "127984 Monkey D. Garp - Carrying on His Will OP13‑016 V2 NM (English) — OP13‑016/V2, Near-Mint / Alternate Art",
+        "productId": 15641374753112,
+        "variantId": 56849440604504,
+        "onHand": 0,
+        "committed": 4,
+        "incoming": 0,
+        "available": -4,
+        "shortfall": 4
+      },
+      {
+        "product": "133736 Jewelry Bonney - Legacy of the Master OP12‑118 V2 NM (English) — OP12‑118/V2, Near-Mint / Alternate Art",
+        "productId": 15641299026264,
+        "variantId": 56849239507288,
+        "onHand": 0,
+        "committed": 4,
+        "incoming": 0,
+        "available": -4,
+        "shortfall": 4
+      },
+      {
+        "product": "141969 Monkey D. Luffy - Adventure on Kamis Island OP15-119 V1 NM (English) - Secret Rare",
+        "productId": 15737717653848,
+        "variantId": 57213673963864,
+        "onHand": 0,
+        "committed": 4,
+        "incoming": 0,
+        "available": -4,
+        "shortfall": 4
+      },
+      {
+        "product": "141886 Monkey D. Luffy - Adventure on Kamis Island EB04-061 NM (English) - Secret Rare",
+        "productId": 15736169988440,
+        "variantId": 57207807443288,
+        "onHand": 0,
+        "committed": 5,
+        "incoming": 2,
+        "available": -5,
+        "shortfall": 3
       },
       {
         "product": "124010 Phantasmal Flames Mega Evolution Build & Battle Box 4 Booster Pack(English) — 4 Booster Packs / Multicolor",
