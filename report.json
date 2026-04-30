@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T17:03:07.379Z",
+  "generatedAt": "2026-04-30T18:23:34.679Z",
   "summary": {
     "totalUnfulfilled": 90,
     "canFulfill": 8,
@@ -3204,26 +3204,6 @@
         "shortfall": 5
       },
       {
-        "product": "127984 Monkey D. Garp - Carrying on His Will OP13‑016 V2 NM (English) — OP13‑016/V2, Near-Mint / Alternate Art",
-        "productId": 15641374753112,
-        "variantId": 56849440604504,
-        "onHand": 0,
-        "committed": 4,
-        "incoming": 0,
-        "available": -4,
-        "shortfall": 4
-      },
-      {
-        "product": "133736 Jewelry Bonney - Legacy of the Master OP12‑118 V2 NM (English) — OP12‑118/V2, Near-Mint / Alternate Art",
-        "productId": 15641299026264,
-        "variantId": 56849239507288,
-        "onHand": 0,
-        "committed": 4,
-        "incoming": 0,
-        "available": -4,
-        "shortfall": 4
-      },
-      {
         "product": "141969 Monkey D. Luffy - Adventure on Kamis Island OP15-119 V1 NM (English) - Secret Rare",
         "productId": 15737717653848,
         "variantId": 57213673963864,
@@ -3232,16 +3212,6 @@
         "incoming": 0,
         "available": -4,
         "shortfall": 4
-      },
-      {
-        "product": "141886 Monkey D. Luffy - Adventure on Kamis Island EB04-061 NM (English) - Secret Rare",
-        "productId": 15736169988440,
-        "variantId": 57207807443288,
-        "onHand": 0,
-        "committed": 5,
-        "incoming": 2,
-        "available": -5,
-        "shortfall": 3
       },
       {
         "product": "124010 Phantasmal Flames Mega Evolution Build & Battle Box 4 Booster Pack(English) — 4 Booster Packs / Multicolor",
