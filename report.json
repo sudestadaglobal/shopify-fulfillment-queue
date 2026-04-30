@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T01:29:13.811Z",
+  "generatedAt": "2026-04-30T05:04:16.087Z",
   "summary": {
     "totalUnfulfilled": 108,
     "canFulfill": 23,
@@ -3484,16 +3484,6 @@
         "committed": 8,
         "incoming": 1,
         "available": -8,
-        "shortfall": 7
-      },
-      {
-        "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15643970961752,
-        "variantId": 56858997653848,
-        "onHand": 0,
-        "committed": 12,
-        "incoming": 5,
-        "available": -12,
         "shortfall": 7
       },
       {
