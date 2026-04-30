@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-30T11:46:35.193Z",
+  "generatedAt": "2026-04-30T13:14:22.935Z",
   "summary": {
-    "totalUnfulfilled": 91,
+    "totalUnfulfilled": 89,
     "canFulfill": 8,
-    "blocked": 83
+    "blocked": 81
   },
   "fulfillableOrders": [
     {
@@ -49,9 +49,9 @@
       "itemCount": 1
     },
     {
-      "id": 12259405791576,
-      "name": "#3349",
-      "createdAt": "2026-04-24T17:17:01+02:00",
+      "id": 12271481487704,
+      "name": "#3382",
+      "createdAt": "2026-04-30T14:15:35+02:00",
       "itemCount": 1
     }
   ],
@@ -366,81 +366,6 @@
       ]
     },
     {
-      "id": 12214211248472,
-      "name": "#3187",
-      "customerName": "Kevin Mühlschuster",
-      "createdAt": "2026-04-06T20:33:14+02:00",
-      "itemCount": 25,
-      "reasons": [
-        {
-          "product": "109976 Ivysaur - Scarlet & Violet 151 167/165 NM (Japanese) — 167/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "118762 Joltik - Scarlet & Violet White Flare 116/086 NM (English) — 116/086, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "121029 Bulbasaur - Mega Evolution 133/132 NM (English) — 133/132, Near-Mint / Ilustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "125766 Snorunt - Paradox Rift 188/182 NM (English) — 188/182, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119485 Nidoking - Scarlet & Violet 151 174/165 NM (English) — 174/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "116667 Shaymin - Scarlet & Violet Destined Rivals 185/182 NM (English) — 185/182, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119481 Caterpie - Scarlet & Violet 151 172/165 NM (English) — 172/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "116756 Scarlet & Violet Destined Rivals Booster Pack (English) — 10 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 3
-        },
-        {
-          "product": "110223 Scarlet & Violet Sleeved Booster Pack (English) — Multicolor / 10 cards",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131498 Special DON!! Card Pack DP‑06 One Piece Booster Pack (English) — 1 card / Black / White",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131506 Promotion Pack 2023 Vol.1 One Piece Booster Pack (English) — 5 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12214337274200,
       "name": "#3190",
       "customerName": "Ian Byrne",
@@ -464,21 +389,6 @@
       "reasons": [
         {
           "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 2,
-          "needed": 3
-        }
-      ]
-    },
-    {
-      "id": 12215668113752,
-      "name": "#3202",
-      "customerName": "Robert Maser",
-      "createdAt": "2026-04-07T18:23:12+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 2,
           "needed": 3
@@ -969,21 +879,6 @@
       ]
     },
     {
-      "id": 12250252443992,
-      "name": "#3338",
-      "customerName": "Max Hörner",
-      "createdAt": "2026-04-23T17:04:55+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "127670 Carrying on His Will One Piece Booster Pack (English) — 12 cards / Red",
-          "reason": "Insufficient stock",
-          "stock": 4,
-          "needed": 35
-        }
-      ]
-    },
-    {
       "id": 12250378273112,
       "name": "#3339",
       "customerName": "Nick Regz",
@@ -1067,6 +962,21 @@
       "reasons": [
         {
           "product": "131674 Mega Zygarde‑ex - Nihil Zero 097/080 NM (Japanese) — 097/080, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12259405791576,
+      "name": "#3349",
+      "customerName": "WILSON Hu",
+      "createdAt": "2026-04-24T17:17:01+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1512,21 +1422,6 @@
       ]
     },
     {
-      "id": 12270715535704,
-      "name": "#3376",
-      "customerName": "Dorian Cwienk",
-      "createdAt": "2026-04-30T01:37:39+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12270716223832,
       "name": "#3377",
       "customerName": "Elie richart luna",
@@ -1664,6 +1559,21 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 11
+        }
+      ]
+    },
+    {
+      "id": 12271566717272,
+      "name": "#3383",
+      "customerName": "Nico Friedrich",
+      "createdAt": "2026-04-30T15:06:28+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Airpods Max with Smart Case — Midnight",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
         }
       ]
     }
@@ -1884,7 +1794,7 @@
         "variantId": 56849731420504,
         "onHand": 8,
         "committed": 2,
-        "demand": 6
+        "demand": 2
       },
       {
         "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -1964,7 +1874,7 @@
         "variantId": 56849614831960,
         "onHand": 7,
         "committed": 1,
-        "demand": 2
+        "demand": 1
       },
       {
         "product": "128236 25th Anniversary Edition Booster Pack (JP) — 1 card / Multicolor",
@@ -2015,92 +1925,12 @@
         "demand": 1
       },
       {
-        "product": "109976 Ivysaur - Scarlet & Violet 151 167/165 NM (Japanese) — 167/165, Near-Mint / Illustration Rare",
-        "productId": 15641568969048,
-        "variantId": 56849736335704,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "118762 Joltik - Scarlet & Violet White Flare 116/086 NM (English) — 116/086, Near-Mint / Illustration Rare",
-        "productId": 15641520996696,
-        "variantId": 56849666998616,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "121029 Bulbasaur - Mega Evolution 133/132 NM (English) — 133/132, Near-Mint / Ilustration Rare",
-        "productId": 15641496289624,
-        "variantId": 56849626300760,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "125766 Snorunt - Paradox Rift 188/182 NM (English) — 188/182, Near-Mint / Illustration Rare",
-        "productId": 15641390252376,
-        "variantId": 56849461838168,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "119485 Nidoking - Scarlet & Violet 151 174/165 NM (English) — 174/165, Near-Mint / Illustration Rare",
-        "productId": 15641506087256,
-        "variantId": 56849643471192,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 2
-      },
-      {
-        "product": "116667 Shaymin - Scarlet & Violet Destined Rivals 185/182 NM (English) — 185/182, Near-Mint / Illustration Rare",
-        "productId": 15641538527576,
-        "variantId": 56849691803992,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "119481 Caterpie - Scarlet & Violet 151 172/165 NM (English) — 172/165, Near-Mint / Illustration Rare",
-        "productId": 15641506152792,
-        "variantId": 56849643536728,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "110213 Scarlet & Violet Obsidian Flames Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641565692248,
-        "variantId": 56849722802520,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 2
-      },
-      {
-        "product": "110207 Scarlet & Violet 151 Booster NM (English) — Scarlet & Violet 151 (10 cards) / Multicolor",
-        "productId": 15641565823320,
-        "variantId": 56849731092824,
-        "onHand": 7,
-        "committed": 0,
+        "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
+        "productId": 15641566871896,
+        "variantId": 56849732698456,
+        "onHand": 2,
+        "committed": 3,
         "demand": 3
-      },
-      {
-        "product": "110200 Scarlet & Violet Shiny Treasure ex Booster Pack (Japanese) — 10 cards / Multicolor",
-        "productId": 15641565987160,
-        "variantId": 56849731289432,
-        "onHand": 9,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "116756 Scarlet & Violet Destined Rivals Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641523454296,
-        "variantId": 56849676370264,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 4
       },
       {
         "product": "110231 Sword & Shield VSTAR Universe Booster Pack (Japanese) — 10 cards / Multicolor",
@@ -2108,47 +1938,7 @@
         "variantId": 56849722245464,
         "onHand": 8,
         "committed": 1,
-        "demand": 2
-      },
-      {
-        "product": "110223 Scarlet & Violet Sleeved Booster Pack (English) — Multicolor / 10 cards",
-        "productId": 15643186921816,
-        "variantId": 56857168576856,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 2
-      },
-      {
-        "product": "121675 Mega Inferno X Booster Box 30 Booster Pack (Japanese) — 30 booster pack / Multicolor",
-        "productId": 15641489310040,
-        "variantId": 56849616175448,
-        "onHand": 9,
-        "committed": 0,
         "demand": 1
-      },
-      {
-        "product": "131498 Special DON!! Card Pack DP‑06 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641344180568,
-        "variantId": 56849304224088,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "131506 Promotion Pack 2023 Vol.1 One Piece Booster Pack (English) — 5 cards / Multicolor",
-        "productId": 15641343852888,
-        "variantId": 56849303863640,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
-        "productId": 15641566871896,
-        "variantId": 56849732698456,
-        "onHand": 2,
-        "committed": 3,
-        "demand": 3
       },
       {
         "product": "119391 Scarlet & Violet Black Bolt Reuniclus Tech Sticker Collection (English) — 3 booster pack / Black / Blue",
@@ -2191,14 +1981,6 @@
         "demand": 3
       },
       {
-        "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
-        "productId": 15641337299288,
-        "variantId": 56849296359768,
-        "onHand": 2,
-        "committed": 3,
-        "demand": 7
-      },
-      {
         "product": "118664 Scarlet & Violet White Flare Booster Bundle 6 Booster Pack (English) — 6 booster pack / Multicolor",
         "productId": 15641522962776,
         "variantId": 56849669456216,
@@ -2227,6 +2009,14 @@
         "productId": 15641340051800,
         "variantId": 56849299571032,
         "onHand": 0,
+        "committed": 3,
+        "demand": 3
+      },
+      {
+        "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+        "productId": 15641337299288,
+        "variantId": 56849296359768,
+        "onHand": 2,
         "committed": 3,
         "demand": 3
       },
@@ -2346,6 +2136,14 @@
         "product": "119451 Golem ex - Scarlet & Violet 151 189/165 NM (English) — 189/165, Near-Mint / Ultra Rare",
         "productId": 15641506808152,
         "variantId": 56849644519768,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119485 Nidoking - Scarlet & Violet 151 174/165 NM (English) — 174/165, Near-Mint / Illustration Rare",
+        "productId": 15641506087256,
+        "variantId": 56849643471192,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -2484,7 +2282,7 @@
         "variantId": 56849450402136,
         "onHand": 4,
         "committed": 1,
-        "demand": 36
+        "demand": 1
       },
       {
         "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
@@ -2647,6 +2445,14 @@
         "demand": 1
       },
       {
+        "product": "116756 Scarlet & Violet Destined Rivals Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641523454296,
+        "variantId": 56849676370264,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
         "product": "116677 Team Rocket's Moltres ex - Scarlet & Violet Destined Rivals 208/182 NM (English) — 208/182, Near-Mint / Ultra Rare",
         "productId": 15641536889176,
         "variantId": 56849689968984,
@@ -2754,7 +2560,7 @@
         "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
         "productId": 15641321570648,
         "variantId": 56849271783768,
-        "onHand": 1,
+        "onHand": 0,
         "committed": 2,
         "demand": 2
       },
@@ -2893,6 +2699,14 @@
         "onHand": 4,
         "committed": 2,
         "demand": 2
+      },
+      {
+        "product": "110223 Scarlet & Violet Sleeved Booster Pack (English) — Multicolor / 10 cards",
+        "productId": 15643186921816,
+        "variantId": 56857168576856,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "132712 Snorunt - Mega Evolution Ascended Heroes 227/217 NM (English) — 227/217, Near-Mint / Illustration Rare",
@@ -3071,6 +2885,14 @@
         "demand": 1
       },
       {
+        "product": "110213 Scarlet & Violet Obsidian Flames Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565692248,
+        "variantId": 56849722802520,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
         "product": "110178 Scarlet & Violet Shrouded Fable Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641566445912,
         "variantId": 56849732239704,
@@ -3213,6 +3035,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Airpods Max with Smart Case — Midnight",
+        "productId": 14860932972888,
+        "variantId": 54100373897560,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3250,6 +3080,26 @@
         "product": "124010 Phantasmal Flames Mega Evolution Build & Battle Box 4 Booster Pack(English) — 4 Booster Packs / Multicolor",
         "productId": 15641488458072,
         "variantId": 56849615323480,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
+        "productId": 15641321570648,
+        "variantId": 56849271783768,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
+      },
+      {
+        "product": "Airpods Max with Smart Case — Midnight",
+        "productId": 14860932972888,
+        "variantId": 54100373897560,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
