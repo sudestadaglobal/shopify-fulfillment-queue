@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-01T20:42:10.883Z",
+  "generatedAt": "2026-05-01T21:43:23.658Z",
   "summary": {
-    "totalUnfulfilled": 97,
-    "canFulfill": 10,
-    "blocked": 87
+    "totalUnfulfilled": 103,
+    "canFulfill": 13,
+    "blocked": 90
   },
   "fulfillableOrders": [
     {
@@ -64,6 +64,24 @@
       "id": 12272460923224,
       "name": "#3390",
       "createdAt": "2026-05-01T04:16:03+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12273864081752,
+      "name": "#3394",
+      "createdAt": "2026-05-01T22:45:55+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12273866047832,
+      "name": "#3395",
+      "createdAt": "2026-05-01T22:47:56+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12273867653464,
+      "name": "#3396",
+      "createdAt": "2026-05-01T22:49:37+02:00",
       "itemCount": 1
     }
   ],
@@ -1507,6 +1525,12 @@
           "needed": 1
         },
         {
+          "product": "130760 Nami - The Best Vol.2 PRB02‑012 NM V2 (English) — PRB02‑012/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
           "product": "141072 \tDon!! Uta EB03 V2 Heroines Edition (English) - DON!!",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1744,6 +1768,51 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12273862181208,
+      "name": "#3393",
+      "customerName": "Lukas van Rijt",
+      "createdAt": "2026-05-01T22:43:59+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 4,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12273870012760,
+      "name": "#3397",
+      "customerName": "Stevie Mertens",
+      "createdAt": "2026-05-01T22:51:50+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12273872175448,
+      "name": "#3398",
+      "customerName": "Jakob Morchner",
+      "createdAt": "2026-05-01T22:53:34+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 4,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1769,8 +1838,8 @@
         "productId": 15642608370008,
         "variantId": 56855458120024,
         "onHand": 7,
-        "committed": 5,
-        "demand": 6
+        "committed": 8,
+        "demand": 9
       },
       {
         "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
@@ -2177,8 +2246,8 @@
         "productId": 15641337299288,
         "variantId": 56849296359768,
         "onHand": 2,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "119407 Mega Evolution Booster Box (English) — 36 booster pack / Multicolor",
@@ -2769,8 +2838,8 @@
         "productId": 15641336840536,
         "variantId": 56849295901016,
         "onHand": 3,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
@@ -3057,8 +3126,8 @@
         "productId": 15641566445912,
         "variantId": 56849732239704,
         "onHand": 9,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "113534 Scarlet & Violet Prismatic Evolutions Mini Tin Display 8 Booster Pack (English) — 8 Mini Tin, 2 booster pack, 1 coin each / Multicolor",
@@ -3160,6 +3229,14 @@
         "product": "141961 Jewelry Bonney - Adventure on Kamis Island EB04-002 V2 NM (English) - Alternate Art",
         "productId": 15736177623384,
         "variantId": 57207824908632,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "130760 Nami - The Best Vol.2 PRB02‑012 NM V2 (English) — PRB02‑012/V2, Near-Mint / Alternate Art",
+        "productId": 15641363087704,
+        "variantId": 56849421500760,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -3354,6 +3431,22 @@
         "variantId": 57218563506520,
         "onHand": 0,
         "committed": 0,
+        "demand": 1
+      },
+      {
+        "product": "109954 Scarlet & Violet Surging Sparks Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641569493336,
+        "variantId": 56849736925528,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641503891800,
+        "variantId": 56849639604568,
+        "onHand": 2,
+        "committed": 1,
         "demand": 1
       }
     ],
