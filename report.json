@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T07:18:34.481Z",
+  "generatedAt": "2026-05-01T09:17:43.429Z",
   "summary": {
     "totalUnfulfilled": 96,
     "canFulfill": 10,
@@ -3351,16 +3351,6 @@
         "product": "124010 Phantasmal Flames Mega Evolution Build & Battle Box 4 Booster Pack(English) — 4 Booster Packs / Multicolor",
         "productId": 15641488458072,
         "variantId": 56849615323480,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Airpods Max with Smart Case — Midnight",
-        "productId": 14860932972888,
-        "variantId": 54100373897560,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
