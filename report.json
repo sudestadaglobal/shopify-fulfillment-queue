@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-01T15:05:51.408Z",
+  "generatedAt": "2026-05-01T16:14:30.320Z",
   "summary": {
-    "totalUnfulfilled": 96,
+    "totalUnfulfilled": 95,
     "canFulfill": 10,
-    "blocked": 86
+    "blocked": 85
   },
   "fulfillableOrders": [
     {
@@ -68,21 +68,6 @@
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12095057592664,
-      "name": "#2757",
-      "customerName": "fernando queipo de llano de aguilera",
-      "createdAt": "2026-03-02T16:14:18+01:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 8
-        }
-      ]
-    },
     {
       "id": 12106017833304,
       "name": "#2867",
@@ -1740,22 +1725,6 @@
   "stockAlerts": {
     "lowStock": [
       {
-        "product": "POP figure Pokemon Charizard",
-        "productId": 15619468296536,
-        "variantId": 56760191517016,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-        "productId": 15641321406808,
-        "variantId": 56849271619928,
-        "onHand": 0,
-        "committed": 27,
-        "demand": 19
-      },
-      {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336775000,
         "variantId": 56849295835480,
@@ -1890,6 +1859,14 @@
         "onHand": 1,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+        "productId": 15641321406808,
+        "variantId": 56849271619928,
+        "onHand": 0,
+        "committed": 27,
+        "demand": 11
       },
       {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
