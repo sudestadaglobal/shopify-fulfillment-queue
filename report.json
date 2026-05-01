@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-01T00:13:11.318Z",
+  "generatedAt": "2026-05-01T04:23:38.045Z",
   "summary": {
-    "totalUnfulfilled": 95,
-    "canFulfill": 9,
+    "totalUnfulfilled": 96,
+    "canFulfill": 10,
     "blocked": 86
   },
   "fulfillableOrders": [
@@ -58,6 +58,12 @@
       "id": 12272278405464,
       "name": "#3389",
       "createdAt": "2026-04-30T22:53:19+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12272460923224,
+      "name": "#3390",
+      "createdAt": "2026-05-01T04:16:03+02:00",
       "itemCount": 1
     }
   ],
@@ -1770,8 +1776,8 @@
         "productId": 15642608370008,
         "variantId": 56855458120024,
         "onHand": 7,
-        "committed": 4,
-        "demand": 5
+        "committed": 5,
+        "demand": 6
       },
       {
         "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
