@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-02T20:09:37.462Z",
+  "generatedAt": "2026-05-02T21:05:40.387Z",
   "summary": {
-    "totalUnfulfilled": 103,
+    "totalUnfulfilled": 105,
     "canFulfill": 13,
-    "blocked": 90
+    "blocked": 92
   },
   "fulfillableOrders": [
     {
@@ -1813,6 +1813,48 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12275459653976,
+      "name": "#3399",
+      "customerName": "Luca Maxim Limmroth",
+      "createdAt": "2026-05-02T22:30:10+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "116768 Scarlet & Violet Destined Rivals Zarude 1 Booster Pack Blister (English) — 1 Booster pack, 3 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119387 Scarlet & Violet Black Bolt Booster Pack (English) — 10 cards / White / Black",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "118662 Scarlet & Violet White Flare Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12275495698776,
+      "name": "#3400",
+      "customerName": "Max Hörner",
+      "createdAt": "2026-05-02T22:57:24+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "130682 Gum-Gum Rain - The Best Vol.2 OP02‑068 NM V2 (English) — OP02‑068/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2438,8 +2480,8 @@
         "productId": 15641523257688,
         "variantId": 56849676009816,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "116772 Scarlet & Violet Destined Rivals Togekiss Premium Checklane 1 Booster Pack Blister (English) — 1 Booster pack, 3 cards / Multicolor",
@@ -3446,6 +3488,30 @@
         "productId": 15641503891800,
         "variantId": 56849639604568,
         "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119387 Scarlet & Violet Black Bolt Booster Pack (English) — 10 cards / White / Black",
+        "productId": 15641508577624,
+        "variantId": 56849646715224,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "118662 Scarlet & Violet White Flare Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641522995544,
+        "variantId": 56849669488984,
+        "onHand": -1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "130682 Gum-Gum Rain - The Best Vol.2 OP02‑068 NM V2 (English) — OP02‑068/V2, Near-Mint / Alternate Art",
+        "productId": 15641364463960,
+        "variantId": 56849423106392,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
