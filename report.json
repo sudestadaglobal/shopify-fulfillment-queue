@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T18:07:50.147Z",
+  "generatedAt": "2026-05-02T19:23:20.015Z",
   "summary": {
     "totalUnfulfilled": 103,
     "canFulfill": 13,
@@ -2078,14 +2078,6 @@
         "productId": 15641488261464,
         "variantId": 56849615028568,
         "onHand": 7,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "124026 Phantasmal Flames Mega Evolution Sleeved Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641487999320,
-        "variantId": 56849614766424,
-        "onHand": 4,
         "committed": 1,
         "demand": 1
       },
