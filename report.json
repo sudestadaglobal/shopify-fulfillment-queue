@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-03T11:57:53.421Z",
+  "generatedAt": "2026-05-03T13:27:41.590Z",
   "summary": {
-    "totalUnfulfilled": 105,
-    "canFulfill": 13,
-    "blocked": 92
+    "totalUnfulfilled": 114,
+    "canFulfill": 16,
+    "blocked": 98
   },
   "fulfillableOrders": [
     {
@@ -82,6 +82,24 @@
       "id": 12273867653464,
       "name": "#3396",
       "createdAt": "2026-05-01T22:49:37+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12276333642072,
+      "name": "#3403",
+      "createdAt": "2026-05-03T14:48:05+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12276353466712,
+      "name": "#3405",
+      "createdAt": "2026-05-03T15:00:36+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12276362084696,
+      "name": "#3406",
+      "createdAt": "2026-05-03T15:05:12+02:00",
       "itemCount": 1
     }
   ],
@@ -1855,6 +1873,108 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12276272202072,
+      "name": "#3401",
+      "customerName": "Max Hörner",
+      "createdAt": "2026-05-03T14:11:03+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 3,
+          "needed": 24
+        },
+        {
+          "product": "132340 The Azure Sea’s Seven One Piece Booster Pack (English) — 12 Cards / Blue",
+          "reason": "Insufficient stock",
+          "stock": 7,
+          "needed": 24
+        },
+        {
+          "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 24
+        }
+      ]
+    },
+    {
+      "id": 12276331282776,
+      "name": "#3402",
+      "customerName": "Šimon Vích",
+      "createdAt": "2026-05-03T14:46:42+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "120877 Charizard - Sun & Moon Team Up 014/181 NM (English) — 14/181, Near-Mint / Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12276340064600,
+      "name": "#3404",
+      "customerName": "Kevin Enseling/Engelhard",
+      "createdAt": "2026-05-03T14:52:01+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "133948 Tashigi - Legacy of the Master OP12‑031 NM V2 (English) — OP12‑031/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12276366770520,
+      "name": "#3407",
+      "customerName": "Vilius Zinkevičius",
+      "createdAt": "2026-05-03T15:07:48+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "118840 Herdier - Scarlet & Violet White Flare 155/086 NM (English) — 155/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12276377157976,
+      "name": "#3408",
+      "customerName": "Adrià Cáceres",
+      "createdAt": "2026-05-03T15:13:30+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 4,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12276383088984,
+      "name": "#3409",
+      "customerName": "Michael Slijepcevic",
+      "createdAt": "2026-05-03T15:17:15+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131656 Naveen - Nihil Zero 106/080 NM (Japanese) — 106/080, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1880,8 +2000,8 @@
         "productId": 15642608370008,
         "variantId": 56855458120024,
         "onHand": 7,
-        "committed": 8,
-        "demand": 9
+        "committed": 9,
+        "demand": 10
       },
       {
         "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
@@ -2400,8 +2520,8 @@
         "productId": 15641343951192,
         "variantId": 56849303994712,
         "onHand": 3,
-        "committed": 11,
-        "demand": 11
+        "committed": 35,
+        "demand": 35
       },
       {
         "product": "119451 Golem ex - Scarlet & Violet 151 189/165 NM (English) — 189/165, Near-Mint / Ultra Rare",
@@ -2600,8 +2720,8 @@
         "productId": 15641288016216,
         "variantId": 56849225843032,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "140923 Nico Robin - Heroines Edition EB03-055 NM V1 (English) - Super Rare",
@@ -3514,8 +3634,59 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641343099224,
+        "variantId": 56849302946136,
+        "onHand": 0,
+        "committed": 24,
+        "demand": 24
+      },
+      {
+        "product": "120877 Charizard - Sun & Moon Team Up 014/181 NM (English) — 14/181, Near-Mint / Rare",
+        "productId": 15641499435352,
+        "variantId": 56849633411416,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119411 Mega Evolution Golduck 3 Booster Pack Blister (English) — 3 booster pack / Multicolor",
+        "productId": 15641507987800,
+        "variantId": 56849645961560,
+        "onHand": 9,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "118840 Herdier - Scarlet & Violet White Flare 155/086 NM (English) — 155/086, Near-Mint / Illustration Rare",
+        "productId": 15641519391064,
+        "variantId": 56849664901464,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131656 Naveen - Nihil Zero 106/080 NM (Japanese) — 106/080, Near-Mint / Ultra Rare",
+        "productId": 15641339396440,
+        "variantId": 56849298620760,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
-    "demandExceedsStock": []
+    "demandExceedsStock": [
+      {
+        "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641343951192,
+        "variantId": 56849303994712,
+        "onHand": 3,
+        "committed": 35,
+        "incoming": 10,
+        "available": -32,
+        "shortfall": 22
+      }
+    ]
   }
 }
