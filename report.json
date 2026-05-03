@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-03T13:27:41.590Z",
+  "generatedAt": "2026-05-03T14:35:17.820Z",
   "summary": {
-    "totalUnfulfilled": 114,
-    "canFulfill": 16,
-    "blocked": 98
+    "totalUnfulfilled": 121,
+    "canFulfill": 20,
+    "blocked": 101
   },
   "fulfillableOrders": [
     {
@@ -100,6 +100,30 @@
       "id": 12276362084696,
       "name": "#3406",
       "createdAt": "2026-05-03T15:05:12+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12276409499992,
+      "name": "#3411",
+      "createdAt": "2026-05-03T15:33:50+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12276419101016,
+      "name": "#3413",
+      "createdAt": "2026-05-03T15:39:56+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12276422607192,
+      "name": "#3414",
+      "createdAt": "2026-05-03T15:41:41+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12276424835416,
+      "name": "#3415",
+      "createdAt": "2026-05-03T15:43:02+02:00",
       "itemCount": 1
     }
   ],
@@ -1975,6 +1999,51 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12276392427864,
+      "name": "#3410",
+      "customerName": "luca van der ent",
+      "createdAt": "2026-05-03T15:23:47+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "114535 N's Reshiram - Scarlet & Violet Journey Together 167/159 NM (English) — 167/159, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12276414775640,
+      "name": "#3412",
+      "customerName": "Lukas van Rijt",
+      "createdAt": "2026-05-03T15:37:09+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 3,
+          "needed": 5
+        }
+      ]
+    },
+    {
+      "id": 12276426998104,
+      "name": "#3416",
+      "customerName": "Max Hörner",
+      "createdAt": "2026-05-03T15:44:14+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "130858 Tony Tony Chopper ST01‑006 NM V3 (English) — ST01‑006/V3, Near-Mint / Common",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2256,8 +2325,8 @@
         "productId": 15641496912216,
         "variantId": 56849627775320,
         "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "124024 Phantasmal Flames Mega Evolution Blaziken Premium Checklane 1 Booster Pack Blister (English) — 1 Booster Pack / Multicolor",
@@ -3000,8 +3069,8 @@
         "productId": 15641336840536,
         "variantId": 56849295901016,
         "onHand": 3,
-        "committed": 2,
-        "demand": 2
+        "committed": 7,
+        "demand": 7
       },
       {
         "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
@@ -3040,8 +3109,8 @@
         "productId": 15641341460824,
         "variantId": 56849301209432,
         "onHand": 8,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "134668 Nami - Unnumbered Promos (Japanese) OP01‑016 V2 NM (Japanese) — OP01‑016/V2, Near-Mint / Rare",
@@ -3600,8 +3669,8 @@
         "productId": 15641569493336,
         "variantId": 56849736925528,
         "onHand": 3,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
@@ -3674,6 +3743,38 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "114535 N's Reshiram - Scarlet & Violet Journey Together 167/159 NM (English) — 167/159, Near-Mint / Illustration Rare",
+        "productId": 15641559138648,
+        "variantId": 56849713627480,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "118668 Scarlet & Violet White Flare Gothitelle Tech Sticker Collection (English) — 3 booster pack / Multicolor",
+        "productId": 15641522897240,
+        "variantId": 56849669390680,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "136071 2023 World Championships Deck Vance Kelley Mew’s Revenge (English) — 60 cards / Multicolor",
+        "productId": 15641267241304,
+        "variantId": 56849191698776,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "130858 Tony Tony Chopper ST01‑006 NM V3 (English) — ST01‑006/V3, Near-Mint / Common",
+        "productId": 15641361056088,
+        "variantId": 56849418322264,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3686,6 +3787,16 @@
         "incoming": 10,
         "available": -32,
         "shortfall": 22
+      },
+      {
+        "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
+        "productId": 15641336840536,
+        "variantId": 56849295901016,
+        "onHand": 3,
+        "committed": 7,
+        "incoming": 1,
+        "available": -4,
+        "shortfall": 3
       }
     ]
   }
