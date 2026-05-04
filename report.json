@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-04T17:17:13.077Z",
+  "generatedAt": "2026-05-04T19:02:56.833Z",
   "summary": {
-    "totalUnfulfilled": 109,
+    "totalUnfulfilled": 112,
     "canFulfill": 9,
-    "blocked": 100
+    "blocked": 103
   },
   "fulfillableOrders": [
     {
@@ -2011,6 +2011,51 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12278547939672,
+      "name": "#3433",
+      "customerName": "Max Hörner",
+      "createdAt": "2026-05-04T19:21:44+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 24
+        }
+      ]
+    },
+    {
+      "id": 12278577529176,
+      "name": "#3434",
+      "customerName": "Max Hörner",
+      "createdAt": "2026-05-04T19:40:17+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132340 The Azure Sea’s Seven One Piece Booster Pack (English) — 12 Cards / Blue",
+          "reason": "Insufficient stock",
+          "stock": 7,
+          "needed": 48
+        }
+      ]
+    },
+    {
+      "id": 12278586573144,
+      "name": "#3435",
+      "customerName": "Ricardo Varius",
+      "createdAt": "2026-05-04T19:46:07+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2604,8 +2649,8 @@
         "productId": 15641344541016,
         "variantId": 56849304584536,
         "onHand": 1,
-        "committed": 3,
-        "demand": 3
+        "committed": 27,
+        "demand": 27
       },
       {
         "product": "120803 Gengar & Mimikyu GX - Sun & Moon Team Up 053/181 NM (English) — 053/181, Near-Mint / Ultra Rare",
@@ -3540,8 +3585,8 @@
         "productId": 15641321636184,
         "variantId": 56849271816536,
         "onHand": 7,
-        "committed": 24,
-        "demand": 24
+        "committed": 72,
+        "demand": 72
       },
       {
         "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -3747,6 +3792,14 @@
         "product": "133712 Zoro‑Juurou - Legacy of the Master ST18‑004 NM (English) — ST18‑004, Near-Mint / Special Rare",
         "productId": 15641300042072,
         "variantId": 56849240916312,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
+        "productId": 15641503859032,
+        "variantId": 56849639571800,
         "onHand": 0,
         "committed": 1,
         "demand": 1
