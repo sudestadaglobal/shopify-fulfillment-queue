@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-04T15:27:56.969Z",
+  "generatedAt": "2026-05-04T17:17:13.077Z",
   "summary": {
-    "totalUnfulfilled": 100,
-    "canFulfill": 6,
-    "blocked": 94
+    "totalUnfulfilled": 109,
+    "canFulfill": 9,
+    "blocked": 100
   },
   "fulfillableOrders": [
     {
@@ -40,6 +40,24 @@
       "id": 12278338388312,
       "name": "#3423",
       "createdAt": "2026-05-04T17:20:47+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12278485778776,
+      "name": "#3427",
+      "createdAt": "2026-05-04T18:43:48+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12278487843160,
+      "name": "#3428",
+      "createdAt": "2026-05-04T18:45:14+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12278513533272,
+      "name": "#3431",
+      "createdAt": "2026-05-04T19:00:54+02:00",
       "itemCount": 1
     }
   ],
@@ -1861,6 +1879,138 @@
           "needed": 2
         }
       ]
+    },
+    {
+      "id": 12278357852504,
+      "name": "#3424",
+      "customerName": "luca van der ent",
+      "createdAt": "2026-05-04T17:32:16+02:00",
+      "itemCount": 10,
+      "reasons": [
+        {
+          "product": "110223 Scarlet & Violet Sleeved Booster Pack (English) — Multicolor / 10 cards",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12278431514968,
+      "name": "#3425",
+      "customerName": "luca van der ent",
+      "createdAt": "2026-05-04T18:14:50+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "119167 Venipede - Scarlet & Violet Black Bolt 132/086 NM (English) — 132/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119151 Drilbur - Scarlet & Violet Black Bolt 124/086 NM (English) — 124/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132864 Mega Dragonite ex - Mega Evolution Ascended Heroes 271/217 NM (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119093 Foongus - Scarlet & Violet Black Bolt 095/086 NM (English) — 095/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "118770 Swoobat - Scarlet & Violet White Flare 120/086 NM (English) — 120/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12278473064792,
+      "name": "#3426",
+      "customerName": "fernando queipo de llano de aguilera",
+      "createdAt": "2026-05-04T18:35:02+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "141865 MEGA Ninja Spinner Booster Box 30 Booster Packs (Japanese) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12278509568344,
+      "name": "#3429",
+      "customerName": "Mario Heine",
+      "createdAt": "2026-05-04T18:58:43+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131930 Mega Evolution Ascended Heroes Riolu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12278512288088,
+      "name": "#3430",
+      "customerName": "Alejandro Díaz Fernández",
+      "createdAt": "2026-05-04T19:00:16+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "iPhone 17 Pro 1 TB Silver",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12278526869848,
+      "name": "#3432",
+      "customerName": "Max Hörner",
+      "createdAt": "2026-05-04T19:08:22+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "130616 Mary Geoise - The Best Vol.2 OP05‑097 NM V3 (English) — OP05‑097/V3, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "142459 Brook - Adventure on Kami’s Island OP15-032 V2 NM (English) - Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "133712 Zoro‑Juurou - Legacy of the Master ST18‑004 NM (English) — ST18‑004, Near-Mint / Special Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1878,8 +2028,8 @@
         "productId": 15641336611160,
         "variantId": 56849295671640,
         "onHand": 0,
-        "committed": 12,
-        "demand": 7
+        "committed": 13,
+        "demand": 8
       },
       {
         "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
@@ -2182,8 +2332,8 @@
         "productId": 15641520865624,
         "variantId": 56849666867544,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131600 Two Legends One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Green",
@@ -2742,8 +2892,8 @@
         "productId": 15641336840536,
         "variantId": 56849295901016,
         "onHand": 3,
-        "committed": 7,
-        "demand": 7
+        "committed": 9,
+        "demand": 9
       },
       {
         "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
@@ -2846,8 +2996,8 @@
         "productId": 15643186921816,
         "variantId": 56857168576856,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "132712 Snorunt - Mega Evolution Ascended Heroes 227/217 NM (English) — 227/217, Near-Mint / Illustration Rare",
@@ -3006,16 +3156,16 @@
         "productId": 15641565233496,
         "variantId": 56849722081624,
         "onHand": 4,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110169 Scarlet & Violet Stellar Crown Sleeved Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641566576984,
         "variantId": 56849732370776,
         "onHand": 3,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110244 Sword & Shield Lost Origin Booster Pack (English) — 10 cards / Multicolor",
@@ -3038,8 +3188,8 @@
         "productId": 15641566445912,
         "variantId": 56849732239704,
         "onHand": 8,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
@@ -3134,8 +3284,8 @@
         "productId": 15736177328472,
         "variantId": 57207824482648,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "127956 Sanji - Carrying on His Will OP13‑027 V2 NM (English) — OP13‑027/V2, Near-Mint / Alternate Art",
@@ -3334,8 +3484,8 @@
         "productId": 15641345098072,
         "variantId": 56849305141592,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "132344 Double Pack Set Vol. 9 (DP‑09) - The Azure Sea’s Seven (English) — 2 Booster Packs / 1 Don!! / Blue",
@@ -3512,6 +3662,94 @@
         "onHand": 1,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "110207 Scarlet & Violet 151 Booster NM (English) — Scarlet & Violet 151 (10 cards) / Multicolor",
+        "productId": 15641565823320,
+        "variantId": 56849731092824,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119167 Venipede - Scarlet & Violet Black Bolt 132/086 NM (English) — 132/086, Near-Mint / Illustration Rare",
+        "productId": 15641513263448,
+        "variantId": 56849654808920,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119151 Drilbur - Scarlet & Violet Black Bolt 124/086 NM (English) — 124/086, Near-Mint / Illustration Rare",
+        "productId": 15641513558360,
+        "variantId": 56849655267672,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132864 Mega Dragonite ex - Mega Evolution Ascended Heroes 271/217 NM (English)",
+        "productId": 15630201356632,
+        "variantId": 56804521410904,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119093 Foongus - Scarlet & Violet Black Bolt 095/086 NM (English) — 095/086, Near-Mint / Illustration Rare",
+        "productId": 15641514836312,
+        "variantId": 56849657200984,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "141865 MEGA Ninja Spinner Booster Box 30 Booster Packs (Japanese) - Multicolor",
+        "productId": 15720140046680,
+        "variantId": 57151562678616,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131930 Mega Evolution Ascended Heroes Riolu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641336381784,
+        "variantId": 56849295442264,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "iPhone 17 Pro 1 TB Silver",
+        "productId": 15742613553496,
+        "variantId": 57234356044120,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110088 Scarlet & Violet Snow Hazard Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567002968,
+        "variantId": 56849732829528,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "130616 Mary Geoise - The Best Vol.2 OP05‑097 NM V3 (English) — OP05‑097/V3, Near-Mint / Alternate Art",
+        "productId": 15641365610840,
+        "variantId": 56849424351576,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "133712 Zoro‑Juurou - Legacy of the Master ST18‑004 NM (English) — ST18‑004, Near-Mint / Special Rare",
+        "productId": 15641300042072,
+        "variantId": 56849240916312,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3524,16 +3762,6 @@
         "incoming": 10,
         "available": -32,
         "shortfall": 22
-      },
-      {
-        "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
-        "productId": 15641336840536,
-        "variantId": 56849295901016,
-        "onHand": 3,
-        "committed": 7,
-        "incoming": 1,
-        "available": -4,
-        "shortfall": 3
       },
       {
         "product": "Apple iPhone 17 Pro Max Cosmic Orange 1TB",
@@ -3556,6 +3784,16 @@
         "shortfall": 2
       },
       {
+        "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
+        "productId": 15641336840536,
+        "variantId": 56849295901016,
+        "onHand": 3,
+        "committed": 9,
+        "incoming": 5,
+        "available": -6,
+        "shortfall": 1
+      },
+      {
         "product": "LOUNGEFLY Loungefly Pokémon Eevee Backpack",
         "productId": 15742175478104,
         "variantId": 57231836315992,
@@ -3569,6 +3807,16 @@
         "product": "LOUNGEFLY Loungefly Pokémon Pikachu Backpack",
         "productId": 15742182326616,
         "variantId": 57231921381720,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "iPhone 17 Pro 1 TB Silver",
+        "productId": 15742613553496,
+        "variantId": 57234356044120,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
