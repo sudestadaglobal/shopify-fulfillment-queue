@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-04T13:15:28.658Z",
+  "generatedAt": "2026-05-04T15:27:56.969Z",
   "summary": {
-    "totalUnfulfilled": 95,
-    "canFulfill": 3,
-    "blocked": 92
+    "totalUnfulfilled": 100,
+    "canFulfill": 6,
+    "blocked": 94
   },
   "fulfillableOrders": [
     {
@@ -22,6 +22,24 @@
       "id": 12276377157976,
       "name": "#3408",
       "createdAt": "2026-05-03T15:13:30+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12278267248984,
+      "name": "#3420",
+      "createdAt": "2026-05-04T16:39:11+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12278274523480,
+      "name": "#3421",
+      "createdAt": "2026-05-04T16:43:41+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12278338388312,
+      "name": "#3423",
+      "createdAt": "2026-05-04T17:20:47+02:00",
       "itemCount": 1
     }
   ],
@@ -1801,6 +1819,48 @@
           "needed": 2
         }
       ]
+    },
+    {
+      "id": 12278226026840,
+      "name": "#3419",
+      "customerName": "Lukas Schönwetter",
+      "createdAt": "2026-05-04T16:14:53+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12278309880152,
+      "name": "#3422",
+      "customerName": "JAVIER Barragan",
+      "createdAt": "2026-05-04T17:04:04+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "131584 Awakening of the New Era One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131606 500 Years into the Future One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131390 Pillars of Strength One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3412,6 +3472,46 @@
         "onHand": 0,
         "committed": 2,
         "demand": 2
+      },
+      {
+        "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
+        "productId": 15742390337880,
+        "variantId": 57232830890328,
+        "onHand": -1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131584 Awakening of the New Era One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / White",
+        "productId": 15641340969304,
+        "variantId": 56849300586840,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131606 500 Years into the Future One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+        "productId": 15641340182872,
+        "variantId": 56849299702104,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131390 Pillars of Strength One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641346277720,
+        "variantId": 56849306452312,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "109984 Charmander - Scarlet & Violet Black Star Promos 044/225 (NM) — 044/225, Near-Mint / Promo",
+        "productId": 15641568837976,
+        "variantId": 56849736204632,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3441,6 +3541,16 @@
         "variantId": 56133966659928,
         "onHand": 0,
         "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
+        "productId": 15742390337880,
+        "variantId": 57232830890328,
+        "onHand": -1,
+        "committed": 1,
         "incoming": 0,
         "available": -2,
         "shortfall": 2
