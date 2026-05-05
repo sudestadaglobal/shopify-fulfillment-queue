@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-05T11:07:41.867Z",
+  "generatedAt": "2026-05-05T12:18:53.543Z",
   "summary": {
-    "totalUnfulfilled": 112,
+    "totalUnfulfilled": 113,
     "canFulfill": 24,
-    "blocked": 88
+    "blocked": 89
   },
   "fulfillableOrders": [
     {
@@ -1927,6 +1927,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12282614743384,
+      "name": "#3436",
+      "customerName": "Miguel Calleja",
+      "createdAt": "2026-05-05T14:02:25+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "JAZWARES Pokémon Pancham Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3674,6 +3689,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Pancham Plush Toy",
+        "productId": 15743399002456,
+        "variantId": 57237435285848,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3741,6 +3764,16 @@
         "product": "iPhone 17 Pro 1 TB Silver",
         "productId": 15742613553496,
         "variantId": 57234356044120,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Pancham Plush Toy",
+        "productId": 15743399002456,
+        "variantId": 57237435285848,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
