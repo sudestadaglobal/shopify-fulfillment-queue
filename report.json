@@ -1,11 +1,71 @@
 {
-  "generatedAt": "2026-05-05T04:49:37.588Z",
+  "generatedAt": "2026-05-05T07:12:49.310Z",
   "summary": {
     "totalUnfulfilled": 112,
-    "canFulfill": 9,
-    "blocked": 103
+    "canFulfill": 19,
+    "blocked": 93
   },
   "fulfillableOrders": [
+    {
+      "id": 12181691793752,
+      "name": "#2943",
+      "createdAt": "2026-03-16T17:43:17+01:00",
+      "itemCount": 14
+    },
+    {
+      "id": 12238566162776,
+      "name": "#3285",
+      "createdAt": "2026-04-16T23:48:54+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12238569210200,
+      "name": "#3286",
+      "createdAt": "2026-04-16T23:54:39+02:00",
+      "itemCount": 11
+    },
+    {
+      "id": 12244486848856,
+      "name": "#3312",
+      "createdAt": "2026-04-20T20:22:49+02:00",
+      "itemCount": 4
+    },
+    {
+      "id": 12244712096088,
+      "name": "#3317",
+      "createdAt": "2026-04-20T22:57:18+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12245691728216,
+      "name": "#3327",
+      "createdAt": "2026-04-21T16:15:03+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12248302846296,
+      "name": "#3331",
+      "createdAt": "2026-04-22T21:33:59+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12259207807320,
+      "name": "#3344",
+      "createdAt": "2026-04-24T15:53:29+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12270332477784,
+      "name": "#3370",
+      "createdAt": "2026-04-29T20:03:03+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12273822335320,
+      "name": "#3392",
+      "createdAt": "2026-05-01T22:11:04+02:00",
+      "itemCount": 6
+    },
     {
       "id": 12273862181208,
       "name": "#3393",
@@ -86,21 +146,6 @@
       "reasons": [
         {
           "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12181691793752,
-      "name": "#2943",
-      "customerName": "JAVIER Barragan",
-      "createdAt": "2026-03-16T17:43:17+01:00",
-      "itemCount": 14,
-      "reasons": [
-        {
-          "product": "132220 Jinbe - The Azure Sea's Seven OP14‑049 V2 NM (English) — OP14‑049/V2, Near-Mint / Alternate Art",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -424,12 +469,6 @@
           "needed": 1
         },
         {
-          "product": "131512 Emperors in the New World One Piece Booster Pack (English) — 12 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        },
-        {
           "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -504,36 +543,6 @@
       ]
     },
     {
-      "id": 12238566162776,
-      "name": "#3285",
-      "customerName": "Šimon Vích",
-      "createdAt": "2026-04-16T23:48:54+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "124106 Piplup - Phantasmal Flames 098/094 NM (English) — 098/094, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12238569210200,
-      "name": "#3286",
-      "customerName": "Stephen McDonald",
-      "createdAt": "2026-04-16T23:54:39+02:00",
-      "itemCount": 11,
-      "reasons": [
-        {
-          "product": "131456 Winner Pack 2024 Oct‑Dec One Piece Booster Pack (English) — 1 card / black / white",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12238581399896,
       "name": "#3288",
       "customerName": "Emil Christiansen",
@@ -592,37 +601,10 @@
       "itemCount": 2,
       "reasons": [
         {
-          "product": "131490 Special DON!! Card Pack DP‑03 One Piece Booster Pack (English) — 1 card / Black / White",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "131500 Special DON!! Card Pack DP‑07 One Piece Booster Pack (English) — 1 card / Black / White",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
-        }
-      ]
-    },
-    {
-      "id": 12244486848856,
-      "name": "#3312",
-      "customerName": "Oscar Fransson",
-      "createdAt": "2026-04-20T20:22:49+02:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "132690 Team Rocket’s Mimikyu - Mega Evolution Ascended Heroes 238/217 NM (English) — 238/217, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "110016 Ceruledge - Scarlet & Violet Surging Sparks 197/191 NM (English) — 197/191, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -635,21 +617,6 @@
       "reasons": [
         {
           "product": "120709 Umbreon GX - Sun & Moon 80/149 NM (English) — 80/149, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12244712096088,
-      "name": "#3317",
-      "customerName": "Shawn J",
-      "createdAt": "2026-04-20T22:57:18+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "134684 Seething Song - Secret Lair Drop Series Foil #7051 NM (English) — Secret Lair Drop Series #7051, Near-Mint / Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -708,21 +675,6 @@
       ]
     },
     {
-      "id": 12245691728216,
-      "name": "#3327",
-      "customerName": "jasper cornelissen",
-      "createdAt": "2026-04-21T16:15:03+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "124050 Mega Sharpedo ex - Phantasmal Flames 127/094 NM (English) — 127/094, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12245718532440,
       "name": "#3329",
       "customerName": "Fabian Langguth",
@@ -759,21 +711,6 @@
       ]
     },
     {
-      "id": 12248302846296,
-      "name": "#3331",
-      "customerName": "james paul",
-      "createdAt": "2026-04-22T21:33:59+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131512 Emperors in the New World One Piece Booster Pack (English) — 12 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12259094921560,
       "name": "#3342",
       "customerName": "james paul",
@@ -781,22 +718,13 @@
       "itemCount": 2,
       "reasons": [
         {
-          "product": "132068 Boa Hancock - The Azure Sea's Seven OP14‑112 NM V2 (English) — OP14‑112/V2, Near-Mint / Alternate Art",
+          "product": "132308 Monkey D. Luffy - The Azure Sea's Seven OP14‑013 V2 NM (English) — OP14‑013/V2, Near-Mint / Alternate Art",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12259207807320,
-      "name": "#3344",
-      "customerName": "Ryan Fehrman",
-      "createdAt": "2026-04-24T15:53:29+02:00",
-      "itemCount": 1,
-      "reasons": [
+        },
         {
-          "product": "110082 Scarlet & Violet Obsidian Flames Booster Box 36 pack (English) — 36 booster pack / Multicolor",
+          "product": "132068 Boa Hancock - The Azure Sea's Seven OP14‑112 NM V2 (English) — OP14‑112/V2, Near-Mint / Alternate Art",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -997,6 +925,12 @@
       "itemCount": 7,
       "reasons": [
         {
+          "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
           "product": "70211 One Piece Card Game Double Pack Set Vol. 10 OP15 2 Booster Packs (English) — 2 Booster Packs / Yellow",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1004,6 +938,12 @@
         },
         {
           "product": "134668 Nami - Unnumbered Promos (Japanese) OP01‑016 V2 NM (Japanese) — OP01‑016/V2, Near-Mint / Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "134659 Sanji - Unnumbered Promos OP01‑013 V1 NM (Japanese) - Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1159,7 +1099,7 @@
       "itemCount": 2,
       "reasons": [
         {
-          "product": "131480 Kingdoms of Intrigue One Piece Booster Pack (English) — 12 cards / Multicolor",
+          "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1244,21 +1184,6 @@
       "reasons": [
         {
           "product": "113481 Espeon ex - Scarlet & Violet Prismatic Evolution 155/131 NM (English) — 155/131, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12270332477784,
-      "name": "#3370",
-      "customerName": "Melvyn Giroud",
-      "createdAt": "2026-04-29T20:03:03+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131480 Kingdoms of Intrigue One Piece Booster Pack (English) — 12 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1410,7 +1335,7 @@
         {
           "product": "131466 The Best Vol.2 One Piece Sleeved Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 3,
+          "stock": 2,
           "needed": 21
         },
         {
@@ -1443,6 +1368,12 @@
       "createdAt": "2026-04-30T18:03:23+02:00",
       "itemCount": 10,
       "reasons": [
+        {
+          "product": "132266 Nami - The Azure Sea's Seven OP14‑031 V2 NM (English) — OP14‑031/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
         {
           "product": "140898 Trafalgar Law - Heroines Edition EB03-062 NM V1 (English) - Secret Rare",
           "reason": "Insufficient stock",
@@ -1509,7 +1440,7 @@
         {
           "product": "131466 The Best Vol.2 One Piece Sleeved Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 3,
+          "stock": 2,
           "needed": 6
         },
         {
@@ -1591,22 +1522,13 @@
       "itemCount": 7,
       "reasons": [
         {
-          "product": "132336 Trafalgar Law - The Azure Sea's Seven OP14‑001 V2 NM (English) — OP14‑001/V2, Near-Mint / Alternate Art",
+          "product": "134659 Sanji - Unnumbered Promos OP01‑013 V1 NM (Japanese) - Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12273822335320,
-      "name": "#3392",
-      "customerName": "Kyran Maes",
-      "createdAt": "2026-05-01T22:11:04+02:00",
-      "itemCount": 6,
-      "reasons": [
+        },
         {
-          "product": "131490 Special DON!! Card Pack DP‑03 One Piece Booster Pack (English) — 1 card / Black / White",
+          "product": "132336 Trafalgar Law - The Azure Sea's Seven OP14‑001 V2 NM (English) — OP14‑001/V2, Near-Mint / Alternate Art",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2022,7 +1944,7 @@
         {
           "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 1,
+          "stock": 0,
           "needed": 24
         }
       ]
@@ -2096,7 +2018,7 @@
         "product": "132220 Jinbe - The Azure Sea's Seven OP14‑049 V2 NM (English) — OP14‑049/V2, Near-Mint / Alternate Art",
         "productId": 15641325863256,
         "variantId": 56849280368984,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2216,6 +2138,14 @@
         "product": "136139 Pokémon GO Mewtwo V Battle Deck (English) — 60 cards / Multicolor",
         "productId": 15641264882008,
         "variantId": 56849188225368,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "136117 Vivid Voltage Charizard Theme Deck (English) — 60 cards / Multicolor",
+        "productId": 15641265602904,
+        "variantId": 56849189273944,
         "onHand": 1,
         "committed": 1,
         "demand": 1
@@ -2416,7 +2346,7 @@
         "product": "131512 Emperors in the New World One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641343656280,
         "variantId": 56849303667032,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 3,
         "demand": 3
       },
@@ -2584,7 +2514,7 @@
         "product": "124106 Piplup - Phantasmal Flames 098/094 NM (English) — 098/094, Near-Mint / Illustration Rare",
         "productId": 15641484755288,
         "variantId": 56849609523544,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2600,7 +2530,7 @@
         "product": "131456 Winner Pack 2024 Oct‑Dec One Piece Booster Pack (English) — 1 card / black / white",
         "productId": 15650758066520,
         "variantId": 56886286483800,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2704,7 +2634,7 @@
         "product": "131490 Special DON!! Card Pack DP‑03 One Piece Booster Pack (English) — 1 card / Black / White",
         "productId": 15641344409944,
         "variantId": 56849304420696,
-        "onHand": 0,
+        "onHand": 5,
         "committed": 2,
         "demand": 2
       },
@@ -2720,7 +2650,7 @@
         "product": "132690 Team Rocket’s Mimikyu - Mega Evolution Ascended Heroes 238/217 NM (English) — 238/217, Near-Mint / Illustration Rare",
         "productId": 15641319244120,
         "variantId": 56849268343128,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2728,7 +2658,7 @@
         "product": "110016 Ceruledge - Scarlet & Violet Surging Sparks 197/191 NM (English) — 197/191, Near-Mint / Illustration Rare",
         "productId": 15641568248152,
         "variantId": 56849734893912,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2768,7 +2698,7 @@
         "product": "134684 Seething Song - Secret Lair Drop Series Foil #7051 NM (English) — Secret Lair Drop Series #7051, Near-Mint / Rare",
         "productId": 15641279562072,
         "variantId": 56849211949400,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2808,7 +2738,7 @@
         "product": "124050 Mega Sharpedo ex - Phantasmal Flames 127/094 NM (English) — 127/094, Near-Mint / Special Illustration Rare",
         "productId": 15641487114584,
         "variantId": 56849613816152,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2856,7 +2786,7 @@
         "product": "110082 Scarlet & Violet Obsidian Flames Booster Box 36 pack (English) — 36 booster pack / Multicolor",
         "productId": 15641567101272,
         "variantId": 56849733124440,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3152,7 +3082,7 @@
         "product": "131480 Kingdoms of Intrigue One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641344672088,
         "variantId": 56849304715608,
-        "onHand": 0,
+        "onHand": 5,
         "committed": 2,
         "demand": 2
       },
