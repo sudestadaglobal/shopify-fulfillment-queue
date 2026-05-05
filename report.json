@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-05T14:32:27.008Z",
+  "generatedAt": "2026-05-05T16:18:47.428Z",
   "summary": {
-    "totalUnfulfilled": 95,
-    "canFulfill": 8,
-    "blocked": 87
+    "totalUnfulfilled": 100,
+    "canFulfill": 12,
+    "blocked": 88
   },
   "fulfillableOrders": [
     {
@@ -31,6 +31,18 @@
       "itemCount": 2
     },
     {
+      "id": 12203087266136,
+      "name": "#3093",
+      "createdAt": "2026-03-30T03:55:49+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12224110231896,
+      "name": "#3248",
+      "createdAt": "2026-04-12T01:36:31+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12270327136600,
       "name": "#3369",
       "createdAt": "2026-04-29T19:59:35+02:00",
@@ -52,6 +64,18 @@
       "id": 12283908817240,
       "name": "#3441",
       "createdAt": "2026-05-05T16:26:47+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12283914027352,
+      "name": "#3442",
+      "createdAt": "2026-05-05T16:30:00+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12283994046808,
+      "name": "#3443",
+      "createdAt": "2026-05-05T17:14:31+02:00",
       "itemCount": 1
     }
   ],
@@ -78,12 +102,6 @@
       "createdAt": "2026-03-13T17:04:47+01:00",
       "itemCount": 5,
       "reasons": [
-        {
-          "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
         {
           "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
           "reason": "Insufficient stock",
@@ -116,12 +134,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
         }
       ]
     },
@@ -132,12 +144,6 @@
       "createdAt": "2026-03-18T14:15:14+01:00",
       "itemCount": 4,
       "reasons": [
-        {
-          "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
         {
           "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
@@ -216,21 +222,6 @@
       ]
     },
     {
-      "id": 12203087266136,
-      "name": "#3093",
-      "customerName": "Annie Lee",
-      "createdAt": "2026-03-30T03:55:49+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12204577096024,
       "name": "#3110",
       "customerName": "Jackson Bauer",
@@ -299,21 +290,6 @@
       "reasons": [
         {
           "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12224110231896,
-      "name": "#3248",
-      "customerName": "Marvin Mendel",
-      "createdAt": "2026-04-12T01:36:31+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -665,12 +641,6 @@
         },
         {
           "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1646,12 +1616,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -1822,6 +1786,51 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12284021604696,
+      "name": "#3444",
+      "customerName": "Jesse Dijkstra",
+      "createdAt": "2026-05-05T17:29:19+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "120833 Celebi & Venusaur GX - Sun & Moon Team Up 001/181 NM (English) — 1/181, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12284043985240,
+      "name": "#3445",
+      "customerName": "Max Hörner",
+      "createdAt": "2026-05-05T17:42:12+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "133714 Portgas D. Ace - Legacy of the Master ST13‑011 NM (English) — ST13‑011, Near-Mint / Special Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12284050211160,
+      "name": "#3446",
+      "customerName": "Mathias Jensen",
+      "createdAt": "2026-05-05T17:45:46+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 8,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1833,14 +1842,6 @@
         "onHand": 0,
         "committed": 15,
         "demand": 6
-      },
-      {
-        "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-        "productId": 15641336611160,
-        "variantId": 56849295671640,
-        "onHand": 0,
-        "committed": 13,
-        "demand": 8
       },
       {
         "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
@@ -2503,8 +2504,8 @@
         "productId": 15641336840536,
         "variantId": 56849295901016,
         "onHand": 1,
-        "committed": 7,
-        "demand": 7
+        "committed": 8,
+        "demand": 8
       },
       {
         "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
@@ -3409,6 +3410,30 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "120825 Pikachu & Zekrom GX - Sun & Moon Team Up 033/181 NM (English) — 33/181, Near-Mint / Ultra Rare",
+        "productId": 15641500451160,
+        "variantId": 56849634558296,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "120833 Celebi & Venusaur GX - Sun & Moon Team Up 001/181 NM (English) — 1/181, Near-Mint / Ultra Rare",
+        "productId": 15641500320088,
+        "variantId": 56849634394456,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "133714 Portgas D. Ace - Legacy of the Master ST13‑011 NM (English) — ST13‑011, Near-Mint / Special Rare",
+        "productId": 15641299976536,
+        "variantId": 56849240818008,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3441,16 +3466,6 @@
         "incoming": 0,
         "available": -2,
         "shortfall": 2
-      },
-      {
-        "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
-        "productId": 15641336840536,
-        "variantId": 56849295901016,
-        "onHand": 1,
-        "committed": 7,
-        "incoming": 5,
-        "available": -6,
-        "shortfall": 1
       },
       {
         "product": "LOUNGEFLY Loungefly Pokémon Eevee Backpack",
