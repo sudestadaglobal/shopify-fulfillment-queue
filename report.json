@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-05T07:12:49.310Z",
+  "generatedAt": "2026-05-05T09:27:24.000Z",
   "summary": {
     "totalUnfulfilled": 112,
-    "canFulfill": 19,
-    "blocked": 93
+    "canFulfill": 24,
+    "blocked": 88
   },
   "fulfillableOrders": [
     {
@@ -11,6 +11,18 @@
       "name": "#2943",
       "createdAt": "2026-03-16T17:43:17+01:00",
       "itemCount": 14
+    },
+    {
+      "id": 12217705955672,
+      "name": "#3217",
+      "createdAt": "2026-04-08T22:01:44+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12238311620952,
+      "name": "#3277",
+      "createdAt": "2026-04-16T20:42:22+02:00",
+      "itemCount": 6
     },
     {
       "id": 12238566162776,
@@ -25,6 +37,12 @@
       "itemCount": 11
     },
     {
+      "id": 12243698811224,
+      "name": "#3303",
+      "createdAt": "2026-04-20T13:39:06+02:00",
+      "itemCount": 2
+    },
+    {
       "id": 12244486848856,
       "name": "#3312",
       "createdAt": "2026-04-20T20:22:49+02:00",
@@ -35,6 +53,12 @@
       "name": "#3317",
       "createdAt": "2026-04-20T22:57:18+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12245563998552,
+      "name": "#3321",
+      "createdAt": "2026-04-21T15:06:31+02:00",
+      "itemCount": 2
     },
     {
       "id": 12245691728216,
@@ -58,6 +82,12 @@
       "id": 12270332477784,
       "name": "#3370",
       "createdAt": "2026-04-29T20:03:03+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12271566717272,
+      "name": "#3383",
+      "createdAt": "2026-04-30T15:06:28+02:00",
       "itemCount": 1
     },
     {
@@ -411,21 +441,6 @@
       ]
     },
     {
-      "id": 12217705955672,
-      "name": "#3217",
-      "customerName": "Mathys Chapoulie",
-      "createdAt": "2026-04-08T22:01:44+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        }
-      ]
-    },
-    {
       "id": 12224110231896,
       "name": "#3248",
       "customerName": "Marvin Mendel",
@@ -528,21 +543,6 @@
       ]
     },
     {
-      "id": 12238311620952,
-      "name": "#3277",
-      "customerName": "Bilal Gültan",
-      "createdAt": "2026-04-16T20:42:22+02:00",
-      "itemCount": 6,
-      "reasons": [
-        {
-          "product": "116768 Scarlet & Violet Destined Rivals Zarude 1 Booster Pack Blister (English) — 1 Booster pack, 3 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12238581399896,
       "name": "#3288",
       "customerName": "Emil Christiansen",
@@ -594,21 +594,6 @@
       ]
     },
     {
-      "id": 12243698811224,
-      "name": "#3303",
-      "customerName": "Stephen McDonald",
-      "createdAt": "2026-04-20T13:39:06+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131500 Special DON!! Card Pack DP‑07 One Piece Booster Pack (English) — 1 card / Black / White",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        }
-      ]
-    },
-    {
       "id": 12244511687000,
       "name": "#3314",
       "customerName": "Nicolas Bauschatz",
@@ -635,27 +620,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
-        }
-      ]
-    },
-    {
-      "id": 12245563998552,
-      "name": "#3321",
-      "customerName": "M.N. Ton",
-      "createdAt": "2026-04-21T15:06:31+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -1343,21 +1307,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 11
-        }
-      ]
-    },
-    {
-      "id": 12271566717272,
-      "name": "#3383",
-      "customerName": "Nico Friedrich",
-      "createdAt": "2026-04-30T15:06:28+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Airpods Max with Smart Case — Midnight",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -2314,7 +2263,7 @@
         "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
         "productId": 15641340051800,
         "variantId": 56849299571032,
-        "onHand": 0,
+        "onHand": 3,
         "committed": 3,
         "demand": 3
       },
@@ -2346,7 +2295,7 @@
         "product": "131512 Emperors in the New World One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641343656280,
         "variantId": 56849303667032,
-        "onHand": 2,
+        "onHand": 7,
         "committed": 3,
         "demand": 3
       },
@@ -2498,7 +2447,7 @@
         "product": "116768 Scarlet & Violet Destined Rivals Zarude 1 Booster Pack Blister (English) — 1 Booster pack, 3 cards / Multicolor",
         "productId": 15641523257688,
         "variantId": 56849676009816,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2642,7 +2591,7 @@
         "product": "131500 Special DON!! Card Pack DP‑07 One Piece Booster Pack (English) — 1 card / Black / White",
         "productId": 15641344115032,
         "variantId": 56849304158552,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -2714,7 +2663,7 @@
         "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
         "productId": 15641340477784,
         "variantId": 56849299997016,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       },
@@ -3314,7 +3263,7 @@
         "product": "Airpods Max with Smart Case — Midnight",
         "productId": 14860932972888,
         "variantId": 54100373897560,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
