@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T01:25:28.530Z",
+  "generatedAt": "2026-05-05T04:49:37.588Z",
   "summary": {
     "totalUnfulfilled": 112,
     "canFulfill": 9,
@@ -2216,14 +2216,6 @@
         "product": "136139 Pokémon GO Mewtwo V Battle Deck (English) — 60 cards / Multicolor",
         "productId": 15641264882008,
         "variantId": 56849188225368,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "136117 Vivid Voltage Charizard Theme Deck (English) — 60 cards / Multicolor",
-        "productId": 15641265602904,
-        "variantId": 56849189273944,
         "onHand": 1,
         "committed": 1,
         "demand": 1
