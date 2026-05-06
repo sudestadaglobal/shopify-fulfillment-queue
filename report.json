@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-06T19:09:04.735Z",
+  "generatedAt": "2026-05-06T20:51:46.211Z",
   "summary": {
-    "totalUnfulfilled": 91,
+    "totalUnfulfilled": 92,
     "canFulfill": 11,
-    "blocked": 80
+    "blocked": 81
   },
   "fulfillableOrders": [
     {
@@ -1687,6 +1687,27 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12286315069784,
+      "name": "#3448",
+      "customerName": "Davy Willems",
+      "createdAt": "2026-05-06T22:29:21+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2344,8 +2365,8 @@
         "productId": 15641336840536,
         "variantId": 56849295901016,
         "onHand": 0,
-        "committed": 7,
-        "demand": 7
+        "committed": 8,
+        "demand": 8
       },
       {
         "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
@@ -3048,8 +3069,8 @@
         "productId": 15641522897240,
         "variantId": 56849669390680,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "130858 Tony Tony Chopper ST01‑006 NM V3 (English) — ST01‑006/V3, Near-Mint / Common",
@@ -3271,6 +3292,22 @@
         "product": "133714 Portgas D. Ace - Legacy of the Master ST13‑011 NM (English) — ST13‑011, Near-Mint / Special Rare",
         "productId": 15641299976536,
         "variantId": 56849240818008,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119391 Scarlet & Violet Black Bolt Reuniclus Tech Sticker Collection (English) — 3 booster pack / Black / Blue",
+        "productId": 15641508446552,
+        "variantId": 56849646584152,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+        "productId": 15641268355416,
+        "variantId": 56849193173336,
         "onHand": 0,
         "committed": 1,
         "demand": 1
