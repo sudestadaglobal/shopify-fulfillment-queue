@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-06T20:51:46.211Z",
+  "generatedAt": "2026-05-06T22:06:22.591Z",
   "summary": {
-    "totalUnfulfilled": 92,
-    "canFulfill": 11,
-    "blocked": 81
+    "totalUnfulfilled": 99,
+    "canFulfill": 14,
+    "blocked": 85
   },
   "fulfillableOrders": [
     {
@@ -70,6 +70,24 @@
       "id": 12285438984536,
       "name": "#3447",
       "createdAt": "2026-05-06T14:09:48+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12286349410648,
+      "name": "#3450",
+      "createdAt": "2026-05-06T22:52:33+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12286351901016,
+      "name": "#3451",
+      "createdAt": "2026-05-06T22:54:22+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12286360682840,
+      "name": "#3453",
+      "createdAt": "2026-05-06T23:01:01+02:00",
       "itemCount": 1
     }
   ],
@@ -1708,6 +1726,66 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12286345183576,
+      "name": "#3449",
+      "customerName": "Lars Hollemans",
+      "createdAt": "2026-05-06T22:49:26+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "133228 Mega Meganium ex - Mega Evolution Ascended Heroes 010/217 NM (English) — 010/217, Near-Mint / Double Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12286357111128,
+      "name": "#3452",
+      "customerName": "Max Hörner",
+      "createdAt": "2026-05-06T22:58:20+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12286363107672,
+      "name": "#3454",
+      "customerName": "Marie Beck",
+      "createdAt": "2026-05-06T23:03:09+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131638 Rosa’s Encouragement - Nihil Zero 115/080 NM (Japanese) — 115/080, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12286366482776,
+      "name": "#3455",
+      "customerName": "Lukas van Rijt",
+      "createdAt": "2026-05-06T23:06:17+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2069,8 +2147,8 @@
         "productId": 15641345556824,
         "variantId": 56849305600344,
         "onHand": 7,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131466 The Best Vol.2 One Piece Sleeved Booster Pack (English) — 10 cards / Multicolor",
@@ -2365,8 +2443,8 @@
         "productId": 15641336840536,
         "variantId": 56849295901016,
         "onHand": 0,
-        "committed": 8,
-        "demand": 8
+        "committed": 10,
+        "demand": 10
       },
       {
         "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
@@ -2381,8 +2459,8 @@
         "productId": 15732280426840,
         "variantId": 57196101075288,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "70211 One Piece Card Game Double Pack Set Vol. 10 OP15 2 Booster Packs (English) — 2 Booster Packs / Yellow",
@@ -3308,6 +3386,22 @@
         "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
         "productId": 15641268355416,
         "variantId": 56849193173336,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "133228 Mega Meganium ex - Mega Evolution Ascended Heroes 010/217 NM (English) — 010/217, Near-Mint / Double Rare",
+        "productId": 15641301025112,
+        "variantId": 56849242194264,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131638 Rosa’s Encouragement - Nihil Zero 115/080 NM (Japanese) — 115/080, Near-Mint / Special Illustration Rare",
+        "productId": 15641339920728,
+        "variantId": 56849299145048,
         "onHand": 0,
         "committed": 1,
         "demand": 1
