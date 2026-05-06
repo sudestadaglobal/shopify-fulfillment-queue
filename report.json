@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-06T09:33:18.047Z",
+  "generatedAt": "2026-05-06T11:31:01.203Z",
   "summary": {
-    "totalUnfulfilled": 100,
-    "canFulfill": 12,
+    "totalUnfulfilled": 90,
+    "canFulfill": 2,
     "blocked": 88
   },
   "fulfillableOrders": [
@@ -13,69 +13,9 @@
       "itemCount": 14
     },
     {
-      "id": 12185187975512,
-      "name": "#2974",
-      "createdAt": "2026-03-18T23:04:14+01:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12191615123800,
-      "name": "#3013",
-      "createdAt": "2026-03-23T16:23:29+01:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12195744743768,
-      "name": "#3054",
-      "createdAt": "2026-03-25T20:54:39+01:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12203087266136,
-      "name": "#3093",
-      "createdAt": "2026-03-30T03:55:49+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12224110231896,
-      "name": "#3248",
-      "createdAt": "2026-04-12T01:36:31+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12270327136600,
-      "name": "#3369",
-      "createdAt": "2026-04-29T19:59:35+02:00",
-      "itemCount": 1
-    },
-    {
       "id": 12270721794392,
       "name": "#3379",
       "createdAt": "2026-04-30T01:57:30+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12283746681176,
-      "name": "#3438",
-      "createdAt": "2026-05-05T14:52:26+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12283908817240,
-      "name": "#3441",
-      "createdAt": "2026-05-05T16:26:47+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12283914027352,
-      "name": "#3442",
-      "createdAt": "2026-05-05T16:30:00+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12283994046808,
-      "name": "#3443",
-      "createdAt": "2026-05-05T17:14:31+02:00",
       "itemCount": 1
     }
   ],
@@ -117,6 +57,12 @@
       "createdAt": "2026-03-16T19:04:32+01:00",
       "itemCount": 8,
       "reasons": [
+        {
+          "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
         {
           "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
@@ -260,8 +206,8 @@
       "reasons": [
         {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 8,
+          "reason": "Insufficient stock",
+          "stock": 0,
           "needed": 2
         }
       ]
@@ -275,8 +221,8 @@
       "reasons": [
         {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 8,
+          "reason": "Insufficient stock",
+          "stock": 0,
           "needed": 1
         }
       ]
@@ -509,8 +455,8 @@
       "reasons": [
         {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 8,
+          "reason": "Insufficient stock",
+          "stock": 0,
           "needed": 1
         }
       ]
@@ -634,6 +580,12 @@
       "itemCount": 9,
       "reasons": [
         {
+          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
           "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -647,8 +599,8 @@
         },
         {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 8,
+          "reason": "Insufficient stock",
+          "stock": 0,
           "needed": 1
         }
       ]
@@ -1312,12 +1264,6 @@
           "needed": 1
         },
         {
-          "product": "119387 Scarlet & Violet Black Bolt Booster Pack (English) — 10 cards / White / Black",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "118662 Scarlet & Violet White Flare Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": -1,
@@ -1452,7 +1398,7 @@
         {
           "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 1,
+          "stock": 0,
           "needed": 5
         }
       ]
@@ -1613,6 +1559,12 @@
       "reasons": [
         {
           "product": "141865 MEGA Ninja Spinner Booster Box 30 Booster Packs (Japanese) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1826,8 +1778,8 @@
       "reasons": [
         {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 8,
+          "reason": "Insufficient stock",
+          "stock": 0,
           "needed": 1
         }
       ]
@@ -1841,6 +1793,14 @@
         "variantId": 56849295835480,
         "onHand": 0,
         "committed": 15,
+        "demand": 6
+      },
+      {
+        "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336611160,
+        "variantId": 56849295671640,
+        "onHand": 7,
+        "committed": 10,
         "demand": 6
       },
       {
@@ -1962,6 +1922,14 @@
         "onHand": 1,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+        "productId": 15641321406808,
+        "variantId": 56849271619928,
+        "onHand": 0,
+        "committed": 15,
+        "demand": 7
       },
       {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -2503,9 +2471,9 @@
         "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
         "productId": 15641336840536,
         "variantId": 56849295901016,
-        "onHand": 1,
-        "committed": 8,
-        "demand": 8
+        "onHand": 0,
+        "committed": 7,
+        "demand": 7
       },
       {
         "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
@@ -2632,6 +2600,14 @@
         "productId": 15643186921816,
         "variantId": 56857168576856,
         "onHand": 0,
+        "committed": 3,
+        "demand": 3
+      },
+      {
+        "product": "110190 Scarlet & Violet Temporal Forces (English) — 10 cards / Multicolor",
+        "productId": 15641566151000,
+        "variantId": 56849731453272,
+        "onHand": 9,
         "committed": 3,
         "demand": 3
       },
@@ -2863,15 +2839,7 @@
         "product": "119401 Scarlet & Violet Black Bolt Zekrom 9-Pocket Album (English) — 9 Pocket Album / Black / Blue",
         "productId": 15641508249944,
         "variantId": 56849646387544,
-        "onHand": 3,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "113481 Espeon ex - Scarlet & Violet Prismatic Evolution 155/131 NM (English) — 155/131, Near-Mint / Special Illustration Rare",
-        "productId": 15641563726168,
-        "variantId": 56849719624024,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       },
@@ -3135,7 +3103,7 @@
         "product": "119387 Scarlet & Violet Black Bolt Booster Pack (English) — 10 cards / White / Black",
         "productId": 15641508577624,
         "variantId": 56849646715224,
-        "onHand": 0,
+        "onHand": 7,
         "committed": 1,
         "demand": 1
       },
@@ -3287,7 +3255,7 @@
         "product": "110207 Scarlet & Violet 151 Booster NM (English) — Scarlet & Violet 151 (10 cards) / Multicolor",
         "productId": 15641565823320,
         "variantId": 56849731092824,
-        "onHand": 7,
+        "onHand": 6,
         "committed": 1,
         "demand": 1
       },
