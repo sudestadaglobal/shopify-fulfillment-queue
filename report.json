@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-07T22:47:54.491Z",
+  "generatedAt": "2026-05-07T23:42:29.654Z",
   "summary": {
-    "totalUnfulfilled": 82,
+    "totalUnfulfilled": 85,
     "canFulfill": 4,
-    "blocked": 78
+    "blocked": 81
   },
   "fulfillableOrders": [
     {
@@ -1555,6 +1555,51 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12291452600664,
+      "name": "#3461",
+      "customerName": "Max Van der Laan",
+      "createdAt": "2026-05-08T00:44:10+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "113546 Scarlet & Violet Prismatic Evolutions Glaceon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12291455418712,
+      "name": "#3462",
+      "customerName": "Adrian S Vistad",
+      "createdAt": "2026-05-08T00:50:30+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "110062 Scarlet & Violet Twilight Masquerade Booster Box 36 pack (English) — 36 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12291456631128,
+      "name": "#3463",
+      "customerName": "Luis Mesa Provencio",
+      "createdAt": "2026-05-08T00:53:37+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131604 Anime 25th Collection One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3068,13 +3113,37 @@
         "productId": 15641340281176,
         "variantId": 56849299800408,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119207 Minccino - Scarlet & Violet Black Bolt 152/086 NM (English) — 152/086, Near-Mint / Illustration Rare",
         "productId": 15641512509784,
         "variantId": 56849653563736,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131928 Mega Evolution Ascended Heroes Pikachu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641336447320,
+        "variantId": 56849295507800,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113546 Scarlet & Violet Prismatic Evolutions Glaceon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
+        "productId": 15641562349912,
+        "variantId": 56849717264728,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110062 Scarlet & Violet Twilight Masquerade Booster Box 36 pack (English) — 36 booster pack / Multicolor",
+        "productId": 15641567461720,
+        "variantId": 56849733484888,
         "onHand": 0,
         "committed": 1,
         "demand": 1
