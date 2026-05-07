@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-07T19:04:03.924Z",
+  "generatedAt": "2026-05-07T21:35:24.101Z",
   "summary": {
-    "totalUnfulfilled": 80,
-    "canFulfill": 3,
-    "blocked": 77
+    "totalUnfulfilled": 82,
+    "canFulfill": 4,
+    "blocked": 78
   },
   "fulfillableOrders": [
     {
@@ -23,6 +23,12 @@
       "name": "#3397",
       "createdAt": "2026-05-01T22:51:50+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12291400139096,
+      "name": "#3460",
+      "createdAt": "2026-05-07T23:30:02+02:00",
+      "itemCount": 2
     }
   ],
   "blockedOrders": [
@@ -1534,6 +1540,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12291393093976,
+      "name": "#3459",
+      "customerName": "Šimon Vích",
+      "createdAt": "2026-05-07T23:23:00+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119207 Minccino - Scarlet & Violet Black Bolt 152/086 NM (English) — 152/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1567,8 +1588,8 @@
         "productId": 15641321406808,
         "variantId": 56849271619928,
         "onHand": 8,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -2087,8 +2108,8 @@
         "productId": 15641336971608,
         "variantId": 56849296032088,
         "onHand": 9,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
@@ -3046,6 +3067,14 @@
         "product": "131604 Anime 25th Collection One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
         "productId": 15641340281176,
         "variantId": 56849299800408,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119207 Minccino - Scarlet & Violet Black Bolt 152/086 NM (English) — 152/086, Near-Mint / Illustration Rare",
+        "productId": 15641512509784,
+        "variantId": 56849653563736,
         "onHand": 0,
         "committed": 1,
         "demand": 1
