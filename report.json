@@ -1,17 +1,11 @@
 {
-  "generatedAt": "2026-05-07T10:05:35.548Z",
+  "generatedAt": "2026-05-07T12:16:51.846Z",
   "summary": {
-    "totalUnfulfilled": 99,
-    "canFulfill": 23,
-    "blocked": 76
+    "totalUnfulfilled": 94,
+    "canFulfill": 19,
+    "blocked": 75
   },
   "fulfillableOrders": [
-    {
-      "id": 12106017833304,
-      "name": "#2867",
-      "createdAt": "2026-03-09T18:40:44+01:00",
-      "itemCount": 1
-    },
     {
       "id": 12181691793752,
       "name": "#2943",
@@ -25,12 +19,6 @@
       "itemCount": 4
     },
     {
-      "id": 12185192694104,
-      "name": "#2975",
-      "createdAt": "2026-03-18T23:09:20+01:00",
-      "itemCount": 1
-    },
-    {
       "id": 12207437807960,
       "name": "#3148",
       "createdAt": "2026-04-01T20:20:01+02:00",
@@ -40,12 +28,6 @@
       "id": 12214337274200,
       "name": "#3190",
       "createdAt": "2026-04-06T22:00:23+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12217617842520,
-      "name": "#3214",
-      "createdAt": "2026-04-08T21:05:20+02:00",
       "itemCount": 1
     },
     {
@@ -67,12 +49,6 @@
       "itemCount": 1
     },
     {
-      "id": 12259401204056,
-      "name": "#3348",
-      "createdAt": "2026-04-24T17:14:03+02:00",
-      "itemCount": 1
-    },
-    {
       "id": 12267246649688,
       "name": "#3354",
       "createdAt": "2026-04-28T01:32:44+02:00",
@@ -89,6 +65,12 @@
       "name": "#3362",
       "createdAt": "2026-04-28T20:43:48+02:00",
       "itemCount": 5
+    },
+    {
+      "id": 12270362329432,
+      "name": "#3372",
+      "createdAt": "2026-04-29T20:23:32+02:00",
+      "itemCount": 1
     },
     {
       "id": 12270721794392,
@@ -124,12 +106,6 @@
       "id": 12285438984536,
       "name": "#3447",
       "createdAt": "2026-05-06T14:09:48+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12286349410648,
-      "name": "#3450",
-      "createdAt": "2026-05-06T22:52:33+02:00",
       "itemCount": 1
     },
     {
@@ -520,12 +496,6 @@
           "needed": 1
         },
         {
-          "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 16,
-          "needed": 1
-        },
-        {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
           "reason": "Per-product limit reached (max 3 orders per run)",
           "stock": 17,
@@ -769,21 +739,6 @@
           "product": "120661 Sun & Moon Elite Trainer Box Solgaleo (English) — 8 booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12270362329432,
-      "name": "#3372",
-      "customerName": "Damian Mammel",
-      "createdAt": "2026-04-29T20:23:32+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 16,
           "needed": 1
         }
       ]
@@ -1770,6 +1725,14 @@
         "demand": 1
       },
       {
+        "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336676696,
+        "variantId": 56849295737176,
+        "onHand": 9,
+        "committed": 7,
+        "demand": 3
+      },
+      {
         "product": "136139 Pokémon GO Mewtwo V Battle Deck (English) — 60 cards / Multicolor",
         "productId": 15641264882008,
         "variantId": 56849188225368,
@@ -2222,14 +2185,6 @@
         "productId": 15727626813784,
         "variantId": 57176214503768,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131674 Mega Zygarde‑ex - Nihil Zero 097/080 NM (Japanese) — 097/080, Near-Mint / Ultra Rare",
-        "productId": 15641338839384,
-        "variantId": 56849298063704,
-        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
