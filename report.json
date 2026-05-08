@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-08T16:23:24.736Z",
+  "generatedAt": "2026-05-08T17:57:03.440Z",
   "summary": {
-    "totalUnfulfilled": 85,
+    "totalUnfulfilled": 86,
     "canFulfill": 3,
-    "blocked": 82
+    "blocked": 83
   },
   "fulfillableOrders": [
     {
@@ -1669,6 +1669,45 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12292628250968,
+      "name": "#3468",
+      "customerName": "Maximilian Grossmann",
+      "createdAt": "2026-05-08T18:24:19+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "133730 Tashigi - Legacy of the Master OP06‑050 NM (English) — OP06‑050, Near-Mint / Special Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 4
+        },
+        {
+          "product": "133914 Kuzan - Legacy of the Master OP12‑043 NM V2 (English) — OP12‑043/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "133888 Monkey D. Garp - Legacy of the Master OP12‑056 NM V2 (English) — OP12‑056/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "132006 Issho - The Azure Sea's Seven EB04‑022 NM V2 (English) — EB04‑022/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "142533 Krieg - Adventure on Kami’s Island OP15-001 V2 NM (English) - Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3286,6 +3325,46 @@
         "productId": 15641568870744,
         "variantId": 56849736237400,
         "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "133730 Tashigi - Legacy of the Master OP06‑050 NM (English) — OP06‑050, Near-Mint / Special Rare",
+        "productId": 15641299288408,
+        "variantId": 56849239867736,
+        "onHand": 0,
+        "committed": 4,
+        "demand": 4
+      },
+      {
+        "product": "133914 Kuzan - Legacy of the Master OP12‑043 NM V2 (English) — OP12‑043/V2, Near-Mint / Alternate Art",
+        "productId": 15641290604888,
+        "variantId": 56849229152600,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "133888 Monkey D. Garp - Legacy of the Master OP12‑056 NM V2 (English) — OP12‑056/V2, Near-Mint / Alternate Art",
+        "productId": 15641292177752,
+        "variantId": 56849231085912,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "132006 Issho - The Azure Sea's Seven EB04‑022 NM V2 (English) — EB04‑022/V2, Near-Mint / Alternate Art",
+        "productId": 15641333465432,
+        "variantId": 56849292001624,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "142533 Krieg - Adventure on Kami’s Island OP15-001 V2 NM (English) - Alternate Art",
+        "productId": 15746956689752,
+        "variantId": 57253405032792,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
