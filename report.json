@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-05-08T06:27:22.006Z",
+  "generatedAt": "2026-05-08T08:14:09.367Z",
   "summary": {
-    "totalUnfulfilled": 85,
+    "totalUnfulfilled": 83,
     "canFulfill": 4,
-    "blocked": 81
+    "blocked": 79
   },
   "fulfillableOrders": [
+    {
+      "id": 12236559024472,
+      "name": "#3273",
+      "createdAt": "2026-04-15T21:58:42+02:00",
+      "itemCount": 1
+    },
     {
       "id": 12245625897304,
       "name": "#3324",
@@ -19,16 +25,10 @@
       "itemCount": 1
     },
     {
-      "id": 12273870012760,
-      "name": "#3397",
-      "createdAt": "2026-05-01T22:51:50+02:00",
+      "id": 12278586573144,
+      "name": "#3435",
+      "createdAt": "2026-05-04T19:46:07+02:00",
       "itemCount": 1
-    },
-    {
-      "id": 12291400139096,
-      "name": "#3460",
-      "createdAt": "2026-05-07T23:30:02+02:00",
-      "itemCount": 2
     }
   ],
   "blockedOrders": [
@@ -185,21 +185,6 @@
         },
         {
           "product": "119485 Nidoking - Scarlet & Violet 151 174/165 NM (English) — 174/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12236559024472,
-      "name": "#3273",
-      "customerName": "CJ Jagel",
-      "createdAt": "2026-04-15T21:58:42+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "116818 Magic: The Gathering - Time Spiral Remastered Booster Box",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -634,13 +619,13 @@
       "itemCount": 6,
       "reasons": [
         {
-          "product": "113534 Scarlet & Violet Prismatic Evolutions Mini Tin Display 8 Booster Pack (English) — 8 Mini Tin, 2 booster pack, 1 coin each / Multicolor",
+          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
         },
         {
-          "product": "120661 Sun & Moon Elite Trainer Box Solgaleo (English) — 8 booster pack / Multicolor",
+          "product": "113534 Scarlet & Violet Prismatic Evolutions Mini Tin Display 8 Booster Pack (English) — 8 Mini Tin, 2 booster pack, 1 coin each / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1299,21 +1284,6 @@
       ]
     },
     {
-      "id": 12278586573144,
-      "name": "#3435",
-      "customerName": "Ricardo Varius",
-      "createdAt": "2026-05-04T19:46:07+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12282614743384,
       "name": "#3436",
       "customerName": "Miguel Calleja",
@@ -1632,9 +1602,9 @@
         "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
         "productId": 15641321406808,
         "variantId": 56849271619928,
-        "onHand": 8,
-        "committed": 3,
-        "demand": 3
+        "onHand": 7,
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -1936,7 +1906,7 @@
         "product": "116818 Magic: The Gathering - Time Spiral Remastered Booster Box",
         "productId": 15709017735512,
         "variantId": 57115561460056,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2152,9 +2122,9 @@
         "product": "131912 Mega Evolution Ascended Heroes Erika’s Tangela Blister 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
         "productId": 15641336971608,
         "variantId": 56849296032088,
-        "onHand": 9,
-        "committed": 2,
-        "demand": 2
+        "onHand": 8,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
@@ -2464,9 +2434,9 @@
         "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
         "productId": 15641337299288,
         "variantId": 56849296359768,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "113534 Scarlet & Violet Prismatic Evolutions Mini Tin Display 8 Booster Pack (English) — 8 Mini Tin, 2 booster pack, 1 coin each / Multicolor",
@@ -2488,7 +2458,7 @@
         "product": "120661 Sun & Moon Elite Trainer Box Solgaleo (English) — 8 booster pack / Multicolor",
         "productId": 15641503334744,
         "variantId": 56849639014744,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2984,7 +2954,7 @@
         "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
         "productId": 15641503859032,
         "variantId": 56849639571800,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
