@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-08T11:26:57.748Z",
+  "generatedAt": "2026-05-08T12:58:28.704Z",
   "summary": {
-    "totalUnfulfilled": 81,
+    "totalUnfulfilled": 82,
     "canFulfill": 2,
-    "blocked": 79
+    "blocked": 80
   },
   "fulfillableOrders": [
     {
@@ -1558,6 +1558,27 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12292268294488,
+      "name": "#3464",
+      "customerName": "Fabian Langguth",
+      "createdAt": "2026-05-08T14:52:46+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "130858 Tony Tony Chopper ST01‑006 NM V3 (English) — ST01‑006/V3, Near-Mint / Common",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "134659 Sanji - Unnumbered Promos OP01‑013 V1 NM (Japanese) - Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2183,8 +2204,8 @@
         "productId": 15710871486808,
         "variantId": 57123535126872,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "114527 Salamence ex - Scarlet & Violet Journey Together 187/159 NM (English) — 187/159, Near-Mint / Special Illustration Rare",
@@ -2815,8 +2836,8 @@
         "productId": 15641361056088,
         "variantId": 56849418322264,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "LOUNGEFLY Loungefly Pokémon Eevee Backpack",
@@ -3089,6 +3110,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131426 Two Legends One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641345458520,
+        "variantId": 56849305502040,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3101,6 +3130,26 @@
         "incoming": 0,
         "available": -22,
         "shortfall": 22
+      },
+      {
+        "product": "134659 Sanji - Unnumbered Promos OP01‑013 V1 NM (Japanese) - Rare",
+        "productId": 15710871486808,
+        "variantId": 57123535126872,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 2,
+        "available": -3,
+        "shortfall": 1
+      },
+      {
+        "product": "130858 Tony Tony Chopper ST01‑006 NM V3 (English) — ST01‑006/V3, Near-Mint / Common",
+        "productId": 15641361056088,
+        "variantId": 56849418322264,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
       },
       {
         "product": "LOUNGEFLY Loungefly Pokémon Eevee Backpack",
