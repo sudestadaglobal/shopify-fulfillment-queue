@@ -1,17 +1,11 @@
 {
-  "generatedAt": "2026-05-08T09:59:21.871Z",
+  "generatedAt": "2026-05-08T11:26:57.748Z",
   "summary": {
-    "totalUnfulfilled": 83,
-    "canFulfill": 4,
+    "totalUnfulfilled": 81,
+    "canFulfill": 2,
     "blocked": 79
   },
   "fulfillableOrders": [
-    {
-      "id": 12236559024472,
-      "name": "#3273",
-      "createdAt": "2026-04-15T21:58:42+02:00",
-      "itemCount": 1
-    },
     {
       "id": 12245625897304,
       "name": "#3324",
@@ -22,12 +16,6 @@
       "id": 12270721794392,
       "name": "#3379",
       "createdAt": "2026-04-30T01:57:30+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12278586573144,
-      "name": "#3435",
-      "createdAt": "2026-05-04T19:46:07+02:00",
       "itemCount": 1
     }
   ],
@@ -1903,14 +1891,6 @@
         "demand": 1
       },
       {
-        "product": "116818 Magic: The Gathering - Time Spiral Remastered Booster Box",
-        "productId": 15709017735512,
-        "variantId": 57115561460056,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "121025 Ivysaur - Mega Evolution 134/132 NM (English) — 134/132, Near-Mint / Ilustration Rare",
         "productId": 15641496355160,
         "variantId": 56849626366296,
@@ -2947,14 +2927,6 @@
         "productId": 15641300042072,
         "variantId": 56849240916312,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
-        "productId": 15641503859032,
-        "variantId": 56849639571800,
-        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
