@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-10T18:43:42.769Z",
+  "generatedAt": "2026-05-10T19:51:14.417Z",
   "summary": {
-    "totalUnfulfilled": 91,
+    "totalUnfulfilled": 97,
     "canFulfill": 5,
-    "blocked": 86
+    "blocked": 92
   },
   "fulfillableOrders": [
     {
@@ -1765,6 +1765,96 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12296337195352,
+      "name": "#3474",
+      "customerName": "Elie richart luna",
+      "createdAt": "2026-05-10T20:40:51+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119435 Giovanni’s Charisma - Scarlet & Violet 151 204/165 NM (English) — 204/165, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12296343847256,
+      "name": "#3475",
+      "customerName": "JAVIER Barragan",
+      "createdAt": "2026-05-10T20:44:06+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12296360001880,
+      "name": "#3476",
+      "customerName": "Kevin Enseling/Engelhard",
+      "createdAt": "2026-05-10T20:53:25+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "133948 Tashigi - Legacy of the Master OP12‑031 NM V2 (English) — OP12‑031/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12296376222040,
+      "name": "#3477",
+      "customerName": "Ozan Kara",
+      "createdAt": "2026-05-10T21:01:41+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132592 Marnie’s Grimmsnarl ex - Mega Evolution Ascended Heroes 287/217 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12296379662680,
+      "name": "#3478",
+      "customerName": "Tizian Böhler",
+      "createdAt": "2026-05-10T21:03:44+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "120691 Lapras GX - Sun & Moon 151/149 NM (English) — 151/149, Near-Mint / Rainbow Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12296384414040,
+      "name": "#3479",
+      "customerName": "Mathias Jensen",
+      "createdAt": "2026-05-10T21:06:18+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "114534 Articuno - Scarlet & Violet Journey Together 161/159 NM (English) — 161/159, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2982,8 +3072,8 @@
         "productId": 15641288016216,
         "variantId": 56849225843032,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "118840 Herdier - Scarlet & Violet White Flare 155/086 NM (English) — 155/086, Near-Mint / Illustration Rare",
@@ -3246,8 +3336,8 @@
         "productId": 15641559368024,
         "variantId": 56849713889624,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "140422 Clefairy - Mega Evolution Perfect Order 094/088 NM (English) - Illustration Rare",
@@ -3342,8 +3432,8 @@
         "productId": 15641502810456,
         "variantId": 56849637441880,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "132730 Erika’s Tangela - Mega Evolution Ascended Heroes 218/217 NM (English) — 218/217, Near-Mint / Illustration Rare",
@@ -3446,6 +3536,30 @@
         "productId": 15641488556376,
         "variantId": 56849615421784,
         "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119435 Giovanni’s Charisma - Scarlet & Violet 151 204/165 NM (English) — 204/165, Near-Mint / Special Illustration Rare",
+        "productId": 15641507135832,
+        "variantId": 56849644814680,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
+        "productId": 15641340477784,
+        "variantId": 56849299997016,
+        "onHand": 1,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "132592 Marnie’s Grimmsnarl ex - Mega Evolution Ascended Heroes 287/217 NM (English) - Special Illustration Rare",
+        "productId": 15749445157208,
+        "variantId": 57264596123992,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
