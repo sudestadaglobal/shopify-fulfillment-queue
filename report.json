@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-05-11T14:15:54.579Z",
+  "generatedAt": "2026-05-11T16:52:59.898Z",
   "summary": {
-    "totalUnfulfilled": 94,
-    "canFulfill": 1,
-    "blocked": 93
+    "totalUnfulfilled": 101,
+    "canFulfill": 3,
+    "blocked": 98
   },
   "fulfillableOrders": [
     {
       "id": 12270721794392,
       "name": "#3379",
       "createdAt": "2026-04-30T01:57:30+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12297760178520,
+      "name": "#3483",
+      "createdAt": "2026-05-11T17:24:58+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12297820373336,
+      "name": "#3487",
+      "createdAt": "2026-05-11T17:59:49+02:00",
       "itemCount": 1
     }
   ],
@@ -1846,6 +1858,81 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12297685696856,
+      "name": "#3481",
+      "customerName": "Joel Wlodarczyk",
+      "createdAt": "2026-05-11T16:40:08+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Funko POP! Deluxe DC Comics Batman #521",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12297752412504,
+      "name": "#3482",
+      "customerName": "Bilal Gültan",
+      "createdAt": "2026-05-11T17:21:23+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "110000 Penny - Scarlet & Violet Paldean Fates 239/091 NM (English) — 239/091, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12297773351256,
+      "name": "#3484",
+      "customerName": "Francisco Sarabia sanchez",
+      "createdAt": "2026-05-11T17:32:30+02:00",
+      "itemCount": 15,
+      "reasons": [
+        {
+          "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12297782722904,
+      "name": "#3485",
+      "customerName": "fernando queipo de llano de aguilera",
+      "createdAt": "2026-05-11T17:38:30+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12297805889880,
+      "name": "#3486",
+      "customerName": "Stefan Lautmann",
+      "createdAt": "2026-05-11T17:52:40+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1959,16 +2046,16 @@
         "productId": 15641566216536,
         "variantId": 56849731518808,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566052696,
         "variantId": 56849731354968,
         "onHand": 6,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "110204 Scarlet & Violet Future Flash Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -1983,8 +2070,8 @@
         "productId": 15641565593944,
         "variantId": 56849722704216,
         "onHand": 8,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "124010 Phantasmal Flames Mega Evolution Build & Battle Box 4 Booster Pack(English) — 4 Booster Packs / Multicolor",
@@ -2143,8 +2230,8 @@
         "productId": 15643970961752,
         "variantId": 56858997653848,
         "onHand": 0,
-        "committed": 18,
-        "demand": 18
+        "committed": 21,
+        "demand": 21
       },
       {
         "product": "131472 Royal Blood One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
@@ -2343,8 +2430,8 @@
         "productId": 15731035668824,
         "variantId": 57191630569816,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "SteelSeries QcK Performance - Speed Mousepad",
@@ -2679,8 +2766,8 @@
         "productId": 15641566151000,
         "variantId": 56849731453272,
         "onHand": 8,
-        "committed": 2,
-        "demand": 2
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
@@ -3529,6 +3616,46 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Funko POP! Deluxe DC Comics Batman #521",
+        "productId": 15750366298456,
+        "variantId": 57268796457304,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110000 Penny - Scarlet & Violet Paldean Fates 239/091 NM (English) — 239/091, Near-Mint / Special Illustration Rare",
+        "productId": 15641568543064,
+        "variantId": 56849735188824,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110182 Scarlet & Violet Night Wanderer Booster Pack (Japanese) — 5 cards / Multicolor",
+        "productId": 15641566347608,
+        "variantId": 56849732141400,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110300 Scarlet & Violet Cyber Judge Booster Pack (Japanese) — 5 cards / Multicolor",
+        "productId": 15641564217688,
+        "variantId": 56849720508760,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131864 Nihil Zero Booster Pack (Japanese) — 5 cards / Multicolor",
+        "productId": 15641337626968,
+        "variantId": 56849296687448,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3541,6 +3668,16 @@
         "incoming": 0,
         "available": -22,
         "shortfall": 22
+      },
+      {
+        "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
+        "productId": 15731035668824,
+        "variantId": 57191630569816,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
       },
       {
         "product": "LOUNGEFLY Loungefly Pokémon Eevee Backpack",
@@ -3596,6 +3733,16 @@
         "product": "Samsung Galaxy S26 Ultra Black 1 TB",
         "productId": 15750303678808,
         "variantId": 57268655685976,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Funko POP! Deluxe DC Comics Batman #521",
+        "productId": 15750366298456,
+        "variantId": 57268796457304,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
