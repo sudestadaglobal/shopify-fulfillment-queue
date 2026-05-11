@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-11T11:41:26.535Z",
+  "generatedAt": "2026-05-11T14:15:54.579Z",
   "summary": {
-    "totalUnfulfilled": 93,
+    "totalUnfulfilled": 94,
     "canFulfill": 1,
-    "blocked": 92
+    "blocked": 93
   },
   "fulfillableOrders": [
     {
@@ -1831,6 +1831,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12297622258008,
+      "name": "#3480",
+      "customerName": "Joshua Hammerich",
+      "createdAt": "2026-05-11T16:05:52+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Samsung Galaxy S26 Ultra Black 1 TB",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3506,6 +3521,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Samsung Galaxy S26 Ultra Black 1 TB",
+        "productId": 15750303678808,
+        "variantId": 57268655685976,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3563,6 +3586,16 @@
         "product": "Cerdá Grinch Adult Socks 3 Pack",
         "productId": 15745621885272,
         "variantId": 57247999557976,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Samsung Galaxy S26 Ultra Black 1 TB",
+        "productId": 15750303678808,
+        "variantId": 57268655685976,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
