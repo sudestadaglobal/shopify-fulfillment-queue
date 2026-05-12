@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-12T10:10:06.768Z",
+  "generatedAt": "2026-05-12T12:23:18.314Z",
   "summary": {
     "totalUnfulfilled": 101,
-    "canFulfill": 12,
-    "blocked": 89
+    "canFulfill": 22,
+    "blocked": 79
   },
   "fulfillableOrders": [
     {
@@ -11,6 +11,12 @@
       "name": "#2932",
       "createdAt": "2026-03-13T17:04:47+01:00",
       "itemCount": 5
+    },
+    {
+      "id": 12243691995480,
+      "name": "#3301",
+      "createdAt": "2026-04-20T13:33:52+02:00",
+      "itemCount": 2
     },
     {
       "id": 12259327934808,
@@ -43,9 +49,45 @@
       "itemCount": 1
     },
     {
+      "id": 12267232657752,
+      "name": "#3353",
+      "createdAt": "2026-04-28T00:58:11+02:00",
+      "itemCount": 9
+    },
+    {
+      "id": 12267254284632,
+      "name": "#3355",
+      "createdAt": "2026-04-28T01:52:30+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12268646564184,
+      "name": "#3361",
+      "createdAt": "2026-04-28T20:34:36+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12268760498520,
+      "name": "#3365",
+      "createdAt": "2026-04-28T21:43:58+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12270303117656,
+      "name": "#3368",
+      "createdAt": "2026-04-29T19:42:44+02:00",
+      "itemCount": 6
+    },
+    {
       "id": 12270721794392,
       "name": "#3379",
       "createdAt": "2026-04-30T01:57:30+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12276340064600,
+      "name": "#3404",
+      "createdAt": "2026-05-03T14:52:01+02:00",
       "itemCount": 1
     },
     {
@@ -61,6 +103,12 @@
       "itemCount": 1
     },
     {
+      "id": 12286366482776,
+      "name": "#3455",
+      "createdAt": "2026-05-06T23:06:17+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12296316715352,
       "name": "#3470",
       "createdAt": "2026-05-10T20:29:30+02:00",
@@ -70,6 +118,18 @@
       "id": 12297760178520,
       "name": "#3483",
       "createdAt": "2026-05-11T17:24:58+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12297773351256,
+      "name": "#3484",
+      "createdAt": "2026-05-11T17:32:30+02:00",
+      "itemCount": 15
+    },
+    {
+      "id": 12297805889880,
+      "name": "#3486",
+      "createdAt": "2026-05-11T17:52:40+02:00",
       "itemCount": 1
     },
     {
@@ -102,12 +162,6 @@
       "createdAt": "2026-03-30T03:02:04+02:00",
       "itemCount": 21,
       "reasons": [
-        {
-          "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
         {
           "product": "124010 Phantasmal Flames Mega Evolution Build & Battle Box 4 Booster Pack(English) — 4 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
@@ -194,12 +248,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -248,21 +296,6 @@
       "reasons": [
         {
           "product": "132835 N’s Zoroark ex - Mega Evolution Ascended Heroes 286/217 NM (English) - Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12243691995480,
-      "name": "#3301",
-      "customerName": "Elie richart luna",
-      "createdAt": "2026-04-20T13:33:52+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "125940 Mega Dragonite ex - MEGA Dream ex 250/193 NM (Japanese) — 250/193, Near-Mint / Secret Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -336,36 +369,6 @@
       ]
     },
     {
-      "id": 12267232657752,
-      "name": "#3353",
-      "customerName": "Mike van Vianen",
-      "createdAt": "2026-04-28T00:58:11+02:00",
-      "itemCount": 9,
-      "reasons": [
-        {
-          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12267254284632,
-      "name": "#3355",
-      "customerName": "Kristoffer Bergström",
-      "createdAt": "2026-04-28T01:52:30+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "68174 Mega Evolution Perfect Order Pokémon Center Elite Trainer Box 11 Booster Packs (English) — 11 Booster Packs / Green x Gray",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12268511265112,
       "name": "#3356",
       "customerName": "Simon Geurden",
@@ -393,12 +396,6 @@
       "createdAt": "2026-04-28T19:58:03+02:00",
       "itemCount": 7,
       "reasons": [
-        {
-          "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
         {
           "product": "134668 Nami - Unnumbered Promos (Japanese) OP01‑016 V2 NM (Japanese) — OP01‑016/V2, Near-Mint / Rare",
           "reason": "Insufficient stock",
@@ -429,27 +426,6 @@
       ]
     },
     {
-      "id": 12268646564184,
-      "name": "#3361",
-      "customerName": "Kristoffer Bergström",
-      "createdAt": "2026-04-28T20:34:36+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "142543 Adventure on Kami’s Island Booster Pack (English) - Yellow",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "141083 One Piece Card Game Heroines Edition 1 Booster Pack (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12268683067736,
       "name": "#3363",
       "customerName": "Lars Hollemans",
@@ -457,13 +433,7 @@
       "itemCount": 15,
       "reasons": [
         {
-          "product": "132712 Snorunt - Mega Evolution Ascended Heroes 227/217 NM (English) — 227/217, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132720 Numel - Mega Evolution Ascended Heroes 223/217 NM (English) — 223/217, Near-Mint / Illustration Rare",
+          "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -487,19 +457,7 @@
           "needed": 1
         },
         {
-          "product": "132728 Beautifly - Mega Evolution Ascended Heroes 219/217 NM (English) — 219/217, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "132678 Cynthia’s Spiritomb - Mega Evolution Ascended Heroes 244/217 NM (English) — 244/217, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132636 Mega Froslass ex - Mega Evolution Ascended Heroes 265/217 NM (English) — 265/217, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -512,21 +470,6 @@
         },
         {
           "product": "132850 Mega Eelektross ex - Mega Evolution Ascended Heroes 278/217 NM (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12268760498520,
-      "name": "#3365",
-      "customerName": "Xander Hoiting",
-      "createdAt": "2026-04-28T21:43:58+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -557,21 +500,6 @@
       "reasons": [
         {
           "product": "116671 Team Rocket's Weezing - Scarlet & Violet Destined Rivals 199/182 NM (English) — 199/182, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12270303117656,
-      "name": "#3368",
-      "customerName": "Matus Miskovic",
-      "createdAt": "2026-04-29T19:42:44+02:00",
-      "itemCount": 6,
-      "reasons": [
-        {
-          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -687,7 +615,7 @@
         {
           "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 5,
           "needed": 11
         }
       ]
@@ -710,12 +638,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "133740 Jewelry Bonney - Legacy of the Master OP12‑118 V1 NM (English) — OP12‑118/V1, Near-Mint / Secret Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 4
         },
         {
           "product": "141886 Monkey D. Luffy - Adventure on Kamis Island EB04-061 NM (English) - Secret Rare",
@@ -742,18 +664,6 @@
           "needed": 4
         },
         {
-          "product": "141969 Monkey D. Luffy - Adventure on Kamis Island OP15-119 V1 NM (English) - Secret Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 4
-        },
-        {
-          "product": "127716 Monkey D. Luffy - Carrying on His Will OP13‑118 V1 NM (English) — OP13‑118/V1, Near-Mint / Secret Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 4
-        },
-        {
           "product": "140896 Trafalgar Law - Heroines Edition EB03-062 NM V2 (English) - Alternate Art",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -771,7 +681,7 @@
         {
           "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 5,
           "needed": 6
         }
       ]
@@ -799,12 +709,6 @@
       "itemCount": 4,
       "reasons": [
         {
-          "product": "119077 Snivy - Scarlet & Violet Black Bolt 087/086 NM (English) — 087/086, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "119177 Krookodile - Scarlet & Violet Black Bolt 137/086 NM (English) — 137/086, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -812,12 +716,6 @@
         },
         {
           "product": "119103 Volcarona - Scarlet & Violet Black Bolt 100/086 NM (English) — 100/086, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119113 Seismitoad - Scarlet & Violet Black Bolt 105/086 NM (English) — 105/086, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -912,7 +810,7 @@
         {
           "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 14,
           "needed": 24
         }
       ]
@@ -926,21 +824,6 @@
       "reasons": [
         {
           "product": "120877 Charizard - Sun & Moon Team Up 014/181 NM (English) — 14/181, Near-Mint / Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12276340064600,
-      "name": "#3404",
-      "customerName": "Kevin Enseling/Engelhard",
-      "createdAt": "2026-05-03T14:52:01+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "133948 Tashigi - Legacy of the Master OP12‑031 NM V2 (English) — OP12‑031/V2, Near-Mint / Alternate Art",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1002,7 +885,7 @@
         {
           "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 3,
           "needed": 5
         }
       ]
@@ -1061,12 +944,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "131390 Pillars of Strength One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
         }
       ]
     },
@@ -1118,12 +995,6 @@
       "reasons": [
         {
           "product": "141865 MEGA Ninja Spinner Booster Box 30 Booster Packs (Japanese) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1197,7 +1068,7 @@
         {
           "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 19,
           "needed": 24
         }
       ]
@@ -1304,12 +1175,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -1340,21 +1205,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12286366482776,
-      "name": "#3455",
-      "customerName": "Lukas van Rijt",
-      "createdAt": "2026-05-06T23:06:17+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
         }
       ]
     },
@@ -1779,21 +1629,6 @@
       ]
     },
     {
-      "id": 12297773351256,
-      "name": "#3484",
-      "customerName": "Francisco Sarabia sanchez",
-      "createdAt": "2026-05-11T17:32:30+02:00",
-      "itemCount": 15,
-      "reasons": [
-        {
-          "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12297782722904,
       "name": "#3485",
       "customerName": "fernando queipo de llano de aguilera",
@@ -1805,21 +1640,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12297805889880,
-      "name": "#3486",
-      "customerName": "Stefan Lautmann",
-      "createdAt": "2026-05-11T17:52:40+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 3
         }
       ]
     }
@@ -1934,7 +1754,7 @@
         "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566216536,
         "variantId": 56849731518808,
-        "onHand": 0,
+        "onHand": 5,
         "committed": 2,
         "demand": 2
       },
@@ -2118,7 +1938,7 @@
         "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15643970961752,
         "variantId": 56858997653848,
-        "onHand": 0,
+        "onHand": 5,
         "committed": 21,
         "demand": 21
       },
@@ -2222,7 +2042,7 @@
         "product": "125940 Mega Dragonite ex - MEGA Dream ex 250/193 NM (Japanese) — 250/193, Near-Mint / Secret Rare",
         "productId": 15641387172184,
         "variantId": 56849458135384,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2342,7 +2162,7 @@
         "product": "131908 Mega Evolution Ascended Heroes Charmander Tech Sticker Collection 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
         "productId": 15641337135448,
         "variantId": 56849296195928,
-        "onHand": 6,
+        "onHand": 7,
         "committed": 1,
         "demand": 1
       },
@@ -2358,7 +2178,7 @@
         "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
         "productId": 15641336840536,
         "variantId": 56849295901016,
-        "onHand": 0,
+        "onHand": 4,
         "committed": 10,
         "demand": 10
       },
@@ -2374,7 +2194,7 @@
         "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
         "productId": 15732280426840,
         "variantId": 57196101075288,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -2382,7 +2202,7 @@
         "product": "68174 Mega Evolution Perfect Order Pokémon Center Elite Trainer Box 11 Booster Packs (English) — 11 Booster Packs / Green x Gray",
         "productId": 15732283605336,
         "variantId": 57196109234520,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2409,14 +2229,6 @@
         "onHand": 7,
         "committed": 2,
         "demand": 2
-      },
-      {
-        "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641344541016,
-        "variantId": 56849304584536,
-        "onHand": 0,
-        "committed": 26,
-        "demand": 26
       },
       {
         "product": "134668 Nami - Unnumbered Promos (Japanese) OP01‑016 V2 NM (Japanese) — OP01‑016/V2, Near-Mint / Rare",
@@ -2446,7 +2258,7 @@
         "product": "142543 Adventure on Kami’s Island Booster Pack (English) - Yellow",
         "productId": 15733729952088,
         "variantId": 57200688398680,
-        "onHand": 0,
+        "onHand": 5,
         "committed": 1,
         "demand": 1
       },
@@ -2454,7 +2266,7 @@
         "product": "141083 One Piece Card Game Heroines Edition 1 Booster Pack (English) - Multicolor",
         "productId": 15733730279768,
         "variantId": 57200689152344,
-        "onHand": 0,
+        "onHand": 5,
         "committed": 1,
         "demand": 1
       },
@@ -2462,7 +2274,7 @@
         "product": "132712 Snorunt - Mega Evolution Ascended Heroes 227/217 NM (English) — 227/217, Near-Mint / Illustration Rare",
         "productId": 15641318555992,
         "variantId": 56849267655000,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2470,7 +2282,7 @@
         "product": "132720 Numel - Mega Evolution Ascended Heroes 223/217 NM (English) — 223/217, Near-Mint / Illustration Rare",
         "productId": 15641318293848,
         "variantId": 56849266606424,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2502,7 +2314,7 @@
         "product": "132728 Beautifly - Mega Evolution Ascended Heroes 219/217 NM (English) — 219/217, Near-Mint / Illustration Rare",
         "productId": 15641317998936,
         "variantId": 56849266311512,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2526,7 +2338,7 @@
         "product": "132636 Mega Froslass ex - Mega Evolution Ascended Heroes 265/217 NM (English) — 265/217, Near-Mint / Ultra Rare",
         "productId": 15641320751448,
         "variantId": 56849269850456,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2550,7 +2362,7 @@
         "product": "63011 Mega Hawlucha ex - Mega Evolution Ascended Heroes 283/217 NM (English) — Size 283/217 / Special Illustration Rare",
         "productId": 15653256200536,
         "variantId": 56897712324952,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       },
@@ -2662,7 +2474,7 @@
         "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
         "productId": 15641337299288,
         "variantId": 56849296359768,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2830,7 +2642,7 @@
         "product": "133740 Jewelry Bonney - Legacy of the Master OP12‑118 V1 NM (English) — OP12‑118/V1, Near-Mint / Secret Rare",
         "productId": 15641298895192,
         "variantId": 56849239376216,
-        "onHand": 0,
+        "onHand": 4,
         "committed": 4,
         "demand": 4
       },
@@ -2862,7 +2674,7 @@
         "product": "141969 Monkey D. Luffy - Adventure on Kamis Island OP15-119 V1 NM (English) - Secret Rare",
         "productId": 15737717653848,
         "variantId": 57213673963864,
-        "onHand": 0,
+        "onHand": 4,
         "committed": 4,
         "demand": 4
       },
@@ -2870,7 +2682,7 @@
         "product": "127716 Monkey D. Luffy - Carrying on His Will OP13‑118 V1 NM (English) — OP13‑118/V1, Near-Mint / Secret Rare",
         "productId": 15641379766616,
         "variantId": 56849449648472,
-        "onHand": 0,
+        "onHand": 4,
         "committed": 4,
         "demand": 4
       },
@@ -2894,7 +2706,7 @@
         "product": "119077 Snivy - Scarlet & Violet Black Bolt 087/086 NM (English) — 087/086, Near-Mint / Illustration Rare",
         "productId": 15641515196760,
         "variantId": 56849657758040,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2918,7 +2730,7 @@
         "product": "119113 Seismitoad - Scarlet & Violet Black Bolt 105/086 NM (English) — 105/086, Near-Mint / Illustration Rare",
         "productId": 15641514410328,
         "variantId": 56849656447320,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2995,14 +2807,6 @@
         "demand": 1
       },
       {
-        "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
-        "productId": 15641343099224,
-        "variantId": 56849302946136,
-        "onHand": 0,
-        "committed": 24,
-        "demand": 24
-      },
-      {
         "product": "120877 Charizard - Sun & Moon Team Up 014/181 NM (English) — 14/181, Near-Mint / Rare",
         "productId": 15641499435352,
         "variantId": 56849633411416,
@@ -3014,7 +2818,7 @@
         "product": "133948 Tashigi - Legacy of the Master OP12‑031 NM V2 (English) — OP12‑031/V2, Near-Mint / Alternate Art",
         "productId": 15641288016216,
         "variantId": 56849225843032,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -3094,7 +2898,7 @@
         "product": "131390 Pillars of Strength One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641346277720,
         "variantId": 56849306452312,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
