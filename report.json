@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-12T22:41:29.124Z",
+  "generatedAt": "2026-05-12T23:47:51.594Z",
   "summary": {
-    "totalUnfulfilled": 112,
-    "canFulfill": 37,
-    "blocked": 75
+    "totalUnfulfilled": 114,
+    "canFulfill": 38,
+    "blocked": 76
   },
   "fulfillableOrders": [
     {
@@ -227,6 +227,12 @@
       "name": "#3498",
       "createdAt": "2026-05-12T19:13:15+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12299978867032,
+      "name": "#3500",
+      "createdAt": "2026-05-13T00:43:41+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1642,6 +1648,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12299980144984,
+      "name": "#3501",
+      "customerName": "Stevie Mertens",
+      "createdAt": "2026-05-13T00:45:52+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "116627 Team Rocket's Ariana - Scarlet & Violet Destined Rivals 237/182 NM (English) — 237/182, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2331,8 +2352,8 @@
         "productId": 15641320751448,
         "variantId": 56849269850456,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "132580 Surfer - Mega Evolution Ascended Heroes 293/217 NM (English) — 293/217, Near-Mint / Special Illustration Rare",
@@ -3410,6 +3431,14 @@
         "product": "Logitech G522 Lightspeed",
         "productId": 15752005484888,
         "variantId": 57276394373464,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116627 Team Rocket's Ariana - Scarlet & Violet Destined Rivals 237/182 NM (English) — 237/182, Near-Mint / Special Illustration Rare",
+        "productId": 15641545376088,
+        "variantId": 56849698783576,
         "onHand": 0,
         "committed": 1,
         "demand": 1
