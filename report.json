@@ -1,15 +1,69 @@
 {
-  "generatedAt": "2026-05-12T07:21:19.990Z",
+  "generatedAt": "2026-05-12T10:10:06.768Z",
   "summary": {
     "totalUnfulfilled": 101,
-    "canFulfill": 3,
-    "blocked": 98
+    "canFulfill": 12,
+    "blocked": 89
   },
   "fulfillableOrders": [
+    {
+      "id": 12155749204312,
+      "name": "#2932",
+      "createdAt": "2026-03-13T17:04:47+01:00",
+      "itemCount": 5
+    },
+    {
+      "id": 12259327934808,
+      "name": "#3345",
+      "createdAt": "2026-04-24T16:37:15+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12259405791576,
+      "name": "#3349",
+      "createdAt": "2026-04-24T17:17:01+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12266311811416,
+      "name": "#3350",
+      "createdAt": "2026-04-27T14:12:20+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12266352771416,
+      "name": "#3351",
+      "createdAt": "2026-04-27T14:34:10+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12266408214872,
+      "name": "#3352",
+      "createdAt": "2026-04-27T15:08:57+02:00",
+      "itemCount": 1
+    },
     {
       "id": 12270721794392,
       "name": "#3379",
       "createdAt": "2026-04-30T01:57:30+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12283798651224,
+      "name": "#3439",
+      "createdAt": "2026-05-05T15:23:43+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12286357111128,
+      "name": "#3452",
+      "createdAt": "2026-05-06T22:58:20+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12296316715352,
+      "name": "#3470",
+      "createdAt": "2026-05-10T20:29:30+02:00",
       "itemCount": 1
     },
     {
@@ -26,21 +80,6 @@
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12155749204312,
-      "name": "#2932",
-      "customerName": "Salvador Flores",
-      "createdAt": "2026-03-13T17:04:47+01:00",
-      "itemCount": 5,
-      "reasons": [
-        {
-          "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
     {
       "id": 12181798388056,
       "name": "#2946",
@@ -297,81 +336,6 @@
       ]
     },
     {
-      "id": 12259327934808,
-      "name": "#3345",
-      "customerName": "Valtteri Laine",
-      "createdAt": "2026-04-24T16:37:15+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Logitech Webcam Brio 100 Full HD 1080p Graphite",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12259405791576,
-      "name": "#3349",
-      "customerName": "WILSON Hu",
-      "createdAt": "2026-04-24T17:17:01+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12266311811416,
-      "name": "#3350",
-      "customerName": "Bob Raes",
-      "createdAt": "2026-04-27T14:12:20+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12266352771416,
-      "name": "#3351",
-      "customerName": "Davy Willems",
-      "createdAt": "2026-04-27T14:34:10+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "SteelSeries QcK Performance - Speed Mousepad",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12266408214872,
-      "name": "#3352",
-      "customerName": "Kevin Klostermann",
-      "createdAt": "2026-04-27T15:08:57+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12267232657752,
       "name": "#3353",
       "customerName": "Mike van Vianen",
@@ -393,12 +357,6 @@
       "createdAt": "2026-04-28T01:52:30+02:00",
       "itemCount": 3,
       "reasons": [
-        {
-          "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
         {
           "product": "68174 Mega Evolution Perfect Order Pokémon Center Elite Trainer Box 11 Booster Packs (English) — 11 Booster Packs / Green x Gray",
           "reason": "Insufficient stock",
@@ -617,12 +575,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "113534 Scarlet & Violet Prismatic Evolutions Mini Tin Display 8 Booster Pack (English) — 8 Mini Tin, 2 booster pack, 1 coin each / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -732,12 +684,6 @@
       "createdAt": "2026-04-30T03:06:50+02:00",
       "itemCount": 4,
       "reasons": [
-        {
-          "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
         {
           "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
@@ -961,12 +907,6 @@
           "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 3,
-          "needed": 24
-        },
-        {
-          "product": "132340 The Azure Sea’s Seven One Piece Booster Pack (English) — 12 Cards / Blue",
-          "reason": "Insufficient stock",
-          "stock": 7,
           "needed": 24
         },
         {
@@ -1272,7 +1212,7 @@
         {
           "product": "132340 The Azure Sea’s Seven One Piece Booster Pack (English) — 12 Cards / Blue",
           "reason": "Insufficient stock",
-          "stock": 7,
+          "stock": 31,
           "needed": 48
         }
       ]
@@ -1301,27 +1241,6 @@
       "reasons": [
         {
           "product": "Nintendo Joy-Con 2 Pair",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12283798651224,
-      "name": "#3439",
-      "customerName": "Davey Den hartog",
-      "createdAt": "2026-05-05T15:23:43+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "124004 Phantasmal Flames Mega Evolution Pokémon Center Elite Trainer Box 11 Booster Pack (English) — 11 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "110311 Rayquaza VMAX - Sword & Shield Evolving Skies 218/203 NM (English） — 218/203, Near-Mint / Secret Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1403,21 +1322,6 @@
       "reasons": [
         {
           "product": "133228 Mega Meganium ex - Mega Evolution Ascended Heroes 010/217 NM (English) — 010/217, Near-Mint / Double Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12286357111128,
-      "name": "#3452",
-      "customerName": "Max Hörner",
-      "createdAt": "2026-05-06T22:58:20+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1725,21 +1629,6 @@
       ]
     },
     {
-      "id": 12296316715352,
-      "name": "#3470",
-      "customerName": "Marvin Weber",
-      "createdAt": "2026-05-10T20:29:30+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12296329560408,
       "name": "#3473",
       "customerName": "Mano Boers",
@@ -1949,7 +1838,7 @@
         "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
         "productId": 15642608370008,
         "variantId": 56855458120024,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 3
       },
@@ -2413,7 +2302,7 @@
         "product": "Logitech Webcam Brio 100 Full HD 1080p Graphite",
         "productId": 15727626813784,
         "variantId": 57176214503768,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2421,7 +2310,7 @@
         "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
         "productId": 15641321570648,
         "variantId": 56849271783768,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 3,
         "demand": 3
       },
@@ -2429,7 +2318,7 @@
         "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
         "productId": 15731035668824,
         "variantId": 57191630569816,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2437,7 +2326,7 @@
         "product": "SteelSeries QcK Performance - Speed Mousepad",
         "productId": 15624755183960,
         "variantId": 56783057846616,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2445,7 +2334,7 @@
         "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
         "productId": 15731088589144,
         "variantId": 57191832191320,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2461,7 +2350,7 @@
         "product": "131912 Mega Evolution Ascended Heroes Erika’s Tangela Blister 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
         "productId": 15641336971608,
         "variantId": 56849296032088,
-        "onHand": 8,
+        "onHand": 9,
         "committed": 1,
         "demand": 1
       },
@@ -2485,7 +2374,7 @@
         "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
         "productId": 15732280426840,
         "variantId": 57196101075288,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2669,7 +2558,7 @@
         "product": "132620 Mega Emboar ex - Mega Evolution Ascended Heroes 273/217 NM (English) — Special Illustration Rare / Size 273/217",
         "productId": 15653254889816,
         "variantId": 56897702330712,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       },
@@ -2781,7 +2670,7 @@
         "product": "113534 Scarlet & Violet Prismatic Evolutions Mini Tin Display 8 Booster Pack (English) — 8 Mini Tin, 2 booster pack, 1 coin each / Multicolor",
         "productId": 15641562644824,
         "variantId": 56849718051160,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3106,14 +2995,6 @@
         "demand": 1
       },
       {
-        "product": "132340 The Azure Sea’s Seven One Piece Booster Pack (English) — 12 Cards / Blue",
-        "productId": 15641321636184,
-        "variantId": 56849271816536,
-        "onHand": 7,
-        "committed": 72,
-        "demand": 72
-      },
-      {
         "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641343099224,
         "variantId": 56849302946136,
@@ -3309,7 +3190,7 @@
         "product": "124004 Phantasmal Flames Mega Evolution Pokémon Center Elite Trainer Box 11 Booster Pack (English) — 11 Booster Packs / Multicolor",
         "productId": 15641488621912,
         "variantId": 56849615487320,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3317,7 +3198,7 @@
         "product": "110311 Rayquaza VMAX - Sword & Shield Evolving Skies 218/203 NM (English） — 218/203, Near-Mint / Secret Rare",
         "productId": 15641564086616,
         "variantId": 56849720377688,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3673,10 +3554,10 @@
         "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
         "productId": 15731035668824,
         "variantId": 57191630569816,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
-        "incoming": 1,
-        "available": -2,
+        "incoming": 0,
+        "available": -1,
         "shortfall": 1
       },
       {
