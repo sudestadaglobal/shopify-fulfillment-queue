@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-12T19:27:38.674Z",
+  "generatedAt": "2026-05-12T21:09:46.718Z",
   "summary": {
     "totalUnfulfilled": 112,
-    "canFulfill": 36,
-    "blocked": 76
+    "canFulfill": 37,
+    "blocked": 75
   },
   "fulfillableOrders": [
     {
@@ -113,6 +113,12 @@
       "name": "#3379",
       "createdAt": "2026-04-30T01:57:30+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12272087662936,
+      "name": "#3385",
+      "createdAt": "2026-04-30T20:35:15+02:00",
+      "itemCount": 3
     },
     {
       "id": 12276331282776,
@@ -591,7 +597,7 @@
         {
           "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 5,
+          "stock": 9,
           "needed": 11
         }
       ]
@@ -644,21 +650,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 4
-        }
-      ]
-    },
-    {
-      "id": 12272087662936,
-      "name": "#3385",
-      "customerName": "Stefan Lautmann",
-      "createdAt": "2026-04-30T20:35:15+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 5,
-          "needed": 6
         }
       ]
     },
@@ -1939,7 +1930,7 @@
         "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15643970961752,
         "variantId": 56858997653848,
-        "onHand": 5,
+        "onHand": 9,
         "committed": 21,
         "demand": 21
       },
