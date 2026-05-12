@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-12T15:27:37.053Z",
+  "generatedAt": "2026-05-12T17:38:47.807Z",
   "summary": {
-    "totalUnfulfilled": 104,
-    "canFulfill": 32,
-    "blocked": 72
+    "totalUnfulfilled": 112,
+    "canFulfill": 36,
+    "blocked": 76
   },
   "fulfillableOrders": [
     {
-      "id": 12155749204312,
-      "name": "#2932",
-      "createdAt": "2026-03-13T17:04:47+01:00",
-      "itemCount": 5
+      "id": 12181798388056,
+      "name": "#2946",
+      "createdAt": "2026-03-16T19:04:32+01:00",
+      "itemCount": 8
     },
     {
       "id": 12243691995480,
@@ -197,24 +197,33 @@
       "name": "#3490",
       "createdAt": "2026-05-12T17:17:28+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12299490623832,
+      "name": "#3493",
+      "createdAt": "2026-05-12T18:30:02+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12299495997784,
+      "name": "#3494",
+      "createdAt": "2026-05-12T18:34:08+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12299508187480,
+      "name": "#3495",
+      "createdAt": "2026-05-12T18:43:30+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12299552424280,
+      "name": "#3498",
+      "createdAt": "2026-05-12T19:13:15+02:00",
+      "itemCount": 2
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12181798388056,
-      "name": "#2946",
-      "customerName": "Mike van Vianen",
-      "createdAt": "2026-03-16T19:04:32+01:00",
-      "itemCount": 8,
-      "reasons": [
-        {
-          "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
     {
       "id": 12203074027864,
       "name": "#3086",
@@ -1555,41 +1564,104 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12299464376664,
+      "name": "#3491",
+      "customerName": "Micain Helenklaken",
+      "createdAt": "2026-05-12T18:11:38+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "141863 MEGA Ninja Spinner Booster Pack (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12299489706328,
+      "name": "#3492",
+      "customerName": "Eddie Heikkinen",
+      "createdAt": "2026-05-12T18:29:28+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Apple iPhone 17 Pro Max Cosmic Orange 1TB",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12299513823576,
+      "name": "#3496",
+      "customerName": "Fredrik Aschjem",
+      "createdAt": "2026-05-12T18:47:33+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12299536662872,
+      "name": "#3497",
+      "customerName": "jorn kooijstra",
+      "createdAt": "2026-05-12T19:02:40+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Logitech G522 Lightspeed",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12299557699928,
+      "name": "#3499",
+      "customerName": "Mathias Jensen",
+      "createdAt": "2026-05-12T19:16:50+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 2,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
     "lowStock": [
       {
-        "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-        "productId": 15641336611160,
-        "variantId": 56849295671640,
-        "onHand": 7,
-        "committed": 5,
-        "demand": 5
-      },
-      {
-        "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
-        "productId": 15642608370008,
-        "variantId": 56855458120024,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 3
-      },
-      {
-        "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
-        "productId": 15641336906072,
-        "variantId": 56849295966552,
-        "onHand": 2,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
         "productId": 15641321406808,
         "variantId": 56849271619928,
         "onHand": 7,
-        "committed": 2,
-        "demand": 2
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -1600,12 +1672,28 @@
         "demand": 2
       },
       {
+        "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
+        "productId": 15642608370008,
+        "variantId": 56855458120024,
+        "onHand": 1,
+        "committed": 2,
+        "demand": 1
+      },
+      {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336676696,
         "variantId": 56849295737176,
         "onHand": 4,
         "committed": 2,
         "demand": 2
+      },
+      {
+        "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336611160,
+        "variantId": 56849295671640,
+        "onHand": 7,
+        "committed": 5,
+        "demand": 4
       },
       {
         "product": "136139 Pokémon GO Mewtwo V Battle Deck (English) — 60 cards / Multicolor",
@@ -2100,8 +2188,8 @@
         "productId": 15641336152408,
         "variantId": 56849295245656,
         "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
@@ -2964,8 +3052,8 @@
         "productId": 15641268355416,
         "variantId": 56849193173336,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "133228 Mega Meganium ex - Mega Evolution Ascended Heroes 010/217 NM (English) — 010/217, Near-Mint / Double Rare",
@@ -3180,8 +3268,8 @@
         "productId": 15641488556376,
         "variantId": 56849615421784,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119435 Giovanni’s Charisma - Scarlet & Violet 151 204/165 NM (English) — 204/165, Near-Mint / Special Illustration Rare",
@@ -3276,6 +3364,62 @@
         "productId": 15338563338584,
         "variantId": 55853592019288,
         "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "141863 MEGA Ninja Spinner Booster Pack (Japanese)",
+        "productId": 15720120385880,
+        "variantId": 57151497830744,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131906 Mega Evolution Ascended Heroes Gastly Tech Sticker Collection 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+        "productId": 15641337233752,
+        "variantId": 56849296294232,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
+        "productId": 15641321341272,
+        "variantId": 56849271554392,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Apple iPhone 17 Pro Max Cosmic Orange 1TB",
+        "productId": 15414816145752,
+        "variantId": 56133966659928,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "109978 Charmeleon - Scarlet & Violet 151 169/165 NM (Japanese) — 169/165, Near-Mint / Illustration Rare",
+        "productId": 15641568936280,
+        "variantId": 56849736302936,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Into the Inklands Gift Set",
+        "productId": 15509499117912,
+        "variantId": 56381552230744,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Logitech G522 Lightspeed",
+        "productId": 15752005484888,
+        "variantId": 57276394373464,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
@@ -3375,6 +3519,26 @@
         "product": "Nintendo Switch 2",
         "productId": 15190942450008,
         "variantId": 55272488501592,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Apple iPhone 17 Pro Max Cosmic Orange 1TB",
+        "productId": 15414816145752,
+        "variantId": 56133966659928,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Logitech G522 Lightspeed",
+        "productId": 15752005484888,
+        "variantId": 57276394373464,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
