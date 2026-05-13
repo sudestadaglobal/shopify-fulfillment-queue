@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-13T08:29:33.446Z",
+  "generatedAt": "2026-05-13T11:13:16.034Z",
   "summary": {
     "totalUnfulfilled": 92,
-    "canFulfill": 17,
-    "blocked": 75
+    "canFulfill": 18,
+    "blocked": 74
   },
   "fulfillableOrders": [
     {
@@ -46,6 +46,12 @@
       "id": 12286366482776,
       "name": "#3455",
       "createdAt": "2026-05-06T23:06:17+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12287542296920,
+      "name": "#3458",
+      "createdAt": "2026-05-07T16:51:08+02:00",
       "itemCount": 1
     },
     {
@@ -430,12 +436,6 @@
           "needed": 1
         },
         {
-          "product": "142459 Brook - Adventure on Kami’s Island OP15-032 V2 NM (English) - Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "127956 Sanji - Carrying on His Will OP13‑027 V2 NM (English) — OP13‑027/V2, Near-Mint / Alternate Art",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -443,12 +443,6 @@
         },
         {
           "product": "142423 Sanji - Adventure on Kami’s Island OP15-047 V2 NM (English) - Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "141961 Jewelry Bonney - Adventure on Kamis Island EB04-002 V2 NM (English) - Alternate Art",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -829,12 +823,6 @@
           "needed": 1
         },
         {
-          "product": "142459 Brook - Adventure on Kami’s Island OP15-032 V2 NM (English) - Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "133712 Zoro‑Juurou - Legacy of the Master ST18‑004 NM (English) — ST18‑004, Near-Mint / Special Rare",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1016,27 +1004,6 @@
       "reasons": [
         {
           "product": "114534 Articuno - Scarlet & Violet Journey Together 161/159 NM (English) — 161/159, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "140422 Clefairy - Mega Evolution Perfect Order 094/088 NM (English) - Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12287542296920,
-      "name": "#3458",
-      "customerName": "Luis Mesa Provencio",
-      "createdAt": "2026-05-07T16:51:08+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131604 Anime 25th Collection One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1535,36 +1502,12 @@
         "demand": 5
       },
       {
-        "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-        "productId": 15641336775000,
-        "variantId": 56849295835480,
-        "onHand": 5,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
         "productId": 15642608370008,
         "variantId": 56855458120024,
         "onHand": 1,
         "committed": 2,
         "demand": 1
-      },
-      {
-        "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-        "productId": 15641336676696,
-        "variantId": 56849295737176,
-        "onHand": 3,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-        "productId": 15641336611160,
-        "variantId": 56849295671640,
-        "onHand": 6,
-        "committed": 4,
-        "demand": 3
       },
       {
         "product": "136139 Pokémon GO Mewtwo V Battle Deck (English) — 60 cards / Multicolor",
@@ -2202,7 +2145,7 @@
         "product": "142459 Brook - Adventure on Kami’s Island OP15-032 V2 NM (English) - Alternate Art",
         "productId": 15736177328472,
         "variantId": 57207824482648,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2226,7 +2169,7 @@
         "product": "141961 Jewelry Bonney - Adventure on Kamis Island EB04-002 V2 NM (English) - Alternate Art",
         "productId": 15736177623384,
         "variantId": 57207824908632,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2698,7 +2641,7 @@
         "product": "140422 Clefairy - Mega Evolution Perfect Order 094/088 NM (English) - Illustration Rare",
         "productId": 15745643970904,
         "variantId": 57248154190168,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2706,7 +2649,7 @@
         "product": "131604 Anime 25th Collection One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
         "productId": 15641340281176,
         "variantId": 56849299800408,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -3102,46 +3045,6 @@
         "product": "Funko POP! Deluxe DC Comics Batman #521",
         "productId": 15750366298456,
         "variantId": 57268796457304,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Corsair VOID MAX Wireless v2 Headset",
-        "productId": 15572758135128,
-        "variantId": 56576367395160,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Nintendo Switch 2",
-        "productId": 15190942450008,
-        "variantId": 55272488501592,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Apple iPhone 17 Pro Max Cosmic Orange 1TB",
-        "productId": 15414816145752,
-        "variantId": 56133966659928,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Logitech G522 Lightspeed",
-        "productId": 15752005484888,
-        "variantId": 57276394373464,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
