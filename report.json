@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-13T18:21:10.480Z",
+  "generatedAt": "2026-05-13T20:22:21.792Z",
   "summary": {
-    "totalUnfulfilled": 77,
+    "totalUnfulfilled": 79,
     "canFulfill": 5,
-    "blocked": 72
+    "blocked": 74
   },
   "fulfillableOrders": [
     {
@@ -1399,6 +1399,36 @@
           "needed": 2
         }
       ]
+    },
+    {
+      "id": 12302005403992,
+      "name": "#3508",
+      "customerName": "jonathan sorpola",
+      "createdAt": "2026-05-13T22:05:38+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12302009958744,
+      "name": "#3509",
+      "customerName": "Jayden van Veen",
+      "createdAt": "2026-05-13T22:08:58+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119419 Mew ex V3 - Scarlet & Violet 151 205/165 NM (English) — 205/165, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1856,8 +1886,8 @@
         "productId": 15641336152408,
         "variantId": 56849295245656,
         "onHand": 0,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "132712 Snorunt - Mega Evolution Ascended Heroes 227/217 NM (English) — 227/217, Near-Mint / Illustration Rare",
@@ -2818,6 +2848,14 @@
         "onHand": 1,
         "committed": 2,
         "demand": 2
+      },
+      {
+        "product": "119419 Mew ex V3 - Scarlet & Violet 151 205/165 NM (English) — 205/165, Near-Mint / Secret Rare",
+        "productId": 15641507660120,
+        "variantId": 56849645502808,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
