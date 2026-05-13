@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-13T11:13:16.034Z",
+  "generatedAt": "2026-05-13T13:34:36.468Z",
   "summary": {
-    "totalUnfulfilled": 92,
-    "canFulfill": 18,
-    "blocked": 74
+    "totalUnfulfilled": 93,
+    "canFulfill": 24,
+    "blocked": 69
   },
   "fulfillableOrders": [
     {
@@ -11,6 +11,12 @@
       "name": "#2946",
       "createdAt": "2026-03-16T19:04:32+01:00",
       "itemCount": 8
+    },
+    {
+      "id": 12205808517464,
+      "name": "#3129",
+      "createdAt": "2026-03-31T18:56:06+02:00",
+      "itemCount": 1
     },
     {
       "id": 12259405791576,
@@ -43,6 +49,24 @@
       "itemCount": 3
     },
     {
+      "id": 12276366770520,
+      "name": "#3407",
+      "createdAt": "2026-05-03T15:07:48+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12278032007512,
+      "name": "#3417",
+      "createdAt": "2026-05-04T14:19:07+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12278509568344,
+      "name": "#3429",
+      "createdAt": "2026-05-04T18:58:43+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12286366482776,
       "name": "#3455",
       "createdAt": "2026-05-06T23:06:17+02:00",
@@ -52,6 +76,12 @@
       "id": 12287542296920,
       "name": "#3458",
       "createdAt": "2026-05-07T16:51:08+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12291393093976,
+      "name": "#3459",
+      "createdAt": "2026-05-07T23:23:00+02:00",
       "itemCount": 1
     },
     {
@@ -113,6 +143,12 @@
       "name": "#3500",
       "createdAt": "2026-05-13T00:43:41+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12300761596248,
+      "name": "#3502",
+      "createdAt": "2026-05-13T14:08:18+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -161,21 +197,6 @@
       "reasons": [
         {
           "product": "119213 Braviary - Scarlet & Violet Black Bolt 155/086 NM (English) — 155/086, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12205808517464,
-      "name": "#3129",
-      "customerName": "Matthias Kurath",
-      "createdAt": "2026-03-31T18:56:06+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "118770 Swoobat - Scarlet & Violet White Flare 120/086 NM (English) — 120/086, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -409,12 +430,6 @@
       "itemCount": 2,
       "reasons": [
         {
-          "product": "141886 Monkey D. Luffy - Adventure on Kamis Island EB04-061 NM (English) - Secret Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        },
-        {
           "product": "140922 Nico Robin - Heroines Edition EB03-055 NM V1 (English)",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -498,7 +513,7 @@
         {
           "product": "141886 Monkey D. Luffy - Adventure on Kamis Island EB04-061 NM (English) - Secret Rare",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 2,
           "needed": 3
         },
         {
@@ -639,21 +654,6 @@
       ]
     },
     {
-      "id": 12276366770520,
-      "name": "#3407",
-      "customerName": "Vilius Zinkevičius",
-      "createdAt": "2026-05-03T15:07:48+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "118840 Herdier - Scarlet & Violet White Flare 155/086 NM (English) — 155/086, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12276414775640,
       "name": "#3412",
       "customerName": "Lukas van Rijt",
@@ -677,27 +677,6 @@
       "reasons": [
         {
           "product": "130858 Tony Tony Chopper ST01‑006 NM V3 (English) — ST01‑006/V3, Near-Mint / Common",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12278032007512,
-      "name": "#3417",
-      "customerName": "Jakub Grabarz",
-      "createdAt": "2026-05-04T14:19:07+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "LOUNGEFLY Loungefly Pokémon Eevee Backpack",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "LOUNGEFLY Loungefly Pokémon Pikachu Backpack",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -773,21 +752,6 @@
       "reasons": [
         {
           "product": "141865 MEGA Ninja Spinner Booster Box 30 Booster Packs (Japanese) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12278509568344,
-      "name": "#3429",
-      "customerName": "Mario Heine",
-      "createdAt": "2026-05-04T18:58:43+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131930 Mega Evolution Ascended Heroes Riolu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1004,21 +968,6 @@
       "reasons": [
         {
           "product": "114534 Articuno - Scarlet & Violet Journey Together 161/159 NM (English) — 161/159, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12291393093976,
-      "name": "#3459",
-      "customerName": "Šimon Vích",
-      "createdAt": "2026-05-07T23:23:00+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "119207 Minccino - Scarlet & Violet Black Bolt 152/086 NM (English) — 152/086, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1673,7 +1622,7 @@
         "product": "118770 Swoobat - Scarlet & Violet White Flare 120/086 NM (English) — 120/086, Near-Mint / Illustration Rare",
         "productId": 15641520865624,
         "variantId": 56849666867544,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2113,7 +2062,7 @@
         "product": "141886 Monkey D. Luffy - Adventure on Kamis Island EB04-061 NM (English) - Secret Rare",
         "productId": 15736169988440,
         "variantId": 57207807443288,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 5,
         "demand": 5
       },
@@ -2401,7 +2350,7 @@
         "product": "118840 Herdier - Scarlet & Violet White Flare 155/086 NM (English) — 155/086, Near-Mint / Illustration Rare",
         "productId": 15641519391064,
         "variantId": 56849664901464,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2433,7 +2382,7 @@
         "product": "LOUNGEFLY Loungefly Pokémon Eevee Backpack",
         "productId": 15742175478104,
         "variantId": 57231836315992,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2441,7 +2390,7 @@
         "product": "LOUNGEFLY Loungefly Pokémon Pikachu Backpack",
         "productId": 15742182326616,
         "variantId": 57231921381720,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2513,7 +2462,7 @@
         "product": "131930 Mega Evolution Ascended Heroes Riolu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
         "productId": 15641336381784,
         "variantId": 56849295442264,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2657,7 +2606,7 @@
         "product": "119207 Minccino - Scarlet & Violet Black Bolt 152/086 NM (English) — 152/086, Near-Mint / Illustration Rare",
         "productId": 15641512509784,
         "variantId": 56849653563736,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2988,6 +2937,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "128212 The Town on No Map McDonald’s Booster Pack (Japanese) - Multicolor",
+        "productId": 15737483985240,
+        "variantId": 57212670542168,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3000,26 +2957,6 @@
         "incoming": 0,
         "available": -22,
         "shortfall": 22
-      },
-      {
-        "product": "LOUNGEFLY Loungefly Pokémon Eevee Backpack",
-        "productId": 15742175478104,
-        "variantId": 57231836315992,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "LOUNGEFLY Loungefly Pokémon Pikachu Backpack",
-        "productId": 15742182326616,
-        "variantId": 57231921381720,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
       },
       {
         "product": "JAZWARES Pokémon Pancham Plush Toy",
