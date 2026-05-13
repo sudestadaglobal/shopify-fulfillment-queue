@@ -1,141 +1,15 @@
 {
-  "generatedAt": "2026-05-13T13:34:36.468Z",
+  "generatedAt": "2026-05-13T16:11:17.613Z",
   "summary": {
-    "totalUnfulfilled": 93,
-    "canFulfill": 24,
-    "blocked": 69
+    "totalUnfulfilled": 77,
+    "canFulfill": 5,
+    "blocked": 72
   },
   "fulfillableOrders": [
-    {
-      "id": 12181798388056,
-      "name": "#2946",
-      "createdAt": "2026-03-16T19:04:32+01:00",
-      "itemCount": 8
-    },
     {
       "id": 12205808517464,
       "name": "#3129",
       "createdAt": "2026-03-31T18:56:06+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12259405791576,
-      "name": "#3349",
-      "createdAt": "2026-04-24T17:17:01+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12268646564184,
-      "name": "#3361",
-      "createdAt": "2026-04-28T20:34:36+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12268760498520,
-      "name": "#3365",
-      "createdAt": "2026-04-28T21:43:58+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12270721794392,
-      "name": "#3379",
-      "createdAt": "2026-04-30T01:57:30+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12272087662936,
-      "name": "#3385",
-      "createdAt": "2026-04-30T20:35:15+02:00",
-      "itemCount": 3
-    },
-    {
-      "id": 12276366770520,
-      "name": "#3407",
-      "createdAt": "2026-05-03T15:07:48+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12278032007512,
-      "name": "#3417",
-      "createdAt": "2026-05-04T14:19:07+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12278509568344,
-      "name": "#3429",
-      "createdAt": "2026-05-04T18:58:43+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12286366482776,
-      "name": "#3455",
-      "createdAt": "2026-05-06T23:06:17+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12287542296920,
-      "name": "#3458",
-      "createdAt": "2026-05-07T16:51:08+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12291393093976,
-      "name": "#3459",
-      "createdAt": "2026-05-07T23:23:00+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12296316715352,
-      "name": "#3470",
-      "createdAt": "2026-05-10T20:29:30+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12297773351256,
-      "name": "#3484",
-      "createdAt": "2026-05-11T17:32:30+02:00",
-      "itemCount": 15
-    },
-    {
-      "id": 12297805889880,
-      "name": "#3486",
-      "createdAt": "2026-05-11T17:52:40+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12299381080408,
-      "name": "#3490",
-      "createdAt": "2026-05-12T17:17:28+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12299490623832,
-      "name": "#3493",
-      "createdAt": "2026-05-12T18:30:02+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12299495997784,
-      "name": "#3494",
-      "createdAt": "2026-05-12T18:34:08+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12299508187480,
-      "name": "#3495",
-      "createdAt": "2026-05-12T18:43:30+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12299552424280,
-      "name": "#3498",
-      "createdAt": "2026-05-12T19:13:15+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12299557699928,
-      "name": "#3499",
-      "createdAt": "2026-05-12T19:16:50+02:00",
       "itemCount": 1
     },
     {
@@ -148,6 +22,18 @@
       "id": 12300761596248,
       "name": "#3502",
       "createdAt": "2026-05-13T14:08:18+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12301039042904,
+      "name": "#3505",
+      "createdAt": "2026-05-13T16:56:46+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12301043663192,
+      "name": "#3506",
+      "createdAt": "2026-05-13T16:59:18+02:00",
       "itemCount": 1
     }
   ],
@@ -227,6 +113,12 @@
       "reasons": [
         {
           "product": "141085 One Piece Card Game Heroines Edition Booster Box 24 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -484,9 +376,15 @@
       "itemCount": 4,
       "reasons": [
         {
+          "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
           "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 9,
+          "stock": 0,
           "needed": 11
         }
       ]
@@ -663,7 +561,7 @@
         {
           "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 3,
+          "stock": 1,
           "needed": 5
         }
       ]
@@ -1438,26 +1336,73 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12300945949016,
+      "name": "#3503",
+      "customerName": "Šimon Vích",
+      "createdAt": "2026-05-13T15:58:49+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "119209 Cinccino - Scarlet & Violet Black Bolt 153/086 NM (English) — 153/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "120685 Espeon GX - Sun & Moon 140/149 NM (English) — 140/149, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132690 Team Rocket’s Mimikyu - Mega Evolution Ascended Heroes 238/217 NM (English) — 238/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12301012205912,
+      "name": "#3504",
+      "customerName": "Ian Byrne",
+      "createdAt": "2026-05-13T16:38:56+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "120769 Sun & Moon Team Up Pikachu 1 Booster Pack Blister (English) — 1 card, 1 Blister / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12301091897688,
+      "name": "#3507",
+      "customerName": "Fredrik Aschjem",
+      "createdAt": "2026-05-13T17:30:13+02:00",
+      "itemCount": 7,
+      "reasons": [
+        {
+          "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
     "lowStock": [
-      {
-        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-        "productId": 15641321406808,
-        "variantId": 56849271619928,
-        "onHand": 6,
-        "committed": 5,
-        "demand": 5
-      },
-      {
-        "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
-        "productId": 15642608370008,
-        "variantId": 56855458120024,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 1
-      },
       {
         "product": "136139 Pokémon GO Mewtwo V Battle Deck (English) — 60 cards / Multicolor",
         "productId": 15641264882008,
@@ -1518,17 +1463,17 @@
         "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566216536,
         "variantId": 56849731518808,
-        "onHand": 5,
-        "committed": 2,
-        "demand": 2
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566052696,
         "variantId": 56849731354968,
-        "onHand": 6,
-        "committed": 3,
-        "demand": 3
+        "onHand": 5,
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110204 Scarlet & Violet Future Flash Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -1542,9 +1487,9 @@
         "product": "110220 Scarlet & Violet Clay Burst Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641565593944,
         "variantId": 56849722704216,
-        "onHand": 8,
-        "committed": 2,
-        "demand": 2
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "124010 Phantasmal Flames Mega Evolution Build & Battle Box 4 Booster Pack(English) — 4 Booster Packs / Multicolor",
@@ -1686,7 +1631,7 @@
         "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
         "productId": 15641345753432,
         "variantId": 56849305796952,
-        "onHand": 8,
+        "onHand": 7,
         "committed": 3,
         "demand": 3
       },
@@ -1702,9 +1647,9 @@
         "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15643970961752,
         "variantId": 56858997653848,
-        "onHand": 9,
-        "committed": 21,
-        "demand": 21
+        "onHand": 0,
+        "committed": 12,
+        "demand": 12
       },
       {
         "product": "131472 Royal Blood One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
@@ -1867,14 +1812,6 @@
         "demand": 1
       },
       {
-        "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
-        "productId": 15641321570648,
-        "variantId": 56849271783768,
-        "onHand": 2,
-        "committed": 3,
-        "demand": 3
-      },
-      {
         "product": "119129 Tynamo - Scarlet & Violet Black Bolt 113/086 NM (English) — 113/086, Near-Mint / Illustration Rare",
         "productId": 15641514082648,
         "variantId": 56849655988568,
@@ -1915,28 +1852,12 @@
         "demand": 3
       },
       {
-        "product": "142543 Adventure on Kami’s Island Booster Pack (English) - Yellow",
-        "productId": 15733729952088,
-        "variantId": 57200688398680,
-        "onHand": 5,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "141083 One Piece Card Game Heroines Edition 1 Booster Pack (English) - Multicolor",
-        "productId": 15733730279768,
-        "variantId": 57200689152344,
-        "onHand": 5,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
         "productId": 15641336152408,
         "variantId": 56849295245656,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "132712 Snorunt - Mega Evolution Ascended Heroes 227/217 NM (English) — 227/217, Near-Mint / Illustration Rare",
@@ -2051,14 +1972,6 @@
         "demand": 1
       },
       {
-        "product": "131480 Kingdoms of Intrigue One Piece Booster Pack (English) — 12 cards / Multicolor",
-        "productId": 15641344672088,
-        "variantId": 56849304715608,
-        "onHand": 4,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "141886 Monkey D. Luffy - Adventure on Kamis Island EB04-061 NM (English) - Secret Rare",
         "productId": 15736169988440,
         "variantId": 57207807443288,
@@ -2073,14 +1986,6 @@
         "onHand": 0,
         "committed": 2,
         "demand": 2
-      },
-      {
-        "product": "128182 Pop Series 5 Booster Pack (English)",
-        "productId": 15736173494616,
-        "variantId": 57207818027352,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
       },
       {
         "product": "141955 Smoker & Tashigi - Adventure on Kamis Island EB04-003 V2 NM (English) - Special Rare",
@@ -2151,6 +2056,14 @@
         "productId": 15736178377048,
         "variantId": 57207825924440,
         "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
+        "productId": 15641321570648,
+        "variantId": 56849271783768,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       },
@@ -2334,7 +2247,7 @@
         "product": "110190 Scarlet & Violet Temporal Forces (English) — 10 cards / Multicolor",
         "productId": 15641566151000,
         "variantId": 56849731453272,
-        "onHand": 5,
+        "onHand": 4,
         "committed": 2,
         "demand": 2
       },
@@ -2343,14 +2256,6 @@
         "productId": 15641364463960,
         "variantId": 56849423106392,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "118840 Herdier - Scarlet & Violet White Flare 155/086 NM (English) — 155/086, Near-Mint / Illustration Rare",
-        "productId": 15641519391064,
-        "variantId": 56849664901464,
-        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2366,9 +2271,9 @@
         "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
         "productId": 15641336840536,
         "variantId": 56849295901016,
-        "onHand": 3,
-        "committed": 9,
-        "demand": 9
+        "onHand": 1,
+        "committed": 8,
+        "demand": 8
       },
       {
         "product": "130858 Tony Tony Chopper ST01‑006 NM V3 (English) — ST01‑006/V3, Near-Mint / Common",
@@ -2377,22 +2282,6 @@
         "onHand": 0,
         "committed": 2,
         "demand": 2
-      },
-      {
-        "product": "LOUNGEFLY Loungefly Pokémon Eevee Backpack",
-        "productId": 15742175478104,
-        "variantId": 57231836315992,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "LOUNGEFLY Loungefly Pokémon Pikachu Backpack",
-        "productId": 15742182326616,
-        "variantId": 57231921381720,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
       },
       {
         "product": "131584 Awakening of the New Era One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / White",
@@ -2459,14 +2348,6 @@
         "demand": 1
       },
       {
-        "product": "131930 Mega Evolution Ascended Heroes Riolu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
-        "productId": 15641336381784,
-        "variantId": 56849295442264,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "iPhone 17 Pro 1 TB Silver",
         "productId": 15742613553496,
         "variantId": 57234356044120,
@@ -2519,8 +2400,8 @@
         "productId": 15641500451160,
         "variantId": 56849634558296,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "120833 Celebi & Venusaur GX - Sun & Moon Team Up 001/181 NM (English) — 1/181, Near-Mint / Ultra Rare",
@@ -2595,22 +2476,6 @@
         "demand": 1
       },
       {
-        "product": "131604 Anime 25th Collection One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
-        "productId": 15641340281176,
-        "variantId": 56849299800408,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "119207 Minccino - Scarlet & Violet Black Bolt 152/086 NM (English) — 152/086, Near-Mint / Illustration Rare",
-        "productId": 15641512509784,
-        "variantId": 56849653563736,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "131928 Mega Evolution Ascended Heroes Pikachu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
         "productId": 15641336447320,
         "variantId": 56849295507800,
@@ -2630,6 +2495,14 @@
         "product": "110062 Scarlet & Violet Twilight Masquerade Booster Box 36 pack (English) — 36 booster pack / Multicolor",
         "productId": 15641567461720,
         "variantId": 56849733484888,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131604 Anime 25th Collection One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+        "productId": 15641340281176,
+        "variantId": 56849299800408,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -2671,8 +2544,8 @@
         "productId": 15641319244120,
         "variantId": 56849268343128,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "120691 Lapras GX - Sun & Moon 151/149 NM (English) — 151/149, Near-Mint / Rainbow Rare",
@@ -2819,30 +2692,6 @@
         "demand": 1
       },
       {
-        "product": "110182 Scarlet & Violet Night Wanderer Booster Pack (Japanese) — 5 cards / Multicolor",
-        "productId": 15641566347608,
-        "variantId": 56849732141400,
-        "onHand": 2,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "110300 Scarlet & Violet Cyber Judge Booster Pack (Japanese) — 5 cards / Multicolor",
-        "productId": 15641564217688,
-        "variantId": 56849720508760,
-        "onHand": 5,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131864 Nihil Zero Booster Pack (Japanese) — 5 cards / Multicolor",
-        "productId": 15641337626968,
-        "variantId": 56849296687448,
-        "onHand": 6,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
         "productId": 15731035668824,
         "variantId": 57191630569816,
@@ -2863,14 +2712,6 @@
         "productId": 15190942450008,
         "variantId": 55272488501592,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "Apple AirPods Pro 3",
-        "productId": 15338563338584,
-        "variantId": 55853592019288,
-        "onHand": 3,
         "committed": 1,
         "demand": 1
       },
@@ -2907,22 +2748,6 @@
         "demand": 1
       },
       {
-        "product": "109978 Charmeleon - Scarlet & Violet 151 169/165 NM (Japanese) — 169/165, Near-Mint / Illustration Rare",
-        "productId": 15641568936280,
-        "variantId": 56849736302936,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "Into the Inklands Gift Set",
-        "productId": 15509499117912,
-        "variantId": 56381552230744,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "Logitech G522 Lightspeed",
         "productId": 15752005484888,
         "variantId": 57276394373464,
@@ -2945,6 +2770,54 @@
         "onHand": 1,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "119209 Cinccino - Scarlet & Violet Black Bolt 153/086 NM (English) — 153/086, Near-Mint / Illustration Rare",
+        "productId": 15641512444248,
+        "variantId": 56849653465432,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "120685 Espeon GX - Sun & Moon 140/149 NM (English) — 140/149, Near-Mint / Ultra Rare",
+        "productId": 15641502908760,
+        "variantId": 56849637540184,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "120769 Sun & Moon Team Up Pikachu 1 Booster Pack Blister (English) — 1 card, 1 Blister / Multicolor",
+        "productId": 15641501434200,
+        "variantId": 56849635574104,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
+        "productId": 15641336906072,
+        "variantId": 56849295966552,
+        "onHand": 2,
+        "committed": 2,
+        "demand": 1
+      },
+      {
+        "product": "131908 Mega Evolution Ascended Heroes Charmander Tech Sticker Collection 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+        "productId": 15641337135448,
+        "variantId": 56849296195928,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+        "productId": 15641321406808,
+        "variantId": 56849271619928,
+        "onHand": 1,
+        "committed": 2,
+        "demand": 2
       }
     ],
     "demandExceedsStock": [
