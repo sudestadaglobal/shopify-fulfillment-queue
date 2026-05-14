@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-14T20:44:39.625Z",
+  "generatedAt": "2026-05-14T21:56:34.961Z",
   "summary": {
-    "totalUnfulfilled": 88,
-    "canFulfill": 9,
-    "blocked": 79
+    "totalUnfulfilled": 93,
+    "canFulfill": 11,
+    "blocked": 82
   },
   "fulfillableOrders": [
     {
@@ -59,6 +59,18 @@
       "name": "#3518",
       "createdAt": "2026-05-14T22:01:31+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12303737880920,
+      "name": "#3519",
+      "createdAt": "2026-05-14T23:01:15+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12303759802712,
+      "name": "#3523",
+      "createdAt": "2026-05-14T23:22:02+02:00",
+      "itemCount": 2
     }
   ],
   "blockedOrders": [
@@ -1540,6 +1552,57 @@
           "needed": 2
         }
       ]
+    },
+    {
+      "id": 12303739945304,
+      "name": "#3520",
+      "customerName": "sylvio hage",
+      "createdAt": "2026-05-14T23:02:56+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "113546 Scarlet & Violet Prismatic Evolutions Glaceon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12303751414104,
+      "name": "#3521",
+      "customerName": "Mathias Jensen",
+      "createdAt": "2026-05-14T23:13:20+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131938 Mega Evolution Ascended Heroes Ultra‑Pro 9‑Pocket Binder (English) — 9 Pocket Album / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12303754658136,
+      "name": "#3522",
+      "customerName": "Jeffrey Schol",
+      "createdAt": "2026-05-14T23:16:29+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "132576 Mega Dragonite ex - Mega Evolution Ascended Heroes 295/217 NM (English) — 295/217, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1797,8 +1860,8 @@
         "productId": 15641344934232,
         "variantId": 56849304977752,
         "onHand": 6,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -2629,8 +2692,8 @@
         "productId": 15641562349912,
         "variantId": 56849717264728,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110062 Scarlet & Violet Twilight Masquerade Booster Box 36 pack (English) — 36 booster pack / Multicolor",
@@ -2949,8 +3012,8 @@
         "productId": 15641337135448,
         "variantId": 56849296195928,
         "onHand": 6,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
@@ -3071,6 +3134,46 @@
         "onHand": 2,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "110072 Scarlet & Violet Shiny Treasure ex Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
+        "productId": 15641567265112,
+        "variantId": 56849733288280,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131938 Mega Evolution Ascended Heroes Ultra‑Pro 9‑Pocket Binder (English) — 9 Pocket Album / Multicolor",
+        "productId": 15641336054104,
+        "variantId": 56849295114584,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132576 Mega Dragonite ex - Mega Evolution Ascended Heroes 295/217 NM (English) — 295/217, Near-Mint / Secret Rare",
+        "productId": 15641321177432,
+        "variantId": 56849271292248,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
+        "productId": 15641507365208,
+        "variantId": 56849645207896,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131538 Tournament Pack Vol.7 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641342640472,
+        "variantId": 56849302421848,
+        "onHand": 2,
+        "committed": 2,
+        "demand": 2
       }
     ],
     "demandExceedsStock": [
