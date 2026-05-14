@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-14T12:06:20.979Z",
+  "generatedAt": "2026-05-14T14:46:41.399Z",
   "summary": {
-    "totalUnfulfilled": 79,
+    "totalUnfulfilled": 80,
     "canFulfill": 5,
-    "blocked": 74
+    "blocked": 75
   },
   "fulfillableOrders": [
     {
@@ -1427,6 +1427,21 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12303160934744,
+      "name": "#3510",
+      "customerName": "Ricardo Varius",
+      "createdAt": "2026-05-14T16:38:10+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Apple iPhone 16e White 128 GB",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
         }
       ]
     }
@@ -2856,6 +2871,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Apple iPhone 16e White 128 GB",
+        "productId": 15603000344920,
+        "variantId": 56688800039256,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
       }
     ],
     "demandExceedsStock": [
@@ -2868,6 +2891,16 @@
         "incoming": 0,
         "available": -22,
         "shortfall": 22
+      },
+      {
+        "product": "Apple iPhone 16e White 128 GB",
+        "productId": 15603000344920,
+        "variantId": 56688800039256,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
       },
       {
         "product": "JAZWARES Pokémon Pancham Plush Toy",
