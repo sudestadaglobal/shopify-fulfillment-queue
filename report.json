@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-14T19:00:27.914Z",
+  "generatedAt": "2026-05-14T20:44:39.625Z",
   "summary": {
-    "totalUnfulfilled": 81,
-    "canFulfill": 5,
-    "blocked": 76
+    "totalUnfulfilled": 88,
+    "canFulfill": 9,
+    "blocked": 79
   },
   "fulfillableOrders": [
     {
@@ -34,6 +34,30 @@
       "id": 12301043663192,
       "name": "#3506",
       "createdAt": "2026-05-13T16:59:18+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12303648260440,
+      "name": "#3515",
+      "createdAt": "2026-05-14T21:58:01+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12303649669464,
+      "name": "#3516",
+      "createdAt": "2026-05-14T21:59:00+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12303651602776,
+      "name": "#3517",
+      "createdAt": "2026-05-14T22:00:15+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12303653667160,
+      "name": "#3518",
+      "createdAt": "2026-05-14T22:01:31+02:00",
       "itemCount": 1
     }
   ],
@@ -1459,6 +1483,63 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12303575155032,
+      "name": "#3512",
+      "customerName": "Lars Hollemans",
+      "createdAt": "2026-05-14T21:04:29+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12303603138904,
+      "name": "#3513",
+      "customerName": "filip palm",
+      "createdAt": "2026-05-14T21:24:03+02:00",
+      "itemCount": 8,
+      "reasons": [
+        {
+          "product": "114535 N's Reshiram - Scarlet & Violet Journey Together 167/159 NM (English) — 167/159, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131930 Mega Evolution Ascended Heroes Riolu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12303626633560,
+      "name": "#3514",
+      "customerName": "Xander Hoiting",
+      "createdAt": "2026-05-14T21:41:25+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "125506 Flesh and Blood - Monarch Unlimited Booster Pack (English) — 15 card booster Pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1692,8 +1773,8 @@
         "productId": 15641345753432,
         "variantId": 56849305796952,
         "onHand": 7,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "131422 Memorial Collection One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -2700,8 +2781,8 @@
         "productId": 15641488556376,
         "variantId": 56849615421784,
         "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "119435 Giovanni’s Charisma - Scarlet & Violet 151 204/165 NM (English) — 204/165, Near-Mint / Special Illustration Rare",
@@ -2860,8 +2941,8 @@
         "productId": 15641336906072,
         "variantId": 56849295966552,
         "onHand": 2,
-        "committed": 2,
-        "demand": 1
+        "committed": 3,
+        "demand": 2
       },
       {
         "product": "131908 Mega Evolution Ascended Heroes Charmander Tech Sticker Collection 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
@@ -2900,6 +2981,94 @@
         "productId": 15755214684504,
         "variantId": 57292691571032,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
+        "productId": 15641380454744,
+        "variantId": 56849450369368,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+        "productId": 15732280426840,
+        "variantId": 57196101075288,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "114535 N's Reshiram - Scarlet & Violet Journey Together 167/159 NM (English) — 167/159, Near-Mint / Illustration Rare",
+        "productId": 15641559138648,
+        "variantId": 56849713627480,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131930 Mega Evolution Ascended Heroes Riolu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641336381784,
+        "variantId": 56849295442264,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119401 Scarlet & Violet Black Bolt Zekrom 9-Pocket Album (English) — 9 Pocket Album / Black / Blue",
+        "productId": 15641508249944,
+        "variantId": 56849646387544,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110265 Sword & Shield Pokémon GO Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565036888,
+        "variantId": 56849721852248,
+        "onHand": 8,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
+        "productId": 15641508512088,
+        "variantId": 56849646649688,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131496 Special DON!! Card Pack DP‑01 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641344246104,
+        "variantId": 56849304289624,
+        "onHand": 1,
+        "committed": 0,
+        "demand": 2
+      },
+      {
+        "product": "125506 Flesh and Blood - Monarch Unlimited Booster Pack (English) — 15 card booster Pack / Multicolor",
+        "productId": 15641391137112,
+        "variantId": 56849462722904,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "110184 Scarlet & Violet Twilight Masquerade (English) — 10 cards / Multicolor",
+        "productId": 15641566249304,
+        "variantId": 56849732043096,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134030 Legacy of the Master One Piece Booster Pack (English) — 12 Cards / Green",
+        "productId": 15641283559768,
+        "variantId": 56849220043096,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       }
