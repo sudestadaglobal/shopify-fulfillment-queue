@@ -1,16 +1,82 @@
 {
-  "generatedAt": "2026-05-15T14:43:54.610Z",
+  "generatedAt": "2026-05-15T16:32:31.623Z",
   "summary": {
-    "totalUnfulfilled": 93,
-    "canFulfill": 14,
-    "blocked": 79
+    "totalUnfulfilled": 92,
+    "canFulfill": 27,
+    "blocked": 65
   },
   "fulfillableOrders": [
+    {
+      "id": 12204577096024,
+      "name": "#3110",
+      "createdAt": "2026-03-30T22:57:26+02:00",
+      "itemCount": 2
+    },
     {
       "id": 12205808517464,
       "name": "#3129",
       "createdAt": "2026-03-31T18:56:06+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12236193857880,
+      "name": "#3271",
+      "createdAt": "2026-04-15T17:36:20+02:00",
+      "itemCount": 5
+    },
+    {
+      "id": 12236617285976,
+      "name": "#3275",
+      "createdAt": "2026-04-15T22:45:18+02:00",
+      "itemCount": 4
+    },
+    {
+      "id": 12244511687000,
+      "name": "#3314",
+      "createdAt": "2026-04-20T20:39:48+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12245718532440,
+      "name": "#3329",
+      "createdAt": "2026-04-21T16:29:11+02:00",
+      "itemCount": 6
+    },
+    {
+      "id": 12259094921560,
+      "name": "#3342",
+      "createdAt": "2026-04-24T15:24:49+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12272257204568,
+      "name": "#3387",
+      "createdAt": "2026-04-30T22:34:51+02:00",
+      "itemCount": 4
+    },
+    {
+      "id": 12272275652952,
+      "name": "#3388",
+      "createdAt": "2026-04-30T22:50:54+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12273799135576,
+      "name": "#3391",
+      "createdAt": "2026-05-01T21:53:09+02:00",
+      "itemCount": 7
+    },
+    {
+      "id": 12275495698776,
+      "name": "#3400",
+      "createdAt": "2026-05-02T22:57:24+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12276272202072,
+      "name": "#3401",
+      "createdAt": "2026-05-03T14:11:03+02:00",
+      "itemCount": 3
     },
     {
       "id": 12276414775640,
@@ -23,6 +89,18 @@
       "name": "#3422",
       "createdAt": "2026-05-04T17:04:04+02:00",
       "itemCount": 3
+    },
+    {
+      "id": 12283892466008,
+      "name": "#3440",
+      "createdAt": "2026-05-05T16:16:40+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12291455418712,
+      "name": "#3462",
+      "createdAt": "2026-05-08T00:50:30+02:00",
+      "itemCount": 1
     },
     {
       "id": 12297782722904,
@@ -129,21 +207,6 @@
       ]
     },
     {
-      "id": 12204577096024,
-      "name": "#3110",
-      "customerName": "Jackson Bauer",
-      "createdAt": "2026-03-30T22:57:26+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "119213 Braviary - Scarlet & Violet Black Bolt 155/086 NM (English) — 155/086, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12234632855896,
       "name": "#3262",
       "customerName": "Šimon Vích",
@@ -180,42 +243,6 @@
       ]
     },
     {
-      "id": 12236193857880,
-      "name": "#3271",
-      "customerName": "Joshwoshyy LLC",
-      "createdAt": "2026-04-15T17:36:20+02:00",
-      "itemCount": 5,
-      "reasons": [
-        {
-          "product": "119451 Golem ex - Scarlet & Violet 151 189/165 NM (English) — 189/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119485 Nidoking - Scarlet & Violet 151 174/165 NM (English) — 174/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12236617285976,
-      "name": "#3275",
-      "customerName": "Tobias Eckl",
-      "createdAt": "2026-04-15T22:45:18+02:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "110316 Latias ex - Scarlet & Violet Surging Sparks 239/191 NM (English) — 239/191, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12238581399896,
       "name": "#3288",
       "customerName": "Emil Christiansen",
@@ -224,57 +251,6 @@
       "reasons": [
         {
           "product": "132835 N’s Zoroark ex - Mega Evolution Ascended Heroes 286/217 NM (English) - Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12244511687000,
-      "name": "#3314",
-      "customerName": "Nicolas Bauschatz",
-      "createdAt": "2026-04-20T20:39:48+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "120709 Umbreon GX - Sun & Moon 80/149 NM (English) — 80/149, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12245718532440,
-      "name": "#3329",
-      "customerName": "Fabian Langguth",
-      "createdAt": "2026-04-21T16:29:11+02:00",
-      "itemCount": 6,
-      "reasons": [
-        {
-          "product": "131416 Paramount War Box Promotion One Piece Booster Pack (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12259094921560,
-      "name": "#3342",
-      "customerName": "james paul",
-      "createdAt": "2026-04-24T15:24:49+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "132308 Monkey D. Luffy - The Azure Sea's Seven OP14‑013 V2 NM (English) — OP14‑013/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132068 Boa Hancock - The Azure Sea's Seven OP14‑112 NM V2 (English) — OP14‑112/V2, Near-Mint / Alternate Art",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -391,24 +367,6 @@
       "itemCount": 9,
       "reasons": [
         {
-          "product": "141955 Smoker & Tashigi - Adventure on Kamis Island EB04-003 V2 NM (English) - Special Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "127956 Sanji - Carrying on His Will OP13‑027 V2 NM (English) — OP13‑027/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "142423 Sanji - Adventure on Kami’s Island OP15-047 V2 NM (English) - Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "130760 Nami - The Best Vol.2 PRB02‑012 NM V2 (English) — PRB02‑012/V2, Near-Mint / Alternate Art",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -481,12 +439,6 @@
           "needed": 4
         },
         {
-          "product": "133736 Jewelry Bonney - Legacy of the Master OP12‑118 V2 NM (English) — OP12‑118/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 4
-        },
-        {
           "product": "140896 Trafalgar Law - Heroines Edition EB03-062 NM V2 (English) - Alternate Art",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -510,57 +462,6 @@
       ]
     },
     {
-      "id": 12272257204568,
-      "name": "#3387",
-      "customerName": "Jakub Grabarz",
-      "createdAt": "2026-04-30T22:34:51+02:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "119177 Krookodile - Scarlet & Violet Black Bolt 137/086 NM (English) — 137/086, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119103 Volcarona - Scarlet & Violet Black Bolt 100/086 NM (English) — 100/086, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12272275652952,
-      "name": "#3388",
-      "customerName": "Lars Hollemans",
-      "createdAt": "2026-04-30T22:50:54+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "132920 Mega Dragonite ex - Mega Evolution Ascended Heroes 152/217 NM (English) — 152/217, Near-Mint / Double Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12273799135576,
-      "name": "#3391",
-      "customerName": "Fabian Langguth",
-      "createdAt": "2026-05-01T21:53:09+02:00",
-      "itemCount": 7,
-      "reasons": [
-        {
-          "product": "132336 Trafalgar Law - The Azure Sea's Seven OP14‑001 V2 NM (English) — OP14‑001/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12275459653976,
       "name": "#3399",
       "customerName": "Luca Maxim Limmroth",
@@ -572,36 +473,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12275495698776,
-      "name": "#3400",
-      "customerName": "Max Hörner",
-      "createdAt": "2026-05-02T22:57:24+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "130682 Gum-Gum Rain - The Best Vol.2 OP02‑068 NM V2 (English) — OP02‑068/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12276272202072,
-      "name": "#3401",
-      "customerName": "Max Hörner",
-      "createdAt": "2026-05-03T14:11:03+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 3,
-          "needed": 24
         }
       ]
     },
@@ -635,12 +506,6 @@
         },
         {
           "product": "119151 Drilbur - Scarlet & Violet Black Bolt 124/086 NM (English) — 124/086, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132864 Mega Dragonite ex - Mega Evolution Ascended Heroes 271/217 NM (English)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -703,12 +568,6 @@
       "itemCount": 3,
       "reasons": [
         {
-          "product": "130616 Mary Geoise - The Best Vol.2 OP05‑097 NM V3 (English) — OP05‑097/V3, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "133712 Zoro‑Juurou - Legacy of the Master ST18‑004 NM (English) — ST18‑004, Near-Mint / Special Rare",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -741,7 +600,7 @@
         {
           "product": "132340 The Azure Sea’s Seven One Piece Booster Pack (English) — 12 Cards / Blue",
           "reason": "Insufficient stock",
-          "stock": 31,
+          "stock": 7,
           "needed": 48
         }
       ]
@@ -770,21 +629,6 @@
       "reasons": [
         {
           "product": "Nintendo Joy-Con 2 Pair",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12283892466008,
-      "name": "#3440",
-      "customerName": "JAVIER Barragan",
-      "createdAt": "2026-05-05T16:16:40+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "127718 Monkey D. Luffy - Carrying on His Will OP13‑118 V2 NM (English) — OP13‑118/V2, Near-Mint / Alternate Art",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -918,21 +762,6 @@
       ]
     },
     {
-      "id": 12291455418712,
-      "name": "#3462",
-      "customerName": "Adrian S Vistad",
-      "createdAt": "2026-05-08T00:50:30+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "110062 Scarlet & Violet Twilight Masquerade Booster Box 36 pack (English) — 36 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12291456631128,
       "name": "#3463",
       "customerName": "Luis Mesa Provencio",
@@ -956,6 +785,12 @@
       "reasons": [
         {
           "product": "130858 Tony Tony Chopper ST01‑006 NM V3 (English) — ST01‑006/V3, Near-Mint / Common",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "134659 Sanji - Unnumbered Promos OP01‑013 V1 NM (Japanese) - Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -995,6 +830,12 @@
         },
         {
           "product": "113522 Pikachu ex - Scarlet & Violet Prismatic Evolution 179/131 NM (English) — 179/131, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "121025 Ivysaur - Mega Evolution 134/132 NM (English) — 134/132, Near-Mint / Ilustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1331,21 +1172,6 @@
       "reasons": [
         {
           "product": "116627 Team Rocket's Ariana - Scarlet & Violet Destined Rivals 237/182 NM (English) — 237/182, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12300761596248,
-      "name": "#3502",
-      "customerName": "Mallary Bennett",
-      "createdAt": "2026-05-13T14:08:18+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "128212 The Town on No Map McDonald’s Booster Pack (Japanese) - Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1742,7 +1568,7 @@
         "product": "119213 Braviary - Scarlet & Violet Black Bolt 155/086 NM (English) — 155/086, Near-Mint / Illustration Rare",
         "productId": 15641512345944,
         "variantId": 56849653301592,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1843,18 +1669,10 @@
         "demand": 3
       },
       {
-        "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
-        "productId": 15641343951192,
-        "variantId": 56849303994712,
-        "onHand": 3,
-        "committed": 25,
-        "demand": 25
-      },
-      {
         "product": "119451 Golem ex - Scarlet & Violet 151 189/165 NM (English) — 189/165, Near-Mint / Ultra Rare",
         "productId": 15641506808152,
         "variantId": 56849644519768,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1862,7 +1680,7 @@
         "product": "119485 Nidoking - Scarlet & Violet 151 174/165 NM (English) — 174/165, Near-Mint / Illustration Rare",
         "productId": 15641506087256,
         "variantId": 56849643471192,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1894,7 +1712,7 @@
         "product": "110316 Latias ex - Scarlet & Violet Surging Sparks 239/191 NM (English) — 239/191, Near-Mint / Special Illustration Rare",
         "productId": 15641564021080,
         "variantId": 56849720312152,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -1934,7 +1752,7 @@
         "product": "120709 Umbreon GX - Sun & Moon 80/149 NM (English) — 80/149, Near-Mint / Ultra Rare",
         "productId": 15641502482776,
         "variantId": 56849637114200,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -1974,7 +1792,7 @@
         "product": "131416 Paramount War Box Promotion One Piece Booster Pack (English)",
         "productId": 15721594913112,
         "variantId": 57156955210072,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1982,7 +1800,7 @@
         "product": "132308 Monkey D. Luffy - The Azure Sea's Seven OP14‑013 V2 NM (English) — OP14‑013/V2, Near-Mint / Alternate Art",
         "productId": 15641322783064,
         "variantId": 56849277256024,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1990,7 +1808,7 @@
         "product": "132068 Boa Hancock - The Azure Sea's Seven OP14‑112 NM V2 (English) — OP14‑112/V2, Near-Mint / Alternate Art",
         "productId": 15641331204440,
         "variantId": 56849289478488,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2174,7 +1992,7 @@
         "product": "141955 Smoker & Tashigi - Adventure on Kamis Island EB04-003 V2 NM (English) - Special Rare",
         "productId": 15736177197400,
         "variantId": 57207824318808,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2190,7 +2008,7 @@
         "product": "127956 Sanji - Carrying on His Will OP13‑027 V2 NM (English) — OP13‑027/V2, Near-Mint / Alternate Art",
         "productId": 15641375310168,
         "variantId": 56849441653080,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2198,7 +2016,7 @@
         "product": "142423 Sanji - Adventure on Kami’s Island OP15-047 V2 NM (English) - Alternate Art",
         "productId": 15736177459544,
         "variantId": 57207824613720,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2294,7 +2112,7 @@
         "product": "133736 Jewelry Bonney - Legacy of the Master OP12‑118 V2 NM (English) — OP12‑118/V2, Near-Mint / Alternate Art",
         "productId": 15641299026264,
         "variantId": 56849239507288,
-        "onHand": 0,
+        "onHand": 4,
         "committed": 4,
         "demand": 4
       },
@@ -2342,7 +2160,7 @@
         "product": "119177 Krookodile - Scarlet & Violet Black Bolt 137/086 NM (English) — 137/086, Near-Mint / Illustration Rare",
         "productId": 15641513099608,
         "variantId": 56849654645080,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2350,7 +2168,7 @@
         "product": "119103 Volcarona - Scarlet & Violet Black Bolt 100/086 NM (English) — 100/086, Near-Mint / Illustration Rare",
         "productId": 15641514606936,
         "variantId": 56849656938840,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2366,7 +2184,7 @@
         "product": "132920 Mega Dragonite ex - Mega Evolution Ascended Heroes 152/217 NM (English) — 152/217, Near-Mint / Double Rare",
         "productId": 15641313444184,
         "variantId": 56849257496920,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2374,7 +2192,7 @@
         "product": "132336 Trafalgar Law - The Azure Sea's Seven OP14‑001 V2 NM (English) — OP14‑001/V2, Near-Mint / Alternate Art",
         "productId": 15641321800024,
         "variantId": 56849272013144,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2438,7 +2256,7 @@
         "product": "130682 Gum-Gum Rain - The Best Vol.2 OP02‑068 NM V2 (English) — OP02‑068/V2, Near-Mint / Alternate Art",
         "productId": 15641364463960,
         "variantId": 56849423106392,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2510,7 +2328,7 @@
         "product": "132864 Mega Dragonite ex - Mega Evolution Ascended Heroes 271/217 NM (English)",
         "productId": 15630201356632,
         "variantId": 56804521410904,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2542,7 +2360,7 @@
         "product": "130616 Mary Geoise - The Best Vol.2 OP05‑097 NM V3 (English) — OP05‑097/V3, Near-Mint / Alternate Art",
         "productId": 15641365610840,
         "variantId": 56849424351576,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2574,7 +2392,7 @@
         "product": "127718 Monkey D. Luffy - Carrying on His Will OP13‑118 V2 NM (English) — OP13‑118/V2, Near-Mint / Alternate Art",
         "productId": 15641379733848,
         "variantId": 56849449582936,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2678,7 +2496,7 @@
         "product": "110062 Scarlet & Violet Twilight Masquerade Booster Box 36 pack (English) — 36 booster pack / Multicolor",
         "productId": 15641567461720,
         "variantId": 56849733484888,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2947,14 +2765,6 @@
         "demand": 1
       },
       {
-        "product": "128212 The Town on No Map McDonald’s Booster Pack (Japanese) - Multicolor",
-        "productId": 15737483985240,
-        "variantId": 57212670542168,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
         "product": "119209 Cinccino - Scarlet & Violet Black Bolt 153/086 NM (English) — 153/086, Near-Mint / Illustration Rare",
         "productId": 15641512444248,
         "variantId": 56849653465432,
@@ -3148,16 +2958,6 @@
       }
     ],
     "demandExceedsStock": [
-      {
-        "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
-        "productId": 15641343951192,
-        "variantId": 56849303994712,
-        "onHand": 3,
-        "committed": 25,
-        "incoming": 0,
-        "available": -22,
-        "shortfall": 22
-      },
       {
         "product": "Apple iPhone 16e White 128 GB",
         "productId": 15603000344920,
