@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-15T12:17:39.078Z",
+  "generatedAt": "2026-05-15T14:43:54.610Z",
   "summary": {
     "totalUnfulfilled": 93,
-    "canFulfill": 11,
-    "blocked": 82
+    "canFulfill": 14,
+    "blocked": 79
   },
   "fulfillableOrders": [
     {
@@ -13,15 +13,33 @@
       "itemCount": 1
     },
     {
-      "id": 12299978867032,
-      "name": "#3500",
-      "createdAt": "2026-05-13T00:43:41+02:00",
+      "id": 12276414775640,
+      "name": "#3412",
+      "createdAt": "2026-05-03T15:37:09+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12278309880152,
+      "name": "#3422",
+      "createdAt": "2026-05-04T17:04:04+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12297782722904,
+      "name": "#3485",
+      "createdAt": "2026-05-11T17:38:30+02:00",
       "itemCount": 1
     },
     {
-      "id": 12300761596248,
-      "name": "#3502",
-      "createdAt": "2026-05-13T14:08:18+02:00",
+      "id": 12299242209624,
+      "name": "#3488",
+      "createdAt": "2026-05-12T15:48:43+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12299978867032,
+      "name": "#3500",
+      "createdAt": "2026-05-13T00:43:41+02:00",
       "itemCount": 1
     },
     {
@@ -588,21 +606,6 @@
       ]
     },
     {
-      "id": 12276414775640,
-      "name": "#3412",
-      "customerName": "Lukas van Rijt",
-      "createdAt": "2026-05-03T15:37:09+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 1,
-          "needed": 5
-        }
-      ]
-    },
-    {
       "id": 12276426998104,
       "name": "#3416",
       "customerName": "Max Hörner",
@@ -611,27 +614,6 @@
       "reasons": [
         {
           "product": "130858 Tony Tony Chopper ST01‑006 NM V3 (English) — ST01‑006/V3, Near-Mint / Common",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12278309880152,
-      "name": "#3422",
-      "customerName": "JAVIER Barragan",
-      "createdAt": "2026-05-04T17:04:04+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "131584 Awakening of the New Era One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / White",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131606 500 Years into the Future One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -686,6 +668,12 @@
       "reasons": [
         {
           "product": "141865 MEGA Ninja Spinner Booster Box 30 Booster Packs (Japanese) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -842,6 +830,12 @@
       "reasons": [
         {
           "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1242,36 +1236,6 @@
       ]
     },
     {
-      "id": 12297782722904,
-      "name": "#3485",
-      "customerName": "fernando queipo de llano de aguilera",
-      "createdAt": "2026-05-11T17:38:30+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12299242209624,
-      "name": "#3488",
-      "customerName": "Toni Buchheim",
-      "createdAt": "2026-05-12T15:48:43+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Corsair VOID MAX Wireless v2 Headset",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12299347591512,
       "name": "#3489",
       "customerName": "Maximilian Grossmann",
@@ -1374,6 +1338,21 @@
       ]
     },
     {
+      "id": 12300761596248,
+      "name": "#3502",
+      "customerName": "Mallary Bennett",
+      "createdAt": "2026-05-13T14:08:18+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "128212 The Town on No Map McDonald’s Booster Pack (Japanese) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
       "id": 12300945949016,
       "name": "#3503",
       "customerName": "Šimon Vích",
@@ -1429,10 +1408,10 @@
           "needed": 1
         },
         {
-          "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 1,
-          "needed": 2
+          "stock": 0,
+          "needed": 1
         }
       ]
     },
@@ -2475,7 +2454,7 @@
         "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
         "productId": 15641336840536,
         "variantId": 56849295901016,
-        "onHand": 1,
+        "onHand": 5,
         "committed": 8,
         "demand": 8
       },
@@ -2491,7 +2470,7 @@
         "product": "131584 Awakening of the New Era One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / White",
         "productId": 15641340969304,
         "variantId": 56849300586840,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2499,7 +2478,7 @@
         "product": "131606 500 Years into the Future One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
         "productId": 15641340182872,
         "variantId": 56849299702104,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2899,7 +2878,7 @@
         "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
         "productId": 15731035668824,
         "variantId": 57191630569816,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2907,7 +2886,7 @@
         "product": "Corsair VOID MAX Wireless v2 Headset",
         "productId": 15572758135128,
         "variantId": 56576367395160,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2971,8 +2950,8 @@
         "product": "128212 The Town on No Map McDonald’s Booster Pack (Japanese) - Multicolor",
         "productId": 15737483985240,
         "variantId": 57212670542168,
-        "onHand": 1,
-        "committed": 1,
+        "onHand": 0,
+        "committed": 0,
         "demand": 1
       },
       {
@@ -3012,14 +2991,6 @@
         "productId": 15641337135448,
         "variantId": 56849296195928,
         "onHand": 6,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-        "productId": 15641321406808,
-        "variantId": 56849271619928,
-        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
