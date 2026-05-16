@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-16T21:00:12.228Z",
+  "generatedAt": "2026-05-16T22:00:24.365Z",
   "summary": {
-    "totalUnfulfilled": 94,
+    "totalUnfulfilled": 98,
     "canFulfill": 27,
-    "blocked": 67
+    "blocked": 71
   },
   "fulfillableOrders": [
     {
@@ -1450,6 +1450,66 @@
           "needed": 2
         }
       ]
+    },
+    {
+      "id": 12307897876824,
+      "name": "#3526",
+      "customerName": "Mumin Altan",
+      "createdAt": "2026-05-16T23:09:06+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12307911704920,
+      "name": "#3527",
+      "customerName": "Oscar Brixius",
+      "createdAt": "2026-05-16T23:25:22+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "138047 Slowpoke & Psyduck GX - Sun & Moon Miracle Twin 011/094 NM (Japanese) - Double Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12307929432408,
+      "name": "#3528",
+      "customerName": "Emile Vermeulen",
+      "createdAt": "2026-05-16T23:50:50+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "120771 Sun & Moon Team Up Mimikyu 1 Booster Pack Blister (English) — 1 card, 1 Blister / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12307931005272,
+      "name": "#3529",
+      "customerName": "Fredrik Aschjem",
+      "createdAt": "2026-05-16T23:53:21+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1579,8 +1639,8 @@
         "productId": 15641496912216,
         "variantId": 56849627775320,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "124024 Phantasmal Flames Mega Evolution Blaziken Premium Checklane 1 Booster Pack Blister (English) — 1 Booster Pack / Multicolor",
@@ -2315,8 +2375,8 @@
         "productId": 15641336840536,
         "variantId": 56849295901016,
         "onHand": 5,
-        "committed": 8,
-        "demand": 8
+        "committed": 9,
+        "demand": 9
       },
       {
         "product": "130858 Tony Tony Chopper ST01‑006 NM V3 (English) — ST01‑006/V3, Near-Mint / Common",
@@ -2443,8 +2503,8 @@
         "productId": 15641500451160,
         "variantId": 56849634558296,
         "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "120833 Celebi & Venusaur GX - Sun & Moon Team Up 001/181 NM (English) — 1/181, Near-Mint / Ultra Rare",
@@ -3013,6 +3073,38 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
+        "productId": 15641563627864,
+        "variantId": 56849719525720,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "138047 Slowpoke & Psyduck GX - Sun & Moon Miracle Twin 011/094 NM (Japanese) - Double Rare",
+        "productId": 15758652440920,
+        "variantId": 57307796242776,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "120771 Sun & Moon Team Up Mimikyu 1 Booster Pack Blister (English) — 1 card, 1 Blister / Multicolor",
+        "productId": 15641501401432,
+        "variantId": 56849635541336,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116770 Scarlet & Violet Destined Rivals Skeledirge Premium Checklane 1 Booster Pack Blister (English) — 1 Booster pack, 3 cards / Multicolor",
+        "productId": 15641523224920,
+        "variantId": 56849675977048,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3027,19 +3119,9 @@
         "shortfall": 2
       },
       {
-        "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
-        "productId": 15641321570648,
-        "variantId": 56849271783768,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 2,
-        "available": -3,
-        "shortfall": 1
-      },
-      {
-        "product": "131584 Awakening of the New Era One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / White",
-        "productId": 15641340969304,
-        "variantId": 56849300586840,
+        "product": "120993 Mega Evolution Drifblim 1 Booster Pack Blister (English) — 1 booster pack / Multicolor",
+        "productId": 15641496912216,
+        "variantId": 56849627775320,
         "onHand": 1,
         "committed": 2,
         "incoming": 0,
