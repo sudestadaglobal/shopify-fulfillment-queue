@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-16T19:53:38.990Z",
+  "generatedAt": "2026-05-16T21:00:12.228Z",
   "summary": {
-    "totalUnfulfilled": 92,
+    "totalUnfulfilled": 94,
     "canFulfill": 27,
-    "blocked": 65
+    "blocked": 67
   },
   "fulfillableOrders": [
     {
@@ -1408,6 +1408,48 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12307863208280,
+      "name": "#3524",
+      "customerName": "Šimon Vích",
+      "createdAt": "2026-05-16T22:30:32+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "120877 Charizard - Sun & Moon Team Up 014/181 NM (English) — 14/181, Near-Mint / Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "110024 Pikachu ex - Scarlet & Violet Surging Sparks 219/191 NM (English) — 219/191, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12307881099608,
+      "name": "#3525",
+      "customerName": "JAVIER Barragan",
+      "createdAt": "2026-05-16T22:49:55+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "131584 Awakening of the New Era One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2065,8 +2107,8 @@
         "productId": 15641321570648,
         "variantId": 56849271783768,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "132266 Nami - The Azure Sea's Seven OP14‑031 V2 NM (English) — OP14‑031/V2, Near-Mint / Alternate Art",
@@ -2289,8 +2331,8 @@
         "productId": 15641340969304,
         "variantId": 56849300586840,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131606 500 Years into the Future One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
@@ -2955,6 +2997,22 @@
         "onHand": 2,
         "committed": 2,
         "demand": 2
+      },
+      {
+        "product": "120877 Charizard - Sun & Moon Team Up 014/181 NM (English) — 14/181, Near-Mint / Rare",
+        "productId": 15641499435352,
+        "variantId": 56849633411416,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110024 Pikachu ex - Scarlet & Violet Surging Sparks 219/191 NM (English) — 219/191, Near-Mint / Ultra Rare",
+        "productId": 15641568117080,
+        "variantId": 56849734762840,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2967,6 +3025,26 @@
         "incoming": 0,
         "available": -2,
         "shortfall": 2
+      },
+      {
+        "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
+        "productId": 15641321570648,
+        "variantId": 56849271783768,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 2,
+        "available": -3,
+        "shortfall": 1
+      },
+      {
+        "product": "131584 Awakening of the New Era One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / White",
+        "productId": 15641340969304,
+        "variantId": 56849300586840,
+        "onHand": 1,
+        "committed": 2,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
       },
       {
         "product": "JAZWARES Pokémon Pancham Plush Toy",
