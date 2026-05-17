@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-16T22:59:27.483Z",
+  "generatedAt": "2026-05-17T00:03:03.166Z",
   "summary": {
-    "totalUnfulfilled": 98,
-    "canFulfill": 27,
-    "blocked": 71
+    "totalUnfulfilled": 104,
+    "canFulfill": 28,
+    "blocked": 76
   },
   "fulfillableOrders": [
     {
@@ -167,6 +167,12 @@
       "name": "#3523",
       "createdAt": "2026-05-14T23:22:02+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12307990184280,
+      "name": "#3531",
+      "createdAt": "2026-05-17T01:26:03+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1510,6 +1516,87 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12307988054360,
+      "name": "#3530",
+      "customerName": "Xander Hoiting",
+      "createdAt": "2026-05-17T01:20:54+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131496 Special DON!! Card Pack DP‑01 One Piece Booster Pack (English) — 1 card / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12307991232856,
+      "name": "#3532",
+      "customerName": "Tomas Vojnarovič",
+      "createdAt": "2026-05-17T01:28:49+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "141863 MEGA Ninja Spinner Booster Pack (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12307993231704,
+      "name": "#3533",
+      "customerName": "Daniel Borč",
+      "createdAt": "2026-05-17T01:33:21+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "120687 Tauros GX - Sun & Moon 156/149 NM (English) — 156/149, Near-Mint / Rainbow Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12307994444120,
+      "name": "#3534",
+      "customerName": "JAVIER Barragan",
+      "createdAt": "2026-05-17T01:34:58+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131600 Two Legends One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Green",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12307997426008,
+      "name": "#3535",
+      "customerName": "Ozan Kara",
+      "createdAt": "2026-05-17T01:40:30+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2823,8 +2910,8 @@
         "productId": 15720120385880,
         "variantId": 57151497830744,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131906 Mega Evolution Ascended Heroes Gastly Tech Sticker Collection 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
@@ -2991,8 +3078,8 @@
         "productId": 15641344246104,
         "variantId": 56849304289624,
         "onHand": 1,
-        "committed": 0,
-        "demand": 2
+        "committed": 2,
+        "demand": 4
       },
       {
         "product": "125506 Flesh and Blood - Monarch Unlimited Booster Pack (English) — 15 card booster Pack / Multicolor",
@@ -3105,6 +3192,46 @@
         "onHand": 6,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131864 Nihil Zero Booster Pack (Japanese) — 5 cards / Multicolor",
+        "productId": 15641337626968,
+        "variantId": 56849296687448,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "120687 Tauros GX - Sun & Moon 156/149 NM (English) — 156/149, Near-Mint / Rainbow Rare",
+        "productId": 15641502875992,
+        "variantId": 56849637507416,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
+        "productId": 15641340051800,
+        "variantId": 56849299571032,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131600 Two Legends One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Green",
+        "productId": 15641340412248,
+        "variantId": 56849299931480,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
+        "productId": 15641506120024,
+        "variantId": 56849643503960,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3117,16 +3244,6 @@
         "incoming": 0,
         "available": -2,
         "shortfall": 2
-      },
-      {
-        "product": "120993 Mega Evolution Drifblim 1 Booster Pack Blister (English) — 1 booster pack / Multicolor",
-        "productId": 15641496912216,
-        "variantId": 56849627775320,
-        "onHand": 1,
-        "committed": 2,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
       },
       {
         "product": "JAZWARES Pokémon Pancham Plush Toy",
