@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-18T16:17:53.883Z",
+  "generatedAt": "2026-05-18T18:18:22.813Z",
   "summary": {
-    "totalUnfulfilled": 114,
-    "canFulfill": 33,
-    "blocked": 81
+    "totalUnfulfilled": 119,
+    "canFulfill": 35,
+    "blocked": 84
   },
   "fulfillableOrders": [
     {
@@ -203,6 +203,18 @@
       "name": "#3543",
       "createdAt": "2026-05-18T17:24:23+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12310865510744,
+      "name": "#3546",
+      "createdAt": "2026-05-18T18:24:21+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12310873669976,
+      "name": "#3547",
+      "createdAt": "2026-05-18T18:29:44+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1714,6 +1726,51 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12310881304920,
+      "name": "#3548",
+      "customerName": "Fabian Langguth",
+      "createdAt": "2026-05-18T18:35:09+02:00",
+      "itemCount": 6,
+      "reasons": [
+        {
+          "product": "131468 Winner Pack 2025 Vol.4 One Piece Booster Pack (English) — 1 card / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12310918463832,
+      "name": "#3549",
+      "customerName": "Lara Kwikert",
+      "createdAt": "2026-05-18T19:02:14+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "116665 Kangaskhan - Scarlet & Violet Destined Rivals 204/182 NM (English) — 204/182, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12310927409496,
+      "name": "#3550",
+      "customerName": "Max Hörner",
+      "createdAt": "2026-05-18T19:08:53+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "133932 Demon Aura Nine Sword Style Asura Blades Drawn Dead Man’s Game - Legacy of the Master OP12‑037 NM V2 (English) — OP12‑037/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1939,8 +1996,8 @@
         "productId": 15641342902616,
         "variantId": 56849302716760,
         "onHand": 2,
-        "committed": 2,
-        "demand": 2
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
@@ -2515,8 +2572,8 @@
         "productId": 15641345098072,
         "variantId": 56849305141592,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "132344 Double Pack Set Vol. 9 (DP‑09) - The Azure Sea’s Seven (English) — 2 Booster Packs / 1 Don!! / Blue",
@@ -2963,8 +3020,8 @@
         "productId": 15641340477784,
         "variantId": 56849299997016,
         "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "133948 Tashigi - Legacy of the Master OP12‑031 NM V2 (English) — OP12‑031/V2, Near-Mint / Alternate Art",
@@ -3099,8 +3156,8 @@
         "productId": 15641336906072,
         "variantId": 56849295966552,
         "onHand": 2,
-        "committed": 3,
-        "demand": 2
+        "committed": 4,
+        "demand": 3
       },
       {
         "product": "131908 Mega Evolution Ascended Heroes Charmander Tech Sticker Collection 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
@@ -3370,6 +3427,46 @@
         "product": "125830 Psyduck - MEGA Dream ex 199/193 NM (Japanese) — 199/193, Near-Mint / Illustration Rare",
         "productId": 15641389007192,
         "variantId": 56849460167000,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
+        "productId": 15657571811672,
+        "variantId": 56923414757720,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131564 Beginners Deck Party ST23‑ST28 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641341526360,
+        "variantId": 56849301307736,
+        "onHand": 9,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131576 A Fist of Divine Speed Release Event One Piece Booster Pack (English) — 2 cards / Black / White",
+        "productId": 15641341133144,
+        "variantId": 56849300750680,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116665 Kangaskhan - Scarlet & Violet Destined Rivals 204/182 NM (English) — 204/182, Near-Mint / Illustration Rare",
+        "productId": 15641538855256,
+        "variantId": 56849692131672,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "133932 Demon Aura Nine Sword Style Asura Blades Drawn Dead Man’s Game - Legacy of the Master OP12‑037 NM V2 (English) — OP12‑037/V2, Near-Mint / Alternate Art",
+        "productId": 15641289425240,
+        "variantId": 56849227678040,
         "onHand": 0,
         "committed": 1,
         "demand": 1
