@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-18T12:42:15.859Z",
+  "generatedAt": "2026-05-18T16:17:53.883Z",
   "summary": {
-    "totalUnfulfilled": 104,
-    "canFulfill": 28,
-    "blocked": 76
+    "totalUnfulfilled": 114,
+    "canFulfill": 33,
+    "blocked": 81
   },
   "fulfillableOrders": [
     {
@@ -173,6 +173,36 @@
       "name": "#3531",
       "createdAt": "2026-05-17T01:26:03+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12310575317336,
+      "name": "#3537",
+      "createdAt": "2026-05-18T15:59:45+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12310580429144,
+      "name": "#3538",
+      "createdAt": "2026-05-18T16:01:21+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12310683025752,
+      "name": "#3541",
+      "createdAt": "2026-05-18T16:33:17+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12310689743192,
+      "name": "#3542",
+      "createdAt": "2026-05-18T16:37:37+02:00",
+      "itemCount": 9
+    },
+    {
+      "id": 12310773039448,
+      "name": "#3543",
+      "createdAt": "2026-05-18T17:24:23+02:00",
+      "itemCount": 2
     }
   ],
   "blockedOrders": [
@@ -1597,6 +1627,93 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12310553985368,
+      "name": "#3536",
+      "customerName": "Fabian Langguth",
+      "createdAt": "2026-05-18T15:52:42+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "134659 Sanji - Unnumbered Promos OP01‑013 V1 NM (Japanese) - Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12310584525144,
+      "name": "#3539",
+      "customerName": "Christian Salmen",
+      "createdAt": "2026-05-18T16:02:38+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "109982 Pikachu - Scarlet & Violet 151 173/165 NM (Japanese) — 173/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12310630400344,
+      "name": "#3540",
+      "customerName": "JAVIER Barragan",
+      "createdAt": "2026-05-18T16:16:13+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12310815637848,
+      "name": "#3544",
+      "customerName": "Joel Wlodarczyk",
+      "createdAt": "2026-05-18T17:49:56+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Funko POP! Comic Cover DC Comics Aquaman #13",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12310816358744,
+      "name": "#3545",
+      "customerName": "Mathias Jensen",
+      "createdAt": "2026-05-18T17:50:20+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "125830 Psyduck - MEGA Dream ex 199/193 NM (Japanese) — 199/193, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "109970 Pikachu - Sword & Shield Crown Zenith 160/159 NM (English) — 160/159, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1662,24 +1779,24 @@
         "productId": 15641566216536,
         "variantId": 56849731518808,
         "onHand": 4,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566052696,
         "variantId": 56849731354968,
         "onHand": 5,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "110204 Scarlet & Violet Future Flash Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641565888856,
         "variantId": 56849731158360,
         "onHand": 3,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110220 Scarlet & Violet Clay Burst Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -1774,8 +1891,8 @@
         "productId": 15641569067352,
         "variantId": 56849736434008,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119439 Charizard ex - Scarlet & Violet 151 183/165 NM (English) — 183/165, Near-Mint / Ultra Rare",
@@ -2038,8 +2155,8 @@
         "productId": 15710871486808,
         "variantId": 57123535126872,
         "onHand": 1,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
@@ -2438,8 +2555,8 @@
         "productId": 15641566151000,
         "variantId": 56849731453272,
         "onHand": 4,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "130682 Gum-Gum Rain - The Best Vol.2 OP02‑068 NM V2 (English) — OP02‑068/V2, Near-Mint / Alternate Art",
@@ -2990,8 +3107,8 @@
         "productId": 15641337135448,
         "variantId": 56849296195928,
         "onHand": 6,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "119419 Mew ex V3 - Scarlet & Violet 151 205/165 NM (English) — 205/165, Near-Mint / Secret Rare",
@@ -3030,8 +3147,8 @@
         "productId": 15732280426840,
         "variantId": 57196101075288,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "114535 N's Reshiram - Scarlet & Violet Journey Together 167/159 NM (English) — 167/159, Near-Mint / Illustration Rare",
@@ -3214,8 +3331,8 @@
         "productId": 15641340051800,
         "variantId": 56849299571032,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131600 Two Legends One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Green",
@@ -3229,6 +3346,30 @@
         "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
         "productId": 15641506120024,
         "variantId": 56849643503960,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "109982 Pikachu - Scarlet & Violet 151 173/165 NM (Japanese) — 173/165, Near-Mint / Illustration Rare",
+        "productId": 15641568870744,
+        "variantId": 56849736237400,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Funko POP! Comic Cover DC Comics Aquaman #13",
+        "productId": 15761112826200,
+        "variantId": 57317771215192,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "125830 Psyduck - MEGA Dream ex 199/193 NM (Japanese) — 199/193, Near-Mint / Illustration Rare",
+        "productId": 15641389007192,
+        "variantId": 56849460167000,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -3259,6 +3400,16 @@
         "product": "Funko POP! Deluxe DC Comics Batman #521",
         "productId": 15750366298456,
         "variantId": 57268796457304,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Funko POP! Comic Cover DC Comics Aquaman #13",
+        "productId": 15761112826200,
+        "variantId": 57317771215192,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
