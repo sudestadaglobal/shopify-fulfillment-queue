@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T08:52:59.856Z",
+  "generatedAt": "2026-05-18T12:42:15.859Z",
   "summary": {
     "totalUnfulfilled": 104,
     "canFulfill": 28,
@@ -3236,16 +3236,6 @@
     ],
     "demandExceedsStock": [
       {
-        "product": "Apple iPhone 16e White 128 GB",
-        "productId": 15603000344920,
-        "variantId": 56688800039256,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
         "product": "JAZWARES Pokémon Pancham Plush Toy",
         "productId": 15743399002456,
         "variantId": 57237435285848,
@@ -3269,16 +3259,6 @@
         "product": "Funko POP! Deluxe DC Comics Batman #521",
         "productId": 15750366298456,
         "variantId": 57268796457304,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Elgato Facecam MK.2 1080p Webcam",
-        "productId": 15755214684504,
-        "variantId": 57292691571032,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
