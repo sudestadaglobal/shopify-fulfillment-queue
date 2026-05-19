@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T19:30:54.026Z",
+  "generatedAt": "2026-05-19T21:09:05.634Z",
   "summary": {
     "totalUnfulfilled": 101,
     "canFulfill": 21,
@@ -173,7 +173,7 @@
     {
       "id": 12234632855896,
       "name": "#3262",
-      "customerName": "Šimon V��ch",
+      "customerName": "Šimon Vích",
       "createdAt": "2026-04-14T16:22:37+02:00",
       "itemCount": 2,
       "reasons": [
