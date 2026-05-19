@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-19T21:09:05.634Z",
+  "generatedAt": "2026-05-19T22:43:39.988Z",
   "summary": {
-    "totalUnfulfilled": 101,
+    "totalUnfulfilled": 106,
     "canFulfill": 21,
-    "blocked": 80
+    "blocked": 85
   },
   "fulfillableOrders": [
     {
@@ -1621,6 +1621,87 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12315114864984,
+      "name": "#3559",
+      "customerName": "Mathias Jensen",
+      "createdAt": "2026-05-19T23:33:05+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "118748 Ducklett - Scarlet & Violet White Flare 109/086 NM (English) — 109/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12315122860376,
+      "name": "#3560",
+      "customerName": "Francisco Sarabia sanchez",
+      "createdAt": "2026-05-19T23:42:12+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "141863 MEGA Ninja Spinner Booster Pack (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12315128496472,
+      "name": "#3561",
+      "customerName": "Mathias Jakobsen",
+      "createdAt": "2026-05-19T23:48:56+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "126601 The Glory of Team Rocket Attaché Case Set (JP)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12315134067032,
+      "name": "#3562",
+      "customerName": "Rasmus Legaard Jensen",
+      "createdAt": "2026-05-19T23:55:49+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "124044 Mega Charizard X ex - Phantasmal Flames 130/094 NM (English) — 130/094, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119409 Mega Evolution Enhanced Booster Box (English) — 36 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12315140456792,
+      "name": "#3563",
+      "customerName": "Kristoffer Bergström",
+      "createdAt": "2026-05-20T00:03:36+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 4
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2318,8 +2399,8 @@
         "productId": 15641336840536,
         "variantId": 56849295901016,
         "onHand": 3,
-        "committed": 4,
-        "demand": 4
+        "committed": 8,
+        "demand": 8
       },
       {
         "product": "iPhone 17 Pro 1 TB Silver",
@@ -2702,8 +2783,8 @@
         "productId": 15720120385880,
         "variantId": 57151497830744,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131906 Mega Evolution Ascended Heroes Gastly Tech Sticker Collection 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
@@ -3125,6 +3206,70 @@
         "product": "Sony Playstation 5 Slim Digital Edition (EU Plug)",
         "productId": 15721164374360,
         "variantId": 57154641035608,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (Japanese) — 175/165, Near-Mint / Illustration Rare",
+        "productId": 15641506021720,
+        "variantId": 56849643405656,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "118748 Ducklett - Scarlet & Violet White Flare 109/086 NM (English) — 109/086, Near-Mint / Illustration Rare",
+        "productId": 15641521226072,
+        "variantId": 56849667260760,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "109984 Charmander - Scarlet & Violet Black Star Promos 044/225 (NM) — 044/225, Near-Mint / Promo",
+        "productId": 15641568837976,
+        "variantId": 56849736204632,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110273 Sword & Shield Fusion Strike Fun Pack (English) — 3 cards / Multicolor",
+        "productId": 15641564741976,
+        "variantId": 56849721262424,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116756 Scarlet & Violet Destined Rivals Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641523454296,
+        "variantId": 56849676370264,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "126601 The Glory of Team Rocket Attaché Case Set (JP)",
+        "productId": 15556789993816,
+        "variantId": 56513303118168,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "124044 Mega Charizard X ex - Phantasmal Flames 130/094 NM (English) — 130/094, Near-Mint / Secret Rare",
+        "productId": 15641487343960,
+        "variantId": 56849614045528,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119409 Mega Evolution Enhanced Booster Box (English) — 36 booster pack / Multicolor",
+        "productId": 15641508020568,
+        "variantId": 56849646158168,
         "onHand": 0,
         "committed": 1,
         "demand": 1
