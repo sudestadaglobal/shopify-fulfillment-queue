@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-19T08:01:43.399Z",
+  "generatedAt": "2026-05-19T11:33:23.354Z",
   "summary": {
-    "totalUnfulfilled": 119,
-    "canFulfill": 35,
+    "totalUnfulfilled": 121,
+    "canFulfill": 37,
     "blocked": 84
   },
   "fulfillableOrders": [
@@ -115,6 +115,12 @@
       "itemCount": 1
     },
     {
+      "id": 12299347591512,
+      "name": "#3489",
+      "createdAt": "2026-05-12T16:57:03+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12299978867032,
       "name": "#3500",
       "createdAt": "2026-05-13T00:43:41+02:00",
@@ -130,6 +136,12 @@
       "id": 12301043663192,
       "name": "#3506",
       "createdAt": "2026-05-13T16:59:18+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12303274934616,
+      "name": "#3511",
+      "createdAt": "2026-05-14T17:44:32+02:00",
       "itemCount": 1
     },
     {
@@ -1125,21 +1137,6 @@
       ]
     },
     {
-      "id": 12299347591512,
-      "name": "#3489",
-      "customerName": "Maximilian Grossmann",
-      "createdAt": "2026-05-12T16:57:03+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Nintendo Switch 2",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12299464376664,
       "name": "#3491",
       "customerName": "Micain Helenklaken",
@@ -1331,21 +1328,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
-        }
-      ]
-    },
-    {
-      "id": 12303274934616,
-      "name": "#3511",
-      "customerName": "Tizian Böhler",
-      "createdAt": "2026-05-14T17:44:32+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Elgato Facecam MK.2 1080p Webcam",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -1766,6 +1748,36 @@
       "reasons": [
         {
           "product": "133932 Demon Aura Nine Sword Style Asura Blades Drawn Dead Man’s Game - Legacy of the Master OP12‑037 NM V2 (English) — OP12‑037/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12312280170840,
+      "name": "#3551",
+      "customerName": "Magnus Malm johansson",
+      "createdAt": "2026-05-19T13:04:00+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "121677 Mega Inferno X Booster (Japanese) — 1 booster pack / Multicolor",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 70,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12312418156888,
+      "name": "#3552",
+      "customerName": "Casper Männys",
+      "createdAt": "2026-05-19T13:14:48+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "140358 - Mega Evolution Perfect Order Zygarde Core and Cell Sleeves (English) - Green/Gray",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -3075,7 +3087,7 @@
         "product": "Nintendo Switch 2",
         "productId": 15190942450008,
         "variantId": 55272488501592,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3187,7 +3199,7 @@
         "product": "Elgato Facecam MK.2 1080p Webcam",
         "productId": 15755214684504,
         "variantId": 57292691571032,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3467,6 +3479,22 @@
         "product": "133932 Demon Aura Nine Sword Style Asura Blades Drawn Dead Man’s Game - Legacy of the Master OP12‑037 NM V2 (English) — OP12‑037/V2, Near-Mint / Alternate Art",
         "productId": 15641289425240,
         "variantId": 56849227678040,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131912 Mega Evolution Ascended Heroes Erika’s Tangela Blister 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641336971608,
+        "variantId": 56849296032088,
+        "onHand": 8,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "140358 - Mega Evolution Perfect Order Zygarde Core and Cell Sleeves (English) - Green/Gray",
+        "productId": 15762325209432,
+        "variantId": 57322912645464,
         "onHand": 0,
         "committed": 1,
         "demand": 1
