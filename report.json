@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-20T17:00:16.887Z",
+  "generatedAt": "2026-05-20T19:34:23.633Z",
   "summary": {
-    "totalUnfulfilled": 86,
+    "totalUnfulfilled": 88,
     "canFulfill": 1,
-    "blocked": 85
+    "blocked": 87
   },
   "fulfillableOrders": [
     {
@@ -1612,6 +1612,36 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12317396074840,
+      "name": "#3567",
+      "customerName": "Ivo Adernieks",
+      "createdAt": "2026-05-20T21:20:17+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "124004 Phantasmal Flames Mega Evolution Pokémon Center Elite Trainer Box 11 Booster Pack (English) — 11 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12317404070232,
+      "name": "#3568",
+      "customerName": "Bilal Gültan",
+      "createdAt": "2026-05-20T21:23:27+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "68174 Mega Evolution Perfect Order Pokémon Center Elite Trainer Box 11 Booster Packs (English) — 11 Booster Packs / Green x Gray",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3060,6 +3090,22 @@
         "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
         "productId": 15642608370008,
         "variantId": 56855458120024,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "124004 Phantasmal Flames Mega Evolution Pokémon Center Elite Trainer Box 11 Booster Pack (English) — 11 Booster Packs / Multicolor",
+        "productId": 15641488621912,
+        "variantId": 56849615487320,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "68174 Mega Evolution Perfect Order Pokémon Center Elite Trainer Box 11 Booster Packs (English) — 11 Booster Packs / Green x Gray",
+        "productId": 15732283605336,
+        "variantId": 57196109234520,
         "onHand": 0,
         "committed": 1,
         "demand": 1
