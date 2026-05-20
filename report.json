@@ -1,11 +1,18 @@
 {
-  "generatedAt": "2026-05-20T13:52:01.220Z",
+  "generatedAt": "2026-05-20T17:00:16.887Z",
   "summary": {
-    "totalUnfulfilled": 83,
-    "canFulfill": 0,
-    "blocked": 83
+    "totalUnfulfilled": 86,
+    "canFulfill": 1,
+    "blocked": 85
   },
-  "fulfillableOrders": [],
+  "fulfillableOrders": [
+    {
+      "id": 12316272820568,
+      "name": "#3564",
+      "createdAt": "2026-05-20T16:31:26+02:00",
+      "itemCount": 1
+    }
+  ],
   "blockedOrders": [
     {
       "id": 12203074027864,
@@ -1575,6 +1582,36 @@
           "needed": 4
         }
       ]
+    },
+    {
+      "id": 12316280357208,
+      "name": "#3565",
+      "customerName": "Mathias Jensen",
+      "createdAt": "2026-05-20T16:36:15+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "109982 Pikachu - Scarlet & Violet 151 173/165 NM (Japanese) — 173/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12316391801176,
+      "name": "#3566",
+      "customerName": "Paul Jordi Julca Melgarejo",
+      "createdAt": "2026-05-20T17:07:15+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1808,8 +1845,8 @@
         "productId": 15641344934232,
         "variantId": 56849304977752,
         "onHand": 4,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -2696,8 +2733,8 @@
         "productId": 15641508512088,
         "variantId": 56849646649688,
         "onHand": 6,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131496 Special DON!! Card Pack DP‑01 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -2840,8 +2877,8 @@
         "productId": 15641568870744,
         "variantId": 56849736237400,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "Funko POP! Comic Cover DC Comics Aquaman #13",
@@ -3015,6 +3052,14 @@
         "product": "119409 Mega Evolution Enhanced Booster Box (English) — 36 booster pack / Multicolor",
         "productId": 15641508020568,
         "variantId": 56849646158168,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
+        "productId": 15642608370008,
+        "variantId": 56855458120024,
         "onHand": 0,
         "committed": 1,
         "demand": 1
