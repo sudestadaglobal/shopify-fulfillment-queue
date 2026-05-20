@@ -1,42 +1,11 @@
 {
-  "generatedAt": "2026-05-20T08:00:01.423Z",
+  "generatedAt": "2026-05-20T11:17:21.189Z",
   "summary": {
-    "totalUnfulfilled": 88,
-    "canFulfill": 5,
+    "totalUnfulfilled": 83,
+    "canFulfill": 0,
     "blocked": 83
   },
-  "fulfillableOrders": [
-    {
-      "id": 12205808517464,
-      "name": "#3129",
-      "createdAt": "2026-03-31T18:56:06+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12275459653976,
-      "name": "#3399",
-      "createdAt": "2026-05-02T22:30:10+02:00",
-      "itemCount": 4
-    },
-    {
-      "id": 12283588772184,
-      "name": "#3437",
-      "createdAt": "2026-05-05T14:41:08+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12299978867032,
-      "name": "#3500",
-      "createdAt": "2026-05-13T00:43:41+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12303160934744,
-      "name": "#3510",
-      "createdAt": "2026-05-14T16:38:10+02:00",
-      "itemCount": 1
-    }
-  ],
+  "fulfillableOrders": [],
   "blockedOrders": [
     {
       "id": 12203074027864,
@@ -185,6 +154,12 @@
         },
         {
           "product": "132678 Cynthia’s Spiritomb - Mega Evolution Ascended Heroes 244/217 NM (English) — 244/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132636 Mega Froslass ex - Mega Evolution Ascended Heroes 265/217 NM (English) — 265/217, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1749,14 +1724,6 @@
         "demand": 1
       },
       {
-        "product": "118770 Swoobat - Scarlet & Violet White Flare 120/086 NM (English) — 120/086, Near-Mint / Illustration Rare",
-        "productId": 15641520865624,
-        "variantId": 56849666867544,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
-      },
-      {
         "product": "109970 Pikachu - Sword & Shield Crown Zenith 160/159 NM (English) — 160/159, Near-Mint / Secret Rare",
         "productId": 15641569067352,
         "variantId": 56849736434008,
@@ -1976,9 +1943,9 @@
         "product": "132636 Mega Froslass ex - Mega Evolution Ascended Heroes 265/217 NM (English) — 265/217, Near-Mint / Ultra Rare",
         "productId": 15641320751448,
         "variantId": 56849269850456,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "132580 Surfer - Mega Evolution Ascended Heroes 293/217 NM (English) — 293/217, Near-Mint / Special Illustration Rare",
@@ -2197,30 +2164,6 @@
         "demand": 1
       },
       {
-        "product": "116768 Scarlet & Violet Destined Rivals Zarude 1 Booster Pack Blister (English) — 1 Booster pack, 3 cards / Multicolor",
-        "productId": 15641523257688,
-        "variantId": 56849676009816,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "118662 Scarlet & Violet White Flare Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641522995544,
-        "variantId": 56849669488984,
-        "onHand": 5,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "110190 Scarlet & Violet Temporal Forces (English) — 10 cards / Multicolor",
-        "productId": 15641566151000,
-        "variantId": 56849731453272,
-        "onHand": 2,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "130858 Tony Tony Chopper ST01‑006 NM V3 (English) — ST01‑006/V3, Near-Mint / Common",
         "productId": 15641361056088,
         "variantId": 56849418322264,
@@ -2261,6 +2204,14 @@
         "demand": 1
       },
       {
+        "product": "118770 Swoobat - Scarlet & Violet White Flare 120/086 NM (English) — 120/086, Near-Mint / Illustration Rare",
+        "productId": 15641520865624,
+        "variantId": 56849666867544,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
         "product": "130616 Mary Geoise - The Best Vol.2 OP05‑097 NM V3 (English) — OP05‑097/V3, Near-Mint / Alternate Art",
         "productId": 15641365610840,
         "variantId": 56849424351576,
@@ -2289,14 +2240,6 @@
         "productId": 15743399002456,
         "variantId": 57237435285848,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "Nintendo Joy-Con 2 Pair",
-        "productId": 15276424069464,
-        "variantId": 55621003084120,
-        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2699,14 +2642,6 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "Apple iPhone 16e White 128 GB",
-        "productId": 15603000344920,
-        "variantId": 56688800039256,
-        "onHand": 2,
-        "committed": 2,
-        "demand": 2
       },
       {
         "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
