@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-22T04:40:56.653Z",
+  "generatedAt": "2026-05-22T08:07:57.802Z",
   "summary": {
-    "totalUnfulfilled": 93,
+    "totalUnfulfilled": 92,
     "canFulfill": 22,
-    "blocked": 71
+    "blocked": 70
   },
   "fulfillableOrders": [
     {
@@ -404,21 +404,6 @@
       "reasons": [
         {
           "product": "133714 Portgas D. Ace - Legacy of the Master ST13‑011 NM (English) — ST13‑011, Near-Mint / Special Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12287519490392,
-      "name": "#3456",
-      "customerName": "Simon Oberndorfer",
-      "createdAt": "2026-05-07T16:36:19+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Cerdá Grinch Adult Socks 3 Pack",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2043,14 +2028,6 @@
         "demand": 1
       },
       {
-        "product": "Cerdá Grinch Adult Socks 3 Pack",
-        "productId": 15745621885272,
-        "variantId": 57247999557976,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "114534 Articuno - Scarlet & Violet Journey Together 161/159 NM (English) — 161/159, Near-Mint / Illustration Rare",
         "productId": 15641559368024,
         "variantId": 56849713889624,
@@ -2887,16 +2864,6 @@
         "shortfall": 1
       },
       {
-        "product": "Cerdá Grinch Adult Socks 3 Pack",
-        "productId": 15745621885272,
-        "variantId": 57247999557976,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "Funko POP! Deluxe DC Comics Batman #521",
         "productId": 15750366298456,
         "variantId": 57268796457304,
@@ -2920,16 +2887,6 @@
         "product": "JAZWARES Pokémon Squirtle Plush Toy",
         "productId": 15517392273752,
         "variantId": 56402175787352,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Sony Playstation 5 Slim Digital Edition (EU Plug)",
-        "productId": 15721164374360,
-        "variantId": 57154641035608,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
