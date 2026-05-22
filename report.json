@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-22T13:57:28.651Z",
+  "generatedAt": "2026-05-22T16:32:38.422Z",
   "summary": {
-    "totalUnfulfilled": 70,
-    "canFulfill": 3,
-    "blocked": 67
+    "totalUnfulfilled": 72,
+    "canFulfill": 4,
+    "blocked": 68
   },
   "fulfillableOrders": [
     {
@@ -17,6 +17,12 @@
       "name": "#3269",
       "createdAt": "2026-04-15T16:10:41+02:00",
       "itemCount": 12
+    },
+    {
+      "id": 12278431514968,
+      "name": "#3425",
+      "createdAt": "2026-05-04T18:14:50+02:00",
+      "itemCount": 5
     },
     {
       "id": 12323452027224,
@@ -177,21 +183,6 @@
       ]
     },
     {
-      "id": 12278431514968,
-      "name": "#3425",
-      "customerName": "luca van der ent",
-      "createdAt": "2026-05-04T18:14:50+02:00",
-      "itemCount": 5,
-      "reasons": [
-        {
-          "product": "118770 Swoobat - Scarlet & Violet White Flare 120/086 NM (English) — 120/086, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12278547939672,
       "name": "#3433",
       "customerName": "Max Hörner",
@@ -211,7 +202,7 @@
       "name": "#3434",
       "customerName": "Max Hörner",
       "createdAt": "2026-05-04T19:40:17+02:00",
-      "itemCount": 1,
+      "itemCount": 2,
       "reasons": [
         {
           "product": "132340 The Azure Sea’s Seven One Piece Booster Pack (English) — 12 Cards / Blue",
@@ -1186,6 +1177,36 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12332307153240,
+      "name": "#3574",
+      "customerName": "Fernando David Cuesta Garcia",
+      "createdAt": "2026-05-22T18:26:02+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Corsair Virtuoso MAX Wireless Carbon Gaming Headset",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12332362039640,
+      "name": "#3575",
+      "customerName": "Fredrik Jansson",
+      "createdAt": "2026-05-22T18:28:06+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "JAZWARES Pokémon Snorlax Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1675,7 +1696,7 @@
         "productId": 15641520865624,
         "variantId": 56849666867544,
         "onHand": 0,
-        "committed": 1,
+        "committed": 0,
         "demand": 1
       },
       {
@@ -2397,9 +2418,35 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Corsair Virtuoso MAX Wireless Carbon Gaming Headset",
+        "productId": 15768732533080,
+        "variantId": 57352236204376,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Snorlax Plush Toy",
+        "productId": 15561000059224,
+        "variantId": 56534869541208,
+        "onHand": -1,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
+      {
+        "product": "JAZWARES Pokémon Snorlax Plush Toy",
+        "productId": 15561000059224,
+        "variantId": 56534869541208,
+        "onHand": -1,
+        "committed": 1,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
       {
         "product": "JAZWARES Pokémon Pancham Plush Toy",
         "productId": 15743399002456,
@@ -2454,6 +2501,16 @@
         "product": "JAZWARES Pokémon Pikachu Plush Toy",
         "productId": 15482556776792,
         "variantId": 56313139757400,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Corsair Virtuoso MAX Wireless Carbon Gaming Headset",
+        "productId": 15768732533080,
+        "variantId": 57352236204376,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
