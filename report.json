@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-22T16:32:38.422Z",
+  "generatedAt": "2026-05-22T18:22:17.332Z",
   "summary": {
-    "totalUnfulfilled": 72,
-    "canFulfill": 4,
-    "blocked": 68
+    "totalUnfulfilled": 78,
+    "canFulfill": 9,
+    "blocked": 69
   },
   "fulfillableOrders": [
     {
@@ -28,6 +28,36 @@
       "id": 12323452027224,
       "name": "#3571",
       "createdAt": "2026-05-21T18:51:49+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12333417890136,
+      "name": "#3577",
+      "createdAt": "2026-05-22T19:28:43+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12333430276440,
+      "name": "#3578",
+      "createdAt": "2026-05-22T19:30:30+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12333443023192,
+      "name": "#3579",
+      "createdAt": "2026-05-22T19:31:52+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12333456556376,
+      "name": "#3580",
+      "createdAt": "2026-05-22T19:33:24+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12333464093016,
+      "name": "#3581",
+      "createdAt": "2026-05-22T19:34:18+02:00",
       "itemCount": 1
     }
   ],
@@ -1207,6 +1237,39 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12333377880408,
+      "name": "#3576",
+      "customerName": "Francisco Sarabia sanchez",
+      "createdAt": "2026-05-22T19:22:09+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "119141 Duosion - Scarlet & Violet Black Bolt 119/086 NM (English) — 119/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "114541 Lillie's Ribombee - Scarlet & Violet Journey Together 164/159 ( EN) — 164/159, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "118780 Gothorita - Scarlet & Violet White Flare 125/086 NM (English) — 125/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "116675 Ethan's Ho-Oh ex - Scarlet & Violet Destined Rivals 209/182 NM (English) — 209/182, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1904,8 +1967,8 @@
         "productId": 15732278362456,
         "variantId": 57196095471960,
         "onHand": 6,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "133948 Tashigi - Legacy of the Master OP12‑031 NM V2 (English) — OP12‑031/V2, Near-Mint / Alternate Art",
@@ -2432,6 +2495,62 @@
         "productId": 15561000059224,
         "variantId": 56534869541208,
         "onHand": -1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119141 Duosion - Scarlet & Violet Black Bolt 119/086 NM (English) — 119/086, Near-Mint / Illustration Rare",
+        "productId": 15641513754968,
+        "variantId": 56849655464280,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "114541 Lillie's Ribombee - Scarlet & Violet Journey Together 164/159 ( EN) — 164/159, Near-Mint / Illustration Rare",
+        "productId": 15641558024536,
+        "variantId": 56849711890776,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "118780 Gothorita - Scarlet & Violet White Flare 125/086 NM (English) — 125/086, Near-Mint / Illustration Rare",
+        "productId": 15641520669016,
+        "variantId": 56849666670936,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116675 Ethan's Ho-Oh ex - Scarlet & Violet Destined Rivals 209/182 NM (English) — 209/182, Near-Mint / Ultra Rare",
+        "productId": 15641537184088,
+        "variantId": 56849690263896,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110072 Scarlet & Violet Shiny Treasure ex Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
+        "productId": 15641567265112,
+        "variantId": 56849733288280,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131568 Judge Pack Vol. 3 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641341395288,
+        "variantId": 56849301176664,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134040 Mega Evolution Perfect Order Booster Box 36 Booster Packs (English) Pre‑order",
+        "productId": 15642773913944,
+        "variantId": 56856323359064,
+        "onHand": 4,
         "committed": 1,
         "demand": 1
       }
