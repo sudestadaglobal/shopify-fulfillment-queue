@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-23T17:33:23.139Z",
+  "generatedAt": "2026-05-23T18:40:41.297Z",
   "summary": {
     "totalUnfulfilled": 79,
-    "canFulfill": 21,
-    "blocked": 58
+    "canFulfill": 23,
+    "blocked": 56
   },
   "fulfillableOrders": [
     {
@@ -23,6 +23,12 @@
       "name": "#3425",
       "createdAt": "2026-05-04T18:14:50+02:00",
       "itemCount": 5
+    },
+    {
+      "id": 12278547939672,
+      "name": "#3433",
+      "createdAt": "2026-05-04T19:21:44+02:00",
+      "itemCount": 1
     },
     {
       "id": 12278577529176,
@@ -82,6 +88,12 @@
       "id": 12303754658136,
       "name": "#3522",
       "createdAt": "2026-05-14T23:16:29+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12307897876824,
+      "name": "#3526",
+      "createdAt": "2026-05-16T23:09:06+02:00",
       "itemCount": 2
     },
     {
@@ -231,7 +243,7 @@
         {
           "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 1,
+          "stock": 3,
           "needed": 11
         }
       ]
@@ -275,21 +287,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12278547939672,
-      "name": "#3433",
-      "customerName": "Max Hörner",
-      "createdAt": "2026-05-04T19:21:44+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 22,
-          "needed": 24
         }
       ]
     },
@@ -569,21 +566,6 @@
       "reasons": [
         {
           "product": "131584 Awakening of the New Era One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / White",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12307897876824,
-      "name": "#3526",
-      "customerName": "Mumin Altan",
-      "createdAt": "2026-05-16T23:09:06+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1355,7 +1337,7 @@
         "product": "61872 The Best One Piece Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15643970961752,
         "variantId": 56858997653848,
-        "onHand": 2,
+        "onHand": 4,
         "committed": 12,
         "demand": 12
       },
@@ -2027,7 +2009,7 @@
         "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563627864,
         "variantId": 56849719525720,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
