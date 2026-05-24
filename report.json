@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-24T20:14:19.021Z",
+  "generatedAt": "2026-05-24T21:16:50.087Z",
   "summary": {
-    "totalUnfulfilled": 92,
-    "canFulfill": 25,
-    "blocked": 67
+    "totalUnfulfilled": 97,
+    "canFulfill": 26,
+    "blocked": 71
   },
   "fulfillableOrders": [
     {
@@ -154,6 +154,12 @@
       "id": 12338433196376,
       "name": "#3592",
       "createdAt": "2026-05-24T21:18:01+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12338531074392,
+      "name": "#3599",
+      "createdAt": "2026-05-24T22:33:11+02:00",
       "itemCount": 1
     }
   ],
@@ -1343,6 +1349,66 @@
       "reasons": [
         {
           "product": "113497 Eevee ex - Scarlet & Violet Prismatic Evolution 167/131 NM (English) — 167/131, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12338515738968,
+      "name": "#3596",
+      "customerName": "Adrià Cáceres",
+      "createdAt": "2026-05-24T22:20:46+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "116645 Team Rocket's Meowth - Scarlet & Violet Destined Rivals 203/182 NM (English) — 203/182, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12338518983000,
+      "name": "#3597",
+      "customerName": "Yori Laffargue",
+      "createdAt": "2026-05-24T22:23:28+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132048 Dracule Mihawk - The Azure Sea's Seven OP14‑119 NM V2 (English) — OP14‑119/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12338525733208,
+      "name": "#3598",
+      "customerName": "Francisco Sarabia sanchez",
+      "createdAt": "2026-05-24T22:29:12+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131540 Tournament Pack 2024 Oct‑Dec One Piece Booster Pack (English) — 1 card / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 8,
+          "needed": 10
+        }
+      ]
+    },
+    {
+      "id": 12338533335384,
+      "name": "#3600",
+      "customerName": "Christian Salmen",
+      "createdAt": "2026-05-24T22:34:56+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2661,8 +2727,8 @@
         "productId": 15641565725016,
         "variantId": 56849722835288,
         "onHand": 7,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110279 Sword & Shield Chilling Reign Booster Pack (English) — 10 cards / Multicolor",
@@ -2813,6 +2879,38 @@
         "productId": 15641562415448,
         "variantId": 56849717330264,
         "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116645 Team Rocket's Meowth - Scarlet & Violet Destined Rivals 203/182 NM (English) — 203/182, Near-Mint / Illustration Rare",
+        "productId": 15641542164824,
+        "variantId": 56849695474008,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132048 Dracule Mihawk - The Azure Sea's Seven OP14‑119 NM V2 (English) — OP14‑119/V2, Near-Mint / Alternate Art",
+        "productId": 15641331827032,
+        "variantId": 56849290297688,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131540 Tournament Pack 2024 Oct‑Dec One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641342542168,
+        "variantId": 56849302323544,
+        "onHand": 8,
+        "committed": 10,
+        "demand": 10
+      },
+      {
+        "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
+        "productId": 15641507266904,
+        "variantId": 56849645109592,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
@@ -3042,6 +3140,36 @@
         "product": "113497 Eevee ex - Scarlet & Violet Prismatic Evolution 167/131 NM (English) — 167/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563365720,
         "variantId": 56849718935896,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "116645 Team Rocket's Meowth - Scarlet & Violet Destined Rivals 203/182 NM (English) — 203/182, Near-Mint / Illustration Rare",
+        "productId": 15641542164824,
+        "variantId": 56849695474008,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132048 Dracule Mihawk - The Azure Sea's Seven OP14‑119 NM V2 (English) — OP14‑119/V2, Near-Mint / Alternate Art",
+        "productId": 15641331827032,
+        "variantId": 56849290297688,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
+        "productId": 15641507266904,
+        "variantId": 56849645109592,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
