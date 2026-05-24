@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-24T15:38:13.341Z",
+  "generatedAt": "2026-05-24T16:47:24.420Z",
   "summary": {
-    "totalUnfulfilled": 85,
+    "totalUnfulfilled": 87,
     "canFulfill": 24,
-    "blocked": 61
+    "blocked": 63
   },
   "fulfillableOrders": [
     {
@@ -1228,6 +1228,42 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12338127307096,
+      "name": "#3589",
+      "customerName": "JAVIER Barragan",
+      "createdAt": "2026-05-24T17:36:58+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "141085 One Piece Card Game Heroines Edition Booster Box 24 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12338136416600,
+      "name": "#3590",
+      "customerName": "Zoel von Hessberg",
+      "createdAt": "2026-05-24T17:44:05+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1382,7 +1418,7 @@
         "variantId": 57056588726616,
         "onHand": 0,
         "committed": 1,
-        "demand": 1
+        "demand": 2
       },
       {
         "product": "131512 Emperors in the New World One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -2150,7 +2186,7 @@
         "variantId": 56849299571032,
         "onHand": 1,
         "committed": 3,
-        "demand": 2
+        "demand": 3
       },
       {
         "product": "131600 Two Legends One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Green",
@@ -2623,6 +2659,14 @@
         "onHand": 8,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
+        "productId": 15770791018840,
+        "variantId": 57361382703448,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2780,6 +2824,16 @@
         "product": "119115 Tirtouga - Scarlet & Violet Black Bolt 106/086 NM (English) — 106/086, Near-Mint / Illustration Rare",
         "productId": 15641514344792,
         "variantId": 56849656381784,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
+        "productId": 15770791018840,
+        "variantId": 57361382703448,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
