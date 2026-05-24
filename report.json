@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-24T18:57:50.316Z",
+  "generatedAt": "2026-05-24T20:14:19.021Z",
   "summary": {
-    "totalUnfulfilled": 87,
-    "canFulfill": 24,
-    "blocked": 63
+    "totalUnfulfilled": 92,
+    "canFulfill": 25,
+    "blocked": 67
   },
   "fulfillableOrders": [
     {
@@ -149,6 +149,12 @@
       "name": "#3588",
       "createdAt": "2026-05-24T17:23:56+02:00",
       "itemCount": 17
+    },
+    {
+      "id": 12338433196376,
+      "name": "#3592",
+      "createdAt": "2026-05-24T21:18:01+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1259,6 +1265,84 @@
       "reasons": [
         {
           "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12338427625816,
+      "name": "#3591",
+      "customerName": "sylvio hage",
+      "createdAt": "2026-05-24T21:13:41+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12338440470872,
+      "name": "#3593",
+      "customerName": "Fong Lin",
+      "createdAt": "2026-05-24T21:23:07+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "116673 Rapidash - Scarlet & Violet Destined Rivals 189/182 NM (English) — 189/182, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "140424 Dedenne - Mega Evolution Perfect Order 093/088 NM (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12338452398424,
+      "name": "#3594",
+      "customerName": "Tobias Eckl",
+      "createdAt": "2026-05-24T21:32:16+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "110068 Scarlet & Violet Temporal Forces Booster Box 36 Booster pack (English) — 36 booster packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "110062 Scarlet & Violet Twilight Masquerade Booster Box 36 pack (English) — 36 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12338483102040,
+      "name": "#3595",
+      "customerName": "Šimon Vích",
+      "createdAt": "2026-05-24T21:55:28+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "113497 Eevee ex - Scarlet & Violet Prismatic Evolution 167/131 NM (English) — 167/131, Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2665,17 +2749,101 @@
         "productId": 15770791018840,
         "variantId": 57361382703448,
         "onHand": 0,
+        "committed": 3,
+        "demand": 3
+      },
+      {
+        "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
+        "productId": 15771147010392,
+        "variantId": 57362036457816,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "116673 Rapidash - Scarlet & Violet Destined Rivals 189/182 NM (English) — 189/182, Near-Mint / Illustration Rare",
+        "productId": 15641537479000,
+        "variantId": 56849690591576,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "140424 Dedenne - Mega Evolution Perfect Order 093/088 NM (English)",
+        "productId": 15771158249816,
+        "variantId": 57362051826008,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110068 Scarlet & Violet Temporal Forces Booster Box 36 Booster pack (English) — 36 booster packs / Multicolor",
+        "productId": 15641567330648,
+        "variantId": 56849733353816,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110074 Scarlet & Violet Paradox Rift Booster 36 pack(English) — 36 booster pack / Multicolor",
+        "productId": 15641567232344,
+        "variantId": 56849733255512,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110062 Scarlet & Violet Twilight Masquerade Booster Box 36 pack (English) — 36 booster pack / Multicolor",
+        "productId": 15641567461720,
+        "variantId": 56849733484888,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113497 Eevee ex - Scarlet & Violet Prismatic Evolution 167/131 NM (English) — 167/131, Near-Mint / Special Illustration Rare",
+        "productId": 15641563365720,
+        "variantId": 56849718935896,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113542 Scarlet & Violet Prismatic Evolutions Espeon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
+        "productId": 15641562415448,
+        "variantId": 56849717330264,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       }
     ],
     "demandExceedsStock": [
       {
+        "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
+        "productId": 15770791018840,
+        "variantId": 57361382703448,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 0,
+        "available": -3,
+        "shortfall": 3
+      },
+      {
         "product": "JAZWARES Pokémon Snorlax Plush Toy",
         "productId": 15561000059224,
         "variantId": 56534869541208,
         "onHand": -1,
         "committed": 1,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
+        "productId": 15771147010392,
+        "variantId": 57362036457816,
+        "onHand": 0,
+        "committed": 2,
         "incoming": 0,
         "available": -2,
         "shortfall": 2
@@ -2831,9 +2999,49 @@
         "shortfall": 1
       },
       {
-        "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
-        "productId": 15770791018840,
-        "variantId": 57361382703448,
+        "product": "116673 Rapidash - Scarlet & Violet Destined Rivals 189/182 NM (English) — 189/182, Near-Mint / Illustration Rare",
+        "productId": 15641537479000,
+        "variantId": 56849690591576,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "140424 Dedenne - Mega Evolution Perfect Order 093/088 NM (English)",
+        "productId": 15771158249816,
+        "variantId": 57362051826008,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "110068 Scarlet & Violet Temporal Forces Booster Box 36 Booster pack (English) — 36 booster packs / Multicolor",
+        "productId": 15641567330648,
+        "variantId": 56849733353816,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "110062 Scarlet & Violet Twilight Masquerade Booster Box 36 pack (English) — 36 booster pack / Multicolor",
+        "productId": 15641567461720,
+        "variantId": 56849733484888,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "113497 Eevee ex - Scarlet & Violet Prismatic Evolution 167/131 NM (English) — 167/131, Near-Mint / Special Illustration Rare",
+        "productId": 15641563365720,
+        "variantId": 56849718935896,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
