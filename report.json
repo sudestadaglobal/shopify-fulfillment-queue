@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-25T16:37:42.477Z",
+  "generatedAt": "2026-05-25T18:21:12.492Z",
   "summary": {
-    "totalUnfulfilled": 101,
+    "totalUnfulfilled": 100,
     "canFulfill": 26,
-    "blocked": 75
+    "blocked": 74
   },
   "fulfillableOrders": [
     {
@@ -164,21 +164,6 @@
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12203085070680,
-      "name": "#3091",
-      "customerName": "Cameron Moore",
-      "createdAt": "2026-03-30T03:44:49+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "128236 25th Anniversary Edition Booster Pack (JP) — 1 card / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
     {
       "id": 12268683067736,
       "name": "#3363",
@@ -1611,14 +1596,6 @@
         "productId": 15641488064856,
         "variantId": 56849614831960,
         "onHand": 7,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "128236 25th Anniversary Edition Booster Pack (JP) — 1 card / Multicolor",
-        "productId": 15641373671768,
-        "variantId": 56849439261016,
-        "onHand": 0,
         "committed": 1,
         "demand": 1
       },
