@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-25T14:16:39.314Z",
+  "generatedAt": "2026-05-25T16:37:42.477Z",
   "summary": {
-    "totalUnfulfilled": 100,
+    "totalUnfulfilled": 101,
     "canFulfill": 26,
-    "blocked": 74
+    "blocked": 75
   },
   "fulfillableOrders": [
     {
@@ -1454,6 +1454,21 @@
       "reasons": [
         {
           "product": "142955 Mega Evolution Chaos Rising Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12339913523544,
+      "name": "#3604",
+      "customerName": "Adrià Cáceres",
+      "createdAt": "2026-05-25T17:32:32+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "138051 _____'s Chansey - Challenge from the Darkness 113 NM (Japanese)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2974,6 +2989,14 @@
         "onHand": 1,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "138051 _____'s Chansey - Challenge from the Darkness 113 NM (Japanese)",
+        "productId": 15773509615960,
+        "variantId": 57367492788568,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3241,6 +3264,16 @@
         "product": "124106 Piplup - Phantasmal Flames 098/094 NM (English) — 098/094, Near-Mint / Illustration Rare",
         "productId": 15641484755288,
         "variantId": 56849609523544,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "138051 _____'s Chansey - Challenge from the Darkness 113 NM (Japanese)",
+        "productId": 15773509615960,
+        "variantId": 57367492788568,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
