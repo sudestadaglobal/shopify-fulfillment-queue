@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-26T14:22:19.666Z",
+  "generatedAt": "2026-05-26T17:47:05.565Z",
   "summary": {
-    "totalUnfulfilled": 75,
+    "totalUnfulfilled": 77,
     "canFulfill": 1,
-    "blocked": 74
+    "blocked": 76
   },
   "fulfillableOrders": [
     {
@@ -1309,6 +1309,36 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12342140567896,
+      "name": "#3605",
+      "customerName": "JAVIER Barragan",
+      "createdAt": "2026-05-26T16:46:29+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "131400 Tournament Pack Vol.5 Winner One Piece Booster Pack (English",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12343537205592,
+      "name": "#3606",
+      "customerName": "Justin Veenhuizen",
+      "createdAt": "2026-05-26T19:33:11+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132688 Team Rocket’s Dugtrio - Mega Evolution Ascended Heroes 239/217 NM (English) — 239/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1374,8 +1404,8 @@
         "productId": 15643970961752,
         "variantId": 56858997653848,
         "onHand": 4,
-        "committed": 12,
-        "demand": 12
+        "committed": 13,
+        "demand": 13
       },
       {
         "product": "131472 Royal Blood One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
@@ -2416,6 +2446,46 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131470 Pillars of Strength One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641345032536,
+        "variantId": 56849305076056,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131460 Winner Pack 2025 Vol.1 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15650755051864,
+        "variantId": 56886271541592,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131432 Event Pack Vol.1 One Piece Booster Pack (English) — Black / White / 1 card",
+        "productId": 15642791805272,
+        "variantId": 56856364450136,
+        "onHand": 2,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "131400 Tournament Pack Vol.5 Winner One Piece Booster Pack (English",
+        "productId": 15775998247256,
+        "variantId": 57373542711640,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132688 Team Rocket’s Dugtrio - Mega Evolution Ascended Heroes 239/217 NM (English) — 239/217, Near-Mint / Illustration Rare",
+        "productId": 15641319309656,
+        "variantId": 56849268408664,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2693,6 +2763,16 @@
         "product": "138051 _____'s Chansey - Challenge from the Darkness 113 NM (Japanese)",
         "productId": 15773509615960,
         "variantId": 57367492788568,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "131400 Tournament Pack Vol.5 Winner One Piece Booster Pack (English",
+        "productId": 15775998247256,
+        "variantId": 57373542711640,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
