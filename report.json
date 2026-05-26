@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T19:51:28.637Z",
+  "generatedAt": "2026-05-26T21:53:28.456Z",
   "summary": {
     "totalUnfulfilled": 81,
     "canFulfill": 3,
@@ -2578,16 +2578,6 @@
         "shortfall": 4
       },
       {
-        "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
-        "productId": 15771147010392,
-        "variantId": 57362036457816,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 0,
-        "available": -3,
-        "shortfall": 3
-      },
-      {
         "product": "JAZWARES Pokémon Snorlax Plush Toy",
         "productId": 15561000059224,
         "variantId": 56534869541208,
@@ -2605,6 +2595,16 @@
         "committed": 2,
         "incoming": 0,
         "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
+        "productId": 15771147010392,
+        "variantId": 57362036457816,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 1,
+        "available": -3,
         "shortfall": 2
       },
       {
