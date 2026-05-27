@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T21:31:41.649Z",
+  "generatedAt": "2026-05-27T23:04:06.592Z",
   "summary": {
     "totalUnfulfilled": 82,
     "canFulfill": 19,
@@ -1072,7 +1072,7 @@
           "needed": 1
         },
         {
-          "product": "Product #15641567658328 — 36 booster pack / Multicolor",
+          "product": "110046 Sword & Shield Battle Styles Booster Box 36 pack (English) — 36 booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2263,7 +2263,7 @@
         "demand": 1
       },
       {
-        "product": "Product #15641567658328 — 36 booster pack / Multicolor",
+        "product": "110046 Sword & Shield Battle Styles Booster Box 36 pack (English) — 36 booster pack / Multicolor",
         "productId": 15641567658328,
         "variantId": 56849733681496,
         "onHand": 0,
