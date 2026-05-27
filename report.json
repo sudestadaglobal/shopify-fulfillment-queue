@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-27T19:40:12.295Z",
+  "generatedAt": "2026-05-27T21:31:41.649Z",
   "summary": {
-    "totalUnfulfilled": 79,
+    "totalUnfulfilled": 82,
     "canFulfill": 19,
-    "blocked": 60
+    "blocked": 63
   },
   "fulfillableOrders": [
     {
@@ -1072,7 +1072,7 @@
           "needed": 1
         },
         {
-          "product": "110046 Sword & Shield Battle Styles Booster Box 36 pack (English) — 36 booster pack / Multicolor",
+          "product": "Product #15641567658328 — 36 booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1200,6 +1200,57 @@
           "stock": 0,
           "needed": 1
         },
+        {
+          "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12347282129240,
+      "name": "#3623",
+      "customerName": "Šimon Vích",
+      "createdAt": "2026-05-27T21:42:45+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "125770 Cleffa - Obsidian Flames 202/197 NM (English) — 202/197, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12347303166296,
+      "name": "#3624",
+      "customerName": "Christoph Burger",
+      "createdAt": "2026-05-27T21:54:41+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "110289 Sword & Shield Shining Legends Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 3
+        }
+      ]
+    },
+    {
+      "id": 12347310145880,
+      "name": "#3625",
+      "customerName": "Sebastian Bergström",
+      "createdAt": "2026-05-27T21:58:47+02:00",
+      "itemCount": 1,
+      "reasons": [
         {
           "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
           "reason": "Insufficient stock",
@@ -2024,8 +2075,8 @@
         "productId": 15770791018840,
         "variantId": 57361382703448,
         "onHand": 0,
-        "committed": 5,
-        "demand": 5
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
@@ -2212,7 +2263,7 @@
         "demand": 1
       },
       {
-        "product": "110046 Sword & Shield Battle Styles Booster Box 36 pack (English) — 36 booster pack / Multicolor",
+        "product": "Product #15641567658328 — 36 booster pack / Multicolor",
         "productId": 15641567658328,
         "variantId": 56849733681496,
         "onHand": 0,
@@ -2306,6 +2357,30 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
+        "productId": 15641318490456,
+        "variantId": 56849267589464,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "125770 Cleffa - Obsidian Flames 202/197 NM (English) — 202/197, Near-Mint / Illustration Rare",
+        "productId": 15641390154072,
+        "variantId": 56849461739864,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110289 Sword & Shield Shining Legends Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641564381528,
+        "variantId": 56849720901976,
+        "onHand": 1,
+        "committed": 3,
+        "demand": 3
       }
     ],
     "demandExceedsStock": [
