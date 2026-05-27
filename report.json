@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-27T13:54:08.650Z",
+  "generatedAt": "2026-05-27T17:26:40.184Z",
   "summary": {
-    "totalUnfulfilled": 70,
-    "canFulfill": 12,
-    "blocked": 58
+    "totalUnfulfilled": 78,
+    "canFulfill": 19,
+    "blocked": 59
   },
   "fulfillableOrders": [
     {
@@ -49,6 +49,18 @@
       "itemCount": 8
     },
     {
+      "id": 12307881099608,
+      "name": "#3525",
+      "createdAt": "2026-05-16T22:49:55+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12307929432408,
+      "name": "#3528",
+      "createdAt": "2026-05-16T23:50:50+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12307993231704,
       "name": "#3533",
       "createdAt": "2026-05-17T01:33:21+02:00",
@@ -73,9 +85,39 @@
       "itemCount": 4
     },
     {
+      "id": 12315128496472,
+      "name": "#3561",
+      "createdAt": "2026-05-19T23:48:56+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12317396074840,
+      "name": "#3567",
+      "createdAt": "2026-05-20T21:20:17+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12346335035736,
       "name": "#3613",
       "createdAt": "2026-05-27T15:03:15+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12346988921176,
+      "name": "#3616",
+      "createdAt": "2026-05-27T18:44:58+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12347029782872,
+      "name": "#3619",
+      "createdAt": "2026-05-27T19:11:28+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12347032928600,
+      "name": "#3620",
+      "createdAt": "2026-05-27T19:13:36+02:00",
       "itemCount": 1
     }
   ],
@@ -234,27 +276,6 @@
       ]
     },
     {
-      "id": 12307881099608,
-      "name": "#3525",
-      "customerName": "JAVIER Barragan",
-      "createdAt": "2026-05-16T22:49:55+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131584 Awakening of the New Era One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / White",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
-          "reason": "Insufficient stock",
-          "stock": 1,
-          "needed": 2
-        }
-      ]
-    },
-    {
       "id": 12307911704920,
       "name": "#3527",
       "customerName": "Oscar Brixius",
@@ -263,21 +284,6 @@
       "reasons": [
         {
           "product": "138047 Slowpoke & Psyduck GX - Sun & Moon Miracle Twin 011/094 NM (Japanese) - Double Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12307929432408,
-      "name": "#3528",
-      "customerName": "Emile Vermeulen",
-      "createdAt": "2026-05-16T23:50:50+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "120771 Sun & Moon Team Up Mimikyu 1 Booster Pack Blister (English) — 1 card, 1 Blister / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -465,21 +471,6 @@
       ]
     },
     {
-      "id": 12315128496472,
-      "name": "#3561",
-      "customerName": "Mathias Jakobsen",
-      "createdAt": "2026-05-19T23:48:56+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "126601 The Glory of Team Rocket Attaché Case Set (JP)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12315134067032,
       "name": "#3562",
       "customerName": "Rasmus Legaard Jensen",
@@ -518,21 +509,6 @@
       "reasons": [
         {
           "product": "131914 Mega Evolution Ascended Heroes Mega Lucario Premium Poster Collection 10 Booster Packs (English) Pre-Order",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12317396074840,
-      "name": "#3567",
-      "customerName": "Ivo Adernieks",
-      "createdAt": "2026-05-20T21:20:17+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "124004 Phantasmal Flames Mega Evolution Pokémon Center Elite Trainer Box 11 Booster Pack (English) — 11 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1129,6 +1105,87 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12346956743000,
+      "name": "#3614",
+      "customerName": "Younes El Ghalbzouri",
+      "createdAt": "2026-05-27T18:31:44+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132704 Iono’s Wattrel - Mega Evolution Ascended Heroes 231/217 NM (English) — 231/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12346971521368,
+      "name": "#3615",
+      "customerName": "Justin Veenhuizen",
+      "createdAt": "2026-05-27T18:35:30+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119495 Mr. Mime - Scarlet & Violet 151 179/165 NM (English) — 179/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12346995147096,
+      "name": "#3617",
+      "customerName": "Lars Hollemans",
+      "createdAt": "2026-05-27T18:49:09+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 8
+        }
+      ]
+    },
+    {
+      "id": 12347007861080,
+      "name": "#3618",
+      "customerName": "João Joaquim",
+      "createdAt": "2026-05-27T18:57:51+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "118814 Zorua - Scarlet & Violet White Flare 142/086 NM (English) — 142/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119113 Seismitoad - Scarlet & Violet Black Bolt 105/086 NM (English) — 105/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12347034370392,
+      "name": "#3621",
+      "customerName": "jonas grietens",
+      "createdAt": "2026-05-27T19:14:55+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "142955 Mega Evolution Chaos Rising Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1497,7 +1554,7 @@
         "product": "131584 Awakening of the New Era One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / White",
         "productId": 15641340969304,
         "variantId": 56849300586840,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1505,7 +1562,7 @@
         "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
         "productId": 15641321570648,
         "variantId": 56849271783768,
-        "onHand": 1,
+        "onHand": 3,
         "committed": 2,
         "demand": 2
       },
@@ -1529,7 +1586,7 @@
         "product": "120771 Sun & Moon Team Up Mimikyu 1 Booster Pack Blister (English) — 1 card, 1 Blister / Multicolor",
         "productId": 15641501401432,
         "variantId": 56849635541336,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1585,7 +1642,7 @@
         "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
         "productId": 15641340477784,
         "variantId": 56849299997016,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       },
@@ -1713,7 +1770,7 @@
         "product": "126601 The Glory of Team Rocket Attaché Case Set (JP)",
         "productId": 15556789993816,
         "variantId": 56513303118168,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1745,7 +1802,7 @@
         "product": "124004 Phantasmal Flames Mega Evolution Pokémon Center Elite Trainer Box 11 Booster Pack (English) — 11 Booster Packs / Multicolor",
         "productId": 15641488621912,
         "variantId": 56849615487320,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1914,8 +1971,8 @@
         "productId": 15770729218392,
         "variantId": 57361267196248,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "119077 Snivy - Scarlet & Violet Black Bolt 087/086 NM (English) — 087/086, Near-Mint / Illustration Rare",
@@ -2154,6 +2211,70 @@
         "productId": 15641565659480,
         "variantId": 56849722769752,
         "onHand": 9,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132704 Iono’s Wattrel - Mega Evolution Ascended Heroes 231/217 NM (English) — 231/217, Near-Mint / Illustration Rare",
+        "productId": 15641318818136,
+        "variantId": 56849267917144,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119495 Mr. Mime - Scarlet & Violet 151 179/165 NM (English) — 179/165, Near-Mint / Illustration Rare",
+        "productId": 15641505857880,
+        "variantId": 56849643209048,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Apple AirPods Pro 3",
+        "productId": 15338563338584,
+        "variantId": 55853592019288,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
+        "productId": 15777314439512,
+        "variantId": 57381528895832,
+        "onHand": 0,
+        "committed": 8,
+        "demand": 8
+      },
+      {
+        "product": "118814 Zorua - Scarlet & Violet White Flare 142/086 NM (English) — 142/086, Near-Mint / Illustration Rare",
+        "productId": 15641519882584,
+        "variantId": 56849665392984,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119113 Seismitoad - Scarlet & Violet Black Bolt 105/086 NM (English) — 105/086, Near-Mint / Illustration Rare",
+        "productId": 15641514410328,
+        "variantId": 56849656447320,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131472 Royal Blood One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641344934232,
+        "variantId": 56849304977752,
+        "onHand": 2,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "110166 Scarlet & Violet Prismatic Evolutions Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566642520,
+        "variantId": 56849732436312,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       }
