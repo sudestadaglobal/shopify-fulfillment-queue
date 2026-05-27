@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-27T17:26:40.184Z",
+  "generatedAt": "2026-05-27T19:40:12.295Z",
   "summary": {
-    "totalUnfulfilled": 78,
+    "totalUnfulfilled": 79,
     "canFulfill": 19,
-    "blocked": 59
+    "blocked": 60
   },
   "fulfillableOrders": [
     {
@@ -1186,6 +1186,27 @@
           "needed": 2
         }
       ]
+    },
+    {
+      "id": 12347237007704,
+      "name": "#3622",
+      "customerName": "Tobias Eckl",
+      "createdAt": "2026-05-27T21:17:54+02:00",
+      "itemCount": 6,
+      "reasons": [
+        {
+          "product": "134616 Emolga - Legendary Treasures RC23/RC25 NM (English) — RC23/RC25, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2003,8 +2024,8 @@
         "productId": 15770791018840,
         "variantId": 57361382703448,
         "onHand": 0,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
@@ -2115,8 +2136,8 @@
         "productId": 15642692911448,
         "variantId": 56856050270552,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "138051 _____'s Chansey - Challenge from the Darkness 113 NM (Japanese)",
@@ -2275,6 +2296,14 @@
         "productId": 15641566642520,
         "variantId": 56849732436312,
         "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134616 Emolga - Legendary Treasures RC23/RC25 NM (English) — RC23/RC25, Near-Mint / Ultra Rare",
+        "productId": 15641282216280,
+        "variantId": 56849218503000,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
