@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-05-28T12:35:33.888Z",
+  "generatedAt": "2026-05-28T16:45:43.482Z",
   "summary": {
-    "totalUnfulfilled": 56,
-    "canFulfill": 0,
-    "blocked": 56
+    "totalUnfulfilled": 60,
+    "canFulfill": 2,
+    "blocked": 58
   },
-  "fulfillableOrders": [],
+  "fulfillableOrders": [
+    {
+      "id": 12338136416600,
+      "name": "#3590",
+      "createdAt": "2026-05-24T17:44:05+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12348715041112,
+      "name": "#3628",
+      "createdAt": "2026-05-28T17:21:50+02:00",
+      "itemCount": 1
+    }
+  ],
   "blockedOrders": [
     {
       "id": 12268683067736,
@@ -539,21 +552,6 @@
       ]
     },
     {
-      "id": 12338136416600,
-      "name": "#3590",
-      "customerName": "Zoel von Hessberg",
-      "createdAt": "2026-05-24T17:44:05+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12338427625816,
       "name": "#3591",
       "customerName": "sylvio hage",
@@ -886,7 +884,7 @@
     {
       "id": 12347007861080,
       "name": "#3618",
-      "customerName": "Jo��o Joaquim",
+      "customerName": "João Joaquim",
       "createdAt": "2026-05-27T18:57:51+02:00",
       "itemCount": 2,
       "reasons": [
@@ -985,6 +983,51 @@
       "reasons": [
         {
           "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12348601434456,
+      "name": "#3626",
+      "customerName": "Fredrik Jansson",
+      "createdAt": "2026-05-28T16:20:03+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "110166 Scarlet & Violet Prismatic Evolutions Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12348615393624,
+      "name": "#3627",
+      "customerName": "Ondřej Šamárek",
+      "createdAt": "2026-05-28T16:28:32+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12348721135960,
+      "name": "#3629",
+      "customerName": "morris van Meelen",
+      "createdAt": "2026-05-28T17:25:51+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "121033 Mega Lucario ex - Mega Evolution 160/132 NM (English) — 160/132, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1503,8 +1546,8 @@
         "productId": 15641560842584,
         "variantId": 56849715429720,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
@@ -1582,7 +1625,7 @@
         "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
         "productId": 15770791018840,
         "variantId": 57361382703448,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 6,
         "demand": 6
       },
@@ -1857,6 +1900,46 @@
         "onHand": 1,
         "committed": 3,
         "demand": 3
+      },
+      {
+        "product": "110228 Sword & Shield Crown Zenith Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565462872,
+        "variantId": 56849722311000,
+        "onHand": 9,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110207 Scarlet & Violet 151 Booster NM (English) — Scarlet & Violet 151 (10 cards) / Multicolor",
+        "productId": 15641565823320,
+        "variantId": 56849731092824,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110244 Sword & Shield Lost Origin Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565167960,
+        "variantId": 56849722016088,
+        "onHand": 8,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "110166 Scarlet & Violet Prismatic Evolutions Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566642520,
+        "variantId": 56849732436312,
+        "onHand": 1,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "121033 Mega Lucario ex - Mega Evolution 160/132 NM (English) — 160/132, Near-Mint / Ultra Rare",
+        "productId": 15641496191320,
+        "variantId": 56849625612632,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
