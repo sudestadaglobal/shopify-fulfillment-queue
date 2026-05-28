@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-05-28T04:48:51.866Z",
+  "generatedAt": "2026-05-28T08:49:38.973Z",
   "summary": {
-    "totalUnfulfilled": 82,
-    "canFulfill": 19,
+    "totalUnfulfilled": 83,
+    "canFulfill": 20,
     "blocked": 63
   },
   "fulfillableOrders": [
+    {
+      "id": 12220670443864,
+      "name": "#3234",
+      "createdAt": "2026-04-10T19:39:52+02:00",
+      "itemCount": 2
+    },
     {
       "id": 12276426998104,
       "name": "#3416",
@@ -1263,6 +1269,14 @@
   "stockAlerts": {
     "lowStock": [
       {
+        "product": "119409 Mega Evolution Enhanced Booster Box (English) — 36 booster pack / Multicolor",
+        "productId": 15641508020568,
+        "variantId": 56849646158168,
+        "onHand": 2,
+        "committed": 2,
+        "demand": 2
+      },
+      {
         "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
         "productId": 15641336152408,
         "variantId": 56849295245656,
@@ -1850,14 +1864,6 @@
         "product": "124044 Mega Charizard X ex - Phantasmal Flames 130/094 NM (English) — 130/094, Near-Mint / Secret Rare",
         "productId": 15641487343960,
         "variantId": 56849614045528,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "119409 Mega Evolution Enhanced Booster Box (English) — 36 booster pack / Multicolor",
-        "productId": 15641508020568,
-        "variantId": 56849646158168,
         "onHand": 1,
         "committed": 1,
         "demand": 1
