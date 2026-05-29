@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-05-29T17:05:17.718Z",
+  "generatedAt": "2026-05-29T19:43:54.381Z",
   "summary": {
-    "totalUnfulfilled": 64,
-    "canFulfill": 0,
-    "blocked": 64
+    "totalUnfulfilled": 69,
+    "canFulfill": 2,
+    "blocked": 67
   },
-  "fulfillableOrders": [],
+  "fulfillableOrders": [
+    {
+      "id": 12351081283928,
+      "name": "#3638",
+      "createdAt": "2026-05-29T20:49:26+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12351108284760,
+      "name": "#3641",
+      "createdAt": "2026-05-29T21:06:26+02:00",
+      "itemCount": 1
+    }
+  ],
   "blockedOrders": [
     {
       "id": 12268683067736,
@@ -1128,6 +1141,105 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12350995169624,
+      "name": "#3637",
+      "customerName": "Mike van Vianen",
+      "createdAt": "2026-05-29T19:55:09+02:00",
+      "itemCount": 13,
+      "reasons": [
+        {
+          "product": "142952 Mega Evolution Chaos Rising Booster Bundle 6 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "124012 Phantasmal Flames Mega Evolution Booster Bundle 6 Booster Pack (English) — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "133355 2026 Pokémon Lunar New Year Gift Box (Simplified Chinese) — 5 Booster Packs / Red",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "109974 Pikachu - Scarlet & Violet Black Star Promos 027/225 NM (English) — 027/225, Near-Mint / Promo",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "109970 Pikachu - Sword & Shield Crown Zenith 160/159 NM (English) — 160/159, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12351084331352,
+      "name": "#3639",
+      "customerName": "Fabian Moser",
+      "createdAt": "2026-05-29T20:51:26+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "131638 Rosa’s Encouragement - Nihil Zero 115/080 NM (Japanese) — 115/080, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12351091704152,
+      "name": "#3640",
+      "customerName": "Ryan Christiaanse",
+      "createdAt": "2026-05-29T20:56:40+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "142953 Mega Evolution Chaos Rising Charmeleon 3-Pack Blister 3 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "142952 Mega Evolution Chaos Rising Booster Bundle 6 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1537,8 +1649,8 @@
         "productId": 15641569001816,
         "variantId": 56849736368472,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "121007 Mega Lucario ex - Mega Evolution 179/132 NM (English) — 179/132, Near-Mint / Special Ilustration Rare",
@@ -1553,8 +1665,8 @@
         "productId": 15641389039960,
         "variantId": 56849460199768,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110086 Scarlet & Violet Paldea Evolved Booster Box 36 pack(English) — 36 booster pack / Multicolor",
@@ -1633,8 +1745,8 @@
         "productId": 15641488556376,
         "variantId": 56849615421784,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
@@ -1649,8 +1761,8 @@
         "productId": 15641268355416,
         "variantId": 56849193173336,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131910 Mega Evolution Ascended Heroes Larry’s Komala Blister 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
@@ -1721,8 +1833,8 @@
         "productId": 15770791018840,
         "variantId": 57361382703448,
         "onHand": 0,
-        "committed": 6,
-        "demand": 6
+        "committed": 7,
+        "demand": 7
       },
       {
         "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
@@ -2001,8 +2113,8 @@
         "productId": 15641565462872,
         "variantId": 56849722311000,
         "onHand": 9,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110207 Scarlet & Violet 151 Booster NM (English) — Scarlet & Violet 151 (10 cards) / Multicolor",
@@ -2049,8 +2161,8 @@
         "productId": 15779706765656,
         "variantId": 57390579482968,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "125894 Mega Lucario ex - MEGA Dream ex 228/193 NM (Japanese) — 228/193, Near-Mint / Ultra Rare",
@@ -2081,6 +2193,70 @@
         "productId": 15641487638872,
         "variantId": 56849614373208,
         "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
+        "productId": 15657571811672,
+        "variantId": 56923414757720,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "124012 Phantasmal Flames Mega Evolution Booster Bundle 6 Booster Pack (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641488425304,
+        "variantId": 56849615290712,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131932 Mega Evolution Ascended Heroes Zorua Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641336283480,
+        "variantId": 56849295343960,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "133355 2026 Pokémon Lunar New Year Gift Box (Simplified Chinese) — 5 Booster Packs / Red",
+        "productId": 15641300140376,
+        "variantId": 56849241014616,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "109970 Pikachu - Sword & Shield Crown Zenith 160/159 NM (English) — 160/159, Near-Mint / Secret Rare",
+        "productId": 15641569067352,
+        "variantId": 56849736434008,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131638 Rosa’s Encouragement - Nihil Zero 115/080 NM (Japanese) — 115/080, Near-Mint / Special Illustration Rare",
+        "productId": 15641339920728,
+        "variantId": 56849299145048,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "142953 Mega Evolution Chaos Rising Charmeleon 3-Pack Blister 3 Booster Packs (English) - Multicolor",
+        "productId": 15781209211224,
+        "variantId": 57396928414040,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119407 Mega Evolution Booster Box (English) — 36 booster pack / Multicolor",
+        "productId": 15641508086104,
+        "variantId": 56849646223704,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       }
