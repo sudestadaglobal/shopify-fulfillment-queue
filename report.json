@@ -1,30 +1,11 @@
 {
-  "generatedAt": "2026-05-29T05:56:16.270Z",
+  "generatedAt": "2026-05-29T10:05:59.199Z",
   "summary": {
-    "totalUnfulfilled": 67,
-    "canFulfill": 3,
+    "totalUnfulfilled": 64,
+    "canFulfill": 0,
     "blocked": 64
   },
-  "fulfillableOrders": [
-    {
-      "id": 12338136416600,
-      "name": "#3590",
-      "createdAt": "2026-05-24T17:44:05+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12348715041112,
-      "name": "#3628",
-      "createdAt": "2026-05-28T17:21:50+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12349073817944,
-      "name": "#3635",
-      "createdAt": "2026-05-28T21:00:42+02:00",
-      "itemCount": 1
-    }
-  ],
+  "fulfillableOrders": [],
   "blockedOrders": [
     {
       "id": 12268683067736,
@@ -558,6 +539,21 @@
       ]
     },
     {
+      "id": 12338136416600,
+      "name": "#3590",
+      "customerName": "Zoel von Hessberg",
+      "createdAt": "2026-05-24T17:44:05+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
       "id": 12338427625816,
       "name": "#3591",
       "customerName": "sylvio hage",
@@ -675,7 +671,7 @@
         {
           "product": "131540 Tournament Pack 2024 Oct‑Dec One Piece Booster Pack (English) — 1 card / Black / White",
           "reason": "Insufficient stock",
-          "stock": 8,
+          "stock": 7,
           "needed": 10
         }
       ]
@@ -704,21 +700,6 @@
       "reasons": [
         {
           "product": "124106 Piplup - Phantasmal Flames 098/094 NM (English) — 098/094, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12339615301976,
-      "name": "#3602",
-      "customerName": "Tobias Eckl",
-      "createdAt": "2026-05-25T15:19:37+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -932,6 +913,12 @@
       "reasons": [
         {
           "product": "134616 Emolga - Legendary Treasures RC23/RC25 NM (English) — RC23/RC25, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1733,9 +1720,9 @@
         "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
         "productId": 15770791018840,
         "variantId": 57361382703448,
-        "onHand": 1,
-        "committed": 7,
-        "demand": 7
+        "onHand": 0,
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
@@ -1821,9 +1808,9 @@
         "product": "131540 Tournament Pack 2024 Oct‑Dec One Piece Booster Pack (English) — 1 card / Black / White",
         "productId": 15641342542168,
         "variantId": 56849302323544,
-        "onHand": 8,
-        "committed": 11,
-        "demand": 11
+        "onHand": 7,
+        "committed": 10,
+        "demand": 10
       },
       {
         "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
@@ -1840,14 +1827,6 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
-        "productId": 15642692911448,
-        "variantId": 56856050270552,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
       },
       {
         "product": "138051 _____'s Chansey - Challenge from the Darkness 113 NM (Japanese)",
@@ -1981,6 +1960,14 @@
         "product": "134616 Emolga - Legendary Treasures RC23/RC25 NM (English) — RC23/RC25, Near-Mint / Ultra Rare",
         "productId": 15641282216280,
         "variantId": 56849218503000,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
+        "productId": 15642692911448,
+        "variantId": 56856050270552,
         "onHand": 0,
         "committed": 1,
         "demand": 1
