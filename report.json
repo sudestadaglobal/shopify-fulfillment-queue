@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-31T16:18:05.256Z",
+  "generatedAt": "2026-05-31T17:36:50.872Z",
   "summary": {
-    "totalUnfulfilled": 69,
+    "totalUnfulfilled": 73,
     "canFulfill": 2,
-    "blocked": 67
+    "blocked": 71
   },
   "fulfillableOrders": [
     {
@@ -1240,6 +1240,84 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12354264957272,
+      "name": "#3642",
+      "customerName": "Mike van Vianen",
+      "createdAt": "2026-05-31T18:22:34+02:00",
+      "itemCount": 17,
+      "reasons": [
+        {
+          "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12354333966680,
+      "name": "#3643",
+      "customerName": "Justin Veenhuizen",
+      "createdAt": "2026-05-31T19:04:57+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "120709 Umbreon GX - Sun & Moon 80/149 NM (English) — 80/149, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12354341536088,
+      "name": "#3644",
+      "customerName": "Kevin Enseling/Engelhard",
+      "createdAt": "2026-05-31T19:09:47+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131472 Royal Blood One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12354360115544,
+      "name": "#3645",
+      "customerName": "Damian van Veen",
+      "createdAt": "2026-05-31T19:21:07+02:00",
+      "itemCount": 26,
+      "reasons": [
+        {
+          "product": "110273 Sword & Shield Fusion Strike Fun Pack (English) — 3 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131532 Tournament Pack Vol.4 One Piece Booster Pack (English) — 1 card / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131500 Special DON!! Card Pack DP‑07 One Piece Booster Pack (English) — 1 card / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1561,16 +1639,16 @@
         "productId": 15641341133144,
         "variantId": 56849300750680,
         "onHand": 5,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131532 Tournament Pack Vol.4 One Piece Booster Pack (English) — 1 card / Black / White",
         "productId": 15641342902616,
         "variantId": 56849302716760,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "116665 Kangaskhan - Scarlet & Violet Destined Rivals 204/182 NM (English) — 204/182, Near-Mint / Illustration Rare",
@@ -1769,8 +1847,8 @@
         "productId": 15641337069912,
         "variantId": 56849296097624,
         "onHand": 9,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110212 Scarlet & Violet Obsidian Flames Sleeved Booster Pack (English) — 10 cards / Multicolor",
@@ -1833,8 +1911,8 @@
         "productId": 15770791018840,
         "variantId": 57361382703448,
         "onHand": 0,
-        "committed": 7,
-        "demand": 7
+        "committed": 8,
+        "demand": 8
       },
       {
         "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
@@ -2113,8 +2191,8 @@
         "productId": 15641565462872,
         "variantId": 56849722311000,
         "onHand": 9,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "110207 Scarlet & Violet 151 Booster NM (English) — Scarlet & Violet 151 (10 cards) / Multicolor",
@@ -2217,8 +2295,8 @@
         "productId": 15641336283480,
         "variantId": 56849295343960,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "133355 2026 Pokémon Lunar New Year Gift Box (Simplified Chinese) — 5 Booster Packs / Red",
@@ -2257,6 +2335,206 @@
         "productId": 15641508086104,
         "variantId": 56849646223704,
         "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110198 Scarlet & Violet Paldean Fates Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566019928,
+        "variantId": 56849731322200,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110175 Play! Pokémon Prize Pack Series Five Booster Pack (English) — 6 cards / Multicolor",
+        "productId": 15641566478680,
+        "variantId": 56849732272472,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110215 Play! Pokémon Prize Pack Series Three Booster Pack (English) — 6 cards / Multicolor",
+        "productId": 15641565659480,
+        "variantId": 56849722769752,
+        "onHand": 8,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "118664 Scarlet & Violet White Flare Booster Bundle 6 Booster Pack (English) — 6 booster pack / Multicolor",
+        "productId": 15641522962776,
+        "variantId": 56849669456216,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131912 Mega Evolution Ascended Heroes Erika’s Tangela Blister 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641336971608,
+        "variantId": 56849296032088,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113550 Scarlet & Violet Prismatic Evolutions Accessory Pouch Special Collection 5 Booster Pack (English) — 5 Booster pack, 1 pouch / Multicolor",
+        "productId": 15641562284376,
+        "variantId": 56849717199192,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
+        "productId": 15641336840536,
+        "variantId": 56849295901016,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "120709 Umbreon GX - Sun & Moon 80/149 NM (English) — 80/149, Near-Mint / Ultra Rare",
+        "productId": 15641502482776,
+        "variantId": 56849637114200,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119161 Dwebble - Scarlet & Violet Black Bolt 129/086 NM (English) — 129/086, Near-Mint / Illustration Rare",
+        "productId": 15641513394520,
+        "variantId": 56849654939992,
+        "onHand": 0,
+        "committed": 0,
+        "demand": 1
+      },
+      {
+        "product": "131472 Royal Blood One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641344934232,
+        "variantId": 56849304977752,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110273 Sword & Shield Fusion Strike Fun Pack (English) — 3 cards / Multicolor",
+        "productId": 15641564741976,
+        "variantId": 56849721262424,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131536 Tournament Pack Vol.6 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641342738776,
+        "variantId": 56849302520152,
+        "onHand": 9,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131530 Tournament Pack Vol.3 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641342968152,
+        "variantId": 56849302782296,
+        "onHand": 8,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131560 Judge Pack Vol. 5 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641341657432,
+        "variantId": 56849301438808,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131568 Judge Pack Vol. 3 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641341395288,
+        "variantId": 56849301176664,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131574 Event Pack Vol. 4 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641341198680,
+        "variantId": 56849300816216,
+        "onHand": 9,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131518 Judge Pack Vol.6 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641343459672,
+        "variantId": 56849303470424,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131552 Kingdoms of Intrigue Dash Pack One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641341985112,
+        "variantId": 56849301766488,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131556 Legacy of the Master Release Event One Piece Booster Pack (English) — 2 cards / Black / White",
+        "productId": 15641341821272,
+        "variantId": 56849301602648,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131562 Royal Blood Release Event One Piece Booster Pack (English) — 2 cards / Black / White",
+        "productId": 15641341591896,
+        "variantId": 56849301373272,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131554 Emperors in the New World 2nd Anniversary Tournament One Piece Booster Pack (English) — 2 cards / Black / White",
+        "productId": 15641341886808,
+        "variantId": 56849301668184,
+        "onHand": 8,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131522 Wings of the Captain Pre‑Release Pack One Piece Booster Pack (English) — 2 cards / Black / White",
+        "productId": 15641343295832,
+        "variantId": 56849303241048,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131516 Kingdoms of Intrigue Pre‑Release Pack One Piece Booster Pack (English) — 2 cards / Black / White",
+        "productId": 15641343525208,
+        "variantId": 56849303535960,
+        "onHand": 8,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131510 Revision Pack One Piece Booster Pack (English) — 7 cards / Black / White",
+        "productId": 15641343721816,
+        "variantId": 56849303732568,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131500 Special DON!! Card Pack DP‑07 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641344115032,
+        "variantId": 56849304158552,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
