@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-01T10:28:50.873Z",
+  "generatedAt": "2026-06-01T16:25:18.469Z",
   "summary": {
-    "totalUnfulfilled": 73,
-    "canFulfill": 2,
-    "blocked": 71
+    "totalUnfulfilled": 80,
+    "canFulfill": 3,
+    "blocked": 77
   },
   "fulfillableOrders": [
     {
@@ -16,6 +16,12 @@
       "id": 12351108284760,
       "name": "#3641",
       "createdAt": "2026-05-29T21:06:26+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12356094820696,
+      "name": "#3650",
+      "createdAt": "2026-06-01T17:28:31+02:00",
       "itemCount": 1
     }
   ],
@@ -1318,6 +1324,108 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12355599958360,
+      "name": "#3646",
+      "customerName": "Mumin Altan",
+      "createdAt": "2026-06-01T13:40:12+02:00",
+      "itemCount": 6,
+      "reasons": [
+        {
+          "product": "132838 Mega Gengar ex - Mega Evolution Ascended Heroes 284/217 NM (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132586 Mega Dragonite ex - Mega Evolution Ascended Heroes 290/217 NM (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12355621028184,
+      "name": "#3647",
+      "customerName": "Fabian Moser",
+      "createdAt": "2026-06-01T13:51:56+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12355816063320,
+      "name": "#3648",
+      "customerName": "Devon Karssen",
+      "createdAt": "2026-06-01T15:40:30+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "KARACTERMANIA Hello Kitty and Friends Vanity Case",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12356083384664,
+      "name": "#3649",
+      "customerName": "Jorn Sprakel",
+      "createdAt": "2026-06-01T17:24:36+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12356105175384,
+      "name": "#3651",
+      "customerName": "Maxim Leitsch",
+      "createdAt": "2026-06-01T17:34:33+02:00",
+      "itemCount": 6,
+      "reasons": [
+        {
+          "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "124012 Phantasmal Flames Mega Evolution Booster Bundle 6 Booster Pack (English) — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 4
+        }
+      ]
+    },
+    {
+      "id": 12356120379736,
+      "name": "#3652",
+      "customerName": "Mederic Foy",
+      "createdAt": "2026-06-01T17:41:25+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "JAZWARES Pokémon Pikachu Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1703,8 +1811,8 @@
         "productId": 15641508512088,
         "variantId": 56849646649688,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "109982 Pikachu - Scarlet & Violet 151 173/165 NM (Japanese) — 173/165, Near-Mint / Illustration Rare",
@@ -2287,8 +2395,8 @@
         "productId": 15641488425304,
         "variantId": 56849615290712,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "131932 Mega Evolution Ascended Heroes Zorua Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
@@ -2537,13 +2645,125 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "132838 Mega Gengar ex - Mega Evolution Ascended Heroes 284/217 NM (English)",
+        "productId": 15642673643864,
+        "variantId": 56855826563416,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132586 Mega Dragonite ex - Mega Evolution Ascended Heroes 290/217 NM (English)",
+        "productId": 15640175804760,
+        "variantId": 56844011733336,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131938 Mega Evolution Ascended Heroes Ultra‑Pro 9‑Pocket Binder (English) — 9 Pocket Album / Multicolor",
+        "productId": 15641336054104,
+        "variantId": 56849295114584,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
+        "productId": 15641321341272,
+        "variantId": 56849271554392,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "KARACTERMANIA Hello Kitty and Friends Vanity Case",
+        "productId": 15527915192664,
+        "variantId": 56427870781784,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131478 3rd Anniversary Tournament 3 Brothers One Piece Booster Pack (English) — 2 cards / Black / White",
+        "productId": 15641344737624,
+        "variantId": 56849304781144,
+        "onHand": 8,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
+        "productId": 15641563300184,
+        "variantId": 56849718870360,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "134040 Mega Evolution Perfect Order Booster Box 36 Booster Packs (English) Pre‑order",
+        "productId": 15642773913944,
+        "variantId": 56856323359064,
+        "onHand": 3,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "JAZWARES Pokémon Pikachu Plush Toy",
+        "productId": 15482556776792,
+        "variantId": 56313139757400,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
       {
+        "product": "124012 Phantasmal Flames Mega Evolution Booster Bundle 6 Booster Pack (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641488425304,
+        "variantId": 56849615290712,
+        "onHand": 0,
+        "committed": 5,
+        "incoming": 2,
+        "available": -5,
+        "shortfall": 3
+      },
+      {
+        "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
+        "productId": 15641508512088,
+        "variantId": 56849646649688,
+        "onHand": 1,
+        "committed": 3,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
+      },
+      {
         "product": "Corsair Virtuoso MAX Wireless Carbon Gaming Headset",
         "productId": 15768732533080,
         "variantId": 57352236204376,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "KARACTERMANIA Hello Kitty and Friends Vanity Case",
+        "productId": 15527915192664,
+        "variantId": 56427870781784,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Pikachu Plush Toy",
+        "productId": 15482556776792,
+        "variantId": 56313139757400,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
