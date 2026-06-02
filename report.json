@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-02T09:23:26.849Z",
+  "generatedAt": "2026-06-02T13:00:50.914Z",
   "summary": {
-    "totalUnfulfilled": 92,
-    "canFulfill": 5,
-    "blocked": 87
+    "totalUnfulfilled": 94,
+    "canFulfill": 6,
+    "blocked": 88
   },
   "fulfillableOrders": [
     {
@@ -35,6 +35,12 @@
       "name": "#3663",
       "createdAt": "2026-06-01T22:27:07+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12357838209368,
+      "name": "#3666",
+      "createdAt": "2026-06-02T14:54:52+02:00",
+      "itemCount": 2
     }
   ],
   "blockedOrders": [
@@ -1666,6 +1672,27 @@
           "needed": 2
         }
       ]
+    },
+    {
+      "id": 12357799641432,
+      "name": "#3665",
+      "customerName": "Fredrik Aschjem",
+      "createdAt": "2026-06-02T14:35:37+02:00",
+      "itemCount": 6,
+      "reasons": [
+        {
+          "product": "124012 Phantasmal Flames Mega Evolution Booster Bundle 6 Booster Pack (English) — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2179,8 +2206,8 @@
         "productId": 15641560842584,
         "variantId": 56849715429720,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
@@ -2635,8 +2662,8 @@
         "productId": 15641488425304,
         "variantId": 56849615290712,
         "onHand": 0,
-        "committed": 6,
-        "demand": 6
+        "committed": 7,
+        "demand": 7
       },
       {
         "product": "131932 Mega Evolution Ascended Heroes Zorua Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
@@ -2723,8 +2750,8 @@
         "productId": 15641336971608,
         "variantId": 56849296032088,
         "onHand": 6,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "113550 Scarlet & Violet Prismatic Evolutions Accessory Pouch Special Collection 5 Booster Pack (English) — 5 Booster pack, 1 pouch / Multicolor",
@@ -3179,8 +3206,8 @@
         "productId": 15641566511448,
         "variantId": 56849732305240,
         "onHand": 7,
-        "committed": 1,
-        "demand": 1
+        "committed": 8,
+        "demand": 8
       },
       {
         "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -3261,6 +3288,14 @@
         "onHand": 7,
         "committed": 3,
         "demand": 3
+      },
+      {
+        "product": "131906 Mega Evolution Ascended Heroes Gastly Tech Sticker Collection 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+        "productId": 15641337233752,
+        "variantId": 56849296294232,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
