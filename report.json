@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-02T13:00:50.914Z",
+  "generatedAt": "2026-06-02T17:51:00.762Z",
   "summary": {
-    "totalUnfulfilled": 94,
-    "canFulfill": 6,
-    "blocked": 88
+    "totalUnfulfilled": 101,
+    "canFulfill": 9,
+    "blocked": 92
   },
   "fulfillableOrders": [
     {
@@ -41,6 +41,24 @@
       "name": "#3666",
       "createdAt": "2026-06-02T14:54:52+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12357982388568,
+      "name": "#3668",
+      "createdAt": "2026-06-02T16:08:35+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12357986124120,
+      "name": "#3669",
+      "createdAt": "2026-06-02T16:10:57+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12357998903640,
+      "name": "#3670",
+      "createdAt": "2026-06-02T16:18:50+02:00",
+      "itemCount": 7
     }
   ],
   "blockedOrders": [
@@ -1693,6 +1711,102 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12357899616600,
+      "name": "#3667",
+      "customerName": "Maxim Leitsch",
+      "createdAt": "2026-06-02T15:22:36+02:00",
+      "itemCount": 7,
+      "reasons": [
+        {
+          "product": "131606 500 Years into the Future One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131600 Two Legends One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Green",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
+        },
+        {
+          "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
+        },
+        {
+          "product": "141085 One Piece Card Game Heroines Edition Booster Box 24 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
+        },
+        {
+          "product": "131604 Anime 25th Collection One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "131584 Awakening of the New Era One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12358054510936,
+      "name": "#3671",
+      "customerName": "erik brandt",
+      "createdAt": "2026-06-02T16:50:12+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Svive Echo 7 Wireless Headset ANC",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12358087311704,
+      "name": "#3672",
+      "customerName": "Leon Virkus L.V.",
+      "createdAt": "2026-06-02T17:10:43+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131584 Awakening of the New Era One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12358261768536,
+      "name": "#3673",
+      "customerName": "Killien Engler",
+      "createdAt": "2026-06-02T18:38:52+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "Corsair VOID MAX Wireless v2 Headset",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "Nintendo Switch 2 - Mario Kart World Bundle",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2278,8 +2392,8 @@
         "productId": 15691118477656,
         "variantId": 57056588726616,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
@@ -3126,8 +3240,8 @@
         "productId": 15641321570648,
         "variantId": 56849271783768,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "109984 Charmander - Scarlet & Violet Black Star Promos 044/225 (NM) — 044/225, Near-Mint / Promo",
@@ -3182,8 +3296,8 @@
         "productId": 15641487999320,
         "variantId": 56849614766424,
         "onHand": 3,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "109954 Scarlet & Violet Surging Sparks Booster Pack (English) — 10 cards / Multicolor",
@@ -3296,6 +3410,62 @@
         "onHand": 5,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131606 500 Years into the Future One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+        "productId": 15641340182872,
+        "variantId": 56849299702104,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131600 Two Legends One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Green",
+        "productId": 15641340412248,
+        "variantId": 56849299931480,
+        "onHand": 0,
+        "committed": 3,
+        "demand": 3
+      },
+      {
+        "product": "131604 Anime 25th Collection One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+        "productId": 15641340281176,
+        "variantId": 56849299800408,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "131584 Awakening of the New Era One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / White",
+        "productId": 15641340969304,
+        "variantId": 56849300586840,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "Svive Echo 7 Wireless Headset ANC",
+        "productId": 15784410546520,
+        "variantId": 57413896339800,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Corsair VOID MAX Wireless v2 Headset",
+        "productId": 15572758135128,
+        "variantId": 56576367395160,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Nintendo Switch 2 - Mario Kart World Bundle",
+        "productId": 15120406643032,
+        "variantId": 55021154959704,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3343,6 +3513,36 @@
         "product": "113477 Scarlet & Violet Prismatic Evolutions Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641563791704,
         "variantId": 56849719689560,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Svive Echo 7 Wireless Headset ANC",
+        "productId": 15784410546520,
+        "variantId": 57413896339800,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Corsair VOID MAX Wireless v2 Headset",
+        "productId": 15572758135128,
+        "variantId": 56576367395160,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Nintendo Switch 2 - Mario Kart World Bundle",
+        "productId": 15120406643032,
+        "variantId": 55021154959704,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
