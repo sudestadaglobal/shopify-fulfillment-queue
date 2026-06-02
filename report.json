@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T17:51:00.762Z",
+  "generatedAt": "2026-06-02T21:00:26.729Z",
   "summary": {
     "totalUnfulfilled": 101,
     "canFulfill": 9,
@@ -3480,16 +3480,6 @@
         "shortfall": 1
       },
       {
-        "product": "Corsair Virtuoso MAX Wireless Carbon Gaming Headset",
-        "productId": 15768732533080,
-        "variantId": 57352236204376,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "KARACTERMANIA Hello Kitty and Friends Vanity Case",
         "productId": 15527915192664,
         "variantId": 56427870781784,
@@ -3513,36 +3503,6 @@
         "product": "113477 Scarlet & Violet Prismatic Evolutions Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641563791704,
         "variantId": 56849719689560,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Svive Echo 7 Wireless Headset ANC",
-        "productId": 15784410546520,
-        "variantId": 57413896339800,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Corsair VOID MAX Wireless v2 Headset",
-        "productId": 15572758135128,
-        "variantId": 56576367395160,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Nintendo Switch 2 - Mario Kart World Bundle",
-        "productId": 15120406643032,
-        "variantId": 55021154959704,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
