@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-03T17:23:17.524Z",
+  "generatedAt": "2026-06-03T20:43:04.464Z",
   "summary": {
-    "totalUnfulfilled": 108,
+    "totalUnfulfilled": 109,
     "canFulfill": 10,
-    "blocked": 98
+    "blocked": 99
   },
   "fulfillableOrders": [
     {
@@ -1909,6 +1909,21 @@
           "needed": 2
         }
       ]
+    },
+    {
+      "id": 12360330576216,
+      "name": "#3682",
+      "customerName": "Fabio Zwischenberger",
+      "createdAt": "2026-06-03T21:38:09+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2422,8 +2437,8 @@
         "productId": 15641560842584,
         "variantId": 56849715429720,
         "onHand": 0,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
