@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-03T12:06:40.019Z",
+  "generatedAt": "2026-06-03T17:23:17.524Z",
   "summary": {
-    "totalUnfulfilled": 101,
-    "canFulfill": 9,
-    "blocked": 92
+    "totalUnfulfilled": 108,
+    "canFulfill": 10,
+    "blocked": 98
   },
   "fulfillableOrders": [
     {
@@ -55,10 +55,16 @@
       "itemCount": 1
     },
     {
-      "id": 12357998903640,
-      "name": "#3670",
-      "createdAt": "2026-06-02T16:18:50+02:00",
-      "itemCount": 7
+      "id": 12359836041560,
+      "name": "#3674",
+      "createdAt": "2026-06-03T16:47:50+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12360041726296,
+      "name": "#3680",
+      "createdAt": "2026-06-03T18:38:22+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1807,6 +1813,102 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12359866614104,
+      "name": "#3675",
+      "customerName": "Mumin Altan",
+      "createdAt": "2026-06-03T17:02:23+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "132576 Mega Dragonite ex - Mega Evolution Ascended Heroes 295/217 NM (English) — 295/217, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132612 Pikachu ex - Ascended Heroes 277/217 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12359985103192,
+      "name": "#3676",
+      "customerName": "Maximilian Milota",
+      "createdAt": "2026-06-03T18:05:39+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "120803 Gengar & Mimikyu GX - Sun & Moon Team Up 053/181 NM (English) — 053/181, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12359991984472,
+      "name": "#3677",
+      "customerName": "Francisco Sarabia sanchez",
+      "createdAt": "2026-06-03T18:09:01+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "110174 Scalet & Violet Trick or Trade 2024 Booster Pack (English) — 3 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
+        }
+      ]
+    },
+    {
+      "id": 12360010006872,
+      "name": "#3678",
+      "customerName": "Bilal Gültan",
+      "createdAt": "2026-06-03T18:19:16+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "109984 Charmander - Scarlet & Violet Black Star Promos 044/225 (NM) — 044/225, Near-Mint / Promo",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12360027308376,
+      "name": "#3679",
+      "customerName": "Kenan Yilmaz",
+      "createdAt": "2026-06-03T18:29:28+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "143051 Chespin - Mega Evolution Chaos Rising 087/086 NM (English) - Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12360107032920,
+      "name": "#3681",
+      "customerName": "nicolas fahrni",
+      "createdAt": "2026-06-03T19:18:04+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "110182 Scarlet & Violet Night Wanderer Booster Pack (Japanese) — 5 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2104,8 +2206,8 @@
         "productId": 15641340477784,
         "variantId": 56849299997016,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131468 Winner Pack 2025 Vol.4 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -3248,8 +3350,8 @@
         "productId": 15641568837976,
         "variantId": 56849736204632,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "134044 Mega Evolution Perfect Order Chikorita Blister 3 Booster Packs (English) Pre‑order",
@@ -3320,8 +3422,8 @@
         "productId": 15641566511448,
         "variantId": 56849732305240,
         "onHand": 7,
-        "committed": 8,
-        "demand": 8
+        "committed": 11,
+        "demand": 11
       },
       {
         "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -3376,24 +3478,24 @@
         "productId": 15641390383448,
         "variantId": 56849461969240,
         "onHand": 8,
-        "committed": 2,
-        "demand": 2
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "110182 Scarlet & Violet Night Wanderer Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566347608,
         "variantId": 56849732141400,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "110220 Scarlet & Violet Clay Burst Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641565593944,
         "variantId": 56849722704216,
         "onHand": 5,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "110265 Sword & Shield Pokémon GO Booster Pack (English) — 10 cards / Multicolor",
@@ -3463,6 +3565,38 @@
         "product": "Nintendo Switch 2 - Mario Kart World Bundle",
         "productId": 15120406643032,
         "variantId": 55021154959704,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132576 Mega Dragonite ex - Mega Evolution Ascended Heroes 295/217 NM (English) — 295/217, Near-Mint / Secret Rare",
+        "productId": 15641321177432,
+        "variantId": 56849271292248,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132612 Pikachu ex - Ascended Heroes 277/217 NM (English) - Special Illustration Rare",
+        "productId": 15713423819096,
+        "variantId": 57130759848280,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "120803 Gengar & Mimikyu GX - Sun & Moon Team Up 053/181 NM (English) — 053/181, Near-Mint / Ultra Rare",
+        "productId": 15641500811608,
+        "variantId": 56849634918744,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "143051 Chespin - Mega Evolution Chaos Rising 087/086 NM (English) - Illustration Rare",
+        "productId": 15788841173336,
+        "variantId": 57433922732376,
         "onHand": 0,
         "committed": 1,
         "demand": 1
