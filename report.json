@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-04T10:30:47.167Z",
+  "generatedAt": "2026-06-04T13:47:02.657Z",
   "summary": {
-    "totalUnfulfilled": 109,
+    "totalUnfulfilled": 110,
     "canFulfill": 10,
-    "blocked": 99
+    "blocked": 100
   },
   "fulfillableOrders": [
     {
@@ -1924,6 +1924,45 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12361421750616,
+      "name": "#3683",
+      "customerName": "Leon Berthold",
+      "createdAt": "2026-06-04T15:24:19+02:00",
+      "itemCount": 10,
+      "reasons": [
+        {
+          "product": "142965 Mega Evolution Chaos Rising Toxel 1-Pack Blister 1 Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "142963 Mega Evolution Chaos Rising Flygon Premium Checklane Blister 1 Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "142961 Mega Evolution Chaos Rising Pawmot Premium Checklane Blister 1 Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2445,8 +2484,8 @@
         "productId": 15641268355416,
         "variantId": 56849193173336,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131910 Mega Evolution Ascended Heroes Larry’s Komala Blister 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
@@ -2821,7 +2860,7 @@
         "productId": 15641566642520,
         "variantId": 56849732436312,
         "onHand": 1,
-        "committed": 3,
+        "committed": 7,
         "demand": 3
       },
       {
@@ -3373,8 +3412,8 @@
         "productId": 15642769260888,
         "variantId": 56856313463128,
         "onHand": 8,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119193 Axew - Scarlet & Violet Black Bolt 145/086 NM (English) — 145/086, Near-Mint / Illustration Rare",
@@ -3613,6 +3652,54 @@
         "productId": 15788841173336,
         "variantId": 57433922732376,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "142965 Mega Evolution Chaos Rising Toxel 1-Pack Blister 1 Booster Pack (English) - Multicolor",
+        "productId": 15790982660440,
+        "variantId": 57444348756312,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "142963 Mega Evolution Chaos Rising Flygon Premium Checklane Blister 1 Booster Pack (English) - Multicolor",
+        "productId": 15790983315800,
+        "variantId": 57444350787928,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "142961 Mega Evolution Chaos Rising Pawmot Premium Checklane Blister 1 Booster Pack (English) - Multicolor",
+        "productId": 15790983643480,
+        "variantId": 57444353835352,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
+        "productId": 15790986723672,
+        "variantId": 57444361929048,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "144776 30th Celebration Booster Pack - Promo",
+        "productId": 15790988722520,
+        "variantId": 57444365828440,
+        "onHand": 0,
+        "committed": 0,
+        "demand": 1
+      },
+      {
+        "product": "126648 Pokémon GO: Pokéball Tin Box — 3 Booster Packs",
+        "productId": 15650723987800,
+        "variantId": 56886014869848,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       }
