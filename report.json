@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-04T13:47:02.657Z",
+  "generatedAt": "2026-06-04T16:43:09.486Z",
   "summary": {
-    "totalUnfulfilled": 110,
-    "canFulfill": 10,
-    "blocked": 100
+    "totalUnfulfilled": 121,
+    "canFulfill": 13,
+    "blocked": 108
   },
   "fulfillableOrders": [
     {
@@ -64,6 +64,24 @@
       "id": 12360041726296,
       "name": "#3680",
       "createdAt": "2026-06-03T18:38:22+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12361463431512,
+      "name": "#3686",
+      "createdAt": "2026-06-04T15:49:29+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12361617539416,
+      "name": "#3694",
+      "createdAt": "2026-06-04T17:21:04+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12361620881752,
+      "name": "#3695",
+      "createdAt": "2026-06-04T17:23:01+02:00",
       "itemCount": 1
     }
   ],
@@ -1963,6 +1981,162 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12361455206744,
+      "name": "#3684",
+      "customerName": "Elvis Leimanis",
+      "createdAt": "2026-06-04T15:44:50+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "110166 Scarlet & Violet Prismatic Evolutions Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 4
+        }
+      ]
+    },
+    {
+      "id": 12361458549080,
+      "name": "#3685",
+      "customerName": "Kenan Yilmaz",
+      "createdAt": "2026-06-04T15:47:00+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "114535 N's Reshiram - Scarlet & Violet Journey Together 167/159 NM (English) — 167/159, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12361465299288,
+      "name": "#3687",
+      "customerName": "Elie richart luna",
+      "createdAt": "2026-06-04T15:50:52+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12361493774680,
+      "name": "#3688",
+      "customerName": "Mike van Vianen",
+      "createdAt": "2026-06-04T16:07:32+02:00",
+      "itemCount": 12,
+      "reasons": [
+        {
+          "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "142952 Mega Evolution Chaos Rising Booster Bundle 6 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12361582346584,
+      "name": "#3690",
+      "customerName": "Adrià Cáceres",
+      "createdAt": "2026-06-04T16:59:15+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132633 Mega Diancie ex - Mega Evolution Ascended Heroes 267/217 NM (English) - Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12361599418712,
+      "name": "#3691",
+      "customerName": "Šimon Vích",
+      "createdAt": "2026-06-04T17:09:20+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "125832 Mega Gengar ex - MEGA Dream ex 230/193 NM (Japanese) — 230/193, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "113539 Scarlet & Violet Prismatic Evolutions Flareon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "110166 Scarlet & Violet Prismatic Evolutions Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12361602302296,
+      "name": "#3692",
+      "customerName": "Fouad B",
+      "createdAt": "2026-06-04T17:11:21+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "113612 Scarlet & Violet Prismatic Evolution Sylveon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12361606660440,
+      "name": "#3693",
+      "customerName": "Siebe Vanheuckelom",
+      "createdAt": "2026-06-04T17:14:09+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "114523 Scarlet & Violet Journey Together Booster Box 36 Booster Pack (English) — 36 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1996,8 +2170,8 @@
         "productId": 15674519552344,
         "variantId": 56989550969176,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "132722 Ethan’s Magcargo - Mega Evolution Ascended Heroes 222/217 NM (English) — 222/217, Near-Mint / Illustration Rare",
@@ -2484,8 +2658,8 @@
         "productId": 15641268355416,
         "variantId": 56849193173336,
         "onHand": 0,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "131910 Mega Evolution Ascended Heroes Larry’s Komala Blister 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
@@ -2860,8 +3034,8 @@
         "productId": 15641566642520,
         "variantId": 56849732436312,
         "onHand": 1,
-        "committed": 7,
-        "demand": 3
+        "committed": 9,
+        "demand": 9
       },
       {
         "product": "121033 Mega Lucario ex - Mega Evolution 160/132 NM (English) — 160/132, Near-Mint / Ultra Rare",
@@ -2884,8 +3058,8 @@
         "productId": 15779706765656,
         "variantId": 57390579482968,
         "onHand": 0,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "125894 Mega Lucario ex - MEGA Dream ex 228/193 NM (Japanese) — 228/193, Near-Mint / Ultra Rare",
@@ -2924,8 +3098,8 @@
         "productId": 15657571811672,
         "variantId": 56923414757720,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "124012 Phantasmal Flames Mega Evolution Booster Bundle 6 Booster Pack (English) — 6 Booster Packs / Multicolor",
@@ -3036,8 +3210,8 @@
         "productId": 15641336840536,
         "variantId": 56849295901016,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "120709 Umbreon GX - Sun & Moon 80/149 NM (English) — 80/149, Near-Mint / Ultra Rare",
@@ -3100,8 +3274,8 @@
         "productId": 15641341395288,
         "variantId": 56849301176664,
         "onHand": 5,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131574 Event Pack Vol. 4 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -3684,8 +3858,8 @@
         "productId": 15790986723672,
         "variantId": 57444361929048,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "144776 30th Celebration Booster Pack - Promo",
@@ -3700,6 +3874,70 @@
         "productId": 15650723987800,
         "variantId": 56886014869848,
         "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "114535 N's Reshiram - Scarlet & Violet Journey Together 167/159 NM (English) — 167/159, Near-Mint / Illustration Rare",
+        "productId": 15641559138648,
+        "variantId": 56849713627480,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110223 Scarlet & Violet Sleeved Booster Pack (English) — Multicolor / 10 cards",
+        "productId": 15643186921816,
+        "variantId": 56857168576856,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131928 Mega Evolution Ascended Heroes Pikachu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641336447320,
+        "variantId": 56849295507800,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
+        "productId": 15641569788248,
+        "variantId": 56849737253208,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "125832 Mega Gengar ex - MEGA Dream ex 230/193 NM (Japanese) — 230/193, Near-Mint / Ultra Rare",
+        "productId": 15641388941656,
+        "variantId": 56849460101464,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113539 Scarlet & Violet Prismatic Evolutions Flareon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
+        "productId": 15641562480984,
+        "variantId": 56849717854552,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113612 Scarlet & Violet Prismatic Evolution Sylveon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
+        "productId": 15641561203032,
+        "variantId": 56849715790168,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "114523 Scarlet & Violet Journey Together Booster Box 36 Booster Pack (English) — 36 Booster pack / Multicolor",
+        "productId": 15641561104728,
+        "variantId": 56849715691864,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
