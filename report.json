@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-07T15:56:10.458Z",
+  "generatedAt": "2026-06-07T17:27:47.856Z",
   "summary": {
-    "totalUnfulfilled": 83,
+    "totalUnfulfilled": 84,
     "canFulfill": 5,
-    "blocked": 78
+    "blocked": 79
   },
   "fulfillableOrders": [
     {
@@ -1543,6 +1543,57 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12369656316248,
+      "name": "#3711",
+      "customerName": "Damian van Veen",
+      "createdAt": "2026-06-07T18:07:52+02:00",
+      "itemCount": 23,
+      "reasons": [
+        {
+          "product": "133808 Nico Robin - Legacy of the Master OP12‑087 NM V2 (English) — OP12‑087/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "144756 Piplup - 30th Anniversary Celebration Simplified Chinese 012/30th-P NM (Chinese) - Promo",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "110234 Chinese 2024 Lunar New Year Red Promo Pack (Chinese) — 9 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131484 Special DON!! Card Pack DP‑05 One Piece Booster Pack (English) — 1 card / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "131474 Winner Pack 2025 Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "131498 Special DON!! Card Pack DP‑06 One Piece Booster Pack (English) — 1 card / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2096,8 +2147,8 @@
         "productId": 15641566478680,
         "variantId": 56849732272472,
         "onHand": 5,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110215 Play! Pokémon Prize Pack Series Three Booster Pack (English) — 6 cards / Multicolor",
@@ -2200,8 +2251,8 @@
         "productId": 15641342968152,
         "variantId": 56849302782296,
         "onHand": 8,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131532 Tournament Pack Vol.4 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -2280,8 +2331,8 @@
         "productId": 15641341886808,
         "variantId": 56849301668184,
         "onHand": 8,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131522 Wings of the Captain Pre‑Release Pack One Piece Booster Pack (English) — 2 cards / Black / White",
@@ -2304,8 +2355,8 @@
         "productId": 15641343721816,
         "variantId": 56849303732568,
         "onHand": 3,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131500 Special DON!! Card Pack DP‑07 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -2464,16 +2515,16 @@
         "productId": 15641343099224,
         "variantId": 56849302946136,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131442 1st Anniversary DON!! Card Pack One Piece Booster Pack (English) — 1 card / Black / White",
         "productId": 15641345360216,
         "variantId": 56849305403736,
         "onHand": 6,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131452 Winner Pack 2025 Vol.3 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -2672,8 +2723,8 @@
         "productId": 15641566052696,
         "variantId": 56849731354968,
         "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "125758 Scarlet & Violet Snow Hazard Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -2952,8 +3003,8 @@
         "productId": 15641344541016,
         "variantId": 56849304584536,
         "onHand": 4,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
@@ -3010,9 +3061,123 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "133808 Nico Robin - Legacy of the Master OP12‑087 NM V2 (English) — OP12‑087/V2, Near-Mint / Alternate Art",
+        "productId": 15641296208216,
+        "variantId": 56849235837272,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "144756 Piplup - 30th Anniversary Celebration Simplified Chinese 012/30th-P NM (Chinese) - Promo",
+        "productId": 15796838859096,
+        "variantId": 57468523839832,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110234 Chinese 2024 Lunar New Year Red Promo Pack (Chinese) — 9 cards / Multicolor",
+        "productId": 15641565364568,
+        "variantId": 56849722212696,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132340 The Azure Sea’s Seven One Piece Booster Pack (English) — 12 Cards / Blue",
+        "productId": 15641321636184,
+        "variantId": 56849271816536,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "142543 Adventure on Kami’s Island Booster Pack (English) - Yellow",
+        "productId": 15733729952088,
+        "variantId": 57200688398680,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131490 Special DON!! Card Pack DP‑03 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641344409944,
+        "variantId": 56849304420696,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131484 Special DON!! Card Pack DP‑05 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641344606552,
+        "variantId": 56849304650072,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "141863 MEGA Ninja Spinner Booster Pack (Japanese)",
+        "productId": 15720120385880,
+        "variantId": 57151497830744,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131524 Two Legends One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641343230296,
+        "variantId": 56849303175512,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131492 Special DON!! Card Pack DP‑02 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641344311640,
+        "variantId": 56849304355160,
+        "onHand": 6,
+        "committed": 3,
+        "demand": 3
+      },
+      {
+        "product": "131474 Winner Pack 2025 Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641344868696,
+        "variantId": 56849304912216,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "131496 Special DON!! Card Pack DP‑01 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641344246104,
+        "variantId": 56849304289624,
+        "onHand": 3,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "131498 Special DON!! Card Pack DP‑06 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641344180568,
+        "variantId": 56849304224088,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
       }
     ],
     "demandExceedsStock": [
+      {
+        "product": "131498 Special DON!! Card Pack DP‑06 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641344180568,
+        "variantId": 56849304224088,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
       {
         "product": "KARACTERMANIA Hello Kitty and Friends Vanity Case",
         "productId": 15527915192664,
@@ -3071,6 +3236,16 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "131474 Winner Pack 2025 Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641344868696,
+        "variantId": 56849304912216,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       }
     ]
