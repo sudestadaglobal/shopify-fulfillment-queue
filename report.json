@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-07T17:27:47.856Z",
+  "generatedAt": "2026-06-07T18:54:04.104Z",
   "summary": {
-    "totalUnfulfilled": 84,
-    "canFulfill": 5,
-    "blocked": 79
+    "totalUnfulfilled": 90,
+    "canFulfill": 7,
+    "blocked": 83
   },
   "fulfillableOrders": [
     {
@@ -35,6 +35,18 @@
       "name": "#3709",
       "createdAt": "2026-06-07T15:27:08+02:00",
       "itemCount": 3
+    },
+    {
+      "id": 12369871634776,
+      "name": "#3714",
+      "createdAt": "2026-06-07T19:40:02+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12369946870104,
+      "name": "#3717",
+      "createdAt": "2026-06-07T20:11:23+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1492,7 +1504,7 @@
           "product": "142961 Mega Evolution Chaos Rising Pawmot Premium Checklane Blister 1 Booster Pack (English) - Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
-          "needed": 2
+          "needed": 3
         },
         {
           "product": "142965 Mega Evolution Chaos Rising Toxel 1-Pack Blister 1 Booster Pack (English) - Multicolor",
@@ -1592,6 +1604,84 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12369859346776,
+      "name": "#3712",
+      "customerName": "Mario Heine",
+      "createdAt": "2026-06-07T19:34:38+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119401 Scarlet & Violet Black Bolt Zekrom 9-Pocket Album (English) — 9 Pocket Album / Black / Blue",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12369867669848,
+      "name": "#3713",
+      "customerName": "Zoel von Hessberg",
+      "createdAt": "2026-06-07T19:38:15+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12369889755480,
+      "name": "#3715",
+      "customerName": "Leon Berthold",
+      "createdAt": "2026-06-07T19:47:45+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "119419 Mew ex V3 - Scarlet & Violet 151 205/165 NM (English) — 205/165, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12369931731288,
+      "name": "#3716",
+      "customerName": "Kevin Jansen",
+      "createdAt": "2026-06-07T20:05:22+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "119397 Scarlet & Violet Black Bolt Zekrom 65-Sleeves — 66 x 91mm / Black / Blue",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
         }
       ]
     }
@@ -1883,8 +1973,8 @@
         "productId": 15771147010392,
         "variantId": 57362036457816,
         "onHand": 0,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "132704 Iono’s Wattrel - Mega Evolution Ascended Heroes 231/217 NM (English) — 231/217, Near-Mint / Illustration Rare",
@@ -1939,8 +2029,8 @@
         "productId": 15642692911448,
         "variantId": 56856050270552,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
@@ -1987,8 +2077,8 @@
         "productId": 15641565167960,
         "variantId": 56849722016088,
         "onHand": 8,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "110166 Scarlet & Violet Prismatic Evolutions Booster Pack (English) — 10 cards / Multicolor",
@@ -2003,8 +2093,8 @@
         "productId": 15641560842584,
         "variantId": 56849715429720,
         "onHand": 0,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "121033 Mega Lucario ex - Mega Evolution 160/132 NM (English) — 160/132, Near-Mint / Ultra Rare",
@@ -2043,16 +2133,16 @@
         "productId": 15641515917656,
         "variantId": 56849658806616,
         "onHand": 7,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "119397 Scarlet & Violet Black Bolt Zekrom 65-Sleeves — 66 x 91mm / Black / Blue",
         "productId": 15641508348248,
         "variantId": 56849646485848,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "140358 - Mega Evolution Perfect Order Zygarde Core and Cell Sleeves (English) - Green/Gray",
@@ -2067,8 +2157,8 @@
         "productId": 15641487638872,
         "variantId": 56849614373208,
         "onHand": 3,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
@@ -2875,16 +2965,16 @@
         "productId": 15790983643480,
         "variantId": 57444353835352,
         "onHand": 0,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
         "productId": 15790986723672,
         "variantId": 57444361929048,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "144776 30th Celebration Booster Pack - Promo",
@@ -3165,19 +3255,41 @@
         "onHand": 0,
         "committed": 2,
         "demand": 2
+      },
+      {
+        "product": "119401 Scarlet & Violet Black Bolt Zekrom 9-Pocket Album (English) — 9 Pocket Album / Black / Blue",
+        "productId": 15641508249944,
+        "variantId": 56849646387544,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119419 Mew ex V3 - Scarlet & Violet 151 205/165 NM (English) — 205/165, Near-Mint / Secret Rare",
+        "productId": 15641507660120,
+        "variantId": 56849645502808,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119411 Mega Evolution Golduck 3 Booster Pack Blister (English) — 3 booster pack / Multicolor",
+        "productId": 15641507987800,
+        "variantId": 56849645961560,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131478 3rd Anniversary Tournament 3 Brothers One Piece Booster Pack (English) — 2 cards / Black / White",
+        "productId": 15641344737624,
+        "variantId": 56849304781144,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
-      {
-        "product": "131498 Special DON!! Card Pack DP‑06 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641344180568,
-        "variantId": 56849304224088,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
       {
         "product": "KARACTERMANIA Hello Kitty and Friends Vanity Case",
         "productId": 15527915192664,
@@ -3236,16 +3348,6 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "131474 Winner Pack 2025 Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641344868696,
-        "variantId": 56849304912216,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
         "shortfall": 1
       }
     ]
