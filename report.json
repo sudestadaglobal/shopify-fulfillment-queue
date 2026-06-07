@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-07T12:17:18.114Z",
+  "generatedAt": "2026-06-07T14:27:11.062Z",
   "summary": {
-    "totalUnfulfilled": 78,
-    "canFulfill": 3,
-    "blocked": 75
+    "totalUnfulfilled": 83,
+    "canFulfill": 5,
+    "blocked": 78
   },
   "fulfillableOrders": [
     {
@@ -23,6 +23,18 @@
       "name": "#3703",
       "createdAt": "2026-06-05T18:22:24+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12369236525400,
+      "name": "#3706",
+      "createdAt": "2026-06-07T14:58:12+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12369301799256,
+      "name": "#3709",
+      "createdAt": "2026-06-07T15:27:08+02:00",
+      "itemCount": 3
     }
   ],
   "blockedOrders": [
@@ -1468,6 +1480,69 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12369247830360,
+      "name": "#3707",
+      "customerName": "Bilal Gültan",
+      "createdAt": "2026-06-07T15:02:50+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "142961 Mega Evolution Chaos Rising Pawmot Premium Checklane Blister 1 Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "142965 Mega Evolution Chaos Rising Toxel 1-Pack Blister 1 Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12369270997336,
+      "name": "#3708",
+      "customerName": "Adrià Cáceres",
+      "createdAt": "2026-06-07T15:13:12+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "116639 Misty's Lapras - Scarlet & Violet Destined Rivals 194/182 NM (English) — 194/182, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "116635 Ethan's Typhlosion - Scarlet & Violet Destined Rivals 190/182 NM (English) — 190/182, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12369326440792,
+      "name": "#3710",
+      "customerName": "Mike van Vianen",
+      "createdAt": "2026-06-07T15:38:12+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132864 Mega Dragonite ex - Mega Evolution Ascended Heroes 271/217 NM (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1965,8 +2040,8 @@
         "productId": 15641488556376,
         "variantId": 56849615421784,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
@@ -2733,8 +2808,8 @@
         "productId": 15790982660440,
         "variantId": 57444348756312,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "142963 Mega Evolution Chaos Rising Flygon Premium Checklane Blister 1 Booster Pack (English) - Multicolor",
@@ -2749,8 +2824,8 @@
         "productId": 15790983643480,
         "variantId": 57444353835352,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
@@ -2900,6 +2975,38 @@
         "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
         "productId": 15742390337880,
         "variantId": 57232830890328,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116639 Misty's Lapras - Scarlet & Violet Destined Rivals 194/182 NM (English) — 194/182, Near-Mint / Illustration Rare",
+        "productId": 15641543311704,
+        "variantId": 56849696719192,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116635 Ethan's Typhlosion - Scarlet & Violet Destined Rivals 190/182 NM (English) — 190/182, Near-Mint / Illustration Rare",
+        "productId": 15641543999832,
+        "variantId": 56849697407320,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
+        "productId": 15796633665880,
+        "variantId": 57468100968792,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132864 Mega Dragonite ex - Mega Evolution Ascended Heroes 271/217 NM (English)",
+        "productId": 15630201356632,
+        "variantId": 56804521410904,
         "onHand": 0,
         "committed": 1,
         "demand": 1
