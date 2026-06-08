@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-08T14:21:38.365Z",
+  "generatedAt": "2026-06-08T17:40:04.468Z",
   "summary": {
-    "totalUnfulfilled": 90,
-    "canFulfill": 7,
-    "blocked": 83
+    "totalUnfulfilled": 96,
+    "canFulfill": 9,
+    "blocked": 87
   },
   "fulfillableOrders": [
     {
@@ -46,6 +46,18 @@
       "id": 12369946870104,
       "name": "#3717",
       "createdAt": "2026-06-07T20:11:23+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12372267696472,
+      "name": "#3719",
+      "createdAt": "2026-06-08T17:59:29+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12372413514072,
+      "name": "#3723",
+      "createdAt": "2026-06-08T19:32:57+02:00",
       "itemCount": 1
     }
   ],
@@ -1684,6 +1696,84 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12372161790296,
+      "name": "#3718",
+      "customerName": "JAVIER Barragan",
+      "createdAt": "2026-06-08T16:55:06+02:00",
+      "itemCount": 7,
+      "reasons": [
+        {
+          "product": "134660 Sanji - Romance Dawn (Pre‑Errata) OP01‑013 V2 NM (English) — OP01‑013/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131400 Tournament Pack Vol.5 Winner One Piece Booster Pack (English",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131430 Tournament Pack Vol.2 Winner One Piece Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131608 The Best Vol. 2 One Piece Premium Booster Box 20 Premium Booster Packs (English) — 20 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12372269629784,
+      "name": "#3720",
+      "customerName": "Valtteri Laine",
+      "createdAt": "2026-06-08T18:00:44+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "113547 Scarlet & Violet Prismatic Evolutions Sylveon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12372334313816,
+      "name": "#3721",
+      "customerName": "Younes El Ghalbzouri",
+      "createdAt": "2026-06-08T18:42:48+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "132686 Hitmontop - Mega Evolution Ascended Heroes 240/217 NM (English) — 240/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12372377633112,
+      "name": "#3722",
+      "customerName": "Adrià Cáceres",
+      "createdAt": "2026-06-08T19:09:22+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "132654 Boss’s Orders: Corbeau - Mega Evolution Ascended Heroes 256/217 NM (English) — 256/217, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2477,8 +2567,8 @@
         "productId": 15641336054104,
         "variantId": 56849295114584,
         "onHand": 4,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
@@ -3285,6 +3375,62 @@
         "productId": 15641344737624,
         "variantId": 56849304781144,
         "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134660 Sanji - Romance Dawn (Pre‑Errata) OP01‑013 V2 NM (English) — OP01‑013/V2, Near-Mint / Alternate Art",
+        "productId": 15641280414040,
+        "variantId": 56849213227352,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131400 Tournament Pack Vol.5 Winner One Piece Booster Pack (English",
+        "productId": 15775998247256,
+        "variantId": 57373542711640,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131430 Tournament Pack Vol.2 Winner One Piece Booster Pack (English)",
+        "productId": 15798656500056,
+        "variantId": 57474322104664,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131608 The Best Vol. 2 One Piece Premium Booster Box 20 Premium Booster Packs (English) — 20 Booster Packs / Multicolor",
+        "productId": 15641340117336,
+        "variantId": 56849299636568,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113547 Scarlet & Violet Prismatic Evolutions Sylveon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
+        "productId": 15641562317144,
+        "variantId": 56849717231960,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132686 Hitmontop - Mega Evolution Ascended Heroes 240/217 NM (English) — 240/217, Near-Mint / Illustration Rare",
+        "productId": 15641319375192,
+        "variantId": 56849268441432,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132654 Boss’s Orders: Corbeau - Mega Evolution Ascended Heroes 256/217 NM (English) — 256/217, Near-Mint / Ultra Rare",
+        "productId": 15641320259928,
+        "variantId": 56849269358936,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
