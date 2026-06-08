@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-08T17:40:04.468Z",
+  "generatedAt": "2026-06-08T19:57:24.659Z",
   "summary": {
-    "totalUnfulfilled": 96,
+    "totalUnfulfilled": 97,
     "canFulfill": 9,
-    "blocked": 87
+    "blocked": 88
   },
   "fulfillableOrders": [
     {
@@ -1774,6 +1774,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12372420559192,
+      "name": "#3724",
+      "customerName": "Lars van Hal",
+      "createdAt": "2026-06-08T19:37:26+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "124004 Phantasmal Flames Mega Evolution Pokémon Center Elite Trainer Box 11 Booster Pack (English) — 11 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3431,6 +3446,22 @@
         "productId": 15641320259928,
         "variantId": 56849269358936,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "124004 Phantasmal Flames Mega Evolution Pokémon Center Elite Trainer Box 11 Booster Pack (English) — 11 Booster Packs / Multicolor",
+        "productId": 15641488621912,
+        "variantId": 56849615487320,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119407 Mega Evolution Booster Box (English) — 36 booster pack / Multicolor",
+        "productId": 15641508086104,
+        "variantId": 56849646223704,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       }
