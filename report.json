@@ -1,15 +1,63 @@
 {
-  "generatedAt": "2026-06-09T08:37:48.506Z",
+  "generatedAt": "2026-06-09T11:51:11.856Z",
   "summary": {
     "totalUnfulfilled": 97,
-    "canFulfill": 9,
-    "blocked": 88
+    "canFulfill": 17,
+    "blocked": 80
   },
   "fulfillableOrders": [
+    {
+      "id": 12312755470680,
+      "name": "#3554",
+      "createdAt": "2026-05-19T13:40:58+02:00",
+      "itemCount": 1
+    },
     {
       "id": 12332307153240,
       "name": "#3574",
       "createdAt": "2026-05-22T18:26:02+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12333377880408,
+      "name": "#3576",
+      "createdAt": "2026-05-22T19:22:09+02:00",
+      "itemCount": 4
+    },
+    {
+      "id": 12343537205592,
+      "name": "#3606",
+      "createdAt": "2026-05-26T19:33:11+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12346956743000,
+      "name": "#3614",
+      "createdAt": "2026-05-27T18:31:44+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12347007861080,
+      "name": "#3618",
+      "createdAt": "2026-05-27T18:57:51+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12347282129240,
+      "name": "#3623",
+      "createdAt": "2026-05-27T21:42:45+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12348966502744,
+      "name": "#3630",
+      "createdAt": "2026-05-28T19:56:14+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12349064642904,
+      "name": "#3634",
+      "createdAt": "2026-05-28T20:54:58+02:00",
       "itemCount": 1
     },
     {
@@ -114,21 +162,6 @@
       ]
     },
     {
-      "id": 12312755470680,
-      "name": "#3554",
-      "customerName": "Jesse Dijkstra",
-      "createdAt": "2026-05-19T13:40:58+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "116649 Team Rocket's Houndoom - Scarlet & Violet Destined Rivals 191/182 NM (English) — 191/182, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12316391801176,
       "name": "#3566",
       "customerName": "Paul Jordi Julca Melgarejo",
@@ -151,28 +184,7 @@
       "itemCount": 4,
       "reasons": [
         {
-          "product": "109974 Pikachu - Scarlet & Violet Black Star Promos 027/225 NM (English) — 027/225, Near-Mint / Promo",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "121007 Mega Lucario ex - Mega Evolution 179/132 NM (English) — 179/132, Near-Mint / Special Ilustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12333377880408,
-      "name": "#3576",
-      "customerName": "Francisco Sarabia sanchez",
-      "createdAt": "2026-05-22T19:22:09+02:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "118780 Gothorita - Scarlet & Violet White Flare 125/086 NM (English) — 125/086, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -246,21 +258,6 @@
       ]
     },
     {
-      "id": 12343537205592,
-      "name": "#3606",
-      "customerName": "Justin Veenhuizen",
-      "createdAt": "2026-05-26T19:33:11+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "132688 Team Rocket’s Dugtrio - Mega Evolution Ascended Heroes 239/217 NM (English) — 239/217, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12344359551320,
       "name": "#3611",
       "customerName": "Tobias Eckl",
@@ -275,21 +272,6 @@
         },
         {
           "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12346956743000,
-      "name": "#3614",
-      "customerName": "Younes El Ghalbzouri",
-      "createdAt": "2026-05-27T18:31:44+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "132704 Iono’s Wattrel - Mega Evolution Ascended Heroes 231/217 NM (English) — 231/217, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -327,21 +309,6 @@
       ]
     },
     {
-      "id": 12347007861080,
-      "name": "#3618",
-      "customerName": "João Joaquim",
-      "createdAt": "2026-05-27T18:57:51+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "118814 Zorua - Scarlet & Violet White Flare 142/086 NM (English) — 142/086, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12347237007704,
       "name": "#3622",
       "customerName": "Tobias Eckl",
@@ -362,21 +329,6 @@
         },
         {
           "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12347282129240,
-      "name": "#3623",
-      "customerName": "Šimon Vích",
-      "createdAt": "2026-05-27T21:42:45+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "125770 Cleffa - Obsidian Flames 202/197 NM (English) — 202/197, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -459,21 +411,6 @@
       ]
     },
     {
-      "id": 12348966502744,
-      "name": "#3630",
-      "customerName": "Šimon Vích",
-      "createdAt": "2026-05-28T19:56:14+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "124086 Mega Charizard X ex - Phantasmal Flames 109/094 NM (English) — 109/094, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12348991308120,
       "name": "#3632",
       "customerName": "Lars Hollemans",
@@ -503,21 +440,6 @@
       "reasons": [
         {
           "product": "142952 Mega Evolution Chaos Rising Booster Bundle 6 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12349064642904,
-      "name": "#3634",
-      "customerName": "Elie richart luna",
-      "createdAt": "2026-05-28T20:54:58+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "125894 Mega Lucario ex - MEGA Dream ex 228/193 NM (Japanese) — 228/193, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -572,12 +494,6 @@
         },
         {
           "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "109974 Pikachu - Scarlet & Violet Black Star Promos 027/225 NM (English) — 027/225, Near-Mint / Promo",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -663,12 +579,6 @@
       "createdAt": "2026-05-31T19:21:07+02:00",
       "itemCount": 26,
       "reasons": [
-        {
-          "product": "110273 Sword & Shield Fusion Strike Fun Pack (English) — 3 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
         {
           "product": "131500 Special DON!! Card Pack DP‑07 One Piece Booster Pack (English) — 1 card / Black / White",
           "reason": "Insufficient stock",
@@ -1917,7 +1827,7 @@
         "product": "116649 Team Rocket's Houndoom - Scarlet & Violet Destined Rivals 191/182 NM (English) — 191/182, Near-Mint / Illustration Rare",
         "productId": 15641541476696,
         "variantId": 56849694753112,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1933,7 +1843,7 @@
         "product": "109974 Pikachu - Scarlet & Violet Black Star Promos 027/225 NM (English) — 027/225, Near-Mint / Promo",
         "productId": 15641569001816,
         "variantId": 56849736368472,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -1989,7 +1899,7 @@
         "product": "118780 Gothorita - Scarlet & Violet White Flare 125/086 NM (English) — 125/086, Near-Mint / Illustration Rare",
         "productId": 15641520669016,
         "variantId": 56849666670936,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2053,7 +1963,7 @@
         "product": "132688 Team Rocket’s Dugtrio - Mega Evolution Ascended Heroes 239/217 NM (English) — 239/217, Near-Mint / Illustration Rare",
         "productId": 15641319309656,
         "variantId": 56849268408664,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2085,7 +1995,7 @@
         "product": "132704 Iono’s Wattrel - Mega Evolution Ascended Heroes 231/217 NM (English) — 231/217, Near-Mint / Illustration Rare",
         "productId": 15641318818136,
         "variantId": 56849267917144,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2109,7 +2019,7 @@
         "product": "118814 Zorua - Scarlet & Violet White Flare 142/086 NM (English) — 142/086, Near-Mint / Illustration Rare",
         "productId": 15641519882584,
         "variantId": 56849665392984,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2149,7 +2059,7 @@
         "product": "125770 Cleffa - Obsidian Flames 202/197 NM (English) — 202/197, Near-Mint / Illustration Rare",
         "productId": 15641390154072,
         "variantId": 56849461739864,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2213,7 +2123,7 @@
         "product": "124086 Mega Charizard X ex - Phantasmal Flames 109/094 NM (English) — 109/094, Near-Mint / Ultra Rare",
         "productId": 15641485541720,
         "variantId": 56849611260248,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2229,7 +2139,7 @@
         "product": "125894 Mega Lucario ex - MEGA Dream ex 228/193 NM (Japanese) — 228/193, Near-Mint / Ultra Rare",
         "productId": 15641388024152,
         "variantId": 56849459183960,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2421,7 +2331,7 @@
         "product": "110273 Sword & Shield Fusion Strike Fun Pack (English) — 3 cards / Multicolor",
         "productId": 15641564741976,
         "variantId": 56849721262424,
-        "onHand": 0,
+        "onHand": 5,
         "committed": 1,
         "demand": 1
       },
