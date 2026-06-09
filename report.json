@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-09T19:52:53.861Z",
+  "generatedAt": "2026-06-09T21:55:01.997Z",
   "summary": {
-    "totalUnfulfilled": 78,
+    "totalUnfulfilled": 79,
     "canFulfill": 14,
-    "blocked": 64
+    "blocked": 65
   },
   "fulfillableOrders": [
     {
@@ -1351,6 +1351,21 @@
           "needed": 2
         }
       ]
+    },
+    {
+      "id": 12376044798296,
+      "name": "#3731",
+      "customerName": "Kevin Jansen",
+      "createdAt": "2026-06-09T21:55:09+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "119397 Scarlet & Violet Black Bolt Zekrom 65-Sleeves — 66 x 91mm / Black / Blue",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2672,16 +2687,16 @@
         "productId": 15641487638872,
         "variantId": 56849614373208,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "119397 Scarlet & Violet Black Bolt Zekrom 65-Sleeves — 66 x 91mm / Black / Blue",
         "productId": 15641508348248,
         "variantId": 56849646485848,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119039 Scarlet & Violet White Flare Reshiram 65-Sleeves — 66 x 91 mm / Multicolor",
