@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-09T17:37:44.514Z",
+  "generatedAt": "2026-06-09T19:52:53.861Z",
   "summary": {
-    "totalUnfulfilled": 75,
-    "canFulfill": 12,
-    "blocked": 63
+    "totalUnfulfilled": 78,
+    "canFulfill": 14,
+    "blocked": 64
   },
   "fulfillableOrders": [
     {
@@ -76,6 +76,18 @@
       "id": 12372413514072,
       "name": "#3723",
       "createdAt": "2026-06-08T19:32:57+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12375944200536,
+      "name": "#3728",
+      "createdAt": "2026-06-09T21:11:32+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12376023171416,
+      "name": "#3730",
+      "createdAt": "2026-06-09T21:42:08+02:00",
       "itemCount": 1
     }
   ],
@@ -1300,6 +1312,45 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12375980900696,
+      "name": "#3729",
+      "customerName": "Damian van Veen",
+      "createdAt": "2026-06-09T21:20:05+02:00",
+      "itemCount": 17,
+      "reasons": [
+        {
+          "product": "130760 Nami - The Best Vol.2 PRB02‑012 NM V2 (English) — PRB02‑012/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132130 Ms. All Sunday - The Azure Sea's Seven OP14‑084 NM V2 (English) — OP14‑084/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131474 Winner Pack 2025 Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131498 Special DON!! Card Pack DP‑06 One Piece Booster Pack (English) — 1 card / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1765,16 +1816,16 @@
         "productId": 15641342902616,
         "variantId": 56849302716760,
         "onHand": 8,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131560 Judge Pack Vol. 5 One Piece Booster Pack (English) — 1 card / Black / White",
         "productId": 15641341657432,
         "variantId": 56849301438808,
         "onHand": 4,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131568 Judge Pack Vol. 3 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -1957,16 +2008,16 @@
         "productId": 15641343099224,
         "variantId": 56849302946136,
         "onHand": 0,
-        "committed": 3,
-        "demand": 3
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "131442 1st Anniversary DON!! Card Pack One Piece Booster Pack (English) — 1 card / Black / White",
         "productId": 15641345360216,
         "variantId": 56849305403736,
         "onHand": 6,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131452 Winner Pack 2025 Vol.3 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -2437,8 +2488,8 @@
         "productId": 15641344541016,
         "variantId": 56849304584536,
         "onHand": 4,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "118668 Scarlet & Violet White Flare Gothitelle Tech Sticker Collection (English) — 3 booster pack / Multicolor",
@@ -2517,16 +2568,16 @@
         "productId": 15641321636184,
         "variantId": 56849271816536,
         "onHand": 7,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "142543 Adventure on Kami’s Island Booster Pack (English) - Yellow",
         "productId": 15733729952088,
         "variantId": 57200688398680,
         "onHand": 3,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131490 Special DON!! Card Pack DP‑03 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -2573,8 +2624,8 @@
         "productId": 15641344868696,
         "variantId": 56849304912216,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131496 Special DON!! Card Pack DP‑01 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -2589,8 +2640,8 @@
         "productId": 15641344180568,
         "variantId": 56849304224088,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "119401 Scarlet & Violet Black Bolt Zekrom 9-Pocket Album (English) — 9 Pocket Album / Black / Blue",
@@ -2749,6 +2800,46 @@
         "productId": 15731088589144,
         "variantId": 57191832191320,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119429 Alakazam ex - Scarlet & Violet 151 201/165 NM (English) — 201/165, Near-Mint / Special Illustration Rare",
+        "productId": 15641507299672,
+        "variantId": 56849645142360,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "130760 Nami - The Best Vol.2 PRB02‑012 NM V2 (English) — PRB02‑012/V2, Near-Mint / Alternate Art",
+        "productId": 15641363087704,
+        "variantId": 56849421500760,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132130 Ms. All Sunday - The Azure Sea's Seven OP14‑084 NM V2 (English) — OP14‑084/V2, Near-Mint / Alternate Art",
+        "productId": 15641328877912,
+        "variantId": 56849283547480,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131468 Winner Pack 2025 Vol.4 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641345098072,
+        "variantId": 56849305141592,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
+        "productId": 15667333103960,
+        "variantId": 56960147652952,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       }
