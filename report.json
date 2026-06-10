@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-10T17:39:44.417Z",
+  "generatedAt": "2026-06-10T20:03:47.087Z",
   "summary": {
-    "totalUnfulfilled": 85,
-    "canFulfill": 15,
-    "blocked": 70
+    "totalUnfulfilled": 93,
+    "canFulfill": 18,
+    "blocked": 75
   },
   "fulfillableOrders": [
     {
@@ -94,6 +94,24 @@
       "id": 12377204982104,
       "name": "#3734",
       "createdAt": "2026-06-10T15:13:20+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12377651609944,
+      "name": "#3741",
+      "createdAt": "2026-06-10T19:42:09+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12377666912600,
+      "name": "#3743",
+      "createdAt": "2026-06-10T19:52:18+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12377717408088,
+      "name": "#3746",
+      "createdAt": "2026-06-10T20:18:31+02:00",
       "itemCount": 1
     }
   ],
@@ -1621,6 +1639,87 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12377642729816,
+      "name": "#3739",
+      "customerName": "M.N. Ton",
+      "createdAt": "2026-06-10T19:36:10+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131606 500 Years into the Future One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12377647153496,
+      "name": "#3740",
+      "customerName": "Casper Männys",
+      "createdAt": "2026-06-10T19:38:57+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Into the Inklands Gift Set",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12377659572568,
+      "name": "#3742",
+      "customerName": "Justin Veenhuizen",
+      "createdAt": "2026-06-10T19:47:06+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119085 Petilil - Scarlet & Violet Black Bolt 091/086 NM (English) — 091/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12377673105752,
+      "name": "#3744",
+      "customerName": "fernando queipo de llano de aguilera",
+      "createdAt": "2026-06-10T19:56:50+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119045 Zekrom ex - Scarlet & Violet Black Bolt 172/086 NM (English) — 172/086, Near-Mint / Double Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12377681035608,
+      "name": "#3745",
+      "customerName": "Mano Boers",
+      "createdAt": "2026-06-10T20:01:42+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "143051 Chespin - Mega Evolution Chaos Rising 087/086 NM (English) - Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "114536 Wailord - Scarlet & Violet Journey Together 162/159 NM (English) — 162/159, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2014,8 +2113,8 @@
         "productId": 15641336971608,
         "variantId": 56849296032088,
         "onHand": 5,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "113550 Scarlet & Violet Prismatic Evolutions Accessory Pouch Special Collection 5 Booster Pack (English) — 5 Booster pack, 1 pouch / Multicolor",
@@ -2535,7 +2634,7 @@
         "variantId": 56849299702104,
         "onHand": 0,
         "committed": 2,
-        "demand": 1
+        "demand": 2
       },
       {
         "product": "131600 Two Legends One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Green",
@@ -2606,8 +2705,8 @@
         "productId": 15788841173336,
         "variantId": 57433922732376,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "142965 Mega Evolution Chaos Rising Toxel 1-Pack Blister 1 Booster Pack (English) - Multicolor",
@@ -3070,8 +3169,8 @@
         "productId": 15641507299672,
         "variantId": 56849645142360,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "130760 Nami - The Best Vol.2 PRB02‑012 NM V2 (English) — PRB02‑012/V2, Near-Mint / Alternate Art",
@@ -3334,6 +3433,62 @@
         "productId": 15641515000152,
         "variantId": 56849657528664,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Into the Inklands Gift Set",
+        "productId": 15509499117912,
+        "variantId": 56381552230744,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119085 Petilil - Scarlet & Violet Black Bolt 091/086 NM (English) — 091/086, Near-Mint / Illustration Rare",
+        "productId": 15641514967384,
+        "variantId": 56849657495896,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (Japanese) — 175/165, Near-Mint / Illustration Rare",
+        "productId": 15641506021720,
+        "variantId": 56849643405656,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119045 Zekrom ex - Scarlet & Violet Black Bolt 172/086 NM (English) — 172/086, Near-Mint / Double Rare",
+        "productId": 15641515786584,
+        "variantId": 56849658675544,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "114536 Wailord - Scarlet & Violet Journey Together 162/159 NM (English) — 162/159, Near-Mint / Illustration Rare",
+        "productId": 15641558942040,
+        "variantId": 56849713430872,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110240 Sword & Shield Silver Tempest Sleeved Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565233496,
+        "variantId": 56849722081624,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110279 Sword & Shield Chilling Reign Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641564545368,
+        "variantId": 56849721065816,
+        "onHand": 4,
         "committed": 1,
         "demand": 1
       }
