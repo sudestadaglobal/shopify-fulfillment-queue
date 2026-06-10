@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-10T10:37:46.836Z",
+  "generatedAt": "2026-06-10T14:06:44.391Z",
   "summary": {
-    "totalUnfulfilled": 78,
-    "canFulfill": 14,
-    "blocked": 64
+    "totalUnfulfilled": 83,
+    "canFulfill": 15,
+    "blocked": 68
   },
   "fulfillableOrders": [
     {
@@ -88,6 +88,12 @@
       "id": 12376023171416,
       "name": "#3730",
       "createdAt": "2026-06-09T21:42:08+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12377204982104,
+      "name": "#3734",
+      "createdAt": "2026-06-10T15:13:20+02:00",
       "itemCount": 1
     }
   ],
@@ -1351,6 +1357,72 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12377117655384,
+      "name": "#3732",
+      "customerName": "Adrià Cáceres",
+      "createdAt": "2026-06-10T14:22:20+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "132698 Banette - Mega Evolution Ascended Heroes 234/217 NM (English) — 234/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12377191055704,
+      "name": "#3733",
+      "customerName": "Matthias Kurath",
+      "createdAt": "2026-06-10T15:04:37+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119489 Poliwhirl - Scarlet & Violet 151 176/165 NM (English) — 176/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12377212420440,
+      "name": "#3735",
+      "customerName": "Niclas Jørgensen",
+      "createdAt": "2026-06-10T15:17:07+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "113493 Vaporeon ex - Scarlet & Violet Prismatic Evolution 149/131 NM (English) — 149/131, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12377223856472,
+      "name": "#3736",
+      "customerName": "Fabian Langguth",
+      "createdAt": "2026-06-10T15:22:51+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "130870 Monkey D. Luffy - The Best Vol.1 P‑055 NM V3 (English) — P‑055/V3, Near-Mint / Promo",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1400,8 +1472,8 @@
         "productId": 15641319014744,
         "variantId": 56849268080984,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "132728 Beautifly - Mega Evolution Ascended Heroes 219/217 NM (English) — 219/217, Near-Mint / Illustration Rare",
@@ -1432,8 +1504,8 @@
         "productId": 15641320751448,
         "variantId": 56849269850456,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "132580 Surfer - Mega Evolution Ascended Heroes 293/217 NM (English) — 293/217, Near-Mint / Special Illustration Rare",
@@ -1656,8 +1728,8 @@
         "productId": 15641488556376,
         "variantId": 56849615421784,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
@@ -2056,11 +2128,11 @@
         "productId": 15641360859480,
         "variantId": 56849418125656,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
-        "product": "131382 - CS���2023 Celebration One Piece Booster Pack (English) - Black / White",
+        "product": "131382 - CS‑2023 Celebration One Piece Booster Pack (English) - Black / White",
         "productId": 15784541061464,
         "variantId": 57414562546008,
         "onHand": 0,
@@ -2832,6 +2904,22 @@
         "productId": 15667333103960,
         "variantId": 56960147652952,
         "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119489 Poliwhirl - Scarlet & Violet 151 176/165 NM (English) — 176/165, Near-Mint / Illustration Rare",
+        "productId": 15641505988952,
+        "variantId": 56849643372888,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113493 Vaporeon ex - Scarlet & Violet Prismatic Evolution 149/131 NM (English) — 149/131, Near-Mint / Special Illustration Rare",
+        "productId": 15641563464024,
+        "variantId": 56849719034200,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
