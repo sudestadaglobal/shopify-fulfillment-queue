@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-10T06:11:05.012Z",
+  "generatedAt": "2026-06-10T10:37:46.836Z",
   "summary": {
-    "totalUnfulfilled": 79,
+    "totalUnfulfilled": 78,
     "canFulfill": 14,
-    "blocked": 65
+    "blocked": 64
   },
   "fulfillableOrders": [
     {
@@ -971,21 +971,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 3
-        }
-      ]
-    },
-    {
-      "id": 12364965773656,
-      "name": "#3705",
-      "customerName": "Ricardo Varius",
-      "createdAt": "2026-06-05T19:04:34+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -2075,7 +2060,7 @@
         "demand": 1
       },
       {
-        "product": "131382 - CS‑2023 Celebration One Piece Booster Pack (English) - Black / White",
+        "product": "131382 - CS���2023 Celebration One Piece Booster Pack (English) - Black / White",
         "productId": 15784541061464,
         "variantId": 57414562546008,
         "onHand": 0,
@@ -2515,14 +2500,6 @@
         "demand": 3
       },
       {
-        "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
-        "productId": 15742390337880,
-        "variantId": 57232830890328,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "116639 Misty's Lapras - Scarlet & Violet Destined Rivals 194/182 NM (English) — 194/182, Near-Mint / Illustration Rare",
         "productId": 15641543311704,
         "variantId": 56849696719192,
@@ -2901,29 +2878,9 @@
         "shortfall": 1
       },
       {
-        "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
-        "productId": 15742390337880,
-        "variantId": 57232830890328,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "Samsung Galaxy Buds3 Pro Wireless Earbuds",
         "productId": 15584381010264,
         "variantId": 56617932554584,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Elgato Facecam MK.2 1080p Webcam",
-        "productId": 15755214684504,
-        "variantId": 57292691571032,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
