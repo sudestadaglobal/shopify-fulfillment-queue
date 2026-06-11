@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-11T12:59:50.498Z",
+  "generatedAt": "2026-06-11T17:01:33.072Z",
   "summary": {
-    "totalUnfulfilled": 65,
+    "totalUnfulfilled": 62,
     "canFulfill": 0,
-    "blocked": 65
+    "blocked": 62
   },
   "fulfillableOrders": [],
   "blockedOrders": [
@@ -147,12 +147,6 @@
       "itemCount": 13,
       "reasons": [
         {
-          "product": "142952 Mega Evolution Chaos Rising Booster Bundle 6 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -209,21 +203,6 @@
       ]
     },
     {
-      "id": 12355816063320,
-      "name": "#3648",
-      "customerName": "Devon Karssen",
-      "createdAt": "2026-06-01T15:40:30+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "KARACTERMANIA Hello Kitty and Friends Vanity Case",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12356083384664,
       "name": "#3649",
       "customerName": "Jorn Sprakel",
@@ -235,21 +214,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
-        }
-      ]
-    },
-    {
-      "id": 12356120379736,
-      "name": "#3652",
-      "customerName": "Mederic Foy",
-      "createdAt": "2026-06-01T17:41:25+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "JAZWARES Pokémon Pikachu Plush Toy",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -325,12 +289,6 @@
       "reasons": [
         {
           "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "142952 Mega Evolution Chaos Rising Booster Bundle 6 Booster Packs (English)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -570,12 +528,6 @@
       "itemCount": 12,
       "reasons": [
         {
-          "product": "142952 Mega Evolution Chaos Rising Booster Bundle 6 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -649,21 +601,6 @@
       "reasons": [
         {
           "product": "114523 Scarlet & Violet Journey Together Booster Box 36 Booster Pack (English) — 36 Booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12364215222616,
-      "name": "#3696",
-      "customerName": "Maximilian Milota",
-      "createdAt": "2026-06-05T14:44:25+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "BANPRESTO One Piece Roronoa Zoro Battle Record Collection Figure",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1613,7 +1550,7 @@
         "product": "142952 Mega Evolution Chaos Rising Booster Bundle 6 Booster Packs (English)",
         "productId": 15779706765656,
         "variantId": 57390579482968,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 3,
         "demand": 3
       },
@@ -1850,28 +1787,12 @@
         "demand": 1
       },
       {
-        "product": "KARACTERMANIA Hello Kitty and Friends Vanity Case",
-        "productId": 15527915192664,
-        "variantId": 56427870781784,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
         "productId": 15641508512088,
         "variantId": 56849646649688,
         "onHand": 0,
         "committed": 2,
         "demand": 2
-      },
-      {
-        "product": "JAZWARES Pokémon Pikachu Plush Toy",
-        "productId": 15482556776792,
-        "variantId": 56313139757400,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
       },
       {
         "product": "118728 Emboar - Scarlet & Violet White Flare 098/086 NM (English) — 098/086, Near-Mint / Illustration Rare",
@@ -2370,14 +2291,6 @@
         "demand": 1
       },
       {
-        "product": "BANPRESTO One Piece Roronoa Zoro Battle Record Collection Figure",
-        "productId": 15793080369496,
-        "variantId": 57453317914968,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "119479 Wartortle - Scarlet & Violet 151 171/165 NM (English) — 171/165, Near-Mint / Illustration Rare",
         "productId": 15641506218328,
         "variantId": 56849643569496,
@@ -2493,7 +2406,7 @@
         "product": "142543 Adventure on Kami’s Island Booster Pack (English) - Yellow",
         "productId": 15733729952088,
         "variantId": 57200688398680,
-        "onHand": 3,
+        "onHand": 4,
         "committed": 2,
         "demand": 2
       },
@@ -3036,16 +2949,6 @@
     ],
     "demandExceedsStock": [
       {
-        "product": "KARACTERMANIA Hello Kitty and Friends Vanity Case",
-        "productId": 15527915192664,
-        "variantId": 56427870781784,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
         "productId": 15641508512088,
         "variantId": 56849646649688,
@@ -3053,26 +2956,6 @@
         "committed": 2,
         "incoming": 1,
         "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "JAZWARES Pokémon Pikachu Plush Toy",
-        "productId": 15482556776792,
-        "variantId": 56313139757400,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "BANPRESTO One Piece Roronoa Zoro Battle Record Collection Figure",
-        "productId": 15793080369496,
-        "variantId": 57453317914968,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
         "shortfall": 1
       },
       {
