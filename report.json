@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T06:57:29.709Z",
+  "generatedAt": "2026-06-12T11:08:37.486Z",
   "summary": {
     "totalUnfulfilled": 62,
     "canFulfill": 0,
@@ -2956,26 +2956,6 @@
         "committed": 2,
         "incoming": 1,
         "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "Samsung Galaxy Buds3 Pro Wireless Earbuds",
-        "productId": 15584381010264,
-        "variantId": 56617932554584,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
-        "productId": 15731088589144,
-        "variantId": 57191832191320,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
         "shortfall": 1
       },
       {
