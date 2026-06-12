@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-12T17:27:09.965Z",
+  "generatedAt": "2026-06-12T19:34:59.363Z",
   "summary": {
-    "totalUnfulfilled": 51,
-    "canFulfill": 3,
-    "blocked": 48
+    "totalUnfulfilled": 59,
+    "canFulfill": 4,
+    "blocked": 55
   },
   "fulfillableOrders": [
     {
@@ -23,6 +23,12 @@
       "name": "#3667",
       "createdAt": "2026-06-02T15:22:36+02:00",
       "itemCount": 7
+    },
+    {
+      "id": 12382550458712,
+      "name": "#3748",
+      "createdAt": "2026-06-12T20:14:36+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1063,6 +1069,111 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12382417191256,
+      "name": "#3747",
+      "customerName": "Joshwoshyy LLC",
+      "createdAt": "2026-06-12T19:40:00+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12382556848472,
+      "name": "#3749",
+      "customerName": "fernando queipo de llano de aguilera",
+      "createdAt": "2026-06-12T20:19:03+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131634 Mega Zygarde‑ex - Nihil Zero 117/080 NM (Japanese) — 117/080, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12382569103704,
+      "name": "#3750",
+      "customerName": "Nick Pisterfeld",
+      "createdAt": "2026-06-12T20:27:28+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119051 Zekrom ex - Scarlet & Violet Black Bolt 166/086 NM (English) — 166/086, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12382580670808,
+      "name": "#3751",
+      "customerName": "Bilal Gültan",
+      "createdAt": "2026-06-12T20:31:16+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "142961 Mega Evolution Chaos Rising Pawmot Premium Checklane Blister 1 Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12382591877464,
+      "name": "#3752",
+      "customerName": "Tizian Böhler",
+      "createdAt": "2026-06-12T20:34:27+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "120823 Latias & Latios GX - Sun & Moon Team Up 113/181 NM (English) — 113/181, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12382596170072,
+      "name": "#3753",
+      "customerName": "Matthias Kurath",
+      "createdAt": "2026-06-12T20:37:00+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "63039 Mega Gengar ex - Mega Evolution Ascended Heroes 269/217 NM (English) — Size 269/217 / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12382603149656,
+      "name": "#3754",
+      "customerName": "Francisco Sarabia sanchez",
+      "createdAt": "2026-06-12T20:42:28+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 7,
+          "needed": 10
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1688,8 +1799,8 @@
         "productId": 15641566216536,
         "variantId": 56849731518808,
         "onHand": 7,
-        "committed": 1,
-        "demand": 1
+        "committed": 11,
+        "demand": 11
       },
       {
         "product": "110204 Scarlet & Violet Future Flash Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -2554,9 +2665,75 @@
         "onHand": 4,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
+        "productId": 15641321341272,
+        "variantId": 56849271554392,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "131472 Royal Blood One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641344934232,
+        "variantId": 56849304977752,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131634 Mega Zygarde‑ex - Nihil Zero 117/080 NM (Japanese) — 117/080, Near-Mint / Secret Rare",
+        "productId": 15641340019032,
+        "variantId": 56849299538264,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119051 Zekrom ex - Scarlet & Violet Black Bolt 166/086 NM (English) — 166/086, Near-Mint / Special Illustration Rare",
+        "productId": 15641515688280,
+        "variantId": 56849658511704,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "142961 Mega Evolution Chaos Rising Pawmot Premium Checklane Blister 1 Booster Pack (English) - Multicolor",
+        "productId": 15790983643480,
+        "variantId": 57444353835352,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "120823 Latias & Latios GX - Sun & Moon Team Up 113/181 NM (English) — 113/181, Near-Mint / Ultra Rare",
+        "productId": 15641500483928,
+        "variantId": 56849634591064,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "63039 Mega Gengar ex - Mega Evolution Ascended Heroes 269/217 NM (English) — Size 269/217 / Ultra Rare",
+        "productId": 15653351129432,
+        "variantId": 56898072969560,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
+      {
+        "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
+        "productId": 15641566216536,
+        "variantId": 56849731518808,
+        "onHand": 7,
+        "committed": 11,
+        "incoming": 1,
+        "available": -4,
+        "shortfall": 3
+      },
       {
         "product": "109986 Mew ex - Scarlet & Violet 151 151/165 NM (English) — 151/165, Near-Mint / Double Rare",
         "productId": 15641568772440,
