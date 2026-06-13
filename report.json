@@ -1,36 +1,11 @@
 {
-  "generatedAt": "2026-06-13T18:16:45.530Z",
+  "generatedAt": "2026-06-13T19:59:01.390Z",
   "summary": {
-    "totalUnfulfilled": 59,
-    "canFulfill": 4,
+    "totalUnfulfilled": 55,
+    "canFulfill": 0,
     "blocked": 55
   },
-  "fulfillableOrders": [
-    {
-      "id": 12338452398424,
-      "name": "#3594",
-      "createdAt": "2026-05-24T21:32:16+02:00",
-      "itemCount": 4
-    },
-    {
-      "id": 12354360115544,
-      "name": "#3645",
-      "createdAt": "2026-05-31T19:21:07+02:00",
-      "itemCount": 26
-    },
-    {
-      "id": 12357899616600,
-      "name": "#3667",
-      "createdAt": "2026-06-02T15:22:36+02:00",
-      "itemCount": 7
-    },
-    {
-      "id": 12382550458712,
-      "name": "#3748",
-      "createdAt": "2026-06-12T20:14:36+02:00",
-      "itemCount": 1
-    }
-  ],
+  "fulfillableOrders": [],
   "blockedOrders": [
     {
       "id": 12268683067736,
@@ -1299,30 +1274,6 @@
         "demand": 1
       },
       {
-        "product": "110068 Scarlet & Violet Temporal Forces Booster Box 36 Booster pack (English) — 36 booster packs / Multicolor",
-        "productId": 15641567330648,
-        "variantId": 56849733353816,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "110074 Scarlet & Violet Paradox Rift Booster 36 pack(English) — 36 booster pack / Multicolor",
-        "productId": 15641567232344,
-        "variantId": 56849733255512,
-        "onHand": 2,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "110062 Scarlet & Violet Twilight Masquerade Booster Box 36 pack (English) — 36 booster pack / Multicolor",
-        "productId": 15641567461720,
-        "variantId": 56849733484888,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "134616 Emolga - Legendary Treasures RC23/RC25 NM (English) — RC23/RC25, Near-Mint / Ultra Rare",
         "productId": 15641282216280,
         "variantId": 56849218503000,
@@ -1457,150 +1408,6 @@
         "onHand": 0,
         "committed": 1,
         "demand": 2
-      },
-      {
-        "product": "110273 Sword & Shield Fusion Strike Fun Pack (English) — 3 cards / Multicolor",
-        "productId": 15641564741976,
-        "variantId": 56849721262424,
-        "onHand": 5,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131546 Tournament Pack 2025 Vol.1 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641342247256,
-        "variantId": 56849302028632,
-        "onHand": 9,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131536 Tournament Pack Vol.6 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641342738776,
-        "variantId": 56849302520152,
-        "onHand": 9,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131530 Tournament Pack Vol.3 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641342968152,
-        "variantId": 56849302782296,
-        "onHand": 8,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "131532 Tournament Pack Vol.4 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641342902616,
-        "variantId": 56849302716760,
-        "onHand": 8,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "131560 Judge Pack Vol. 5 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641341657432,
-        "variantId": 56849301438808,
-        "onHand": 4,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "131568 Judge Pack Vol. 3 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641341395288,
-        "variantId": 56849301176664,
-        "onHand": 4,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131574 Event Pack Vol. 4 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641341198680,
-        "variantId": 56849300816216,
-        "onHand": 9,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131576 A Fist of Divine Speed Release Event One Piece Booster Pack (English) — 2 cards / Black / White",
-        "productId": 15641341133144,
-        "variantId": 56849300750680,
-        "onHand": 4,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131518 Judge Pack Vol.6 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641343459672,
-        "variantId": 56849303470424,
-        "onHand": 4,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131552 Kingdoms of Intrigue Dash Pack One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641341985112,
-        "variantId": 56849301766488,
-        "onHand": 7,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131556 Legacy of the Master Release Event One Piece Booster Pack (English) — 2 cards / Black / White",
-        "productId": 15641341821272,
-        "variantId": 56849301602648,
-        "onHand": 6,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131562 Royal Blood Release Event One Piece Booster Pack (English) — 2 cards / Black / White",
-        "productId": 15641341591896,
-        "variantId": 56849301373272,
-        "onHand": 5,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131554 Emperors in the New World 2nd Anniversary Tournament One Piece Booster Pack (English) — 2 cards / Black / White",
-        "productId": 15641341886808,
-        "variantId": 56849301668184,
-        "onHand": 8,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "131522 Wings of the Captain Pre‑Release Pack One Piece Booster Pack (English) — 2 cards / Black / White",
-        "productId": 15641343295832,
-        "variantId": 56849303241048,
-        "onHand": 7,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131516 Kingdoms of Intrigue Pre‑Release Pack One Piece Booster Pack (English) — 2 cards / Black / White",
-        "productId": 15641343525208,
-        "variantId": 56849303535960,
-        "onHand": 8,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131510 Revision Pack One Piece Booster Pack (English) — 7 cards / Black / White",
-        "productId": 15641343721816,
-        "variantId": 56849303732568,
-        "onHand": 3,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "131500 Special DON!! Card Pack DP‑07 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641344115032,
-        "variantId": 56849304158552,
-        "onHand": 5,
-        "committed": 1,
-        "demand": 1
       },
       {
         "product": "118728 Emboar - Scarlet & Violet White Flare 098/086 NM (English) — 098/086, Near-Mint / Illustration Rare",
@@ -1875,54 +1682,6 @@
         "demand": 3
       },
       {
-        "product": "131606 500 Years into the Future One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
-        "productId": 15641340182872,
-        "variantId": 56849299702104,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "131600 Two Legends One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Green",
-        "productId": 15641340412248,
-        "variantId": 56849299931480,
-        "onHand": 3,
-        "committed": 3,
-        "demand": 3
-      },
-      {
-        "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
-        "productId": 15641321570648,
-        "variantId": 56849271783768,
-        "onHand": 3,
-        "committed": 3,
-        "demand": 3
-      },
-      {
-        "product": "141085 One Piece Card Game Heroines Edition Booster Box 24 Booster Packs (English)",
-        "productId": 15691118477656,
-        "variantId": 57056588726616,
-        "onHand": 3,
-        "committed": 3,
-        "demand": 3
-      },
-      {
-        "product": "131604 Anime 25th Collection One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
-        "productId": 15641340281176,
-        "variantId": 56849299800408,
-        "onHand": 2,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "131584 Awakening of the New Era One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / White",
-        "productId": 15641340969304,
-        "variantId": 56849300586840,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "120803 Gengar & Mimikyu GX - Sun & Moon Team Up 053/181 NM (English) — 053/181, Near-Mint / Ultra Rare",
         "productId": 15641500811608,
         "variantId": 56849634918744,
@@ -2139,6 +1898,14 @@
         "demand": 1
       },
       {
+        "product": "131510 Revision Pack One Piece Booster Pack (English) — 7 cards / Black / White",
+        "productId": 15641343721816,
+        "variantId": 56849303732568,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
         "product": "141863 MEGA Ninja Spinner Booster Pack (Japanese)",
         "productId": 15720120385880,
         "variantId": 57151497830744,
@@ -2151,6 +1918,22 @@
         "productId": 15641343230296,
         "variantId": 56849303175512,
         "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131554 Emperors in the New World 2nd Anniversary Tournament One Piece Booster Pack (English) — 2 cards / Black / White",
+        "productId": 15641341886808,
+        "variantId": 56849301668184,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131530 Tournament Pack Vol.3 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641342968152,
+        "variantId": 56849302782296,
+        "onHand": 7,
         "committed": 1,
         "demand": 1
       },
@@ -2387,6 +2170,22 @@
         "demand": 1
       },
       {
+        "product": "131532 Tournament Pack Vol.4 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641342902616,
+        "variantId": 56849302716760,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131560 Judge Pack Vol. 5 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641341657432,
+        "variantId": 56849301438808,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
         "product": "119489 Poliwhirl - Scarlet & Violet 151 176/165 NM (English) — 176/165, Near-Mint / Illustration Rare",
         "productId": 15641505988952,
         "variantId": 56849643372888,
@@ -2619,6 +2418,14 @@
         "demand": 1
       },
       {
+        "product": "131606 500 Years into the Future One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+        "productId": 15641340182872,
+        "variantId": 56849299702104,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
         "product": "Into the Inklands Gift Set",
         "productId": 15509499117912,
         "variantId": 56381552230744,
@@ -2673,14 +2480,6 @@
         "onHand": 0,
         "committed": 2,
         "demand": 2
-      },
-      {
-        "product": "131472 Royal Blood One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
-        "productId": 15641344934232,
-        "variantId": 56849304977752,
-        "onHand": 4,
-        "committed": 1,
-        "demand": 1
       },
       {
         "product": "131634 Mega Zygarde‑ex - Nihil Zero 117/080 NM (Japanese) — 117/080, Near-Mint / Secret Rare",
