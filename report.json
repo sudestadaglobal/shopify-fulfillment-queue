@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-14T13:18:17.877Z",
+  "generatedAt": "2026-06-14T15:24:52.190Z",
   "summary": {
-    "totalUnfulfilled": 55,
+    "totalUnfulfilled": 57,
     "canFulfill": 0,
-    "blocked": 55
+    "blocked": 57
   },
   "fulfillableOrders": [],
   "blockedOrders": [
@@ -1149,6 +1149,54 @@
           "needed": 10
         }
       ]
+    },
+    {
+      "id": 12385542340952,
+      "name": "#3755",
+      "customerName": "Damian van Veen",
+      "createdAt": "2026-06-14T16:05:37+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "138087 Monkey D. Luffy - Adventure on Kamis Island OP15-092 V2 NM (Japanese) - Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131538 Tournament Pack Vol.7 One Piece Booster Pack (English) — 1 card / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12385624654168,
+      "name": "#3756",
+      "customerName": "Tomas Vojnarovič",
+      "createdAt": "2026-06-14T16:52:58+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "142955 Mega Evolution Chaos Rising Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "144442 MEGA Abyss Eye Booster Pack 5 Cards (Japanese) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119401 Scarlet & Violet Black Bolt Zekrom 9-Pocket Album (English) — 9 Pocket Album / Black / Blue",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1606,8 +1654,8 @@
         "productId": 15641566216536,
         "variantId": 56849731518808,
         "onHand": 7,
-        "committed": 11,
-        "demand": 11
+        "committed": 12,
+        "demand": 12
       },
       {
         "product": "110204 Scarlet & Violet Future Flash Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -1646,8 +1694,8 @@
         "productId": 15641566052696,
         "variantId": 56849731354968,
         "onHand": 1,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "125758 Scarlet & Violet Snow Hazard Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -1790,7 +1838,7 @@
         "productId": 15641522897240,
         "variantId": 56849669390680,
         "onHand": 0,
-        "committed": 3,
+        "committed": 4,
         "demand": 3
       },
       {
@@ -1982,8 +2030,8 @@
         "productId": 15641508249944,
         "variantId": 56849646387544,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119419 Mew ex V3 - Scarlet & Violet 151 205/165 NM (English) — 205/165, Near-Mint / Secret Rare",
@@ -2520,18 +2568,74 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "138087 Monkey D. Luffy - Adventure on Kamis Island OP15-092 V2 NM (Japanese) - Alternate Art",
+        "productId": 15816350663000,
+        "variantId": 57515203789144,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131538 Tournament Pack Vol.7 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641342640472,
+        "variantId": 56849302421848,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131444 The Azure Sea’s Seven Dash Pack One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641345294680,
+        "variantId": 56849305338200,
+        "onHand": 9,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131476 Tournament Pack Vol.1 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641344803160,
+        "variantId": 56849304846680,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131478 3rd Anniversary Tournament 3 Brothers One Piece Booster Pack (English) — 2 cards / Black / White",
+        "productId": 15641344737624,
+        "variantId": 56849304781144,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "142955 Mega Evolution Chaos Rising Booster Pack (English) - Multicolor",
+        "productId": 15770729218392,
+        "variantId": 57361267196248,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "144442 MEGA Abyss Eye Booster Pack 5 Cards (Japanese) - Multicolor",
+        "productId": 15816363508056,
+        "variantId": 57515342594392,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
       {
-        "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
-        "productId": 15641566216536,
-        "variantId": 56849731518808,
-        "onHand": 7,
-        "committed": 11,
-        "incoming": 1,
+        "product": "118668 Scarlet & Violet White Flare Gothitelle Tech Sticker Collection (English) — 3 booster pack / Multicolor",
+        "productId": 15641522897240,
+        "variantId": 56849669390680,
+        "onHand": 0,
+        "committed": 4,
+        "incoming": 3,
         "available": -4,
-        "shortfall": 3
+        "shortfall": 1
       },
       {
         "product": "109986 Mew ex - Scarlet & Violet 151 151/165 NM (English) — 151/165, Near-Mint / Double Rare",
