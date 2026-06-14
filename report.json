@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-06-14T15:24:52.190Z",
+  "generatedAt": "2026-06-14T17:00:14.338Z",
   "summary": {
-    "totalUnfulfilled": 57,
-    "canFulfill": 0,
-    "blocked": 57
+    "totalUnfulfilled": 61,
+    "canFulfill": 2,
+    "blocked": 59
   },
-  "fulfillableOrders": [],
+  "fulfillableOrders": [
+    {
+      "id": 12385806549336,
+      "name": "#3758",
+      "createdAt": "2026-06-14T18:37:32+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12385834238296,
+      "name": "#3760",
+      "createdAt": "2026-06-14T18:54:24+02:00",
+      "itemCount": 1
+    }
+  ],
   "blockedOrders": [
     {
       "id": 12268683067736,
@@ -1197,6 +1210,42 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12385680097624,
+      "name": "#3757",
+      "customerName": "frederik raake",
+      "createdAt": "2026-06-14T17:24:09+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "118668 Scarlet & Violet White Flare Gothitelle Tech Sticker Collection (English) — 3 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12385815069016,
+      "name": "#3759",
+      "customerName": "Matthias Kurath",
+      "createdAt": "2026-06-14T18:42:39+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "116641 Team Rocket's Mewtwo ex - Scarlet & Violet Destined Rivals 213/182 NM (English) — 213/182, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "118838 Lillipup - Scarlet & Violet White Flare 154/086 NM (English) — 154/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1774,8 +1823,8 @@
         "productId": 15641336840536,
         "variantId": 56849295901016,
         "onHand": 5,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
@@ -1839,7 +1888,7 @@
         "variantId": 56849669390680,
         "onHand": 0,
         "committed": 4,
-        "demand": 3
+        "demand": 4
       },
       {
         "product": "116639 Misty's Lapras - Scarlet & Violet Destined Rivals 194/182 NM (English) — 194/182, Near-Mint / Illustration Rare",
@@ -1998,8 +2047,8 @@
         "productId": 15641343099224,
         "variantId": 56849302946136,
         "onHand": 4,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "131474 Winner Pack 2025 Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -2624,19 +2673,25 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "116641 Team Rocket's Mewtwo ex - Scarlet & Violet Destined Rivals 213/182 NM (English) — 213/182, Near-Mint / Ultra Rare",
+        "productId": 15641542984024,
+        "variantId": 56849696358744,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "118838 Lillipup - Scarlet & Violet White Flare 154/086 NM (English) — 154/086, Near-Mint / Illustration Rare",
+        "productId": 15641519423832,
+        "variantId": 56849664934232,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
-      {
-        "product": "118668 Scarlet & Violet White Flare Gothitelle Tech Sticker Collection (English) — 3 booster pack / Multicolor",
-        "productId": 15641522897240,
-        "variantId": 56849669390680,
-        "onHand": 0,
-        "committed": 4,
-        "incoming": 3,
-        "available": -4,
-        "shortfall": 1
-      },
       {
         "product": "109986 Mew ex - Scarlet & Violet 151 151/165 NM (English) — 151/165, Near-Mint / Double Rare",
         "productId": 15641568772440,
