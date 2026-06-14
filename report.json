@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-14T18:22:47.713Z",
+  "generatedAt": "2026-06-14T20:10:57.774Z",
   "summary": {
-    "totalUnfulfilled": 65,
+    "totalUnfulfilled": 68,
     "canFulfill": 3,
-    "blocked": 62
+    "blocked": 65
   },
   "fulfillableOrders": [
     {
@@ -1333,6 +1333,51 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12385976713560,
+      "name": "#3765",
+      "customerName": "Jakob kapocs",
+      "createdAt": "2026-06-14T20:20:21+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "134224 Lotus Petal - Secret Lair Drop Series Foil #7034 NM (English) — Secret Lair Drop Series #7034, Near-Mint / Mythic",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12386016133464,
+      "name": "#3766",
+      "customerName": "Fredrik Aschjem",
+      "createdAt": "2026-06-14T20:43:25+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "118668 Scarlet & Violet White Flare Gothitelle Tech Sticker Collection (English) — 3 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12386043494744,
+      "name": "#3767",
+      "customerName": "Jakob kapocs",
+      "createdAt": "2026-06-14T20:58:48+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "134224 Lotus Petal - Secret Lair Drop Series Foil #7034 NM (English) — Secret Lair Drop Series #7034, Near-Mint / Mythic",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1470,8 +1515,8 @@
         "productId": 15642692911448,
         "variantId": 56856050270552,
         "onHand": 2,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
@@ -1974,8 +2019,8 @@
         "productId": 15641522897240,
         "variantId": 56849669390680,
         "onHand": 0,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "116639 Misty's Lapras - Scarlet & Violet Destined Rivals 194/182 NM (English) — 194/182, Near-Mint / Illustration Rare",
@@ -2822,6 +2867,22 @@
         "productId": 15816512176472,
         "variantId": 57516130828632,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134224 Lotus Petal - Secret Lair Drop Series Foil #7034 NM (English) — Secret Lair Drop Series #7034, Near-Mint / Mythic",
+        "productId": 15641282969944,
+        "variantId": 56849219420504,
+        "onHand": 0,
+        "committed": 4,
+        "demand": 4
+      },
+      {
+        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+        "productId": 15641321406808,
+        "variantId": 56849271619928,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       }
