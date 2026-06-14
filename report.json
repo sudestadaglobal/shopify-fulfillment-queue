@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-14T17:00:14.338Z",
+  "generatedAt": "2026-06-14T18:22:47.713Z",
   "summary": {
-    "totalUnfulfilled": 61,
-    "canFulfill": 2,
-    "blocked": 59
+    "totalUnfulfilled": 65,
+    "canFulfill": 3,
+    "blocked": 62
   },
   "fulfillableOrders": [
     {
@@ -16,6 +16,12 @@
       "id": 12385834238296,
       "name": "#3760",
       "createdAt": "2026-06-14T18:54:24+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12385971634520,
+      "name": "#3764",
+      "createdAt": "2026-06-14T20:17:16+02:00",
       "itemCount": 1
     }
   ],
@@ -1246,6 +1252,87 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12385842463064,
+      "name": "#3761",
+      "customerName": "JAVIER Barragan",
+      "createdAt": "2026-06-14T18:59:46+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "131400 Tournament Pack Vol.5 Winner One Piece Booster Pack (English",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131430 Tournament Pack Vol.2 Winner One Piece Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132240 Boa Hancock - The Azure Sea's Seven OP14‑041 V2 NM (English) — OP14‑041/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132198 Donquixote Doflamingo - The Azure Sea's Seven OP14‑060 V2 NM (English) — OP14‑060/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12385924972888,
+      "name": "#3762",
+      "customerName": "fernando queipo de llano de aguilera",
+      "createdAt": "2026-06-14T19:50:53+02:00",
+      "itemCount": 7,
+      "reasons": [
+        {
+          "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 2
+        },
+        {
+          "product": "71797 Misty’s Spirit - MEGA Abyss Eye 108/081 NM (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "71877 Squirtle - 30th Anniversary Celebration Simplified Chinese 003/30th-P NM (Chinese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "116609 Team Rocket's Mewtwo ex - Scarlet & Violet Destined Rivals 231/182 NM (English) — 231/182, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12385963770200,
+      "name": "#3763",
+      "customerName": "Jonas Jäkel",
+      "createdAt": "2026-06-14T20:12:49+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "71815 Gwynn - MEGA Abyss Eye 117/081 NM (Japanese)\tSpecial Illustration",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1479,8 +1566,8 @@
         "productId": 15641569001816,
         "variantId": 56849736368472,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "109970 Pikachu - Sword & Shield Crown Zenith 160/159 NM (English) — 160/159, Near-Mint / Secret Rare",
@@ -1815,8 +1902,8 @@
         "productId": 15790986723672,
         "variantId": 57444361929048,
         "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
@@ -2143,16 +2230,16 @@
         "productId": 15775998247256,
         "variantId": 57373542711640,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131430 Tournament Pack Vol.2 Winner One Piece Booster Pack (English)",
         "productId": 15798656500056,
         "variantId": 57474322104664,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131608 The Best Vol. 2 One Piece Premium Booster Box 20 Premium Booster Packs (English) — 20 Booster Packs / Multicolor",
@@ -2686,6 +2773,54 @@
         "product": "118838 Lillipup - Scarlet & Violet White Flare 154/086 NM (English) — 154/086, Near-Mint / Illustration Rare",
         "productId": 15641519423832,
         "variantId": 56849664934232,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132240 Boa Hancock - The Azure Sea's Seven OP14‑041 V2 NM (English) — OP14‑041/V2, Near-Mint / Alternate Art",
+        "productId": 15641325142360,
+        "variantId": 56849279648088,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132198 Donquixote Doflamingo - The Azure Sea's Seven OP14‑060 V2 NM (English) — OP14‑060/V2, Near-Mint / Alternate Art",
+        "productId": 15641326715224,
+        "variantId": 56849281220952,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "71797 Misty’s Spirit - MEGA Abyss Eye 108/081 NM (Japanese)",
+        "productId": 15816484454744,
+        "variantId": 57515987272024,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "71877 Squirtle - 30th Anniversary Celebration Simplified Chinese 003/30th-P NM (Chinese)",
+        "productId": 15816481866072,
+        "variantId": 57515963384152,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116609 Team Rocket's Mewtwo ex - Scarlet & Violet Destined Rivals 231/182 NM (English) — 231/182, Near-Mint / Illustration Rare",
+        "productId": 15641548292440,
+        "variantId": 56849701896536,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "71815 Gwynn - MEGA Abyss Eye 117/081 NM (Japanese)\tSpecial Illustration",
+        "productId": 15816512176472,
+        "variantId": 57516130828632,
         "onHand": 0,
         "committed": 1,
         "demand": 1
