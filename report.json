@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-15T11:39:15.771Z",
+  "generatedAt": "2026-06-15T16:36:46.749Z",
   "summary": {
-    "totalUnfulfilled": 68,
+    "totalUnfulfilled": 70,
     "canFulfill": 3,
-    "blocked": 65
+    "blocked": 67
   },
   "fulfillableOrders": [
     {
@@ -173,6 +173,12 @@
         },
         {
           "product": "118726 Pignite - Scarlet & Violet White Flare 097/086 NM (English) — 097/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132678 Cynthia’s Spiritomb - Mega Evolution Ascended Heroes 244/217 NM (English) — 244/217, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -752,6 +758,12 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
+        },
+        {
+          "product": "132636 Mega Froslass ex - Mega Evolution Ascended Heroes 265/217 NM (English) — 265/217, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
         }
       ]
     },
@@ -872,6 +884,12 @@
         },
         {
           "product": "113578 Walking Wake ex - Scarlet & Violet Prismatic Evolution 178/131 NM (English) — 178/131, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132712 Snorunt - Mega Evolution Ascended Heroes 227/217 NM (English) — 227/217, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1378,6 +1396,36 @@
           "needed": 3
         }
       ]
+    },
+    {
+      "id": 12387759817048,
+      "name": "#3768",
+      "customerName": "Joel Wlodarczyk",
+      "createdAt": "2026-06-15T15:05:29+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Funko POP! Moment: Attack on Titan Eren Meets Reiner #1432",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12388275650904,
+      "name": "#3769",
+      "customerName": "Michel Biemolt",
+      "createdAt": "2026-06-15T16:18:53+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1394,16 +1442,16 @@
         "product": "132712 Snorunt - Mega Evolution Ascended Heroes 227/217 NM (English) — 227/217, Near-Mint / Illustration Rare",
         "productId": 15641318555992,
         "variantId": 56849267655000,
-        "onHand": 1,
-        "committed": 2,
+        "onHand": 0,
+        "committed": 1,
         "demand": 2
       },
       {
         "product": "132720 Numel - Mega Evolution Ascended Heroes 223/217 NM (English) — 223/217, Near-Mint / Illustration Rare",
         "productId": 15641318293848,
         "variantId": 56849266606424,
-        "onHand": 1,
-        "committed": 1,
+        "onHand": 0,
+        "committed": 0,
         "demand": 1
       },
       {
@@ -1434,32 +1482,32 @@
         "product": "132728 Beautifly - Mega Evolution Ascended Heroes 219/217 NM (English) — 219/217, Near-Mint / Illustration Rare",
         "productId": 15641317998936,
         "variantId": 56849266311512,
-        "onHand": 1,
-        "committed": 1,
+        "onHand": 0,
+        "committed": 0,
         "demand": 1
       },
       {
         "product": "132678 Cynthia’s Spiritomb - Mega Evolution Ascended Heroes 244/217 NM (English) — 244/217, Near-Mint / Illustration Rare",
         "productId": 15641319539032,
         "variantId": 56849268638040,
-        "onHand": 1,
-        "committed": 2,
+        "onHand": 0,
+        "committed": 1,
         "demand": 2
       },
       {
         "product": "132670 Drakloak - Mega Evolution Ascended Heroes 248/217 NM (English) — 248/217, Near-Mint / Illustration Rare",
         "productId": 15641319801176,
         "variantId": 56849268900184,
-        "onHand": 1,
-        "committed": 1,
+        "onHand": 0,
+        "committed": 0,
         "demand": 1
       },
       {
         "product": "132636 Mega Froslass ex - Mega Evolution Ascended Heroes 265/217 NM (English) — 265/217, Near-Mint / Ultra Rare",
         "productId": 15641320751448,
         "variantId": 56849269850456,
-        "onHand": 1,
-        "committed": 2,
+        "onHand": 0,
+        "committed": 1,
         "demand": 2
       },
       {
@@ -1474,24 +1522,24 @@
         "product": "132596 Mega Scrafty ex - Mega Evolution Ascended Heroes 285/217 NM (English) — Size 285/217 / Special Illustration Rare",
         "productId": 15653258461528,
         "variantId": 56897717731672,
-        "onHand": 2,
-        "committed": 1,
+        "onHand": 1,
+        "committed": 0,
         "demand": 1
       },
       {
         "product": "63011 Mega Hawlucha ex - Mega Evolution Ascended Heroes 283/217 NM (English) — Size 283/217 / Special Illustration Rare",
         "productId": 15653256200536,
         "variantId": 56897712324952,
-        "onHand": 2,
-        "committed": 1,
+        "onHand": 1,
+        "committed": 0,
         "demand": 1
       },
       {
         "product": "132620 Mega Emboar ex - Mega Evolution Ascended Heroes 273/217 NM (English) — Special Illustration Rare / Size 273/217",
         "productId": 15653254889816,
         "variantId": 56897702330712,
-        "onHand": 2,
-        "committed": 1,
+        "onHand": 1,
+        "committed": 0,
         "demand": 1
       },
       {
@@ -2885,6 +2933,22 @@
         "onHand": 2,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Funko POP! Moment: Attack on Titan Eren Meets Reiner #1432",
+        "productId": 15817256304984,
+        "variantId": 57518405878104,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
+        "productId": 15731035668824,
+        "variantId": 57191630569816,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2892,6 +2956,26 @@
         "product": "109986 Mew ex - Scarlet & Violet 151 151/165 NM (English) — 151/165, Near-Mint / Double Rare",
         "productId": 15641568772440,
         "variantId": 56849736139096,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Funko POP! Moment: Attack on Titan Eren Meets Reiner #1432",
+        "productId": 15817256304984,
+        "variantId": 57518405878104,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
+        "productId": 15731035668824,
+        "variantId": 57191630569816,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
