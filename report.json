@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-15T16:36:46.749Z",
+  "generatedAt": "2026-06-15T20:20:36.951Z",
   "summary": {
-    "totalUnfulfilled": 70,
-    "canFulfill": 3,
-    "blocked": 67
+    "totalUnfulfilled": 73,
+    "canFulfill": 4,
+    "blocked": 69
   },
   "fulfillableOrders": [
     {
@@ -22,6 +22,12 @@
       "id": 12385971634520,
       "name": "#3764",
       "createdAt": "2026-06-14T20:17:16+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12390771655000,
+      "name": "#3771",
+      "createdAt": "2026-06-15T20:37:43+02:00",
       "itemCount": 1
     }
   ],
@@ -1421,6 +1427,36 @@
       "reasons": [
         {
           "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12390367756632,
+      "name": "#3770",
+      "customerName": "Karl Olov Hällström",
+      "createdAt": "2026-06-15T19:35:10+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "LEGO Technic John Deere 1470H Wheeled Harvester Set #42218",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12390903120216,
+      "name": "#3772",
+      "customerName": "fernando queipo de llano de aguilera",
+      "createdAt": "2026-06-15T21:00:17+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "69301 Mega Greninja ex - MEGA Ninja Spinner 114/083 NM (Japanese)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2931,8 +2967,8 @@
         "productId": 15641321406808,
         "variantId": 56849271619928,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "Funko POP! Moment: Attack on Titan Eren Meets Reiner #1432",
@@ -2946,6 +2982,22 @@
         "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
         "productId": 15731035668824,
         "variantId": 57191630569816,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "LEGO Technic John Deere 1470H Wheeled Harvester Set #42218",
+        "productId": 15817758867800,
+        "variantId": 57519889056088,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "69301 Mega Greninja ex - MEGA Ninja Spinner 114/083 NM (Japanese)",
+        "productId": 15817796125016,
+        "variantId": 57520025076056,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -2976,6 +3028,16 @@
         "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
         "productId": 15731035668824,
         "variantId": 57191630569816,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "LEGO Technic John Deere 1470H Wheeled Harvester Set #42218",
+        "productId": 15817758867800,
+        "variantId": 57519889056088,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
