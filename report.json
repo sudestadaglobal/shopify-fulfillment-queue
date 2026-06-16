@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-16T11:39:33.983Z",
+  "generatedAt": "2026-06-16T16:18:16.609Z",
   "summary": {
-    "totalUnfulfilled": 73,
+    "totalUnfulfilled": 76,
     "canFulfill": 9,
-    "blocked": 64
+    "blocked": 67
   },
   "fulfillableOrders": [
     {
@@ -1399,6 +1399,51 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12393931112792,
+      "name": "#3773",
+      "customerName": "Tomas Vojnarovič",
+      "createdAt": "2026-06-16T13:38:54+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "133204 Mega Charizard Y ex - Mega Evolution Ascended Heroes 022/217 NM (English) — 022/217, Near-Mint / Double Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12393946415448,
+      "name": "#3774",
+      "customerName": "Adrià Cáceres",
+      "createdAt": "2026-06-16T13:47:13+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132582 Iris’s Fighting Spirit - Mega Evolution Ascended Heroes 292/217 NM (English) — 292/217, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12393952346456,
+      "name": "#3775",
+      "customerName": "Matthias Kurath",
+      "createdAt": "2026-06-16T13:50:52+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "121033 Mega Lucario ex - Mega Evolution 160/132 NM (English) — 160/132, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1560,8 +1605,8 @@
         "productId": 15641496191320,
         "variantId": 56849625612632,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "142952 Mega Evolution Chaos Rising Booster Bundle 6 Booster Packs (English)",
@@ -2456,8 +2501,8 @@
         "productId": 15641302729048,
         "variantId": 56849244225880,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "120699 Rotom Dex - Sun & Moon 159/149 NM (English) — 159/149, Near-Mint / Secret Rare",
@@ -2935,6 +2980,14 @@
         "product": "69301 Mega Greninja ex - MEGA Ninja Spinner 114/083 NM (Japanese)",
         "productId": 15817796125016,
         "variantId": 57520025076056,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132582 Iris’s Fighting Spirit - Mega Evolution Ascended Heroes 292/217 NM (English) — 292/217, Near-Mint / Special Illustration Rare",
+        "productId": 15641320948056,
+        "variantId": 56849270047064,
         "onHand": 0,
         "committed": 1,
         "demand": 1
