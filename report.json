@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-06-16T06:12:36.436Z",
+  "generatedAt": "2026-06-16T11:39:33.983Z",
   "summary": {
     "totalUnfulfilled": 73,
-    "canFulfill": 4,
-    "blocked": 69
+    "canFulfill": 9,
+    "blocked": 64
   },
   "fulfillableOrders": [
+    {
+      "id": 12361493774680,
+      "name": "#3688",
+      "createdAt": "2026-06-04T16:07:32+02:00",
+      "itemCount": 12
+    },
+    {
+      "id": 12361606660440,
+      "name": "#3693",
+      "createdAt": "2026-06-04T17:14:09+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12369867669848,
+      "name": "#3713",
+      "createdAt": "2026-06-07T19:38:15+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12374271131992,
+      "name": "#3725",
+      "createdAt": "2026-06-09T13:58:58+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12374415704408,
+      "name": "#3727",
+      "createdAt": "2026-06-09T14:33:29+02:00",
+      "itemCount": 1
+    },
     {
       "id": 12385806549336,
       "name": "#3758",
@@ -136,12 +166,6 @@
       "itemCount": 13,
       "reasons": [
         {
-          "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -256,12 +280,6 @@
       "itemCount": 29,
       "reasons": [
         {
-          "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 1,
@@ -336,21 +354,6 @@
       ]
     },
     {
-      "id": 12361493774680,
-      "name": "#3688",
-      "customerName": "Mike van Vianen",
-      "createdAt": "2026-06-04T16:07:32+02:00",
-      "itemCount": 12,
-      "reasons": [
-        {
-          "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12361582346584,
       "name": "#3690",
       "customerName": "Adrià Cáceres",
@@ -402,21 +405,6 @@
       ]
     },
     {
-      "id": 12361606660440,
-      "name": "#3693",
-      "customerName": "Siebe Vanheuckelom",
-      "createdAt": "2026-06-04T17:14:09+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "114523 Scarlet & Violet Journey Together Booster Box 36 Booster Pack (English) — 36 Booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12364782993752,
       "name": "#3698",
       "customerName": "Christian Salmen",
@@ -461,12 +449,6 @@
         },
         {
           "product": "116635 Ethan's Typhlosion - Scarlet & Violet Destined Rivals 190/182 NM (English) — 190/182, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -543,21 +525,6 @@
       ]
     },
     {
-      "id": 12369867669848,
-      "name": "#3713",
-      "customerName": "Zoel von Hessberg",
-      "createdAt": "2026-06-07T19:38:15+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12369889755480,
       "name": "#3715",
       "customerName": "Leon Berthold",
@@ -566,6 +533,12 @@
       "reasons": [
         {
           "product": "119419 Mew ex V3 - Scarlet & Violet 151 205/165 NM (English) — 205/165, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -681,36 +654,6 @@
       ]
     },
     {
-      "id": 12374271131992,
-      "name": "#3725",
-      "customerName": "Sarah A",
-      "createdAt": "2026-06-09T13:58:58+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "Samsung Galaxy Buds3 Pro Wireless Earbuds",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12374415704408,
-      "name": "#3727",
-      "customerName": "András Juhász",
-      "createdAt": "2026-06-09T14:33:29+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12375980900696,
       "name": "#3729",
       "customerName": "Damian van Veen",
@@ -797,12 +740,6 @@
       "reasons": [
         {
           "product": "113493 Vaporeon ex - Scarlet & Violet Prismatic Evolution 149/131 NM (English) — 149/131, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1320,7 +1257,7 @@
         {
           "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
           "reason": "Insufficient stock",
-          "stock": 1,
+          "stock": 0,
           "needed": 2
         },
         {
@@ -1630,7 +1567,7 @@
         "product": "142952 Mega Evolution Chaos Rising Booster Bundle 6 Booster Packs (English)",
         "productId": 15779706765656,
         "variantId": 57390579482968,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -1662,7 +1599,7 @@
         "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
         "productId": 15641488556376,
         "variantId": 56849615421784,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -1838,7 +1775,7 @@
         "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
         "productId": 15771147010392,
         "variantId": 57362036457816,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2046,7 +1983,7 @@
         "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
         "productId": 15641569788248,
         "variantId": 56849737253208,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2086,7 +2023,7 @@
         "product": "114523 Scarlet & Violet Journey Together Booster Box 36 Booster Pack (English) — 36 Booster pack / Multicolor",
         "productId": 15641561104728,
         "variantId": 56849715691864,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2126,7 +2063,7 @@
         "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
         "productId": 15796633665880,
         "variantId": 57468100968792,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2430,7 +2367,7 @@
         "product": "Samsung Galaxy Buds3 Pro Wireless Earbuds",
         "productId": 15584381010264,
         "variantId": 56617932554584,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2446,7 +2383,7 @@
         "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
         "productId": 15731088589144,
         "variantId": 57191832191320,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
