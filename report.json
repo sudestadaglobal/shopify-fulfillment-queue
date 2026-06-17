@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-17T19:40:32.076Z",
+  "generatedAt": "2026-06-17T21:49:58.369Z",
   "summary": {
-    "totalUnfulfilled": 77,
+    "totalUnfulfilled": 78,
     "canFulfill": 5,
-    "blocked": 72
+    "blocked": 73
   },
   "fulfillableOrders": [
     {
@@ -1505,6 +1505,21 @@
           "reason": "Insufficient stock",
           "stock": 1,
           "needed": 10
+        }
+      ]
+    },
+    {
+      "id": 12404654440792,
+      "name": "#3783",
+      "customerName": "Maxim Leitsch",
+      "createdAt": "2026-06-17T21:48:03+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
         }
       ]
     }
@@ -3062,6 +3077,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
+        "productId": 15641340051800,
+        "variantId": 56849299571032,
+        "onHand": 0,
+        "committed": 3,
+        "demand": 3
       }
     ],
     "demandExceedsStock": [
