@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-17T14:06:16.385Z",
+  "generatedAt": "2026-06-17T17:29:08.888Z",
   "summary": {
-    "totalUnfulfilled": 83,
-    "canFulfill": 6,
-    "blocked": 77
+    "totalUnfulfilled": 77,
+    "canFulfill": 5,
+    "blocked": 72
   },
   "fulfillableOrders": [
     {
@@ -19,21 +19,9 @@
       "itemCount": 1
     },
     {
-      "id": 12385834238296,
-      "name": "#3760",
-      "createdAt": "2026-06-14T18:54:24+02:00",
-      "itemCount": 1
-    },
-    {
       "id": 12385971634520,
       "name": "#3764",
       "createdAt": "2026-06-14T20:17:16+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12390771655000,
-      "name": "#3771",
-      "createdAt": "2026-06-15T20:37:43+02:00",
       "itemCount": 1
     },
     {
@@ -41,6 +29,12 @@
       "name": "#3777",
       "createdAt": "2026-06-17T14:05:32+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12399682290008,
+      "name": "#3782",
+      "createdAt": "2026-06-17T14:42:56+02:00",
+      "itemCount": 3
     }
   ],
   "blockedOrders": [
@@ -336,33 +330,6 @@
       ]
     },
     {
-      "id": 12361493774680,
-      "name": "#3688",
-      "customerName": "Mike van Vianen",
-      "createdAt": "2026-06-04T16:07:32+02:00",
-      "itemCount": 12,
-      "reasons": [
-        {
-          "product": "131928 Mega Evolution Ascended Heroes Pikachu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12361582346584,
       "name": "#3690",
       "customerName": "Adrià Cáceres",
@@ -407,21 +374,6 @@
       "reasons": [
         {
           "product": "113612 Scarlet & Violet Prismatic Evolution Sylveon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12361606660440,
-      "name": "#3693",
-      "customerName": "Siebe Vanheuckelom",
-      "createdAt": "2026-06-04T17:14:09+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "114523 Scarlet & Violet Journey Together Booster Box 36 Booster Pack (English) — 36 Booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -502,7 +454,7 @@
       "itemCount": 23,
       "reasons": [
         {
-          "product": "133808 Nico Robin - Legacy of the Master OP12‑087 NM V2 (English) — OP12‑087/V2, Near-Mint / Alternate Art",
+          "product": "133808 Nico Robin - Legacy of the Master OP12‑087 NM V2 (English) — OP12��087/V2, Near-Mint / Alternate Art",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -671,42 +623,6 @@
       "reasons": [
         {
           "product": "124004 Phantasmal Flames Mega Evolution Pokémon Center Elite Trainer Box 11 Booster Pack (English) — 11 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12374271131992,
-      "name": "#3725",
-      "customerName": "Sarah A",
-      "createdAt": "2026-06-09T13:58:58+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "Samsung Galaxy Buds3 Pro Wireless Earbuds",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "Samsung Galaxy S26 Ultra Black 1 TB",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12374415704408,
-      "name": "#3727",
-      "customerName": "András Juhász",
-      "createdAt": "2026-06-09T14:33:29+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1587,23 +1503,8 @@
         {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 1,
           "needed": 10
-        }
-      ]
-    },
-    {
-      "id": 12399682290008,
-      "name": "#3782",
-      "customerName": "Fredrik Aschjem",
-      "createdAt": "2026-06-17T14:42:56+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     }
@@ -1744,7 +1645,7 @@
         "variantId": 56849295737176,
         "onHand": 9,
         "committed": 2,
-        "demand": 3
+        "demand": 2
       },
       {
         "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -1752,7 +1653,7 @@
         "variantId": 56849295671640,
         "onHand": 9,
         "committed": 2,
-        "demand": 3
+        "demand": 2
       },
       {
         "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
@@ -1792,7 +1693,7 @@
         "variantId": 57390579482968,
         "onHand": 1,
         "committed": 1,
-        "demand": 2
+        "demand": 1
       },
       {
         "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
@@ -1800,7 +1701,7 @@
         "variantId": 56923414757720,
         "onHand": 1,
         "committed": 1,
-        "demand": 2
+        "demand": 1
       },
       {
         "product": "124012 Phantasmal Flames Mega Evolution Booster Bundle 6 Booster Pack (English) — 6 Booster Packs / Multicolor",
@@ -2179,38 +2080,6 @@
         "demand": 1
       },
       {
-        "product": "131928 Mega Evolution Ascended Heroes Pikachu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
-        "productId": 15641336447320,
-        "variantId": 56849295507800,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
-        "productId": 15790986723672,
-        "variantId": 57444361929048,
-        "onHand": 0,
-        "committed": 3,
-        "demand": 4
-      },
-      {
-        "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
-        "productId": 15641336840536,
-        "variantId": 56849295901016,
-        "onHand": 3,
-        "committed": 0,
-        "demand": 2
-      },
-      {
-        "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
-        "productId": 15641569788248,
-        "variantId": 56849737253208,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
         "product": "125832 Mega Gengar ex - MEGA Dream ex 230/193 NM (Japanese) — 230/193, Near-Mint / Ultra Rare",
         "productId": 15641388941656,
         "variantId": 56849460101464,
@@ -2240,14 +2109,6 @@
         "variantId": 56849715790168,
         "onHand": 0,
         "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "114523 Scarlet & Violet Journey Together Booster Box 36 Booster Pack (English) — 36 Booster pack / Multicolor",
-        "productId": 15641561104728,
-        "variantId": 56849715691864,
-        "onHand": 0,
-        "committed": 0,
         "demand": 1
       },
       {
@@ -2299,7 +2160,7 @@
         "demand": 1
       },
       {
-        "product": "133808 Nico Robin - Legacy of the Master OP12‑087 NM V2 (English) — OP12‑087/V2, Near-Mint / Alternate Art",
+        "product": "133808 Nico Robin - Legacy of the Master OP12‑087 NM V2 (English) — OP12��087/V2, Near-Mint / Alternate Art",
         "productId": 15641296208216,
         "variantId": 56849235837272,
         "onHand": 0,
@@ -2467,6 +2328,14 @@
         "demand": 1
       },
       {
+        "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
+        "productId": 15790986723672,
+        "variantId": 57444361929048,
+        "onHand": 0,
+        "committed": 3,
+        "demand": 3
+      },
+      {
         "product": "119411 Mega Evolution Golduck 3 Booster Pack Blister (English) — 3 booster pack / Multicolor",
         "productId": 15641507987800,
         "variantId": 56849645961560,
@@ -2585,30 +2454,6 @@
         "onHand": 1,
         "committed": 3,
         "demand": 3
-      },
-      {
-        "product": "Samsung Galaxy Buds3 Pro Wireless Earbuds",
-        "productId": 15584381010264,
-        "variantId": 56617932554584,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "Samsung Galaxy S26 Ultra Black 1 TB",
-        "productId": 15750303678808,
-        "variantId": 57268655685976,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
-        "productId": 15731088589144,
-        "variantId": 57191832191320,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
       },
       {
         "product": "130760 Nami - The Best Vol.2 PRB02‑012 NM V2 (English) — PRB02‑012/V2, Near-Mint / Alternate Art",
@@ -3128,7 +2973,7 @@
         "variantId": 56849271619928,
         "onHand": 1,
         "committed": 12,
-        "demand": 13
+        "demand": 12
       },
       {
         "product": "Funko POP! Moment: Attack on Titan Eren Meets Reiner #1432",
