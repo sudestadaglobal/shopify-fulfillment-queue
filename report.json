@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T14:33:19.158Z",
+  "generatedAt": "2026-06-18T17:48:58.625Z",
   "summary": {
     "totalUnfulfilled": 86,
     "canFulfill": 10,
@@ -3430,16 +3430,6 @@
         "shortfall": 1
       },
       {
-        "product": "71815 Gwynn - MEGA Abyss Eye 117/081 NM (Japanese)\tSpecial Illustration",
-        "productId": 15816512176472,
-        "variantId": 57516130828632,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
         "product": "Funko POP! Moment: Attack on Titan Eren Meets Reiner #1432",
         "productId": 15817256304984,
         "variantId": 57518405878104,
@@ -3503,86 +3493,6 @@
         "product": "71873 Bulbasaur - 30th Anniversary Celebration Simplified Chinese 001/30th-P NM (Chinese)",
         "productId": 15821412434264,
         "variantId": 57533807493464,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119195 Fraxure - Scarlet & Violet Black Bolt 146/086 NM (English) — 146/086, Near-Mint / Illustration Rare",
-        "productId": 15641512771928,
-        "variantId": 56849653825880,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "71801 Rust Syndicate Grunt - MEGA Abyss Eye 110/081 NM (Japanese)",
-        "productId": 15821413515608,
-        "variantId": 57533809983832,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119203 Unfezant - Scarlet & Violet Black Bolt 150/086 NM (English) — 150/086, Near-Mint / Illustration Rare",
-        "productId": 15641512575320,
-        "variantId": 56849653629272,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119157 Conkeldurr - Scarlet & Violet Black Bolt 127/086 NM (English) — 127/086, Near-Mint / Illustration Rare",
-        "productId": 15641513460056,
-        "variantId": 56849655005528,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "71813 Gladion’s Showdown - MEGA Abyss Eye 116/081 NM (Japanese)",
-        "productId": 15821414695256,
-        "variantId": 57533811589464,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119053 Meloetta ex - Scarlet & Violet Black Bolt 167/086 NM (English) — 167/086, Near-Mint / Special Illustration Rare",
-        "productId": 15641515655512,
-        "variantId": 56849658478936,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "71811 Morpeko ex - MEGA Abyss Eye 115/081 NM (Japanese)",
-        "productId": 15821418725720,
-        "variantId": 57533817651544,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "118672 Victini - Scarlet & Violet White Flare 172/086 NM (English) — 172/086, Near-Mint / Double Rare",
-        "productId": 15641522831704,
-        "variantId": 56849669325144,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
