@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-18T11:21:48.212Z",
+  "generatedAt": "2026-06-18T14:33:19.158Z",
   "summary": {
-    "totalUnfulfilled": 79,
-    "canFulfill": 6,
-    "blocked": 73
+    "totalUnfulfilled": 86,
+    "canFulfill": 10,
+    "blocked": 76
   },
   "fulfillableOrders": [
     {
@@ -41,6 +41,30 @@
       "name": "#3784",
       "createdAt": "2026-06-18T13:15:07+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12405758132568,
+      "name": "#3786",
+      "createdAt": "2026-06-18T14:13:43+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12406213411160,
+      "name": "#3788",
+      "createdAt": "2026-06-18T15:18:19+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12406244540760,
+      "name": "#3789",
+      "createdAt": "2026-06-18T15:20:28+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12406331900248,
+      "name": "#3790",
+      "createdAt": "2026-06-18T15:25:22+02:00",
+      "itemCount": 2
     }
   ],
   "blockedOrders": [
@@ -1222,7 +1246,7 @@
           "needed": 1
         },
         {
-          "product": "132198 Donquixote Doflamingo - The Azure Sea's Seven OP14‑060 V2 NM (English) — OP14��060/V2, Near-Mint / Alternate Art",
+          "product": "132198 Donquixote Doflamingo - The Azure Sea's Seven OP14‑060 V2 NM (English) — OP14‑060/V2, Near-Mint / Alternate Art",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1528,6 +1552,147 @@
           "needed": 3
         }
       ]
+    },
+    {
+      "id": 12405671985496,
+      "name": "#3785",
+      "customerName": "fernando queipo de llano de aguilera",
+      "createdAt": "2026-06-18T13:29:17+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12406034563416,
+      "name": "#3787",
+      "customerName": "JAVIER Barragan",
+      "createdAt": "2026-06-18T15:02:37+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "127718 Monkey D. Luffy - Carrying on His Will OP13‑118 V2 NM (English) — OP13‑118/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12406675538264,
+      "name": "#3791",
+      "customerName": "fernando queipo de llano de aguilera",
+      "createdAt": "2026-06-18T16:08:19+02:00",
+      "itemCount": 18,
+      "reasons": [
+        {
+          "product": "68174 Mega Evolution Perfect Order Pokémon Center Elite Trainer Box 11 Booster Packs (English) — 11 Booster Packs / Green x Gray",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "125908 Mega Gengar ex - MEGA Dream ex 240/193 NM (Japanese) — 240/193, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119141 Duosion - Scarlet & Violet Black Bolt 119/086 NM (English) — 119/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "71755 Slowbro - MEGA Abyss Eye 087/081 NM (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "71876 Charmander - 30th Anniversary Celebration Simplified Chinese 002/30th-P NM (Chinese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "71873 Bulbasaur - 30th Anniversary Celebration Simplified Chinese 001/30th-P NM (Chinese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119195 Fraxure - Scarlet & Violet Black Bolt 146/086 NM (English) — 146/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "71801 Rust Syndicate Grunt - MEGA Abyss Eye 110/081 NM (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119203 Unfezant - Scarlet & Violet Black Bolt 150/086 NM (English) — 150/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119157 Conkeldurr - Scarlet & Violet Black Bolt 127/086 NM (English) — 127/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "71813 Gladion’s Showdown - MEGA Abyss Eye 116/081 NM (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119053 Meloetta ex - Scarlet & Violet Black Bolt 167/086 NM (English) — 167/086, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "71815 Gwynn - MEGA Abyss Eye 117/081 NM (Japanese)\tSpecial Illustration",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "71805 Mega Zeraora ex - MEGA Abyss Eye 112/081 NM (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "71811 Morpeko ex - MEGA Abyss Eye 115/081 NM (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "118672 Victini - Scarlet & Violet White Flare 172/086 NM (English) — 172/086, Near-Mint / Double Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1745,8 +1910,8 @@
         "productId": 15641488556376,
         "variantId": 56849615421784,
         "onHand": 2,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
@@ -1897,8 +2062,8 @@
         "productId": 15784544010584,
         "variantId": 57414588399960,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "138103 Roronoa Zoro - The Best PRB02-006 V1 NM (Japanese)",
@@ -2041,8 +2206,8 @@
         "productId": 15641566052696,
         "variantId": 56849731354968,
         "onHand": 1,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "125758 Scarlet & Violet Snow Hazard Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -2353,8 +2518,8 @@
         "productId": 15790986723672,
         "variantId": 57444361929048,
         "onHand": 0,
-        "committed": 3,
-        "demand": 3
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "119411 Mega Evolution Golduck 3 Booster Pack Blister (English) — 3 booster pack / Multicolor",
@@ -2941,7 +3106,7 @@
         "demand": 1
       },
       {
-        "product": "132198 Donquixote Doflamingo - The Azure Sea's Seven OP14‑060 V2 NM (English) — OP14��060/V2, Near-Mint / Alternate Art",
+        "product": "132198 Donquixote Doflamingo - The Azure Sea's Seven OP14‑060 V2 NM (English) — OP14‑060/V2, Near-Mint / Alternate Art",
         "productId": 15641326715224,
         "variantId": 56849281220952,
         "onHand": 0,
@@ -2977,8 +3142,8 @@
         "productId": 15816512176472,
         "variantId": 57516130828632,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "134224 Lotus Petal - Secret Lair Drop Series Foil #7034 NM (English) — Secret Lair Drop Series #7034, Near-Mint / Mythic",
@@ -3099,6 +3264,158 @@
         "onHand": 1,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
+        "productId": 14834629312856,
+        "variantId": 54023479296344,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "127718 Monkey D. Luffy - Carrying on His Will OP13‑118 V2 NM (English) — OP13‑118/V2, Near-Mint / Alternate Art",
+        "productId": 15641379733848,
+        "variantId": 56849449582936,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134026 Double Pack Set Vol. 8 (DP‑08) - Legacy of the Master (English) — 2 Booster Packs / 1 Don!! / Green",
+        "productId": 15641283723608,
+        "variantId": 56849220206936,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
+        "productId": 15641345753432,
+        "variantId": 56849305796952,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "68174 Mega Evolution Perfect Order Pokémon Center Elite Trainer Box 11 Booster Packs (English) — 11 Booster Packs / Green x Gray",
+        "productId": 15732283605336,
+        "variantId": 57196109234520,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "125908 Mega Gengar ex - MEGA Dream ex 240/193 NM (Japanese) — 240/193, Near-Mint / Special Illustration Rare",
+        "productId": 15641387729240,
+        "variantId": 56849458889048,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119141 Duosion - Scarlet & Violet Black Bolt 119/086 NM (English) — 119/086, Near-Mint / Illustration Rare",
+        "productId": 15641513754968,
+        "variantId": 56849655464280,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "71755 Slowbro - MEGA Abyss Eye 087/081 NM (Japanese)",
+        "productId": 15821411254616,
+        "variantId": 57533806051672,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "71876 Charmander - 30th Anniversary Celebration Simplified Chinese 002/30th-P NM (Chinese)",
+        "productId": 15821409288536,
+        "variantId": 57533802873176,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "71873 Bulbasaur - 30th Anniversary Celebration Simplified Chinese 001/30th-P NM (Chinese)",
+        "productId": 15821412434264,
+        "variantId": 57533807493464,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119195 Fraxure - Scarlet & Violet Black Bolt 146/086 NM (English) — 146/086, Near-Mint / Illustration Rare",
+        "productId": 15641512771928,
+        "variantId": 56849653825880,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "71801 Rust Syndicate Grunt - MEGA Abyss Eye 110/081 NM (Japanese)",
+        "productId": 15821413515608,
+        "variantId": 57533809983832,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119203 Unfezant - Scarlet & Violet Black Bolt 150/086 NM (English) — 150/086, Near-Mint / Illustration Rare",
+        "productId": 15641512575320,
+        "variantId": 56849653629272,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119157 Conkeldurr - Scarlet & Violet Black Bolt 127/086 NM (English) — 127/086, Near-Mint / Illustration Rare",
+        "productId": 15641513460056,
+        "variantId": 56849655005528,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "71813 Gladion’s Showdown - MEGA Abyss Eye 116/081 NM (Japanese)",
+        "productId": 15821414695256,
+        "variantId": 57533811589464,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119053 Meloetta ex - Scarlet & Violet Black Bolt 167/086 NM (English) — 167/086, Near-Mint / Special Illustration Rare",
+        "productId": 15641515655512,
+        "variantId": 56849658478936,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "71805 Mega Zeraora ex - MEGA Abyss Eye 112/081 NM (Japanese)",
+        "productId": 15821416530264,
+        "variantId": 57533813653848,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "71811 Morpeko ex - MEGA Abyss Eye 115/081 NM (Japanese)",
+        "productId": 15821418725720,
+        "variantId": 57533817651544,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "118672 Victini - Scarlet & Violet White Flare 172/086 NM (English) — 172/086, Near-Mint / Double Rare",
+        "productId": 15641522831704,
+        "variantId": 56849669325144,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3110,6 +3427,16 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "71815 Gwynn - MEGA Abyss Eye 117/081 NM (Japanese)\tSpecial Illustration",
+        "productId": 15816512176472,
+        "variantId": 57516130828632,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       },
       {
@@ -3146,6 +3473,116 @@
         "product": "Nintendo Switch 2 - Mario Kart World Bundle",
         "productId": 15120406643032,
         "variantId": 55021154959704,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
+        "productId": 14834629312856,
+        "variantId": 54023479296344,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "71876 Charmander - 30th Anniversary Celebration Simplified Chinese 002/30th-P NM (Chinese)",
+        "productId": 15821409288536,
+        "variantId": 57533802873176,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "71873 Bulbasaur - 30th Anniversary Celebration Simplified Chinese 001/30th-P NM (Chinese)",
+        "productId": 15821412434264,
+        "variantId": 57533807493464,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "119195 Fraxure - Scarlet & Violet Black Bolt 146/086 NM (English) — 146/086, Near-Mint / Illustration Rare",
+        "productId": 15641512771928,
+        "variantId": 56849653825880,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "71801 Rust Syndicate Grunt - MEGA Abyss Eye 110/081 NM (Japanese)",
+        "productId": 15821413515608,
+        "variantId": 57533809983832,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "119203 Unfezant - Scarlet & Violet Black Bolt 150/086 NM (English) — 150/086, Near-Mint / Illustration Rare",
+        "productId": 15641512575320,
+        "variantId": 56849653629272,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "119157 Conkeldurr - Scarlet & Violet Black Bolt 127/086 NM (English) — 127/086, Near-Mint / Illustration Rare",
+        "productId": 15641513460056,
+        "variantId": 56849655005528,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "71813 Gladion’s Showdown - MEGA Abyss Eye 116/081 NM (Japanese)",
+        "productId": 15821414695256,
+        "variantId": 57533811589464,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "119053 Meloetta ex - Scarlet & Violet Black Bolt 167/086 NM (English) — 167/086, Near-Mint / Special Illustration Rare",
+        "productId": 15641515655512,
+        "variantId": 56849658478936,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "71811 Morpeko ex - MEGA Abyss Eye 115/081 NM (Japanese)",
+        "productId": 15821418725720,
+        "variantId": 57533817651544,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "118672 Victini - Scarlet & Violet White Flare 172/086 NM (English) — 172/086, Near-Mint / Double Rare",
+        "productId": 15641522831704,
+        "variantId": 56849669325144,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
