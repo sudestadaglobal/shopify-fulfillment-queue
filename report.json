@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-19T13:54:21.623Z",
+  "generatedAt": "2026-06-19T16:38:17.541Z",
   "summary": {
-    "totalUnfulfilled": 86,
-    "canFulfill": 10,
-    "blocked": 76
+    "totalUnfulfilled": 95,
+    "canFulfill": 14,
+    "blocked": 81
   },
   "fulfillableOrders": [
     {
@@ -65,6 +65,30 @@
       "name": "#3790",
       "createdAt": "2026-06-18T15:25:22+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12411528839512,
+      "name": "#3792",
+      "createdAt": "2026-06-19T16:13:11+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12411559477592,
+      "name": "#3794",
+      "createdAt": "2026-06-19T16:28:51+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12411797406040,
+      "name": "#3796",
+      "createdAt": "2026-06-19T17:16:12+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12411834433880,
+      "name": "#3799",
+      "createdAt": "2026-06-19T17:36:19+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1693,6 +1717,123 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12411544961368,
+      "name": "#3793",
+      "customerName": "Mert Asik",
+      "createdAt": "2026-06-19T16:21:09+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "71807 Mega Chandelure ex - MEGA Abyss Eye 113/081 NM (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "110040 Sword & Shield Space Juggler Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12411734065496,
+      "name": "#3795",
+      "customerName": "JAVIER Barragan",
+      "createdAt": "2026-06-19T16:42:51+02:00",
+      "itemCount": 6,
+      "reasons": [
+        {
+          "product": "134660 Sanji - Romance Dawn (Pre‑Errata) OP01‑013 V2 NM (English) — OP01‑013/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132068 Boa Hancock - The Azure Sea's Seven OP14‑112 NM V2 (English) — OP14‑112/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "131400 Tournament Pack Vol.5 Winner One Piece Booster Pack (English",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131456 Winner Pack 2024 Oct‑Dec One Piece Booster Pack (English) — 1 card / black / white",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12411812217176,
+      "name": "#3797",
+      "customerName": "fernando queipo de llano de aguilera",
+      "createdAt": "2026-06-19T17:24:24+02:00",
+      "itemCount": 6,
+      "reasons": [
+        {
+          "product": "142989 Mega Dragalge ex - Mega Evolution Chaos Rising 118/086 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "144664 Gwynn - MEGA Abyss Eye 111/081 NM (Japanese) - Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "142987 Cinccino ex - Mega Evolution Chaos Rising 119/086 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12411829027160,
+      "name": "#3798",
+      "customerName": "Adrià Cáceres",
+      "createdAt": "2026-06-19T17:33:36+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12411864744280,
+      "name": "#3800",
+      "customerName": "Joshwoshyy LLC",
+      "createdAt": "2026-06-19T17:52:28+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2390,8 +2531,8 @@
         "productId": 15641344541016,
         "variantId": 56849304584536,
         "onHand": 3,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "142543 Adventure on Kami’s Island Booster Pack (English) - Yellow",
@@ -2566,16 +2707,16 @@
         "productId": 15641280414040,
         "variantId": 56849213227352,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131400 Tournament Pack Vol.5 Winner One Piece Booster Pack (English",
         "productId": 15775998247256,
         "variantId": 57373542711640,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131430 Tournament Pack Vol.2 Winner One Piece Booster Pack (English)",
@@ -2982,8 +3123,8 @@
         "productId": 15641321341272,
         "variantId": 56849271554392,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131634 Mega Zygarde‑ex - Nihil Zero 117/080 NM (Japanese) — 117/080, Near-Mint / Secret Rare",
@@ -3414,6 +3555,94 @@
         "productId": 15641522831704,
         "variantId": 56849669325144,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "71807 Mega Chandelure ex - MEGA Abyss Eye 113/081 NM (Japanese)",
+        "productId": 15822531199320,
+        "variantId": 57537503986008,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110040 Sword & Shield Space Juggler Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567756632,
+        "variantId": 56849734369624,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132068 Boa Hancock - The Azure Sea's Seven OP14‑112 NM V2 (English) — OP14‑112/V2, Near-Mint / Alternate Art",
+        "productId": 15641331204440,
+        "variantId": 56849289478488,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "131456 Winner Pack 2024 Oct‑Dec One Piece Booster Pack (English) — 1 card / black / white",
+        "productId": 15650758066520,
+        "variantId": 56886286483800,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "70211 One Piece Card Game Double Pack Set Vol. 10 OP15 2 Booster Packs (English) — 2 Booster Packs / Yellow",
+        "productId": 15732278362456,
+        "variantId": 57196095471960,
+        "onHand": 3,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
+        "productId": 15641340477784,
+        "variantId": 56849299997016,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "142989 Mega Dragalge ex - Mega Evolution Chaos Rising 118/086 NM (English) - Special Illustration Rare",
+        "productId": 15822594638168,
+        "variantId": 57537676214616,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "144664 Gwynn - MEGA Abyss Eye 111/081 NM (Japanese) - Ultra Rare",
+        "productId": 15822595031384,
+        "variantId": 57537676837208,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "142987 Cinccino ex - Mega Evolution Chaos Rising 119/086 NM (English) - Special Illustration Rare",
+        "productId": 15822596735320,
+        "variantId": 57537688502616,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
+        "productId": 15641507365208,
+        "variantId": 56849645207896,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131912 Mega Evolution Ascended Heroes Erika’s Tangela Blister 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641336971608,
+        "variantId": 56849296032088,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       }
