@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T10:27:19.545Z",
+  "generatedAt": "2026-06-21T12:30:06.652Z",
   "summary": {
     "totalUnfulfilled": 95,
     "canFulfill": 14,
@@ -2051,7 +2051,7 @@
         "productId": 15641488556376,
         "variantId": 56849615421784,
         "onHand": 2,
-        "committed": 4,
+        "committed": 5,
         "demand": 4
       },
       {
@@ -3648,6 +3648,16 @@
       }
     ],
     "demandExceedsStock": [
+      {
+        "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
+        "productId": 15641488556376,
+        "variantId": 56849615421784,
+        "onHand": 2,
+        "committed": 5,
+        "incoming": 2,
+        "available": -3,
+        "shortfall": 1
+      },
       {
         "product": "109986 Mew ex - Scarlet & Violet 151 151/165 NM (English) — 151/165, Near-Mint / Double Rare",
         "productId": 15641568772440,
