@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T15:01:09.728Z",
+  "generatedAt": "2026-06-21T16:54:58.886Z",
   "summary": {
     "totalUnfulfilled": 104,
     "canFulfill": 16,
@@ -3903,26 +3903,6 @@
         "product": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
         "productId": 14834629312856,
         "variantId": 54023479296344,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "71876 Charmander - 30th Anniversary Celebration Simplified Chinese 002/30th-P NM (Chinese)",
-        "productId": 15821409288536,
-        "variantId": 57533802873176,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "71873 Bulbasaur - 30th Anniversary Celebration Simplified Chinese 001/30th-P NM (Chinese)",
-        "productId": 15821412434264,
-        "variantId": 57533807493464,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
