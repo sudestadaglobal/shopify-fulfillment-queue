@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-21T18:26:23.943Z",
+  "generatedAt": "2026-06-21T20:18:16.322Z",
   "summary": {
-    "totalUnfulfilled": 104,
-    "canFulfill": 16,
-    "blocked": 88
+    "totalUnfulfilled": 107,
+    "canFulfill": 17,
+    "blocked": 90
   },
   "fulfillableOrders": [
     {
@@ -100,6 +100,12 @@
       "id": 12414843945304,
       "name": "#3805",
       "createdAt": "2026-06-21T14:59:45+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12415547375960,
+      "name": "#3812",
+      "createdAt": "2026-06-21T22:12:12+02:00",
       "itemCount": 1
     }
   ],
@@ -1963,6 +1969,42 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12415522931032,
+      "name": "#3810",
+      "customerName": "Szücs Kevin",
+      "createdAt": "2026-06-21T21:56:58+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "110166 Scarlet & Violet Prismatic Evolutions Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 8,
+          "needed": 18
+        },
+        {
+          "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12415545246040,
+      "name": "#3811",
+      "customerName": "Leon Berthold",
+      "createdAt": "2026-06-21T22:10:53+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2180,8 +2222,8 @@
         "productId": 15641488556376,
         "variantId": 56849615421784,
         "onHand": 2,
-        "committed": 5,
-        "demand": 5
+        "committed": 7,
+        "demand": 7
       },
       {
         "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
@@ -2556,8 +2598,8 @@
         "productId": 15641566642520,
         "variantId": 56849732436312,
         "onHand": 8,
-        "committed": 2,
-        "demand": 2
+        "committed": 20,
+        "demand": 20
       },
       {
         "product": "113612 Scarlet & Violet Prismatic Evolution Sylveon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
@@ -2788,8 +2830,8 @@
         "productId": 15790986723672,
         "variantId": 57444361929048,
         "onHand": 0,
-        "committed": 5,
-        "demand": 5
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "119411 Mega Evolution Golduck 3 Booster Pack Blister (English) — 3 booster pack / Multicolor",
@@ -3846,9 +3888,35 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "113607 Scarlet & Violet Prismatic Evolution Leafeon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
+        "productId": 15641561334104,
+        "variantId": 56849715921240,
+        "onHand": 2,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "124018 Phantasmal Flames Mega Evolution Whimsicott 1 Booster Pack Blister (English) — 1 Booster Pack / Multicolor",
+        "productId": 15641488261464,
+        "variantId": 56849615028568,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
+      {
+        "product": "110166 Scarlet & Violet Prismatic Evolutions Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566642520,
+        "variantId": 56849732436312,
+        "onHand": 8,
+        "committed": 20,
+        "incoming": 0,
+        "available": -12,
+        "shortfall": 12
+      },
       {
         "product": "109986 Mew ex - Scarlet & Violet 151 151/165 NM (English) — 151/165, Near-Mint / Double Rare",
         "productId": 15641568772440,
