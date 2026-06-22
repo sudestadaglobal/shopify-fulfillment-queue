@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-22T16:16:49.325Z",
+  "generatedAt": "2026-06-22T19:53:53.567Z",
   "summary": {
-    "totalUnfulfilled": 110,
-    "canFulfill": 17,
-    "blocked": 93
+    "totalUnfulfilled": 112,
+    "canFulfill": 18,
+    "blocked": 94
   },
   "fulfillableOrders": [
     {
@@ -106,6 +106,12 @@
       "id": 12415547375960,
       "name": "#3812",
       "createdAt": "2026-06-21T22:12:12+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12417201537368,
+      "name": "#3817",
+      "createdAt": "2026-06-22T21:37:28+02:00",
       "itemCount": 1
     }
   ],
@@ -2050,6 +2056,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12417185907032,
+      "name": "#3816",
+      "customerName": "Benedikt Ackar",
+      "createdAt": "2026-06-22T21:28:05+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "110240 Sword & Shield Silver Tempest Sleeved Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3323,8 +3344,8 @@
         "productId": 15641565233496,
         "variantId": 56849722081624,
         "onHand": 2,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "110279 Sword & Shield Chilling Reign Booster Pack (English) — 10 cards / Multicolor",
@@ -3971,6 +3992,14 @@
         "productId": 15572758135128,
         "variantId": 56576367395160,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134030 Legacy of the Master One Piece Booster Pack (English) — 12 Cards / Green",
+        "productId": 15641283559768,
+        "variantId": 56849220043096,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       }
