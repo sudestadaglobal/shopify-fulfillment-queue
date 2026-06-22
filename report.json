@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-22T11:28:49.584Z",
+  "generatedAt": "2026-06-22T16:16:49.325Z",
   "summary": {
-    "totalUnfulfilled": 107,
+    "totalUnfulfilled": 110,
     "canFulfill": 17,
-    "blocked": 90
+    "blocked": 93
   },
   "fulfillableOrders": [
     {
@@ -1600,10 +1600,10 @@
       "name": "#3785",
       "customerName": "fernando queipo de llano de aguilera",
       "createdAt": "2026-06-18T13:29:17+02:00",
-      "itemCount": 1,
+      "itemCount": 2,
       "reasons": [
         {
-          "product": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
+          "product": "Apple AirPods Pro 3",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2000,6 +2000,51 @@
       "reasons": [
         {
           "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12416460357976,
+      "name": "#3813",
+      "customerName": "ruben isidoro kayser",
+      "createdAt": "2026-06-22T14:00:46+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Gigabyte GeForce RTX 5060 Ti WINDFORCE OC 8GB",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12416594608472,
+      "name": "#3814",
+      "customerName": "marcos peña gomez",
+      "createdAt": "2026-06-22T15:22:34+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Garmin Venu 4 41 mm Smartwatch",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12416727581016,
+      "name": "#3815",
+      "customerName": "Carlos Gil Cobos",
+      "createdAt": "2026-06-22T16:41:29+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Corsair VOID MAX Wireless v2 Headset",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -3574,15 +3619,15 @@
         "productId": 15338563338584,
         "variantId": 55853592019288,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
         "productId": 14834629312856,
         "variantId": 54023479296344,
         "onHand": 0,
-        "committed": 1,
+        "committed": 0,
         "demand": 1
       },
       {
@@ -3904,19 +3949,33 @@
         "onHand": 6,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Gigabyte GeForce RTX 5060 Ti WINDFORCE OC 8GB",
+        "productId": 15824632054104,
+        "variantId": 57545613115736,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Garmin Venu 4 41 mm Smartwatch",
+        "productId": 15824806773080,
+        "variantId": 57545785999704,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Corsair VOID MAX Wireless v2 Headset",
+        "productId": 15572758135128,
+        "variantId": 56576367395160,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
-      {
-        "product": "110166 Scarlet & Violet Prismatic Evolutions Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641566642520,
-        "variantId": 56849732436312,
-        "onHand": 8,
-        "committed": 20,
-        "incoming": 0,
-        "available": -12,
-        "shortfall": 12
-      },
       {
         "product": "109986 Mew ex - Scarlet & Violet 151 151/165 NM (English) — 151/165, Near-Mint / Double Rare",
         "productId": 15641568772440,
@@ -3938,29 +3997,9 @@
         "shortfall": 1
       },
       {
-        "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
-        "productId": 15731035668824,
-        "variantId": 57191630569816,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Nintendo Switch 2 - Mario Kart World Bundle",
-        "productId": 15120406643032,
-        "variantId": 55021154959704,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
-        "productId": 14834629312856,
-        "variantId": 54023479296344,
+        "product": "Corsair VOID MAX Wireless v2 Headset",
+        "productId": 15572758135128,
+        "variantId": 56576367395160,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
