@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T05:47:17.012Z",
+  "generatedAt": "2026-06-22T11:19:23.587Z",
   "summary": {
     "totalUnfulfilled": 107,
     "canFulfill": 17,
@@ -3941,16 +3941,6 @@
         "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
         "productId": 15731035668824,
         "variantId": 57191630569816,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "LEGO Technic John Deere 1470H Wheeled Harvester Set #42218",
-        "productId": 15817758867800,
-        "variantId": 57519889056088,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
