@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-23T18:08:48.095Z",
+  "generatedAt": "2026-06-23T20:29:01.484Z",
   "summary": {
     "totalUnfulfilled": 123,
-    "canFulfill": 21,
-    "blocked": 102
+    "canFulfill": 22,
+    "blocked": 101
   },
   "fulfillableOrders": [
     {
@@ -106,6 +106,12 @@
       "id": 12415547375960,
       "name": "#3812",
       "createdAt": "2026-06-21T22:12:12+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12416460357976,
+      "name": "#3813",
+      "createdAt": "2026-06-22T14:00:46+02:00",
       "itemCount": 1
     },
     {
@@ -639,12 +645,6 @@
       "createdAt": "2026-06-08T16:55:06+02:00",
       "itemCount": 7,
       "reasons": [
-        {
-          "product": "134660 Sanji - Romance Dawn (Pre‑Errata) OP01‑013 V2 NM (English) — OP01‑013/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
         {
           "product": "131400 Tournament Pack Vol.5 Winner One Piece Booster Pack (English",
           "reason": "Insufficient stock",
@@ -1231,12 +1231,6 @@
       "itemCount": 5,
       "reasons": [
         {
-          "product": "142955 Mega Evolution Chaos Rising Booster Pack (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "144442 MEGA Abyss Eye Booster Pack 5 Cards (Japanese) - Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1789,18 +1783,6 @@
       "itemCount": 6,
       "reasons": [
         {
-          "product": "134660 Sanji - Romance Dawn (Pre‑Errata) OP01‑013 V2 NM (English) — OP01‑013/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132068 Boa Hancock - The Azure Sea's Seven OP14‑112 NM V2 (English) — OP14‑112/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        },
-        {
           "product": "131400 Tournament Pack Vol.5 Winner One Piece Booster Pack (English",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -2024,21 +2006,6 @@
       "reasons": [
         {
           "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12416460357976,
-      "name": "#3813",
-      "customerName": "ruben isidoro kayser",
-      "createdAt": "2026-06-22T14:00:46+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Gigabyte GeForce RTX 5060 Ti WINDFORCE OC 8GB",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -3087,7 +3054,7 @@
         "product": "134660 Sanji - Romance Dawn (Pre‑Errata) OP01‑013 V2 NM (English) — OP01‑013/V2, Near-Mint / Alternate Art",
         "productId": 15641280414040,
         "variantId": 56849213227352,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -3591,7 +3558,7 @@
         "product": "142955 Mega Evolution Chaos Rising Booster Pack (English) - Multicolor",
         "productId": 15770729218392,
         "variantId": 57361267196248,
-        "onHand": 0,
+        "onHand": 5,
         "committed": 1,
         "demand": 1
       },
@@ -3959,7 +3926,7 @@
         "product": "132068 Boa Hancock - The Azure Sea's Seven OP14‑112 NM V2 (English) — OP14‑112/V2, Near-Mint / Alternate Art",
         "productId": 15641331204440,
         "variantId": 56849289478488,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -4119,7 +4086,7 @@
         "product": "Gigabyte GeForce RTX 5060 Ti WINDFORCE OC 8GB",
         "productId": 15824632054104,
         "variantId": 57545613115736,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
