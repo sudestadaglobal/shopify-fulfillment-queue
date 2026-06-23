@@ -1,15 +1,111 @@
 {
-  "generatedAt": "2026-06-23T20:29:01.484Z",
+  "generatedAt": "2026-06-23T22:03:36.480Z",
   "summary": {
     "totalUnfulfilled": 123,
-    "canFulfill": 22,
-    "blocked": 101
+    "canFulfill": 41,
+    "blocked": 82
   },
   "fulfillableOrders": [
     {
-      "id": 12369867669848,
-      "name": "#3713",
-      "createdAt": "2026-06-07T19:38:15+02:00",
+      "id": 12348721135960,
+      "name": "#3629",
+      "createdAt": "2026-05-28T17:25:51+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12350995169624,
+      "name": "#3637",
+      "createdAt": "2026-05-29T19:55:09+02:00",
+      "itemCount": 13
+    },
+    {
+      "id": 12354333966680,
+      "name": "#3643",
+      "createdAt": "2026-05-31T19:04:57+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12356774822232,
+      "name": "#3664",
+      "createdAt": "2026-06-01T22:37:08+02:00",
+      "itemCount": 29
+    },
+    {
+      "id": 12359985103192,
+      "name": "#3676",
+      "createdAt": "2026-06-03T18:05:39+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12360107032920,
+      "name": "#3681",
+      "createdAt": "2026-06-03T19:18:04+02:00",
+      "itemCount": 5
+    },
+    {
+      "id": 12361599418712,
+      "name": "#3691",
+      "createdAt": "2026-06-04T17:09:20+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12361602302296,
+      "name": "#3692",
+      "createdAt": "2026-06-04T17:11:21+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12369859346776,
+      "name": "#3712",
+      "createdAt": "2026-06-07T19:34:38+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12369931731288,
+      "name": "#3716",
+      "createdAt": "2026-06-07T20:05:22+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12377212420440,
+      "name": "#3735",
+      "createdAt": "2026-06-10T15:17:07+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12377624084824,
+      "name": "#3738",
+      "createdAt": "2026-06-10T19:24:31+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12377647153496,
+      "name": "#3740",
+      "createdAt": "2026-06-10T19:38:57+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12382569103704,
+      "name": "#3750",
+      "createdAt": "2026-06-12T20:27:28+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12382596170072,
+      "name": "#3753",
+      "createdAt": "2026-06-12T20:37:00+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12382603149656,
+      "name": "#3754",
+      "createdAt": "2026-06-12T20:42:28+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12385680097624,
+      "name": "#3757",
+      "createdAt": "2026-06-14T17:24:09+02:00",
       "itemCount": 1
     },
     {
@@ -19,9 +115,27 @@
       "itemCount": 1
     },
     {
-      "id": 12385971634520,
-      "name": "#3764",
-      "createdAt": "2026-06-14T20:17:16+02:00",
+      "id": 12385963770200,
+      "name": "#3763",
+      "createdAt": "2026-06-14T20:12:49+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12385976713560,
+      "name": "#3765",
+      "createdAt": "2026-06-14T20:20:21+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12386016133464,
+      "name": "#3766",
+      "createdAt": "2026-06-14T20:43:25+02:00",
+      "itemCount": 5
+    },
+    {
+      "id": 12390903120216,
+      "name": "#3772",
+      "createdAt": "2026-06-15T21:00:17+02:00",
       "itemCount": 1
     },
     {
@@ -31,22 +145,10 @@
       "itemCount": 1
     },
     {
-      "id": 12399682290008,
-      "name": "#3782",
-      "createdAt": "2026-06-17T14:42:56+02:00",
-      "itemCount": 3
-    },
-    {
       "id": 12405645803864,
       "name": "#3784",
       "createdAt": "2026-06-18T13:15:07+02:00",
       "itemCount": 1
-    },
-    {
-      "id": 12405758132568,
-      "name": "#3786",
-      "createdAt": "2026-06-18T14:13:43+02:00",
-      "itemCount": 3
     },
     {
       "id": 12406213411160,
@@ -67,12 +169,6 @@
       "itemCount": 2
     },
     {
-      "id": 12411528839512,
-      "name": "#3792",
-      "createdAt": "2026-06-19T16:13:11+02:00",
-      "itemCount": 1
-    },
-    {
       "id": 12411559477592,
       "name": "#3794",
       "createdAt": "2026-06-19T16:28:51+02:00",
@@ -82,6 +178,12 @@
       "id": 12411797406040,
       "name": "#3796",
       "createdAt": "2026-06-19T17:16:12+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12411829027160,
+      "name": "#3798",
+      "createdAt": "2026-06-19T17:33:36+02:00",
       "itemCount": 1
     },
     {
@@ -100,6 +202,12 @@
       "id": 12414843945304,
       "name": "#3805",
       "createdAt": "2026-06-21T14:59:45+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12415545246040,
+      "name": "#3811",
+      "createdAt": "2026-06-21T22:10:53+02:00",
       "itemCount": 1
     },
     {
@@ -124,6 +232,12 @@
       "id": 12418224259416,
       "name": "#3819",
       "createdAt": "2026-06-23T14:53:04+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12418331967832,
+      "name": "#3821",
+      "createdAt": "2026-06-23T15:58:11+02:00",
       "itemCount": 1
     },
     {
@@ -197,12 +311,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -218,51 +326,6 @@
           "reason": "Insufficient stock",
           "stock": 1,
           "needed": 3
-        }
-      ]
-    },
-    {
-      "id": 12348721135960,
-      "name": "#3629",
-      "customerName": "morris van Meelen",
-      "createdAt": "2026-05-28T17:25:51+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "121033 Mega Lucario ex - Mega Evolution 160/132 NM (English) — 160/132, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12350995169624,
-      "name": "#3637",
-      "customerName": "Mike van Vianen",
-      "createdAt": "2026-05-29T19:55:09+02:00",
-      "itemCount": 13,
-      "reasons": [
-        {
-          "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12354333966680,
-      "name": "#3643",
-      "customerName": "Justin Veenhuizen",
-      "createdAt": "2026-05-31T19:04:57+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "120709 Umbreon GX - Sun & Moon 80/149 NM (English) — 80/149, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -351,42 +414,6 @@
       ]
     },
     {
-      "id": 12356774822232,
-      "name": "#3664",
-      "customerName": "filip palm",
-      "createdAt": "2026-06-01T22:37:08+02:00",
-      "itemCount": 29,
-      "reasons": [
-        {
-          "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 1,
-          "needed": 2
-        },
-        {
-          "product": "110182 Scarlet & Violet Night Wanderer Booster Pack (Japanese) — 5 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        }
-      ]
-    },
-    {
-      "id": 12359985103192,
-      "name": "#3676",
-      "customerName": "Maximilian Milota",
-      "createdAt": "2026-06-03T18:05:39+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "120803 Gengar & Mimikyu GX - Sun & Moon Team Up 053/181 NM (English) — 053/181, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12360027308376,
       "name": "#3679",
       "customerName": "Kenan Yilmaz",
@@ -398,21 +425,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12360107032920,
-      "name": "#3681",
-      "customerName": "nicolas fahrni",
-      "createdAt": "2026-06-03T19:18:04+02:00",
-      "itemCount": 5,
-      "reasons": [
-        {
-          "product": "110182 Scarlet & Violet Night Wanderer Booster Pack (Japanese) — 5 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
         }
       ]
     },
@@ -447,42 +459,6 @@
       ]
     },
     {
-      "id": 12361599418712,
-      "name": "#3691",
-      "customerName": "Šimon Vích",
-      "createdAt": "2026-06-04T17:09:20+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "125832 Mega Gengar ex - MEGA Dream ex 230/193 NM (Japanese) — 230/193, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "113539 Scarlet & Violet Prismatic Evolutions Flareon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12361602302296,
-      "name": "#3692",
-      "customerName": "Fouad B",
-      "createdAt": "2026-06-04T17:11:21+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "113612 Scarlet & Violet Prismatic Evolution Sylveon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12364782993752,
       "name": "#3698",
       "customerName": "Christian Salmen",
@@ -507,7 +483,7 @@
         {
           "product": "118668 Scarlet & Violet White Flare Gothitelle Tech Sticker Collection (English) — 3 booster pack / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 2,
           "needed": 3
         }
       ]
@@ -562,24 +538,6 @@
           "needed": 1
         },
         {
-          "product": "144756 Piplup - 30th Anniversary Celebration Simplified Chinese 012/30th-P NM (Chinese) - Promo",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "110234 Chinese 2024 Lunar New Year Red Promo Pack (Chinese) — 9 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131484 Special DON!! Card Pack DP‑05 One Piece Booster Pack (English) — 1 card / Black / White",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "131474 Winner Pack 2025 Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -588,14 +546,14 @@
       ]
     },
     {
-      "id": 12369859346776,
-      "name": "#3712",
-      "customerName": "Mario Heine",
-      "createdAt": "2026-06-07T19:34:38+02:00",
+      "id": 12369867669848,
+      "name": "#3713",
+      "customerName": "Zoel von Hessberg",
+      "createdAt": "2026-06-07T19:38:15+02:00",
       "itemCount": 1,
       "reasons": [
         {
-          "product": "119401 Scarlet & Violet Black Bolt Zekrom 9-Pocket Album (English) — 9 Pocket Album / Black / Blue",
+          "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -614,27 +572,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12369931731288,
-      "name": "#3716",
-      "customerName": "Kevin Jansen",
-      "createdAt": "2026-06-07T20:05:22+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "119397 Scarlet & Violet Black Bolt Zekrom 65-Sleeves — 66 x 91mm / Black / Blue",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -645,18 +582,6 @@
       "createdAt": "2026-06-08T16:55:06+02:00",
       "itemCount": 7,
       "reasons": [
-        {
-          "product": "131400 Tournament Pack Vol.5 Winner One Piece Booster Pack (English",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131430 Tournament Pack Vol.2 Winner One Piece Booster Pack (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
         {
           "product": "131608 The Best Vol. 2 One Piece Premium Booster Box 20 Premium Booster Packs (English) — 20 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
@@ -733,18 +658,6 @@
       "itemCount": 17,
       "reasons": [
         {
-          "product": "130760 Nami - The Best Vol.2 PRB02‑012 NM V2 (English) — PRB02‑012/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132130 Ms. All Sunday - The Azure Sea's Seven OP14‑084 NM V2 (English) — OP14‑084/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "131474 Winner Pack 2025 Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -760,10 +673,10 @@
       "itemCount": 2,
       "reasons": [
         {
-          "product": "119397 Scarlet & Violet Black Bolt Zekrom 65-Sleeves — 66 x 91mm / Black / Blue",
+          "product": "124034 Phantasmal Flames Mega Charizard X ex 65-Sleeves (English) — Standard (66x91mm) / Blue",
           "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
+          "stock": 1,
+          "needed": 2
         }
       ]
     },
@@ -804,21 +717,6 @@
       ]
     },
     {
-      "id": 12377212420440,
-      "name": "#3735",
-      "customerName": "Niclas Jørgensen",
-      "createdAt": "2026-06-10T15:17:07+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "113493 Vaporeon ex - Scarlet & Violet Prismatic Evolution 149/131 NM (English) — 149/131, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12377304727896,
       "name": "#3737",
       "customerName": "Francisco Sarabia sanchez",
@@ -832,31 +730,7 @@
           "needed": 1
         },
         {
-          "product": "120699 Rotom Dex - Sun & Moon 159/149 NM (English) — 159/149, Near-Mint / Secret Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131672 Yveltal‑ex - Nihil Zero 098/080 NM (Japanese) — 098/080, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "144740 Chimchar - 30th Anniversary Celebration Simplified Chinese 011/30th-P NM (Chinese",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132668 Larry’s Staraptor - Mega Evolution Ascended Heroes 249/217 NM (English) — 249/217, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "141687 Ampharos - MEGA Ninja Spinner 088/083 NM (Japanese)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -874,31 +748,7 @@
           "needed": 1
         },
         {
-          "product": "141665 Mega Floette ex - MEGA Ninja Spinner 099/083 NM (Japanese) - Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "109986 Mew ex - Scarlet & Violet 151 151/165 NM (English) — 151/165, Near-Mint / Double Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "144614 Manectric - MEGA Abyss Eye 086/081 NM (Japanese) - Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "144628 Silvally - MEGA Abyss Eye 093/081 NM (Japanese) - Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "113578 Walking Wake ex - Scarlet & Violet Prismatic Evolution 178/131 NM (English) — 178/131, Near-Mint / Secret Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -964,12 +814,6 @@
           "needed": 1
         },
         {
-          "product": "144612 Primarina - MEGA Abyss Eye 085/081 NM (Japanese) - Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "113574 Teal Mask Ogerpon ex - Scarlet & Violet Prismatic Evolution 177/131 NM (English) — 177/131, Near-Mint / Secret Rare",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1002,21 +846,6 @@
       ]
     },
     {
-      "id": 12377624084824,
-      "name": "#3738",
-      "customerName": "sascha schrader",
-      "createdAt": "2026-06-10T19:24:31+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "120803 Gengar & Mimikyu GX - Sun & Moon Team Up 053/181 NM (English) — 053/181, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12377642729816,
       "name": "#3739",
       "customerName": "M.N. Ton",
@@ -1025,21 +854,6 @@
       "reasons": [
         {
           "product": "131606 500 Years into the Future One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12377647153496,
-      "name": "#3740",
-      "customerName": "Casper Männys",
-      "createdAt": "2026-06-10T19:38:57+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Into the Inklands Gift Set",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1128,21 +942,6 @@
       ]
     },
     {
-      "id": 12382569103704,
-      "name": "#3750",
-      "customerName": "Nick Pisterfeld",
-      "createdAt": "2026-06-12T20:27:28+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "119051 Zekrom ex - Scarlet & Violet Black Bolt 166/086 NM (English) — 166/086, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12382580670808,
       "name": "#3751",
       "customerName": "Bilal Gültan",
@@ -1169,36 +968,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12382596170072,
-      "name": "#3753",
-      "customerName": "Matthias Kurath",
-      "createdAt": "2026-06-12T20:37:00+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "63039 Mega Gengar ex - Mega Evolution Ascended Heroes 269/217 NM (English) — Size 269/217 / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12382603149656,
-      "name": "#3754",
-      "customerName": "Francisco Sarabia sanchez",
-      "createdAt": "2026-06-12T20:42:28+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 7,
-          "needed": 10
         }
       ]
     },
@@ -1245,21 +1014,6 @@
       ]
     },
     {
-      "id": 12385680097624,
-      "name": "#3757",
-      "customerName": "frederik raake",
-      "createdAt": "2026-06-14T17:24:09+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "118668 Scarlet & Violet White Flare Gothitelle Tech Sticker Collection (English) — 3 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12385815069016,
       "name": "#3759",
       "customerName": "Matthias Kurath",
@@ -1288,18 +1042,6 @@
       "itemCount": 4,
       "reasons": [
         {
-          "product": "131400 Tournament Pack Vol.5 Winner One Piece Booster Pack (English",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131430 Tournament Pack Vol.2 Winner One Piece Booster Pack (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "132240 Boa Hancock - The Azure Sea's Seven OP14‑041 V2 NM (English) — OP14‑041/V2, Near-Mint / Alternate Art",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1323,14 +1065,8 @@
         {
           "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 1,
           "needed": 2
-        },
-        {
-          "product": "71797 Misty’s Spirit - MEGA Abyss Eye 108/081 NM (Japanese)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         },
         {
           "product": "71877 Squirtle - 30th Anniversary Celebration Simplified Chinese 003/30th-P NM (Chinese)",
@@ -1343,48 +1079,24 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12385963770200,
-      "name": "#3763",
-      "customerName": "Jonas Jäkel",
-      "createdAt": "2026-06-14T20:12:49+02:00",
-      "itemCount": 1,
-      "reasons": [
+        },
         {
-          "product": "71815 Gwynn - MEGA Abyss Eye 117/081 NM (Japanese)\tSpecial Illustration",
-          "reason": "Insufficient stock",
-          "stock": 0,
+          "product": "110188 Scarlet & Violet Crimson Haze Booster Pack (Japanese) — 5 cards / Multicolor",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 32,
           "needed": 1
         }
       ]
     },
     {
-      "id": 12385976713560,
-      "name": "#3765",
-      "customerName": "Jakob kapocs",
-      "createdAt": "2026-06-14T20:20:21+02:00",
+      "id": 12385971634520,
+      "name": "#3764",
+      "customerName": "Francesco Mazzotta F.M.",
+      "createdAt": "2026-06-14T20:17:16+02:00",
       "itemCount": 1,
       "reasons": [
         {
-          "product": "134224 Lotus Petal - Secret Lair Drop Series Foil #7034 NM (English) — Secret Lair Drop Series #7034, Near-Mint / Mythic",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12386016133464,
-      "name": "#3766",
-      "customerName": "Fredrik Aschjem",
-      "createdAt": "2026-06-14T20:43:25+02:00",
-      "itemCount": 5,
-      "reasons": [
-        {
-          "product": "118668 Scarlet & Violet White Flare Gothitelle Tech Sticker Collection (English) — 3 booster pack / Multicolor",
+          "product": "109974 Pikachu - Scarlet & Violet Black Star Promos 027/225 NM (English) — 027/225, Near-Mint / Promo",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1401,7 +1113,7 @@
         {
           "product": "134224 Lotus Petal - Secret Lair Drop Series Foil #7034 NM (English) — Secret Lair Drop Series #7034, Near-Mint / Mythic",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 1,
           "needed": 3
         }
       ]
@@ -1445,21 +1157,6 @@
       "reasons": [
         {
           "product": "LEGO Technic John Deere 1470H Wheeled Harvester Set #42218",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12390903120216,
-      "name": "#3772",
-      "customerName": "fernando queipo de llano de aguilera",
-      "createdAt": "2026-06-15T21:00:17+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "69301 Mega Greninja ex - MEGA Ninja Spinner 114/083 NM (Japanese)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1593,8 +1290,23 @@
         {
           "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 1,
+          "stock": 0,
           "needed": 10
+        }
+      ]
+    },
+    {
+      "id": 12399682290008,
+      "name": "#3782",
+      "customerName": "Fredrik Aschjem",
+      "createdAt": "2026-06-17T14:42:56+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
         }
       ]
     },
@@ -1624,6 +1336,21 @@
           "product": "Apple AirPods Pro 3",
           "reason": "Insufficient stock",
           "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12405758132568,
+      "name": "#3786",
+      "customerName": "Dan Doroudiani",
+      "createdAt": "2026-06-18T14:13:43+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "110172 Scarlet & Violet Paradise Dragona Booster Pack (Japanese) — 5 cards / Multicolor",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 22,
           "needed": 1
         }
       ]
@@ -1659,7 +1386,7 @@
         {
           "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 1,
           "needed": 2
         },
         {
@@ -1755,6 +1482,21 @@
       ]
     },
     {
+      "id": 12411528839512,
+      "name": "#3792",
+      "customerName": "Francisco Sarabia sanchez",
+      "createdAt": "2026-06-19T16:13:11+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "110188 Scarlet & Violet Crimson Haze Booster Pack (Japanese) — 5 cards / Multicolor",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 32,
+          "needed": 6
+        }
+      ]
+    },
+    {
       "id": 12411544961368,
       "name": "#3793",
       "customerName": "Mert Asik",
@@ -1783,19 +1525,7 @@
       "itemCount": 6,
       "reasons": [
         {
-          "product": "131400 Tournament Pack Vol.5 Winner One Piece Booster Pack (English",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "131456 Winner Pack 2024 Oct‑Dec One Piece Booster Pack (English) — 1 card / black / white",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1823,21 +1553,6 @@
         },
         {
           "product": "142987 Cinccino ex - Mega Evolution Chaos Rising 119/086 NM (English) - Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12411829027160,
-      "name": "#3798",
-      "customerName": "Adrià Cáceres",
-      "createdAt": "2026-06-19T17:33:36+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1986,7 +1701,7 @@
         {
           "product": "110166 Scarlet & Violet Prismatic Evolutions Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 8,
+          "stock": 6,
           "needed": 18
         },
         {
@@ -1994,21 +1709,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
-        }
-      ]
-    },
-    {
-      "id": 12415545246040,
-      "name": "#3811",
-      "customerName": "Leon Berthold",
-      "createdAt": "2026-06-21T22:10:53+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -2081,21 +1781,6 @@
       "reasons": [
         {
           "product": "Samsung Galaxy S26 Plus Sky Blue 256GB",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12418331967832,
-      "name": "#3821",
-      "customerName": "Elie richart luna",
-      "createdAt": "2026-06-23T15:58:11+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "71797 Misty’s Spirit - MEGA Abyss Eye 108/081 NM (Japanese)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2342,7 +2027,7 @@
         "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
         "productId": 15770791018840,
         "variantId": 57361382703448,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2358,7 +2043,7 @@
         "product": "121033 Mega Lucario ex - Mega Evolution 160/132 NM (English) — 160/132, Near-Mint / Ultra Rare",
         "productId": 15641496191320,
         "variantId": 56849625612632,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 3,
         "demand": 3
       },
@@ -2382,7 +2067,7 @@
         "product": "124012 Phantasmal Flames Mega Evolution Booster Bundle 6 Booster Pack (English) — 6 Booster Packs / Multicolor",
         "productId": 15641488425304,
         "variantId": 56849615290712,
-        "onHand": 3,
+        "onHand": 5,
         "committed": 1,
         "demand": 1
       },
@@ -2398,7 +2083,7 @@
         "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
         "productId": 15641488556376,
         "variantId": 56849615421784,
-        "onHand": 2,
+        "onHand": 3,
         "committed": 7,
         "demand": 7
       },
@@ -2406,7 +2091,7 @@
         "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
         "productId": 15641268355416,
         "variantId": 56849193173336,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2446,7 +2131,7 @@
         "product": "120709 Umbreon GX - Sun & Moon 80/149 NM (English) — 80/149, Near-Mint / Ultra Rare",
         "productId": 15641502482776,
         "variantId": 56849637114200,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2478,7 +2163,7 @@
         "product": "118840 Herdier - Scarlet & Violet White Flare 155/086 NM (English) — 155/086, Near-Mint / Illustration Rare",
         "productId": 15641519391064,
         "variantId": 56849664901464,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -2651,14 +2336,6 @@
         "demand": 2
       },
       {
-        "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
-        "productId": 15641566216536,
-        "variantId": 56849731518808,
-        "onHand": 7,
-        "committed": 12,
-        "demand": 12
-      },
-      {
         "product": "110204 Scarlet & Violet Future Flash Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641565888856,
         "variantId": 56849731158360,
@@ -2694,7 +2371,7 @@
         "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566052696,
         "variantId": 56849731354968,
-        "onHand": 1,
+        "onHand": 6,
         "committed": 5,
         "demand": 5
       },
@@ -2710,7 +2387,7 @@
         "product": "110182 Scarlet & Violet Night Wanderer Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566347608,
         "variantId": 56849732141400,
-        "onHand": 0,
+        "onHand": 5,
         "committed": 4,
         "demand": 4
       },
@@ -2734,7 +2411,7 @@
         "product": "120803 Gengar & Mimikyu GX - Sun & Moon Team Up 053/181 NM (English) — 053/181, Near-Mint / Ultra Rare",
         "productId": 15641500811608,
         "variantId": 56849634918744,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -2758,7 +2435,7 @@
         "product": "125832 Mega Gengar ex - MEGA Dream ex 230/193 NM (Japanese) — 230/193, Near-Mint / Ultra Rare",
         "productId": 15641388941656,
         "variantId": 56849460101464,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2766,7 +2443,7 @@
         "product": "113539 Scarlet & Violet Prismatic Evolutions Flareon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
         "productId": 15641562480984,
         "variantId": 56849717854552,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2782,7 +2459,7 @@
         "product": "113612 Scarlet & Violet Prismatic Evolution Sylveon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
         "productId": 15641561203032,
         "variantId": 56849715790168,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2798,7 +2475,7 @@
         "product": "118668 Scarlet & Violet White Flare Gothitelle Tech Sticker Collection (English) — 3 booster pack / Multicolor",
         "productId": 15641522897240,
         "variantId": 56849669390680,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 5,
         "demand": 5
       },
@@ -2846,7 +2523,7 @@
         "product": "144756 Piplup - 30th Anniversary Celebration Simplified Chinese 012/30th-P NM (Chinese) - Promo",
         "productId": 15796838859096,
         "variantId": 57468523839832,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2862,7 +2539,7 @@
         "product": "110234 Chinese 2024 Lunar New Year Red Promo Pack (Chinese) — 9 cards / Multicolor",
         "productId": 15641565364568,
         "variantId": 56849722212696,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2902,7 +2579,7 @@
         "product": "131484 Special DON!! Card Pack DP‑05 One Piece Booster Pack (English) — 1 card / Black / White",
         "productId": 15641344606552,
         "variantId": 56849304650072,
-        "onHand": 0,
+        "onHand": 3,
         "committed": 1,
         "demand": 1
       },
@@ -2990,7 +2667,7 @@
         "product": "119401 Scarlet & Violet Black Bolt Zekrom 9-Pocket Album (English) — 9 Pocket Album / Black / Blue",
         "productId": 15641508249944,
         "variantId": 56849646387544,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -3006,7 +2683,7 @@
         "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
         "productId": 15790986723672,
         "variantId": 57444361929048,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 6,
         "demand": 6
       },
@@ -3038,7 +2715,7 @@
         "product": "119397 Scarlet & Violet Black Bolt Zekrom 65-Sleeves — 66 x 91mm / Black / Blue",
         "productId": 15641508348248,
         "variantId": 56849646485848,
-        "onHand": 0,
+        "onHand": 4,
         "committed": 2,
         "demand": 2
       },
@@ -3054,7 +2731,7 @@
         "product": "134660 Sanji - Romance Dawn (Pre‑Errata) OP01‑013 V2 NM (English) — OP01‑013/V2, Near-Mint / Alternate Art",
         "productId": 15641280414040,
         "variantId": 56849213227352,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -3062,7 +2739,7 @@
         "product": "131400 Tournament Pack Vol.5 Winner One Piece Booster Pack (English",
         "productId": 15775998247256,
         "variantId": 57373542711640,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 3,
         "demand": 3
       },
@@ -3070,7 +2747,7 @@
         "product": "131430 Tournament Pack Vol.2 Winner One Piece Booster Pack (English)",
         "productId": 15798656500056,
         "variantId": 57474322104664,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -3134,7 +2811,7 @@
         "product": "130760 Nami - The Best Vol.2 PRB02‑012 NM V2 (English) — PRB02‑012/V2, Near-Mint / Alternate Art",
         "productId": 15641363087704,
         "variantId": 56849421500760,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3142,7 +2819,7 @@
         "product": "132130 Ms. All Sunday - The Azure Sea's Seven OP14‑084 NM V2 (English) — OP14‑084/V2, Near-Mint / Alternate Art",
         "productId": 15641328877912,
         "variantId": 56849283547480,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3190,7 +2867,7 @@
         "product": "113493 Vaporeon ex - Scarlet & Violet Prismatic Evolution 149/131 NM (English) — 149/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563464024,
         "variantId": 56849719034200,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3206,7 +2883,7 @@
         "product": "120699 Rotom Dex - Sun & Moon 159/149 NM (English) — 159/149, Near-Mint / Secret Rare",
         "productId": 15641502613848,
         "variantId": 56849637245272,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3214,7 +2891,7 @@
         "product": "131672 Yveltal‑ex - Nihil Zero 098/080 NM (Japanese) — 098/080, Near-Mint / Ultra Rare",
         "productId": 15641338904920,
         "variantId": 56849298129240,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3230,7 +2907,7 @@
         "product": "132668 Larry’s Staraptor - Mega Evolution Ascended Heroes 249/217 NM (English) — 249/217, Near-Mint / Illustration Rare",
         "productId": 15641319866712,
         "variantId": 56849268932952,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3238,7 +2915,7 @@
         "product": "141687 Ampharos - MEGA Ninja Spinner 088/083 NM (Japanese)",
         "productId": 15803135230296,
         "variantId": 57487835070808,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3262,7 +2939,7 @@
         "product": "141665 Mega Floette ex - MEGA Ninja Spinner 099/083 NM (Japanese) - Ultra Rare",
         "productId": 15803138212184,
         "variantId": 57487844999512,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3278,7 +2955,7 @@
         "product": "144614 Manectric - MEGA Abyss Eye 086/081 NM (Japanese) - Illustration Rare",
         "productId": 15803138769240,
         "variantId": 57487847457112,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3286,7 +2963,7 @@
         "product": "144628 Silvally - MEGA Abyss Eye 093/081 NM (Japanese) - Illustration Rare",
         "productId": 15803139621208,
         "variantId": 57487851848024,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3294,7 +2971,7 @@
         "product": "113578 Walking Wake ex - Scarlet & Violet Prismatic Evolution 178/131 NM (English) — 178/131, Near-Mint / Secret Rare",
         "productId": 15641561825624,
         "variantId": 56849716478296,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3366,7 +3043,7 @@
         "product": "144612 Primarina - MEGA Abyss Eye 085/081 NM (Japanese) - Illustration Rare",
         "productId": 15803140637016,
         "variantId": 57487853453656,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3422,7 +3099,7 @@
         "product": "Into the Inklands Gift Set",
         "productId": 15509499117912,
         "variantId": 56381552230744,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3486,7 +3163,7 @@
         "product": "119051 Zekrom ex - Scarlet & Violet Black Bolt 166/086 NM (English) — 166/086, Near-Mint / Special Illustration Rare",
         "productId": 15641515688280,
         "variantId": 56849658511704,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3510,7 +3187,7 @@
         "product": "63039 Mega Gengar ex - Mega Evolution Ascended Heroes 269/217 NM (English) — Size 269/217 / Ultra Rare",
         "productId": 15653351129432,
         "variantId": 56898072969560,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3606,7 +3283,7 @@
         "product": "71797 Misty’s Spirit - MEGA Abyss Eye 108/081 NM (Japanese)",
         "productId": 15816484454744,
         "variantId": 57515987272024,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -3630,7 +3307,7 @@
         "product": "71815 Gwynn - MEGA Abyss Eye 117/081 NM (Japanese)\tSpecial Illustration",
         "productId": 15816512176472,
         "variantId": 57516130828632,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -3638,7 +3315,7 @@
         "product": "134224 Lotus Petal - Secret Lair Drop Series Foil #7034 NM (English) — Secret Lair Drop Series #7034, Near-Mint / Mythic",
         "productId": 15641282969944,
         "variantId": 56849219420504,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 4,
         "demand": 4
       },
@@ -3678,7 +3355,7 @@
         "product": "69301 Mega Greninja ex - MEGA Ninja Spinner 114/083 NM (Japanese)",
         "productId": 15817796125016,
         "variantId": 57520025076056,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3950,7 +3627,7 @@
         "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
         "productId": 15641340477784,
         "variantId": 56849299997016,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3982,7 +3659,7 @@
         "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507365208,
         "variantId": 56849645207896,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
