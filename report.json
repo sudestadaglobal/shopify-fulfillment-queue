@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-23T10:10:59.348Z",
+  "generatedAt": "2026-06-23T12:53:27.601Z",
   "summary": {
-    "totalUnfulfilled": 112,
+    "totalUnfulfilled": 113,
     "canFulfill": 18,
-    "blocked": 94
+    "blocked": 95
   },
   "fulfillableOrders": [
     {
@@ -2071,6 +2071,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12418213151064,
+      "name": "#3818",
+      "customerName": "fernando queipo de llano de aguilera",
+      "createdAt": "2026-06-23T14:45:40+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3872,8 +3887,8 @@
         "productId": 15641507365208,
         "variantId": 56849645207896,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131912 Mega Evolution Ascended Heroes Erika’s Tangela Blister 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
