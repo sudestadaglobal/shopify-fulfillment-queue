@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-23T12:53:27.601Z",
+  "generatedAt": "2026-06-23T15:59:44.337Z",
   "summary": {
-    "totalUnfulfilled": 113,
-    "canFulfill": 18,
-    "blocked": 95
+    "totalUnfulfilled": 122,
+    "canFulfill": 20,
+    "blocked": 102
   },
   "fulfillableOrders": [
     {
@@ -112,6 +112,18 @@
       "id": 12417201537368,
       "name": "#3817",
       "createdAt": "2026-06-22T21:37:28+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12418224259416,
+      "name": "#3819",
+      "createdAt": "2026-06-23T14:53:04+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12418350481752,
+      "name": "#3824",
+      "createdAt": "2026-06-23T16:09:12+02:00",
       "itemCount": 1
     }
   ],
@@ -2086,6 +2098,117 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12418326167896,
+      "name": "#3820",
+      "customerName": "marcos peña gomez",
+      "createdAt": "2026-06-23T15:54:33+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Samsung Galaxy S26 Plus Sky Blue 256GB",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12418331967832,
+      "name": "#3821",
+      "customerName": "Elie richart luna",
+      "createdAt": "2026-06-23T15:58:11+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "71797 Misty’s Spirit - MEGA Abyss Eye 108/081 NM (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12418336457048,
+      "name": "#3822",
+      "customerName": "Christian Fiedler",
+      "createdAt": "2026-06-23T16:01:03+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "35325 One Piece TCG: Monkey.D.Luffy Starter Deck",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12418345173336,
+      "name": "#3823",
+      "customerName": "Fredrik Jansson",
+      "createdAt": "2026-06-23T16:05:55+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "121033 Mega Lucario ex - Mega Evolution 160/132 NM (English) — 160/132, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "116667 Shaymin - Scarlet & Violet Destined Rivals 185/182 NM (English) — 185/182, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12418369978712,
+      "name": "#3825",
+      "customerName": "Elvis Leimanis",
+      "createdAt": "2026-06-23T16:21:38+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "140422 Clefairy - Mega Evolution Perfect Order 094/088 NM (English) - Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12418381414744,
+      "name": "#3826",
+      "customerName": "Tiago Silva",
+      "createdAt": "2026-06-23T16:28:25+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Logitech G G321 LIGHTSPEED Wireless Gaming Headset",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12418632352088,
+      "name": "#3827",
+      "customerName": "Tomas Vojnarovič",
+      "createdAt": "2026-06-23T16:51:24+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "124038 Phantasmal Flames Mega Evolution Mega Charizard X Divider (English) — 63.5 mm x 88.9 mm / Blue",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2263,8 +2386,8 @@
         "productId": 15641496191320,
         "variantId": 56849625612632,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "142952 Mega Evolution Chaos Rising Booster Bundle 6 Booster Packs (English)",
@@ -3511,8 +3634,8 @@
         "productId": 15816484454744,
         "variantId": 57515987272024,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "71877 Squirtle - 30th Anniversary Celebration Simplified Chinese 003/30th-P NM (Chinese)",
@@ -3847,8 +3970,8 @@
         "productId": 15732278362456,
         "variantId": 57196095471960,
         "onHand": 3,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
@@ -4017,6 +4140,62 @@
         "onHand": 1,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131908 Mega Evolution Ascended Heroes Charmander Tech Sticker Collection 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+        "productId": 15641337135448,
+        "variantId": 56849296195928,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Samsung Galaxy S26 Plus Sky Blue 256GB",
+        "productId": 15828207108440,
+        "variantId": 57554230509912,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "35325 One Piece TCG: Monkey.D.Luffy Starter Deck",
+        "productId": 15828214382936,
+        "variantId": 57554286608728,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116667 Shaymin - Scarlet & Violet Destined Rivals 185/182 NM (English) — 185/182, Near-Mint / Illustration Rare",
+        "productId": 15641538527576,
+        "variantId": 56849691803992,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "140422 Clefairy - Mega Evolution Perfect Order 094/088 NM (English) - Illustration Rare",
+        "productId": 15745643970904,
+        "variantId": 57248154190168,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Logitech G G321 LIGHTSPEED Wireless Gaming Headset",
+        "productId": 15561098461528,
+        "variantId": 56535084859736,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "124038 Phantasmal Flames Mega Evolution Mega Charizard X Divider (English) — 63.5 mm x 88.9 mm / Blue",
+        "productId": 15641487442264,
+        "variantId": 56849614176600,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -4044,6 +4223,36 @@
         "product": "Corsair VOID MAX Wireless v2 Headset",
         "productId": 15572758135128,
         "variantId": 56576367395160,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Samsung Galaxy S26 Plus Sky Blue 256GB",
+        "productId": 15828207108440,
+        "variantId": 57554230509912,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Logitech G G321 LIGHTSPEED Wireless Gaming Headset",
+        "productId": 15561098461528,
+        "variantId": 56535084859736,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "124038 Phantasmal Flames Mega Evolution Mega Charizard X Divider (English) — 63.5 mm x 88.9 mm / Blue",
+        "productId": 15641487442264,
+        "variantId": 56849614176600,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
