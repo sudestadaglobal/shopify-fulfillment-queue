@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-23T23:21:22.101Z",
+  "generatedAt": "2026-06-24T01:31:44.962Z",
   "summary": {
-    "totalUnfulfilled": 123,
-    "canFulfill": 51,
+    "totalUnfulfilled": 120,
+    "canFulfill": 48,
     "blocked": 72
   },
   "fulfillableOrders": [
@@ -169,12 +169,6 @@
       "itemCount": 1
     },
     {
-      "id": 12385806549336,
-      "name": "#3758",
-      "createdAt": "2026-06-14T18:37:32+02:00",
-      "itemCount": 1
-    },
-    {
       "id": 12385963770200,
       "name": "#3763",
       "createdAt": "2026-06-14T20:12:49+02:00",
@@ -235,12 +229,6 @@
       "itemCount": 2
     },
     {
-      "id": 12411559477592,
-      "name": "#3794",
-      "createdAt": "2026-06-19T16:28:51+02:00",
-      "itemCount": 1
-    },
-    {
       "id": 12411797406040,
       "name": "#3796",
       "createdAt": "2026-06-19T17:16:12+02:00",
@@ -280,12 +268,6 @@
       "id": 12416460357976,
       "name": "#3813",
       "createdAt": "2026-06-22T14:00:46+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12417201537368,
-      "name": "#3817",
-      "createdAt": "2026-06-22T21:37:28+02:00",
       "itemCount": 1
     },
     {
@@ -2363,9 +2345,9 @@
         "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641344541016,
         "variantId": 56849304584536,
-        "onHand": 3,
-        "committed": 3,
-        "demand": 3
+        "onHand": 2,
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "142543 Adventure on Kami’s Island Booster Pack (English) - Yellow",
@@ -2443,9 +2425,9 @@
         "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641343099224,
         "variantId": 56849302946136,
-        "onHand": 4,
-        "committed": 5,
-        "demand": 5
+        "onHand": 3,
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "131474 Winner Pack 2025 Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -3588,14 +3570,6 @@
         "productId": 15572758135128,
         "variantId": 56576367395160,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "134030 Legacy of the Master One Piece Booster Pack (English) — 12 Cards / Green",
-        "productId": 15641283559768,
-        "variantId": 56849220043096,
-        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
