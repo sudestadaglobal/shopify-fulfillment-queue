@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-24T11:53:47.495Z",
+  "generatedAt": "2026-06-24T14:47:49.919Z",
   "summary": {
-    "totalUnfulfilled": 119,
-    "canFulfill": 49,
-    "blocked": 70
+    "totalUnfulfilled": 124,
+    "canFulfill": 50,
+    "blocked": 74
   },
   "fulfillableOrders": [
     {
@@ -299,6 +299,12 @@
       "name": "#3828",
       "createdAt": "2026-06-23T18:06:25+02:00",
       "itemCount": 3
+    },
+    {
+      "id": 12420948099416,
+      "name": "#3831",
+      "createdAt": "2026-06-24T15:39:45+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1633,6 +1639,72 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12420903043416,
+      "name": "#3829",
+      "customerName": "Danay Smit",
+      "createdAt": "2026-06-24T15:14:47+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12420941873496,
+      "name": "#3830",
+      "customerName": "Hasan Kaya",
+      "createdAt": "2026-06-24T15:36:28+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "125900 Pikachu ex - MEGA Dream ex 234/193 NM (Japanese) — 234/193, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12420964057432,
+      "name": "#3832",
+      "customerName": "Adrià Cáceres",
+      "createdAt": "2026-06-24T15:48:46+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132584 Canari - Mega Evolution Ascended Heroes 291/217 NM (English) — 291/217, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12420974182744,
+      "name": "#3833",
+      "customerName": "Adrian Arnesen",
+      "createdAt": "2026-06-24T15:54:16+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "110207 Scarlet & Violet 151 Booster NM (English) — Scarlet & Violet 151 (10 cards) / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 3,
+          "needed": 10
+        },
+        {
+          "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 3
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2082,8 +2154,8 @@
         "productId": 15641565823320,
         "variantId": 56849731092824,
         "onHand": 4,
-        "committed": 1,
-        "demand": 1
+        "committed": 11,
+        "demand": 11
       },
       {
         "product": "110174 Scalet & Violet Trick or Trade 2024 Booster Pack (English) — 3 cards / Multicolor",
@@ -3588,6 +3660,54 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
+        "productId": 15641506251096,
+        "variantId": 56849643602264,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "125900 Pikachu ex - MEGA Dream ex 234/193 NM (Japanese) — 234/193, Near-Mint / Special Illustration Rare",
+        "productId": 15641387860312,
+        "variantId": 56849459020120,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 1
+      },
+      {
+        "product": "109984 Charmander - Scarlet & Violet Black Star Promos 044/225 (NM) — 044/225, Near-Mint / Promo",
+        "productId": 15641568837976,
+        "variantId": 56849736204632,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132584 Canari - Mega Evolution Ascended Heroes 291/217 NM (English) — 291/217, Near-Mint / Special Illustration Rare",
+        "productId": 15641320816984,
+        "variantId": 56849269915992,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119903 Scarlet & Violet 151 9-Pocket Album (English) — 9 Pocket Album / Multicolor",
+        "productId": 15641503793496,
+        "variantId": 56849639506264,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641503891800,
+        "variantId": 56849639604568,
+        "onHand": 1,
+        "committed": 3,
+        "demand": 3
       }
     ],
     "demandExceedsStock": [
@@ -3599,6 +3719,26 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
+        "productId": 15641506251096,
+        "variantId": 56849643602264,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "125900 Pikachu ex - MEGA Dream ex 234/193 NM (Japanese) — 234/193, Near-Mint / Special Illustration Rare",
+        "productId": 15641387860312,
+        "variantId": 56849459020120,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       }
     ]
