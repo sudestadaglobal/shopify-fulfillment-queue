@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-25T15:29:13.931Z",
+  "generatedAt": "2026-06-25T17:35:33.950Z",
   "summary": {
-    "totalUnfulfilled": 76,
-    "canFulfill": 14,
-    "blocked": 62
+    "totalUnfulfilled": 75,
+    "canFulfill": 17,
+    "blocked": 58
   },
   "fulfillableOrders": [
     {
@@ -25,16 +25,16 @@
       "itemCount": 7
     },
     {
+      "id": 12372269629784,
+      "name": "#3720",
+      "createdAt": "2026-06-08T18:00:44+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12375980900696,
       "name": "#3729",
       "createdAt": "2026-06-09T21:20:05+02:00",
       "itemCount": 17
-    },
-    {
-      "id": 12376044798296,
-      "name": "#3731",
-      "createdAt": "2026-06-09T21:55:09+02:00",
-      "itemCount": 2
     },
     {
       "id": 12377642729816,
@@ -49,15 +49,15 @@
       "itemCount": 1
     },
     {
-      "id": 12382417191256,
-      "name": "#3747",
-      "createdAt": "2026-06-12T19:40:00+02:00",
-      "itemCount": 2
-    },
-    {
       "id": 12382556848472,
       "name": "#3749",
       "createdAt": "2026-06-12T20:19:03+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12388275650904,
+      "name": "#3769",
+      "createdAt": "2026-06-15T16:18:53+02:00",
       "itemCount": 1
     },
     {
@@ -67,9 +67,27 @@
       "itemCount": 1
     },
     {
+      "id": 12399639003480,
+      "name": "#3780",
+      "createdAt": "2026-06-17T14:17:55+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12405671985496,
+      "name": "#3785",
+      "createdAt": "2026-06-18T13:29:17+02:00",
+      "itemCount": 2
+    },
+    {
       "id": 12411528839512,
       "name": "#3792",
       "createdAt": "2026-06-19T16:13:11+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12416594608472,
+      "name": "#3814",
+      "createdAt": "2026-06-22T15:22:34+02:00",
       "itemCount": 1
     },
     {
@@ -234,21 +252,6 @@
       ]
     },
     {
-      "id": 12372269629784,
-      "name": "#3720",
-      "customerName": "Valtteri Laine",
-      "createdAt": "2026-06-08T18:00:44+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "113547 Scarlet & Violet Prismatic Evolutions Sylveon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12372420559192,
       "name": "#3724",
       "customerName": "Lars van Hal",
@@ -260,6 +263,21 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12376044798296,
+      "name": "#3731",
+      "customerName": "Kevin Jansen",
+      "createdAt": "2026-06-09T21:55:09+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "124034 Phantasmal Flames Mega Charizard X ex 65-Sleeves (English) — Standard (66x91mm) / Blue",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 2
         }
       ]
     },
@@ -498,23 +516,8 @@
         {
           "product": "134224 Lotus Petal - Secret Lair Drop Series Foil #7034 NM (English) — Secret Lair Drop Series #7034, Near-Mint / Mythic",
           "reason": "Insufficient stock",
-          "stock": 1,
+          "stock": 2,
           "needed": 3
-        }
-      ]
-    },
-    {
-      "id": 12388275650904,
-      "name": "#3769",
-      "customerName": "Michel Biemolt",
-      "createdAt": "2026-06-15T16:18:53+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -615,21 +618,6 @@
       ]
     },
     {
-      "id": 12399639003480,
-      "name": "#3780",
-      "customerName": "Michael Pfeiffer",
-      "createdAt": "2026-06-17T14:17:55+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Nintendo Switch 2 - Mario Kart World Bundle",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12399649259864,
       "name": "#3781",
       "customerName": "Maxim Leitsch",
@@ -671,21 +659,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 3
-        }
-      ]
-    },
-    {
-      "id": 12405671985496,
-      "name": "#3785",
-      "customerName": "fernando queipo de llano de aguilera",
-      "createdAt": "2026-06-18T13:29:17+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "Apple AirPods Pro 3",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -1010,21 +983,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
-        }
-      ]
-    },
-    {
-      "id": 12416594608472,
-      "name": "#3814",
-      "customerName": "marcos peña gomez",
-      "createdAt": "2026-06-22T15:22:34+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Garmin Venu 4 41 mm Smartwatch",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -1643,7 +1601,7 @@
         "product": "113547 Scarlet & Violet Prismatic Evolutions Sylveon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
         "productId": 15641562317144,
         "variantId": 56849717231960,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1723,7 +1681,7 @@
         "product": "124034 Phantasmal Flames Mega Charizard X ex 65-Sleeves (English) — Standard (66x91mm) / Blue",
         "productId": 15641487638872,
         "variantId": 56849614373208,
-        "onHand": 2,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2024,14 +1982,6 @@
         "demand": 1
       },
       {
-        "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
-        "productId": 15641321341272,
-        "variantId": 56849271554392,
-        "onHand": 2,
-        "committed": 3,
-        "demand": 3
-      },
-      {
         "product": "131634 Mega Zygarde‑ex - Nihil Zero 117/080 NM (Japanese) — 117/080, Near-Mint / Secret Rare",
         "productId": 15641340019032,
         "variantId": 56849299538264,
@@ -2187,7 +2137,7 @@
         "product": "134224 Lotus Petal - Secret Lair Drop Series Foil #7034 NM (English) — Secret Lair Drop Series #7034, Near-Mint / Mythic",
         "productId": 15641282969944,
         "variantId": 56849219420504,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 3,
         "demand": 3
       },
@@ -2195,7 +2145,7 @@
         "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
         "productId": 15731035668824,
         "variantId": 57191630569816,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2267,7 +2217,7 @@
         "product": "Nintendo Switch 2 - Mario Kart World Bundle",
         "productId": 15120406643032,
         "variantId": 55021154959704,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2299,7 +2249,7 @@
         "product": "Apple AirPods Pro 3",
         "productId": 15338563338584,
         "variantId": 55853592019288,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       },
@@ -2512,6 +2462,14 @@
         "demand": 1
       },
       {
+        "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
+        "productId": 15641321341272,
+        "variantId": 56849271554392,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
         "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
         "productId": 15777314439512,
         "variantId": 57381528895832,
@@ -2603,7 +2561,7 @@
         "product": "Garmin Venu 4 41 mm Smartwatch",
         "productId": 15824806773080,
         "variantId": 57545785999704,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2721,6 +2679,16 @@
       }
     ],
     "demandExceedsStock": [
+      {
+        "product": "124034 Phantasmal Flames Mega Charizard X ex 65-Sleeves (English) — Standard (66x91mm) / Blue",
+        "productId": 15641487638872,
+        "variantId": 56849614373208,
+        "onHand": 1,
+        "committed": 2,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
       {
         "product": "109986 Mew ex - Scarlet & Violet 151 151/165 NM (English) — 151/165, Near-Mint / Double Rare",
         "productId": 15641568772440,
