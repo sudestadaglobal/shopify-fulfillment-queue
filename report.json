@@ -1,111 +1,15 @@
 {
-  "generatedAt": "2026-06-25T17:35:33.950Z",
+  "generatedAt": "2026-06-25T19:34:03.585Z",
   "summary": {
-    "totalUnfulfilled": 75,
-    "canFulfill": 17,
+    "totalUnfulfilled": 59,
+    "canFulfill": 1,
     "blocked": 58
   },
   "fulfillableOrders": [
     {
-      "id": 12347303166296,
-      "name": "#3624",
-      "createdAt": "2026-05-27T21:54:41+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12356749656408,
-      "name": "#3662",
-      "createdAt": "2026-06-01T22:21:02+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12372161790296,
-      "name": "#3718",
-      "createdAt": "2026-06-08T16:55:06+02:00",
-      "itemCount": 7
-    },
-    {
-      "id": 12372269629784,
-      "name": "#3720",
-      "createdAt": "2026-06-08T18:00:44+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12375980900696,
-      "name": "#3729",
-      "createdAt": "2026-06-09T21:20:05+02:00",
-      "itemCount": 17
-    },
-    {
-      "id": 12377642729816,
-      "name": "#3739",
-      "createdAt": "2026-06-10T19:36:10+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12377673105752,
-      "name": "#3744",
-      "createdAt": "2026-06-10T19:56:50+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12382556848472,
-      "name": "#3749",
-      "createdAt": "2026-06-12T20:19:03+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12388275650904,
-      "name": "#3769",
-      "createdAt": "2026-06-15T16:18:53+02:00",
-      "itemCount": 1
-    },
-    {
       "id": 12393931112792,
       "name": "#3773",
       "createdAt": "2026-06-16T13:38:54+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12399639003480,
-      "name": "#3780",
-      "createdAt": "2026-06-17T14:17:55+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12405671985496,
-      "name": "#3785",
-      "createdAt": "2026-06-18T13:29:17+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12411528839512,
-      "name": "#3792",
-      "createdAt": "2026-06-19T16:13:11+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12416594608472,
-      "name": "#3814",
-      "createdAt": "2026-06-22T15:22:34+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12418331967832,
-      "name": "#3821",
-      "createdAt": "2026-06-23T15:58:11+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12418632352088,
-      "name": "#3827",
-      "createdAt": "2026-06-23T16:51:24+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12420948099416,
-      "name": "#3831",
-      "createdAt": "2026-06-24T15:39:45+02:00",
       "itemCount": 1
     }
   ],
@@ -482,6 +386,12 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
+        },
+        {
+          "product": "71797 Misty’s Spirit - MEGA Abyss Eye 108/081 NM (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
         },
         {
           "product": "71877 Squirtle - 30th Anniversary Celebration Simplified Chinese 003/30th-P NM (Chinese)",
@@ -1182,14 +1092,6 @@
   "stockAlerts": {
     "lowStock": [
       {
-        "product": "110289 Sword & Shield Shining Legends Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641564381528,
-        "variantId": 56849720901976,
-        "onHand": 4,
-        "committed": 3,
-        "demand": 3
-      },
-      {
         "product": "118728 Emboar - Scarlet & Violet White Flare 098/086 NM (English) — 098/086, Near-Mint / Illustration Rare",
         "productId": 15641521652056,
         "variantId": 56849667686744,
@@ -1233,9 +1135,9 @@
         "product": "131442 1st Anniversary DON!! Card Pack One Piece Booster Pack (English) — 1 card / Black / White",
         "productId": 15641345360216,
         "variantId": 56849305403736,
-        "onHand": 6,
-        "committed": 3,
-        "demand": 3
+        "onHand": 5,
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131452 Winner Pack 2025 Vol.3 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -1297,22 +1199,6 @@
         "product": "138103 Roronoa Zoro - The Best PRB02-006 V1 NM (Japanese)",
         "productId": 15784546337112,
         "variantId": 57414612582744,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "119193 Axew - Scarlet & Violet Black Bolt 145/086 NM (English) — 145/086, Near-Mint / Illustration Rare",
-        "productId": 15641512804696,
-        "variantId": 56849653858648,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "119161 Dwebble - Scarlet & Violet Black Bolt 129/086 NM (English) — 129/086, Near-Mint / Illustration Rare",
-        "productId": 15641513394520,
-        "variantId": 56849654939992,
         "onHand": 1,
         "committed": 1,
         "demand": 1
@@ -1393,25 +1279,25 @@
         "product": "132340 The Azure Sea’s Seven One Piece Booster Pack (English) — 12 Cards / Blue",
         "productId": 15641321636184,
         "variantId": 56849271816536,
-        "onHand": 7,
-        "committed": 2,
-        "demand": 2
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641344541016,
         "variantId": 56849304584536,
-        "onHand": 2,
-        "committed": 2,
-        "demand": 2
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "142543 Adventure on Kami’s Island Booster Pack (English) - Yellow",
         "productId": 15733729952088,
         "variantId": 57200688398680,
-        "onHand": 4,
-        "committed": 2,
-        "demand": 2
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "131490 Special DON!! Card Pack DP‑03 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -1489,17 +1375,17 @@
         "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641343099224,
         "variantId": 56849302946136,
-        "onHand": 7,
-        "committed": 4,
-        "demand": 4
+        "onHand": 5,
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131474 Winner Pack 2025 Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
         "productId": 15641344868696,
         "variantId": 56849304912216,
-        "onHand": 7,
-        "committed": 3,
-        "demand": 3
+        "onHand": 6,
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131496 Special DON!! Card Pack DP‑01 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -1513,9 +1399,9 @@
         "product": "131498 Special DON!! Card Pack DP‑06 One Piece Booster Pack (English) — 1 card / Black / White",
         "productId": 15641344180568,
         "variantId": 56849304224088,
-        "onHand": 5,
-        "committed": 3,
-        "demand": 3
+        "onHand": 4,
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
@@ -1566,46 +1452,6 @@
         "demand": 1
       },
       {
-        "product": "134660 Sanji - Romance Dawn (Pre‑Errata) OP01‑013 V2 NM (English) — OP01‑013/V2, Near-Mint / Alternate Art",
-        "productId": 15641280414040,
-        "variantId": 56849213227352,
-        "onHand": 2,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "131400 Tournament Pack Vol.5 Winner One Piece Booster Pack (English",
-        "productId": 15775998247256,
-        "variantId": 57373542711640,
-        "onHand": 2,
-        "committed": 3,
-        "demand": 3
-      },
-      {
-        "product": "131430 Tournament Pack Vol.2 Winner One Piece Booster Pack (English)",
-        "productId": 15798656500056,
-        "variantId": 57474322104664,
-        "onHand": 2,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "131608 The Best Vol. 2 One Piece Premium Booster Box 20 Premium Booster Packs (English) — 20 Booster Packs / Multicolor",
-        "productId": 15641340117336,
-        "variantId": 56849299636568,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "113547 Scarlet & Violet Prismatic Evolutions Sylveon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
-        "productId": 15641562317144,
-        "variantId": 56849717231960,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "124004 Phantasmal Flames Mega Evolution Pokémon Center Elite Trainer Box 11 Booster Pack (English) — 11 Booster Packs / Multicolor",
         "productId": 15641488621912,
         "variantId": 56849615487320,
@@ -1620,54 +1466,6 @@
         "onHand": 1,
         "committed": 3,
         "demand": 3
-      },
-      {
-        "product": "130760 Nami - The Best Vol.2 PRB02‑012 NM V2 (English) — PRB02‑012/V2, Near-Mint / Alternate Art",
-        "productId": 15641363087704,
-        "variantId": 56849421500760,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "132130 Ms. All Sunday - The Azure Sea's Seven OP14‑084 NM V2 (English) — OP14‑084/V2, Near-Mint / Alternate Art",
-        "productId": 15641328877912,
-        "variantId": 56849283547480,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131468 Winner Pack 2025 Vol.4 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641345098072,
-        "variantId": 56849305141592,
-        "onHand": 5,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
-        "productId": 15667333103960,
-        "variantId": 56960147652952,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131532 Tournament Pack Vol.4 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641342902616,
-        "variantId": 56849302716760,
-        "onHand": 7,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131560 Judge Pack Vol. 5 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641341657432,
-        "variantId": 56849301438808,
-        "onHand": 3,
-        "committed": 1,
-        "demand": 1
       },
       {
         "product": "119397 Scarlet & Violet Black Bolt Zekrom 65-Sleeves — 66 x 91mm / Black / Blue",
@@ -1926,26 +1724,10 @@
         "demand": 1
       },
       {
-        "product": "131606 500 Years into the Future One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
-        "productId": 15641340182872,
-        "variantId": 56849299702104,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "119085 Petilil - Scarlet & Violet Black Bolt 091/086 NM (English) — 091/086, Near-Mint / Illustration Rare",
         "productId": 15641514967384,
         "variantId": 56849657495896,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "119045 Zekrom ex - Scarlet & Violet Black Bolt 172/086 NM (English) — 172/086, Near-Mint / Double Rare",
-        "productId": 15641515786584,
-        "variantId": 56849658675544,
-        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1978,14 +1760,6 @@
         "productId": 15641564545368,
         "variantId": 56849721065816,
         "onHand": 4,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131634 Mega Zygarde‑ex - Nihil Zero 117/080 NM (Japanese) — 117/080, Near-Mint / Secret Rare",
-        "productId": 15641340019032,
-        "variantId": 56849299538264,
-        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2086,6 +1860,22 @@
         "demand": 1
       },
       {
+        "product": "131400 Tournament Pack Vol.5 Winner One Piece Booster Pack (English",
+        "productId": 15775998247256,
+        "variantId": 57373542711640,
+        "onHand": 1,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "131430 Tournament Pack Vol.2 Winner One Piece Booster Pack (English)",
+        "productId": 15798656500056,
+        "variantId": 57474322104664,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
         "product": "132240 Boa Hancock - The Azure Sea's Seven OP14‑041 V2 NM (English) — OP14‑041/V2, Near-Mint / Alternate Art",
         "productId": 15641325142360,
         "variantId": 56849279648088,
@@ -2105,9 +1895,9 @@
         "product": "71797 Misty’s Spirit - MEGA Abyss Eye 108/081 NM (Japanese)",
         "productId": 15816484454744,
         "variantId": 57515987272024,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "71877 Squirtle - 30th Anniversary Celebration Simplified Chinese 003/30th-P NM (Chinese)",
@@ -2140,14 +1930,6 @@
         "onHand": 2,
         "committed": 3,
         "demand": 3
-      },
-      {
-        "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
-        "productId": 15731035668824,
-        "variantId": 57191630569816,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
       },
       {
         "product": "LEGO Technic John Deere 1470H Wheeled Harvester Set #42218",
@@ -2214,14 +1996,6 @@
         "demand": 1
       },
       {
-        "product": "Nintendo Switch 2 - Mario Kart World Bundle",
-        "productId": 15120406643032,
-        "variantId": 55021154959704,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
         "productId": 15641488556376,
         "variantId": 56849615421784,
@@ -2236,22 +2010,6 @@
         "onHand": 0,
         "committed": 3,
         "demand": 3
-      },
-      {
-        "product": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
-        "productId": 14834629312856,
-        "variantId": 54023479296344,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "Apple AirPods Pro 3",
-        "productId": 15338563338584,
-        "variantId": 55853592019288,
-        "onHand": 2,
-        "committed": 1,
-        "demand": 1
       },
       {
         "product": "127718 Monkey D. Luffy - Carrying on His Will OP13‑118 V2 NM (English) — OP13‑118/V2, Near-Mint / Alternate Art",
@@ -2402,6 +2160,14 @@
         "productId": 15641567756632,
         "variantId": 56849734369624,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134660 Sanji - Romance Dawn (Pre‑Errata) OP01‑013 V2 NM (English) — OP01‑013/V2, Near-Mint / Alternate Art",
+        "productId": 15641280414040,
+        "variantId": 56849213227352,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2558,14 +2324,6 @@
         "demand": 2
       },
       {
-        "product": "Garmin Venu 4 41 mm Smartwatch",
-        "productId": 15824806773080,
-        "variantId": 57545785999704,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "Corsair VOID MAX Wireless v2 Headset",
         "productId": 15572758135128,
         "variantId": 56576367395160,
@@ -2635,14 +2393,6 @@
         "variantId": 56849459020120,
         "onHand": 0,
         "committed": 2,
-        "demand": 1
-      },
-      {
-        "product": "109984 Charmander - Scarlet & Violet Black Star Promos 044/225 (NM) — 044/225, Near-Mint / Promo",
-        "productId": 15641568837976,
-        "variantId": 56849736204632,
-        "onHand": 1,
-        "committed": 1,
         "demand": 1
       },
       {
