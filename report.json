@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-06-26T04:54:18.981Z",
+  "generatedAt": "2026-06-26T08:35:44.917Z",
   "summary": {
     "totalUnfulfilled": 59,
-    "canFulfill": 1,
-    "blocked": 58
+    "canFulfill": 2,
+    "blocked": 57
   },
   "fulfillableOrders": [
+    {
+      "id": 12390367756632,
+      "name": "#3770",
+      "createdAt": "2026-06-15T19:35:10+02:00",
+      "itemCount": 1
+    },
     {
       "id": 12393931112792,
       "name": "#3773",
@@ -428,21 +434,6 @@
           "reason": "Insufficient stock",
           "stock": 2,
           "needed": 3
-        }
-      ]
-    },
-    {
-      "id": 12390367756632,
-      "name": "#3770",
-      "customerName": "Karl Olov Hällström",
-      "createdAt": "2026-06-15T19:35:10+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "LEGO Technic John Deere 1470H Wheeled Harvester Set #42218",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -1935,7 +1926,7 @@
         "product": "LEGO Technic John Deere 1470H Wheeled Harvester Set #42218",
         "productId": 15817758867800,
         "variantId": 57519889056088,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
