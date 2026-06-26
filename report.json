@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-06-26T11:36:32.983Z",
+  "generatedAt": "2026-06-26T13:53:28.807Z",
   "summary": {
     "totalUnfulfilled": 59,
-    "canFulfill": 2,
-    "blocked": 57
+    "canFulfill": 6,
+    "blocked": 53
   },
   "fulfillableOrders": [
+    {
+      "id": 12377191055704,
+      "name": "#3733",
+      "createdAt": "2026-06-10T15:04:37+02:00",
+      "itemCount": 1
+    },
     {
       "id": 12390367756632,
       "name": "#3770",
@@ -16,6 +22,24 @@
       "id": 12393931112792,
       "name": "#3773",
       "createdAt": "2026-06-16T13:38:54+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12399631597912,
+      "name": "#3779",
+      "createdAt": "2026-06-17T14:13:58+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12414801281368,
+      "name": "#3802",
+      "createdAt": "2026-06-21T14:34:08+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12414923899224,
+      "name": "#3809",
+      "createdAt": "2026-06-21T15:47:09+02:00",
       "itemCount": 1
     }
   ],
@@ -192,21 +216,6 @@
       ]
     },
     {
-      "id": 12377191055704,
-      "name": "#3733",
-      "customerName": "Matthias Kurath",
-      "createdAt": "2026-06-10T15:04:37+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "119489 Poliwhirl - Scarlet & Violet 151 176/165 NM (English) — 176/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12377304727896,
       "name": "#3737",
       "customerName": "Francisco Sarabia sanchez",
@@ -215,18 +224,6 @@
       "reasons": [
         {
           "product": "109986 Mew ex - Scarlet & Violet 151 151/165 NM (English) — 151/165, Near-Mint / Double Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119105 Panpour - Scarlet & Violet Black Bolt 101/086 NM (English) — 101/086, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119099 Darmanitan - Scarlet & Violet Black Bolt 098/086 NM (English) — 098/086, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -245,18 +242,6 @@
         },
         {
           "product": "119101 Larvesta - Scarlet & Violet Black Bolt 099/086 NM (English) — 099/086, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "118758 Blitzle - Scarlet & Violet White Flare 114/086 NM (English) — 114/086, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119083 Simisage - Scarlet & Violet Black Bolt 090/086 NM (English) — 090/086, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -497,21 +482,6 @@
       "reasons": [
         {
           "product": "132616 Mega Froslass ex - Mega Evolution Ascended Heroes 275/217 NM (English) - Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12399631597912,
-      "name": "#3779",
-      "customerName": "Dorian Cwienk",
-      "createdAt": "2026-06-17T14:13:58+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "110287 Sun & Moon Cosmic Eclipse (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -771,21 +741,6 @@
       ]
     },
     {
-      "id": 12414801281368,
-      "name": "#3802",
-      "customerName": "Bilal Gültan",
-      "createdAt": "2026-06-21T14:34:08+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        }
-      ]
-    },
-    {
       "id": 12414826414424,
       "name": "#3804",
       "customerName": "Tomas Vojnarovič",
@@ -845,21 +800,6 @@
       "reasons": [
         {
           "product": "99730 Charizard - XY Evolutions 011/108 NM (English) — 010/108, Near-Mint / Holo Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12414923899224,
-      "name": "#3809",
-      "customerName": "Fabian Langguth",
-      "createdAt": "2026-06-21T15:47:09+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "132338 Don!! - The Azure Sea's Seven EB04‑Egghead) V2 NM (English) — EB04-Egghead/V2, Near-Mint / DON!!",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1478,7 +1418,7 @@
         "product": "119489 Poliwhirl - Scarlet & Violet 151 176/165 NM (English) — 176/165, Near-Mint / Illustration Rare",
         "productId": 15641505988952,
         "variantId": 56849643372888,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1606,7 +1546,7 @@
         "product": "119105 Panpour - Scarlet & Violet Black Bolt 101/086 NM (English) — 101/086, Near-Mint / Illustration Rare",
         "productId": 15641514574168,
         "variantId": 56849656906072,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1622,7 +1562,7 @@
         "product": "119099 Darmanitan - Scarlet & Violet Black Bolt 098/086 NM (English) — 098/086, Near-Mint / Illustration Rare",
         "productId": 15641514672472,
         "variantId": 56849657004376,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1702,7 +1642,7 @@
         "product": "118758 Blitzle - Scarlet & Violet White Flare 114/086 NM (English) — 114/086, Near-Mint / Illustration Rare",
         "productId": 15641521062232,
         "variantId": 56849667096920,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1710,7 +1650,7 @@
         "product": "119083 Simisage - Scarlet & Violet Black Bolt 090/086 NM (English) — 090/086, Near-Mint / Illustration Rare",
         "productId": 15641515000152,
         "variantId": 56849657528664,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1982,7 +1922,7 @@
         "product": "110287 Sun & Moon Cosmic Eclipse (English) — 10 cards / Multicolor",
         "productId": 15641564414296,
         "variantId": 56849720934744,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2230,7 +2170,7 @@
         "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
         "productId": 15777314439512,
         "variantId": 57381528895832,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -2294,7 +2234,7 @@
         "product": "132338 Don!! - The Azure Sea's Seven EB04‑Egghead) V2 NM (English) — EB04-Egghead/V2, Near-Mint / DON!!",
         "productId": 15641321734488,
         "variantId": 56849271947608,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
