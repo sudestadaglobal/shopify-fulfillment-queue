@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-28T11:51:53.709Z",
+  "generatedAt": "2026-06-28T14:02:34.046Z",
   "summary": {
-    "totalUnfulfilled": 49,
-    "canFulfill": 8,
-    "blocked": 41
+    "totalUnfulfilled": 52,
+    "canFulfill": 10,
+    "blocked": 42
   },
   "fulfillableOrders": [
     {
@@ -53,6 +53,18 @@
       "name": "#3842",
       "createdAt": "2026-06-26T19:58:59+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12428050334040,
+      "name": "#3843",
+      "createdAt": "2026-06-28T15:55:31+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12428053053784,
+      "name": "#3844",
+      "createdAt": "2026-06-28T15:56:59+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -731,6 +743,21 @@
       "reasons": [
         {
           "product": "141865 MEGA Ninja Spinner Booster Box 30 Booster Packs (Japanese) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12428056953176,
+      "name": "#3845",
+      "customerName": "Bilal Gültan",
+      "createdAt": "2026-06-28T15:58:56+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1833,8 +1860,8 @@
         "productId": 15777314439512,
         "variantId": 57381528895832,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119405 Mega Evolution Sleeved Booster Pack (English) — 10 cards / Multicolor",
@@ -1913,6 +1940,14 @@
         "productId": 15641565659480,
         "variantId": 56849722769752,
         "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131564 Beginners Deck Party ST23‑ST28 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641341526360,
+        "variantId": 56849301307736,
+        "onHand": 8,
         "committed": 1,
         "demand": 1
       }
