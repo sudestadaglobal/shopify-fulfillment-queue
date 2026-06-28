@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-28T19:40:39.411Z",
+  "generatedAt": "2026-06-28T20:48:32.660Z",
   "summary": {
-    "totalUnfulfilled": 59,
-    "canFulfill": 13,
-    "blocked": 46
+    "totalUnfulfilled": 65,
+    "canFulfill": 14,
+    "blocked": 51
   },
   "fulfillableOrders": [
     {
@@ -83,6 +83,12 @@
       "name": "#3851",
       "createdAt": "2026-06-28T21:31:19+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12428682068312,
+      "name": "#3854",
+      "createdAt": "2026-06-28T21:47:52+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -859,6 +865,81 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12428672631128,
+      "name": "#3853",
+      "customerName": "Lars Hollemans",
+      "createdAt": "2026-06-28T21:42:24+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12428692554072,
+      "name": "#3855",
+      "customerName": "JAVIER Barragan",
+      "createdAt": "2026-06-28T21:53:29+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12428703891800,
+      "name": "#3856",
+      "customerName": "Bilal Gültan",
+      "createdAt": "2026-06-28T21:59:50+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12428706185560,
+      "name": "#3857",
+      "customerName": "Tibor Slezak",
+      "createdAt": "2026-06-28T22:01:13+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12428710740312,
+      "name": "#3858",
+      "customerName": "M.N. Ton",
+      "createdAt": "2026-06-28T22:03:54+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1564,8 +1645,8 @@
         "productId": 15641387729240,
         "variantId": 56849458889048,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119141 Duosion - Scarlet & Violet Black Bolt 119/086 NM (English) — 119/086, Near-Mint / Illustration Rare",
@@ -1740,8 +1821,8 @@
         "productId": 15641340477784,
         "variantId": 56849299997016,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "142989 Mega Dragalge ex - Mega Evolution Chaos Rising 118/086 NM (English) - Special Illustration Rare",
@@ -1956,8 +2037,8 @@
         "productId": 15777314439512,
         "variantId": 57381528895832,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "119405 Mega Evolution Sleeved Booster Pack (English) — 10 cards / Multicolor",
@@ -2107,6 +2188,22 @@
         "product": "132592 Marnie’s Grimmsnarl ex - Mega Evolution Ascended Heroes 287/217 NM (English) - Special Illustration Rare",
         "productId": 15749445157208,
         "variantId": 57264596123992,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
+        "productId": 15796633665880,
+        "variantId": 57468100968792,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
+        "productId": 15667333103960,
+        "variantId": 56960147652952,
         "onHand": 0,
         "committed": 1,
         "demand": 1
