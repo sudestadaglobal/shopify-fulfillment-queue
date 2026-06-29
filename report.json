@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-29T10:04:04.849Z",
+  "generatedAt": "2026-06-29T14:22:56.975Z",
   "summary": {
-    "totalUnfulfilled": 65,
-    "canFulfill": 14,
-    "blocked": 51
+    "totalUnfulfilled": 74,
+    "canFulfill": 17,
+    "blocked": 57
   },
   "fulfillableOrders": [
     {
@@ -25,15 +25,9 @@
       "itemCount": 23
     },
     {
-      "id": 12411734065496,
-      "name": "#3795",
-      "createdAt": "2026-06-19T16:42:51+02:00",
-      "itemCount": 6
-    },
-    {
-      "id": 12424994259288,
-      "name": "#3838",
-      "createdAt": "2026-06-26T19:48:43+02:00",
+      "id": 12418213151064,
+      "name": "#3818",
+      "createdAt": "2026-06-23T14:45:40+02:00",
       "itemCount": 1
     },
     {
@@ -88,6 +82,30 @@
       "id": 12428682068312,
       "name": "#3854",
       "createdAt": "2026-06-28T21:47:52+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12428710740312,
+      "name": "#3858",
+      "createdAt": "2026-06-28T22:03:54+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12429831111000,
+      "name": "#3859",
+      "createdAt": "2026-06-29T14:24:26+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12429897072984,
+      "name": "#3864",
+      "createdAt": "2026-06-29T14:59:50+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12430001766744,
+      "name": "#3867",
+      "createdAt": "2026-06-29T15:55:29+02:00",
       "itemCount": 1
     }
   ],
@@ -378,6 +396,21 @@
       ]
     },
     {
+      "id": 12411734065496,
+      "name": "#3795",
+      "customerName": "JAVIER Barragan",
+      "createdAt": "2026-06-19T16:42:51+02:00",
+      "itemCount": 6,
+      "reasons": [
+        {
+          "product": "70211 One Piece Card Game Double Pack Set Vol. 10 OP15 2 Booster Packs (English) — 2 Booster Packs / Yellow",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
+    },
+    {
       "id": 12411812217176,
       "name": "#3797",
       "customerName": "fernando queipo de llano de aguilera",
@@ -524,21 +557,6 @@
       "reasons": [
         {
           "product": "110240 Sword & Shield Silver Tempest Sleeved Booster Pack (English) — 10 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12418213151064,
-      "name": "#3818",
-      "customerName": "fernando queipo de llano de aguilera",
-      "createdAt": "2026-06-23T14:45:40+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -759,6 +777,21 @@
       ]
     },
     {
+      "id": 12424994259288,
+      "name": "#3838",
+      "customerName": "Adrià Cáceres",
+      "createdAt": "2026-06-26T19:48:43+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "63011 Mega Hawlucha ex - Mega Evolution Ascended Heroes 283/217 NM (English) — Size 283/217 / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
       "id": 12425000747352,
       "name": "#3840",
       "customerName": "Kevin Cardin",
@@ -927,14 +960,113 @@
       ]
     },
     {
-      "id": 12428710740312,
-      "name": "#3858",
-      "customerName": "M.N. Ton",
-      "createdAt": "2026-06-28T22:03:54+02:00",
+      "id": 12429844545880,
+      "name": "#3860",
+      "customerName": "fernando queipo de llano de aguilera",
+      "createdAt": "2026-06-29T14:31:39+02:00",
       "itemCount": 1,
       "reasons": [
         {
-          "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
+          "product": "145433 Starmie V - Sword & Shield Astral Radiance TG13/TG30 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12429851656536,
+      "name": "#3861",
+      "customerName": "Fong Lin",
+      "createdAt": "2026-06-29T14:35:18+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "114523 Scarlet & Violet Journey Together Booster Box 36 Booster Pack (English) — 36 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12429861749080,
+      "name": "#3862",
+      "customerName": "Younes El Ghalbzouri",
+      "createdAt": "2026-06-29T14:40:34+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12429879214424,
+      "name": "#3863",
+      "customerName": "Lukas Schönwetter",
+      "createdAt": "2026-06-29T14:49:21+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "110076 Scarlet & Violet Ancient Roar Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12429905789272,
+      "name": "#3865",
+      "customerName": "Maximilian Grossmann",
+      "createdAt": "2026-06-29T15:04:49+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "128016 Gol.D.Roger - Carrying on His Will OP13‑003 V2 NM (English) — OP13‑003/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132198 Donquixote Doflamingo - The Azure Sea's Seven OP14‑060 V2 NM (English) — OP14‑060/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "128022 Monkey D. Luffy - Carrying on His Will OP13‑001 V2 NM (English) — OP13‑001/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132240 Boa Hancock - The Azure Sea's Seven OP14‑041 V2 NM (English) — OP14‑041/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12429927940440,
+      "name": "#3866",
+      "customerName": "Viktor Augustsson",
+      "createdAt": "2026-06-29T15:15:51+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Sony PS5 Slim Digital Edition (EU Plug)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1812,7 +1944,7 @@
         "product": "70211 One Piece Card Game Double Pack Set Vol. 10 OP15 2 Booster Packs (English) — 2 Booster Packs / Yellow",
         "productId": 15732278362456,
         "variantId": 57196095471960,
-        "onHand": 2,
+        "onHand": 0,
         "committed": 2,
         "demand": 2
       },
@@ -1932,7 +2064,7 @@
         "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507365208,
         "variantId": 56849645207896,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2084,7 +2216,7 @@
         "product": "63011 Mega Hawlucha ex - Mega Evolution Ascended Heroes 283/217 NM (English) — Size 283/217 / Special Illustration Rare",
         "productId": 15653256200536,
         "variantId": 56897712324952,
-        "onHand": 1,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       },
@@ -2207,9 +2339,139 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "136075 2022 World Championships Deck Sebastian Lashmet Cheryl Again (English) — 60 cards / Multicolor",
+        "productId": 15641267077464,
+        "variantId": 56849191469400,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "145433 Starmie V - Sword & Shield Astral Radiance TG13/TG30 NM (English) - Special Illustration Rare",
+        "productId": 15836339306840,
+        "variantId": 57589267464536,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "114523 Scarlet & Violet Journey Together Booster Box 36 Booster Pack (English) — 36 Booster pack / Multicolor",
+        "productId": 15641561104728,
+        "variantId": 56849715691864,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+        "productId": 15641268355416,
+        "variantId": 56849193173336,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336611160,
+        "variantId": 56849295671640,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110066 Scarlet & Violet Crimson Haze Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567363416,
+        "variantId": 56849733386584,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110076 Scarlet & Violet Ancient Roar Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567199576,
+        "variantId": 56849733222744,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
+        "productId": 15641560842584,
+        "variantId": 56849715429720,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132596 Mega Scrafty ex - Mega Evolution Ascended Heroes 285/217 NM (English) — Size 285/217 / Special Illustration Rare",
+        "productId": 15653258461528,
+        "variantId": 56897717731672,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "128016 Gol.D.Roger - Carrying on His Will OP13‑003 V2 NM (English) — OP13‑003/V2, Near-Mint / Alternate Art",
+        "productId": 15641374196056,
+        "variantId": 56849439883608,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132198 Donquixote Doflamingo - The Azure Sea's Seven OP14‑060 V2 NM (English) — OP14‑060/V2, Near-Mint / Alternate Art",
+        "productId": 15641326715224,
+        "variantId": 56849281220952,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "128022 Monkey D. Luffy - Carrying on His Will OP13‑001 V2 NM (English) — OP13‑001/V2, Near-Mint / Alternate Art",
+        "productId": 15641374097752,
+        "variantId": 56849439785304,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132240 Boa Hancock - The Azure Sea's Seven OP14‑041 V2 NM (English) — OP14‑041/V2, Near-Mint / Alternate Art",
+        "productId": 15641325142360,
+        "variantId": 56849279648088,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Sony PS5 Slim Digital Edition (EU Plug)",
+        "productId": 15545996083544,
+        "variantId": 56482549170520,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Nintendo Switch 2 Carrying Case and Screen Protector",
+        "productId": 15253183889752,
+        "variantId": 55528005108056,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
+      {
+        "product": "70211 One Piece Card Game Double Pack Set Vol. 10 OP15 2 Booster Packs (English) — 2 Booster Packs / Yellow",
+        "productId": 15732278362456,
+        "variantId": 57196095471960,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
       {
         "product": "124034 Phantasmal Flames Mega Charizard X ex 65-Sleeves (English) — Standard (66x91mm) / Blue",
         "productId": 15641487638872,
@@ -2248,6 +2510,16 @@
         "committed": 2,
         "incoming": 1,
         "available": -2,
+        "shortfall": 1
+      },
+      {
+        "product": "Sony PS5 Slim Digital Edition (EU Plug)",
+        "productId": 15545996083544,
+        "variantId": 56482549170520,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
         "shortfall": 1
       }
     ]
