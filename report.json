@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-30T12:27:32.048Z",
+  "generatedAt": "2026-06-30T15:15:44.533Z",
   "summary": {
-    "totalUnfulfilled": 59,
-    "canFulfill": 3,
+    "totalUnfulfilled": 58,
+    "canFulfill": 2,
     "blocked": 56
   },
   "fulfillableOrders": [
@@ -16,12 +16,6 @@
       "id": 12364878414168,
       "name": "#3704",
       "createdAt": "2026-06-05T18:25:16+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12431936094552,
-      "name": "#3870",
-      "createdAt": "2026-06-30T14:17:30+02:00",
       "itemCount": 1
     }
   ],
@@ -2136,14 +2130,6 @@
         "productId": 15641345032536,
         "variantId": 56849305076056,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131518 Judge Pack Vol.6 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641343459672,
-        "variantId": 56849303470424,
-        "onHand": 3,
         "committed": 1,
         "demand": 1
       },
