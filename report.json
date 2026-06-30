@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T06:20:23.499Z",
+  "generatedAt": "2026-06-30T10:10:17.356Z",
   "summary": {
     "totalUnfulfilled": 57,
     "canFulfill": 2,
@@ -1863,7 +1863,7 @@
         "productId": 15641387860312,
         "variantId": 56849459020120,
         "onHand": 0,
-        "committed": 2,
+        "committed": 1,
         "demand": 1
       },
       {
@@ -2178,16 +2178,6 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "125900 Pikachu ex - MEGA Dream ex 234/193 NM (Japanese) — 234/193, Near-Mint / Special Illustration Rare",
-        "productId": 15641387860312,
-        "variantId": 56849459020120,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
         "shortfall": 1
       },
       {
