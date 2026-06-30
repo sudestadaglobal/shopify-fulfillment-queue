@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-30T15:15:44.533Z",
+  "generatedAt": "2026-06-30T17:20:11.563Z",
   "summary": {
-    "totalUnfulfilled": 58,
+    "totalUnfulfilled": 59,
     "canFulfill": 2,
-    "blocked": 56
+    "blocked": 57
   },
   "fulfillableOrders": [
     {
@@ -980,6 +980,21 @@
       "reasons": [
         {
           "product": "141886 Monkey D. Luffy - Adventure on Kamis Island EB04-061 NM (English) - Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12432332718424,
+      "name": "#3872",
+      "customerName": "Martin Björk",
+      "createdAt": "2026-06-30T17:54:20+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Playstation 5 Pro (PS5) 2TB",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2140,6 +2155,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Playstation 5 Pro (PS5) 2TB",
+        "productId": 15083676762456,
+        "variantId": 54866653479256,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2187,6 +2210,16 @@
         "product": "Sony PS5 Slim Digital Edition (EU Plug)",
         "productId": 15545996083544,
         "variantId": 56482549170520,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Playstation 5 Pro (PS5) 2TB",
+        "productId": 15083676762456,
+        "variantId": 54866653479256,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
