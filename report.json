@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-01T19:21:58.553Z",
+  "generatedAt": "2026-07-01T21:11:17.120Z",
   "summary": {
-    "totalUnfulfilled": 65,
-    "canFulfill": 10,
-    "blocked": 55
+    "totalUnfulfilled": 68,
+    "canFulfill": 12,
+    "blocked": 56
   },
   "fulfillableOrders": [
     {
@@ -64,6 +64,18 @@
       "id": 12438464856408,
       "name": "#3877",
       "createdAt": "2026-07-01T20:23:58+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12438593929560,
+      "name": "#3880",
+      "createdAt": "2026-07-01T21:33:39+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12438647963992,
+      "name": "#3881",
+      "createdAt": "2026-07-01T22:03:58+02:00",
       "itemCount": 1
     }
   ],
@@ -1073,6 +1085,27 @@
       "reasons": [
         {
           "product": "119499 Dragonair - Scarlet & Violet 151 181/165 NM (English) — 181/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12438568534360,
+      "name": "#3879",
+      "customerName": "Damian van Veen",
+      "createdAt": "2026-07-01T21:19:21+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "145944 OP16 The Time of Battle Booster Pack (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "145457 OP16 The Time of Battle Booster Pack (English)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2287,8 +2320,8 @@
         "productId": 15641523355992,
         "variantId": 56849676108120,
         "onHand": 5,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "120991 Mega Evolution Drifloon 1 Booster Pack Blister (English) — 1 booster pack / Multicolor",
@@ -2407,6 +2440,62 @@
         "productId": 15641505792344,
         "variantId": 56849642717528,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "142543 Adventure on Kami’s Island Booster Pack (English) - Yellow",
+        "productId": 15733729952088,
+        "variantId": 57200688398680,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641343099224,
+        "variantId": 56849302946136,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "141083 One Piece Card Game Heroines Edition 1 Booster Pack (English) - Multicolor",
+        "productId": 15733730279768,
+        "variantId": 57200689152344,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "145944 OP16 The Time of Battle Booster Pack (Japanese)",
+        "productId": 15843287662936,
+        "variantId": 57610319659352,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "145457 OP16 The Time of Battle Booster Pack (English)",
+        "productId": 15843288613208,
+        "variantId": 57610323525976,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "126648 Pokémon GO: Pokéball Tin Box — 3 Booster Packs",
+        "productId": 15650723987800,
+        "variantId": 56886014869848,
+        "onHand": 0,
+        "committed": 0,
+        "demand": 1
+      },
+      {
+        "product": "110206 Scarlet & Violet Ancient Roar Booster Pack (Japanese) — 5 cards / Multicolor",
+        "productId": 15641565856088,
+        "variantId": 56849731125592,
+        "onHand": 6,
         "committed": 1,
         "demand": 1
       }
