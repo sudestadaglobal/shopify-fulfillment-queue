@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-01T12:14:27.990Z",
+  "generatedAt": "2026-07-01T15:16:12.090Z",
   "summary": {
-    "totalUnfulfilled": 60,
-    "canFulfill": 2,
-    "blocked": 58
+    "totalUnfulfilled": 62,
+    "canFulfill": 3,
+    "blocked": 59
   },
   "fulfillableOrders": [
     {
@@ -16,6 +16,12 @@
       "id": 12364878414168,
       "name": "#3704",
       "createdAt": "2026-06-05T18:25:16+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12438086517080,
+      "name": "#3874",
+      "createdAt": "2026-07-01T16:57:56+02:00",
       "itemCount": 1
     }
   ],
@@ -1006,7 +1012,7 @@
       "name": "#3873",
       "customerName": "Ryan Christiaanse",
       "createdAt": "2026-07-01T13:51:25+02:00",
-      "itemCount": 24,
+      "itemCount": 26,
       "reasons": [
         {
           "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
@@ -1028,6 +1034,21 @@
         },
         {
           "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12438101590360,
+      "name": "#3875",
+      "customerName": "Leon Berthold",
+      "createdAt": "2026-07-01T17:06:05+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "124016 Phantasmal Flames Mega Evolution Sneasel 3 Booster Pack Blister (English) — 3 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1474,8 +1495,8 @@
         "productId": 15790986723672,
         "variantId": 57444361929048,
         "onHand": 3,
-        "committed": 6,
-        "demand": 6
+        "committed": 7,
+        "demand": 7
       },
       {
         "product": "71797 Misty’s Spirit - MEGA Abyss Eye 108/081 NM (Japanese)",
@@ -1922,8 +1943,8 @@
         "productId": 15641503891800,
         "variantId": 56849639604568,
         "onHand": 1,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
@@ -2300,6 +2321,22 @@
         "onHand": 8,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "124016 Phantasmal Flames Mega Evolution Sneasel 3 Booster Pack Blister (English) — 3 Booster Packs / Multicolor",
+        "productId": 15641488294232,
+        "variantId": 56849615061336,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131912 Mega Evolution Ascended Heroes Erika’s Tangela Blister 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641336971608,
+        "variantId": 56849296032088,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2334,23 +2371,13 @@
         "shortfall": 1
       },
       {
-        "product": "110212 Scarlet & Violet Obsidian Flames Sleeved Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641565725016,
-        "variantId": 56849722835288,
-        "onHand": 4,
-        "committed": 5,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "113607 Scarlet & Violet Prismatic Evolution Leafeon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
-        "productId": 15641561334104,
-        "variantId": 56849715921240,
-        "onHand": 2,
-        "committed": 3,
-        "incoming": 0,
-        "available": -1,
+        "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
+        "productId": 15790986723672,
+        "variantId": 57444361929048,
+        "onHand": 3,
+        "committed": 7,
+        "incoming": 3,
+        "available": -4,
         "shortfall": 1
       },
       {
@@ -2361,16 +2388,6 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
-        "productId": 15796633665880,
-        "variantId": 57468100968792,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
         "shortfall": 1
       },
       {
@@ -2387,26 +2404,6 @@
         "product": "Playstation 5 Pro (PS5) 2TB",
         "productId": 15083676762456,
         "variantId": 54866653479256,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "113611 Scarlet & Violet Prismatic Evolution Glaceon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
-        "productId": 15641561268568,
-        "variantId": 56849715855704,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "113612 Scarlet & Violet Prismatic Evolution Sylveon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
-        "productId": 15641561203032,
-        "variantId": 56849715790168,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
