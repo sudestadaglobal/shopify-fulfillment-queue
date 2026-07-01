@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-01T08:54:58.106Z",
+  "generatedAt": "2026-07-01T12:14:27.990Z",
   "summary": {
-    "totalUnfulfilled": 59,
+    "totalUnfulfilled": 60,
     "canFulfill": 2,
-    "blocked": 57
+    "blocked": 58
   },
   "fulfillableOrders": [
     {
@@ -1000,6 +1000,39 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12435487883608,
+      "name": "#3873",
+      "customerName": "Ryan Christiaanse",
+      "createdAt": "2026-07-01T13:51:25+02:00",
+      "itemCount": 24,
+      "reasons": [
+        {
+          "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "113611 Scarlet & Violet Prismatic Evolution Glaceon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "113612 Scarlet & Violet Prismatic Evolution Sylveon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1441,8 +1474,8 @@
         "productId": 15790986723672,
         "variantId": 57444361929048,
         "onHand": 3,
-        "committed": 5,
-        "demand": 5
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "71797 Misty’s Spirit - MEGA Abyss Eye 108/081 NM (Japanese)",
@@ -1505,8 +1538,8 @@
         "productId": 15641321406808,
         "variantId": 56849271619928,
         "onHand": 9,
-        "committed": 10,
-        "demand": 10
+        "committed": 11,
+        "demand": 11
       },
       {
         "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
@@ -1769,32 +1802,32 @@
         "productId": 15641565233496,
         "variantId": 56849722081624,
         "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "110169 Scarlet & Violet Stellar Crown Sleeved Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641566576984,
         "variantId": 56849732370776,
         "onHand": 1,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "110212 Scarlet & Violet Obsidian Flames Sleeved Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641565725016,
         "variantId": 56849722835288,
         "onHand": 4,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "110223 Scarlet & Violet Sleeved Booster Pack (English) — Multicolor / 10 cards",
         "productId": 15643186921816,
         "variantId": 56857168576856,
         "onHand": 6,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "121031 Lillie’s Determination - Mega Evolution 169/132 NM (English) — 169/132, Near-Mint / Ultra Rare",
@@ -1817,8 +1850,8 @@
         "productId": 15641561334104,
         "variantId": 56849715921240,
         "onHand": 2,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "121033 Mega Lucario ex - Mega Evolution 160/132 NM (English) — 160/132, Near-Mint / Ultra Rare",
@@ -1897,16 +1930,16 @@
         "productId": 15777314439512,
         "variantId": 57381528895832,
         "onHand": 0,
-        "committed": 6,
-        "demand": 6
+        "committed": 7,
+        "demand": 7
       },
       {
         "product": "119405 Mega Evolution Sleeved Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641508118872,
         "variantId": 56849646256472,
         "onHand": 9,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "124028 Phantasmal Flames Mega Evolution Ultra Pro 9-Pocket Binder (English) — 9 Pocket Album / Multicolor",
@@ -2017,8 +2050,8 @@
         "productId": 15796633665880,
         "variantId": 57468100968792,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
@@ -2163,6 +2196,110 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131426 Two Legends One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641345458520,
+        "variantId": 56849305502040,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131472 Royal Blood One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641344934232,
+        "variantId": 56849304977752,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116754 Scarlet & Violet Destined Rivals Sleeved Booster Pack (English) — 11 cards / Multicolor",
+        "productId": 15641523519832,
+        "variantId": 56849676435800,
+        "onHand": 9,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "124026 Phantasmal Flames Mega Evolution Sleeved Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641487999320,
+        "variantId": 56849614766424,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113611 Scarlet & Violet Prismatic Evolution Glaceon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
+        "productId": 15641561268568,
+        "variantId": 56849715855704,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113612 Scarlet & Violet Prismatic Evolution Sylveon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
+        "productId": 15641561203032,
+        "variantId": 56849715790168,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116762 Scarlet & Violet Destined Rivals Zebstrika 3 Booster Pack Blister (English) — 3 Booster pack, 1 card / Multicolor",
+        "productId": 15641523355992,
+        "variantId": 56849676108120,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "120991 Mega Evolution Drifloon 1 Booster Pack Blister (English) — 1 booster pack / Multicolor",
+        "productId": 15641496944984,
+        "variantId": 56849627808088,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "120993 Mega Evolution Drifblim 1 Booster Pack Blister (English) — 1 booster pack / Multicolor",
+        "productId": 15641496912216,
+        "variantId": 56849627775320,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "124018 Phantasmal Flames Mega Evolution Whimsicott 1 Booster Pack Blister (English) — 1 Booster Pack / Multicolor",
+        "productId": 15641488261464,
+        "variantId": 56849615028568,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "124020 Phantasmal Flames Mega Evolution Cottonee 1 Booster Pack Blister (English) — 1 Booster Pack / Multicolor",
+        "productId": 15641488195928,
+        "variantId": 56849614963032,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "124024 Phantasmal Flames Mega Evolution Blaziken Premium Checklane 1 Booster Pack Blister (English) — 1 Booster Pack / Multicolor",
+        "productId": 15641488064856,
+        "variantId": 56849614831960,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "121675 Mega Inferno X Booster Box 30 Booster Pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641489310040,
+        "variantId": 56849616175448,
+        "onHand": 8,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2197,6 +2334,26 @@
         "shortfall": 1
       },
       {
+        "product": "110212 Scarlet & Violet Obsidian Flames Sleeved Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565725016,
+        "variantId": 56849722835288,
+        "onHand": 4,
+        "committed": 5,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "113607 Scarlet & Violet Prismatic Evolution Leafeon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
+        "productId": 15641561334104,
+        "variantId": 56849715921240,
+        "onHand": 2,
+        "committed": 3,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
         "productId": 15641506251096,
         "variantId": 56849643602264,
@@ -2204,6 +2361,16 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
+        "productId": 15796633665880,
+        "variantId": 57468100968792,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       },
       {
@@ -2220,6 +2387,26 @@
         "product": "Playstation 5 Pro (PS5) 2TB",
         "productId": 15083676762456,
         "variantId": 54866653479256,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "113611 Scarlet & Violet Prismatic Evolution Glaceon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
+        "productId": 15641561268568,
+        "variantId": 56849715855704,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "113612 Scarlet & Violet Prismatic Evolution Sylveon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
+        "productId": 15641561203032,
+        "variantId": 56849715790168,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
