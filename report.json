@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-02T10:49:05.585Z",
+  "generatedAt": "2026-07-02T13:04:02.947Z",
   "summary": {
-    "totalUnfulfilled": 68,
+    "totalUnfulfilled": 69,
     "canFulfill": 12,
-    "blocked": 56
+    "blocked": 57
   },
   "fulfillableOrders": [
     {
@@ -1106,6 +1106,21 @@
         },
         {
           "product": "145457 OP16 The Time of Battle Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12439802970456,
+      "name": "#3882",
+      "customerName": "Angel Garcías Martinez",
+      "createdAt": "2026-07-02T14:59:33+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "LEGO Speed Champions Ferrari SF90 XX Stradale Sports Car Set #77254",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2498,6 +2513,14 @@
         "onHand": 6,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "LEGO Speed Champions Ferrari SF90 XX Stradale Sports Car Set #77254",
+        "productId": 15846809239896,
+        "variantId": 57617331257688,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2542,19 +2565,9 @@
         "shortfall": 1
       },
       {
-        "product": "Sony PS5 Slim Digital Edition (EU Plug)",
-        "productId": 15545996083544,
-        "variantId": 56482549170520,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Playstation 5 Pro (PS5) 2TB",
-        "productId": 15083676762456,
-        "variantId": 54866653479256,
+        "product": "LEGO Speed Champions Ferrari SF90 XX Stradale Sports Car Set #77254",
+        "productId": 15846809239896,
+        "variantId": 57617331257688,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
