@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-02T13:04:02.947Z",
+  "generatedAt": "2026-07-02T15:35:25.298Z",
   "summary": {
-    "totalUnfulfilled": 69,
-    "canFulfill": 12,
-    "blocked": 57
+    "totalUnfulfilled": 74,
+    "canFulfill": 13,
+    "blocked": 61
   },
   "fulfillableOrders": [
     {
@@ -76,6 +76,12 @@
       "id": 12438647963992,
       "name": "#3881",
       "createdAt": "2026-07-01T22:03:58+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12439927030104,
+      "name": "#3886",
+      "createdAt": "2026-07-02T16:03:37+02:00",
       "itemCount": 1
     }
   ],
@@ -1126,6 +1132,72 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12439903863128,
+      "name": "#3883",
+      "customerName": "Bilal Gültan",
+      "createdAt": "2026-07-02T15:51:29+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12439912776024,
+      "name": "#3884",
+      "customerName": "Yves Cazautet",
+      "createdAt": "2026-07-02T15:56:31+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12439923491160,
+      "name": "#3885",
+      "customerName": "Sebastian Bergström",
+      "createdAt": "2026-07-02T16:01:58+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12439944724824,
+      "name": "#3887",
+      "customerName": "Mario Heine",
+      "createdAt": "2026-07-02T16:10:24+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "116774 Scarlet & Violet Destined Rivals Team Rocket's Mewtwo ex Box 4 Booster Pack (English) — 4 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1535,8 +1607,8 @@
         "productId": 15641566216536,
         "variantId": 56849731518808,
         "onHand": 4,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -1855,16 +1927,16 @@
         "productId": 15641321341272,
         "variantId": 56849271554392,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
         "productId": 15641488556376,
         "variantId": 56849615421784,
         "onHand": 0,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "110184 Scarlet & Violet Twilight Masquerade (English) — 10 cards / Multicolor",
@@ -2015,8 +2087,8 @@
         "productId": 15777314439512,
         "variantId": 57381528895832,
         "onHand": 0,
-        "committed": 7,
-        "demand": 7
+        "committed": 8,
+        "demand": 8
       },
       {
         "product": "119405 Mega Evolution Sleeved Booster Pack (English) — 10 cards / Multicolor",
@@ -2431,8 +2503,8 @@
         "productId": 15770791018840,
         "variantId": 57361382703448,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "142959 Mega Evolution Chaos Rising Build & Battle Box 4 Booster Packs (English)",
@@ -2518,6 +2590,22 @@
         "product": "LEGO Speed Champions Ferrari SF90 XX Stradale Sports Car Set #77254",
         "productId": 15846809239896,
         "variantId": 57617331257688,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110291 XY Evolutions Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641564348760,
+        "variantId": 56849720869208,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116774 Scarlet & Violet Destined Rivals Team Rocket's Mewtwo ex Box 4 Booster Pack (English) — 4 booster pack / Multicolor",
+        "productId": 15641523126616,
+        "variantId": 56849669620056,
         "onHand": 0,
         "committed": 1,
         "demand": 1
