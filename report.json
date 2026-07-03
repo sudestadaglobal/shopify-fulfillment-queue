@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-03T15:31:38.772Z",
+  "generatedAt": "2026-07-03T17:01:29.414Z",
   "summary": {
-    "totalUnfulfilled": 83,
-    "canFulfill": 24,
-    "blocked": 59
+    "totalUnfulfilled": 87,
+    "canFulfill": 25,
+    "blocked": 62
   },
   "fulfillableOrders": [
     {
@@ -149,6 +149,12 @@
       "name": "#3889",
       "createdAt": "2026-07-03T16:02:26+02:00",
       "itemCount": 4
+    },
+    {
+      "id": 12442011697496,
+      "name": "#3900",
+      "createdAt": "2026-07-03T17:49:55+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1210,6 +1216,51 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12441993314648,
+      "name": "#3897",
+      "customerName": "Šimon Vích",
+      "createdAt": "2026-07-03T17:40:25+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131696 Clefairy - Nihil Zero 086/080 NM (Japanese) — 086/080, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12442000687448,
+      "name": "#3898",
+      "customerName": "Milan Overwijk",
+      "createdAt": "2026-07-03T17:44:11+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131668 Meowth‑ex - Nihil Zero 100/080 NM (Japanese) — 100/080, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12442005438808,
+      "name": "#3899",
+      "customerName": "Maximilian Milota",
+      "createdAt": "2026-07-03T17:46:40+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2211,8 +2262,8 @@
         "productId": 15796633665880,
         "variantId": 57468100968792,
         "onHand": 0,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
@@ -2714,6 +2765,22 @@
         "product": "142983 - Roxie’s Performance - Mega Evolution Chaos Rising 121/086 NM (English) - Special Illustration Rare",
         "productId": 15850079355224,
         "variantId": 57626537689432,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131696 Clefairy - Nihil Zero 086/080 NM (Japanese) — 086/080, Near-Mint / Illustration Rare",
+        "productId": 15641338216792,
+        "variantId": 56849297277272,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131668 Meowth‑ex - Nihil Zero 100/080 NM (Japanese) — 100/080, Near-Mint / Ultra Rare",
+        "productId": 15641339068760,
+        "variantId": 56849298260312,
         "onHand": 0,
         "committed": 1,
         "demand": 1
