@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-05T18:41:18.145Z",
+  "generatedAt": "2026-07-05T20:03:15.933Z",
   "summary": {
-    "totalUnfulfilled": 71,
+    "totalUnfulfilled": 73,
     "canFulfill": 3,
-    "blocked": 68
+    "blocked": 70
   },
   "fulfillableOrders": [
     {
@@ -1243,6 +1243,42 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12446031315288,
+      "name": "#3908",
+      "customerName": "Robert Brauner",
+      "createdAt": "2026-07-05T21:45:23+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "142987 Cinccino ex - Mega Evolution Chaos Rising 119/086 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "143015 Cinccino ex - Mega Evolution Chaos Rising 105/086 NM (English) - Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12446043472216,
+      "name": "#3909",
+      "customerName": "Viktor Augustsson",
+      "createdAt": "2026-07-05T21:51:39+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1932,8 +1968,8 @@
         "productId": 15822596735320,
         "variantId": 57537688502616,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
@@ -2675,6 +2711,22 @@
         "product": "144636 Mega Chandelure ex - MEGA Abyss Eye 097/081 NM (Japanese) - Ultra Rare",
         "productId": 15856577446232,
         "variantId": 57637167563096,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "143015 Cinccino ex - Mega Evolution Chaos Rising 105/086 NM (English) - Ultra Rare",
+        "productId": 15857003987288,
+        "variantId": 57639685914968,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
+        "productId": 15641563300184,
+        "variantId": 56849718870360,
         "onHand": 0,
         "committed": 1,
         "demand": 1
