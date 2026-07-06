@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-06T11:08:31.017Z",
+  "generatedAt": "2026-07-06T14:40:58.871Z",
   "summary": {
-    "totalUnfulfilled": 73,
-    "canFulfill": 3,
-    "blocked": 70
+    "totalUnfulfilled": 72,
+    "canFulfill": 11,
+    "blocked": 61
   },
   "fulfillableOrders": [
     {
@@ -19,9 +19,57 @@
       "itemCount": 1
     },
     {
-      "id": 12442011697496,
-      "name": "#3900",
-      "createdAt": "2026-07-03T17:49:55+02:00",
+      "id": 12414860198232,
+      "name": "#3806",
+      "createdAt": "2026-06-21T15:09:54+02:00",
+      "itemCount": 9
+    },
+    {
+      "id": 12424899723608,
+      "name": "#3834",
+      "createdAt": "2026-06-26T18:47:34+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12424966177112,
+      "name": "#3836",
+      "createdAt": "2026-06-26T19:29:36+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12428056953176,
+      "name": "#3845",
+      "createdAt": "2026-06-28T15:58:56+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12428539429208,
+      "name": "#3848",
+      "createdAt": "2026-06-28T20:32:42+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12428703891800,
+      "name": "#3856",
+      "createdAt": "2026-06-28T21:59:50+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12429844545880,
+      "name": "#3860",
+      "createdAt": "2026-06-29T14:31:39+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12431928066392,
+      "name": "#3869",
+      "createdAt": "2026-06-30T14:12:55+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12447300485464,
+      "name": "#3912",
+      "createdAt": "2026-07-06T15:31:24+02:00",
       "itemCount": 1
     }
   ],
@@ -288,21 +336,6 @@
       ]
     },
     {
-      "id": 12414860198232,
-      "name": "#3806",
-      "customerName": "Sonny Furmanek",
-      "createdAt": "2026-06-21T15:09:54+02:00",
-      "itemCount": 9,
-      "reasons": [
-        {
-          "product": "110240 Sword & Shield Silver Tempest Sleeved Booster Pack (English) — 10 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12415522931032,
       "name": "#3810",
       "customerName": "Szücs Kevin",
@@ -333,21 +366,6 @@
       ]
     },
     {
-      "id": 12420941873496,
-      "name": "#3830",
-      "customerName": "Hasan Kaya",
-      "createdAt": "2026-06-24T15:36:28+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "125900 Pikachu ex - MEGA Dream ex 234/193 NM (Japanese) — 234/193, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12420974182744,
       "name": "#3833",
       "customerName": "Adrian Arnesen",
@@ -359,36 +377,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 3
-        }
-      ]
-    },
-    {
-      "id": 12424899723608,
-      "name": "#3834",
-      "customerName": "Bilal Gültan",
-      "createdAt": "2026-06-26T18:47:34+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12424966177112,
-      "name": "#3836",
-      "customerName": "Francisco Sarabia sanchez",
-      "createdAt": "2026-06-26T19:29:36+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "132710 Weavile - Mega Evolution Ascended Heroes 228/217 NM (English) — 228/217, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -423,21 +411,6 @@
       ]
     },
     {
-      "id": 12428056953176,
-      "name": "#3845",
-      "customerName": "Bilal Gültan",
-      "createdAt": "2026-06-28T15:58:56+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12428063506776,
       "name": "#3846",
       "customerName": "Lukas Schönwetter",
@@ -453,39 +426,12 @@
       ]
     },
     {
-      "id": 12428539429208,
-      "name": "#3848",
-      "customerName": "Danay Smit",
-      "createdAt": "2026-06-28T20:32:42+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "119459 Mew ex - Scarlet & Violet 151 193/165 NM (English) — 193/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12428658934104,
       "name": "#3852",
       "customerName": "Adrià Cáceres",
       "createdAt": "2026-06-28T21:35:12+02:00",
       "itemCount": 4,
       "reasons": [
-        {
-          "product": "132724 Budew - Mega Evolution Ascended Heroes 221/217 NM (English) — 221/217, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132580 Surfer - Mega Evolution Ascended Heroes 293/217 NM (English) — 293/217, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
         {
           "product": "132850 Mega Eelektross ex - Mega Evolution Ascended Heroes 278/217 NM (English)",
           "reason": "Insufficient stock",
@@ -531,21 +477,6 @@
       ]
     },
     {
-      "id": 12428703891800,
-      "name": "#3856",
-      "customerName": "Bilal Gültan",
-      "createdAt": "2026-06-28T21:59:50+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12428706185560,
       "name": "#3857",
       "customerName": "Tibor Slezak",
@@ -554,24 +485,9 @@
       "reasons": [
         {
           "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 8,
           "needed": 2
-        }
-      ]
-    },
-    {
-      "id": 12429844545880,
-      "name": "#3860",
-      "customerName": "fernando queipo de llano de aguilera",
-      "createdAt": "2026-06-29T14:31:39+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "145433 Starmie V - Sword & Shield Astral Radiance TG13/TG30 NM (English) - Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -597,12 +513,6 @@
       "createdAt": "2026-06-29T14:49:21+02:00",
       "itemCount": 4,
       "reasons": [
-        {
-          "product": "110076 Scarlet & Violet Ancient Roar Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
         {
           "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
           "reason": "Insufficient stock",
@@ -634,18 +544,6 @@
       "itemCount": 4,
       "reasons": [
         {
-          "product": "128016 Gol.D.Roger - Carrying on His Will OP13‑003 V2 NM (English) — OP13‑003/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132198 Donquixote Doflamingo - The Azure Sea's Seven OP14‑060 V2 NM (English) — OP14‑060/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "128022 Monkey D. Luffy - Carrying on His Will OP13‑001 V2 NM (English) — OP13‑001/V2, Near-Mint / Alternate Art",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -653,21 +551,6 @@
         },
         {
           "product": "132240 Boa Hancock - The Azure Sea's Seven OP14‑041 V2 NM (English) — OP14‑041/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12429927940440,
-      "name": "#3866",
-      "customerName": "Viktor Augustsson",
-      "createdAt": "2026-06-29T15:15:51+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Sony PS5 Slim Digital Edition (EU Plug)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -683,23 +566,8 @@
       "reasons": [
         {
           "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12431928066392,
-      "name": "#3869",
-      "customerName": "Kevin Enseling/Engelhard",
-      "createdAt": "2026-06-30T14:12:55+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "131470 Pillars of Strength One Piece Booster Pack (English) — 12 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 8,
           "needed": 1
         }
       ]
@@ -720,21 +588,6 @@
       ]
     },
     {
-      "id": 12432332718424,
-      "name": "#3872",
-      "customerName": "Martin Björk",
-      "createdAt": "2026-06-30T17:54:20+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Playstation 5 Pro (PS5) 2TB",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12435487883608,
       "name": "#3873",
       "customerName": "Ryan Christiaanse",
@@ -742,15 +595,15 @@
       "itemCount": 26,
       "reasons": [
         {
-          "product": "110240 Sword & Shield Silver Tempest Sleeved Booster Pack (English) — 10 cards / Multicolor",
+          "product": "110212 Scarlet & Violet Obsidian Flames Sleeved Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
         },
         {
           "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 8,
           "needed": 1
         },
         {
@@ -899,8 +752,8 @@
       "reasons": [
         {
           "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 8,
           "needed": 1
         }
       ]
@@ -995,8 +848,8 @@
       "reasons": [
         {
           "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 8,
           "needed": 1
         }
       ]
@@ -1208,8 +1061,8 @@
       "reasons": [
         {
           "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 8,
           "needed": 1
         }
       ]
@@ -1274,6 +1127,36 @@
       "reasons": [
         {
           "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12447262376280,
+      "name": "#3911",
+      "customerName": "Maximilian Milota",
+      "createdAt": "2026-07-06T15:10:44+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "109970 Pikachu - Sword & Shield Crown Zenith 160/159 NM (English) — 160/159, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12447348949336,
+      "name": "#3913",
+      "customerName": "Fabian Langguth",
+      "createdAt": "2026-07-06T15:57:28+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "145459 OP16 The Time of Battle Release Event Booster Pack (English) - Black/White",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1696,8 +1579,8 @@
         "productId": 15816484454744,
         "variantId": 57515987272024,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "71877 Squirtle - 30th Anniversary Celebration Simplified Chinese 003/30th-P NM (Chinese)",
@@ -1999,7 +1882,7 @@
         "product": "110240 Sword & Shield Silver Tempest Sleeved Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641565233496,
         "variantId": 56849722081624,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -2052,14 +1935,6 @@
         "demand": 1
       },
       {
-        "product": "125900 Pikachu ex - MEGA Dream ex 234/193 NM (Japanese) — 234/193, Near-Mint / Special Illustration Rare",
-        "productId": 15641387860312,
-        "variantId": 56849459020120,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "119903 Scarlet & Violet 151 9-Pocket Album (English) — 9 Pocket Album / Multicolor",
         "productId": 15641503793496,
         "variantId": 56849639506264,
@@ -2076,14 +1951,6 @@
         "demand": 3
       },
       {
-        "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
-        "productId": 15777314439512,
-        "variantId": 57381528895832,
-        "onHand": 0,
-        "committed": 10,
-        "demand": 10
-      },
-      {
         "product": "119405 Mega Evolution Sleeved Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641508118872,
         "variantId": 56849646256472,
@@ -2095,7 +1962,7 @@
         "product": "132710 Weavile - Mega Evolution Ascended Heroes 228/217 NM (English) — 228/217, Near-Mint / Illustration Rare",
         "productId": 15641318621528,
         "variantId": 56849267720536,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2127,7 +1994,7 @@
         "product": "119459 Mew ex - Scarlet & Violet 151 193/165 NM (English) — 193/165, Near-Mint / Ultra Rare",
         "productId": 15641506677080,
         "variantId": 56849644224856,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2135,7 +2002,7 @@
         "product": "132724 Budew - Mega Evolution Ascended Heroes 221/217 NM (English) — 221/217, Near-Mint / Illustration Rare",
         "productId": 15641318130008,
         "variantId": 56849266442584,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2143,7 +2010,7 @@
         "product": "132580 Surfer - Mega Evolution Ascended Heroes 293/217 NM (English) — 293/217, Near-Mint / Special Illustration Rare",
         "productId": 15641321013592,
         "variantId": 56849271095640,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2183,7 +2050,7 @@
         "product": "145433 Starmie V - Sword & Shield Astral Radiance TG13/TG30 NM (English) - Special Illustration Rare",
         "productId": 15836339306840,
         "variantId": 57589267464536,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2215,7 +2082,7 @@
         "product": "110076 Scarlet & Violet Ancient Roar Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
         "productId": 15641567199576,
         "variantId": 56849733222744,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2239,7 +2106,7 @@
         "product": "128016 Gol.D.Roger - Carrying on His Will OP13‑003 V2 NM (English) — OP13‑003/V2, Near-Mint / Alternate Art",
         "productId": 15641374196056,
         "variantId": 56849439883608,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2247,7 +2114,7 @@
         "product": "132198 Donquixote Doflamingo - The Azure Sea's Seven OP14‑060 V2 NM (English) — OP14‑060/V2, Near-Mint / Alternate Art",
         "productId": 15641326715224,
         "variantId": 56849281220952,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2268,14 +2135,6 @@
         "demand": 1
       },
       {
-        "product": "Sony PS5 Slim Digital Edition (EU Plug)",
-        "productId": 15545996083544,
-        "variantId": 56482549170520,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "131514 Royal Blood One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641343590744,
         "variantId": 56849303601496,
@@ -2287,7 +2146,7 @@
         "product": "131470 Pillars of Strength One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641345032536,
         "variantId": 56849305076056,
-        "onHand": 0,
+        "onHand": 4,
         "committed": 1,
         "demand": 1
       },
@@ -2295,14 +2154,6 @@
         "product": "141886 Monkey D. Luffy - Adventure on Kamis Island EB04-061 NM (English) - Secret Rare",
         "productId": 15736169988440,
         "variantId": 57207807443288,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "Playstation 5 Pro (PS5) 2TB",
-        "productId": 15083676762456,
-        "variantId": 54866653479256,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -2727,6 +2578,22 @@
         "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
         "productId": 15641563300184,
         "variantId": 56849718870360,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "109970 Pikachu - Sword & Shield Crown Zenith 160/159 NM (English) — 160/159, Near-Mint / Secret Rare",
+        "productId": 15641569067352,
+        "variantId": 56849736434008,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "145459 OP16 The Time of Battle Release Event Booster Pack (English) - Black/White",
+        "productId": 15857990959448,
+        "variantId": 57644059001176,
         "onHand": 0,
         "committed": 1,
         "demand": 1
