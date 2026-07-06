@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-06T19:23:23.792Z",
+  "generatedAt": "2026-07-06T21:14:53.210Z",
   "summary": {
-    "totalUnfulfilled": 59,
-    "canFulfill": 3,
+    "totalUnfulfilled": 61,
+    "canFulfill": 5,
     "blocked": 56
   },
   "fulfillableOrders": [
@@ -22,6 +22,18 @@
       "id": 12364878414168,
       "name": "#3704",
       "createdAt": "2026-06-05T18:25:16+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12447961842008,
+      "name": "#3918",
+      "createdAt": "2026-07-06T21:39:18+02:00",
+      "itemCount": 5
+    },
+    {
+      "id": 12447966888280,
+      "name": "#3919",
+      "createdAt": "2026-07-06T21:42:32+02:00",
       "itemCount": 1
     }
   ],
@@ -2006,8 +2018,8 @@
         "productId": 15777314439512,
         "variantId": 57381528895832,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "113611 Scarlet & Violet Prismatic Evolution Glaceon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
@@ -2150,8 +2162,8 @@
         "productId": 15733729952088,
         "variantId": 57200688398680,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -2166,8 +2178,8 @@
         "productId": 15733730279768,
         "variantId": 57200689152344,
         "onHand": 5,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "145944 OP16 The Time of Battle Booster Pack (Japanese)",
@@ -2454,6 +2466,30 @@
         "productId": 15858416124248,
         "variantId": 57648244457816,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131524 Two Legends One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641343230296,
+        "variantId": 56849303175512,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131514 Royal Blood One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641343590744,
+        "variantId": 56849303601496,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131470 Pillars of Strength One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641345032536,
+        "variantId": 56849305076056,
+        "onHand": 3,
         "committed": 1,
         "demand": 1
       }
