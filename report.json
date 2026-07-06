@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-06T17:32:22.894Z",
+  "generatedAt": "2026-07-06T19:23:23.792Z",
   "summary": {
-    "totalUnfulfilled": 58,
+    "totalUnfulfilled": 59,
     "canFulfill": 3,
-    "blocked": 55
+    "blocked": 56
   },
   "fulfillableOrders": [
     {
@@ -1025,6 +1025,21 @@
         },
         {
           "product": "99732 Charizard V - Sword & Shield Black Star Promos 050/307 NM (English) — 050/307, Near-Mint / Promo",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12447925207384,
+      "name": "#3917",
+      "customerName": "Robert Brauner",
+      "createdAt": "2026-07-06T21:18:25+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "142981 Mega Greninja ex - Mega Evolution Chaos Rising 122/086 NM (English)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2430,6 +2445,14 @@
         "product": "99732 Charizard V - Sword & Shield Black Star Promos 050/307 NM (English) — 050/307, Near-Mint / Promo",
         "productId": 15641569558872,
         "variantId": 56849736991064,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "142981 Mega Greninja ex - Mega Evolution Chaos Rising 122/086 NM (English)",
+        "productId": 15858416124248,
+        "variantId": 57648244457816,
         "onHand": 0,
         "committed": 1,
         "demand": 1
