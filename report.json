@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-07T13:31:00.710Z",
+  "generatedAt": "2026-07-07T16:08:14.628Z",
   "summary": {
-    "totalUnfulfilled": 60,
-    "canFulfill": 4,
-    "blocked": 56
+    "totalUnfulfilled": 62,
+    "canFulfill": 5,
+    "blocked": 57
   },
   "fulfillableOrders": [
     {
@@ -28,6 +28,12 @@
       "id": 12447966888280,
       "name": "#3919",
       "createdAt": "2026-07-06T21:42:32+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12449392820568,
+      "name": "#3921",
+      "createdAt": "2026-07-07T16:32:11+02:00",
       "itemCount": 1
     }
   ],
@@ -1051,6 +1057,63 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12449297006936,
+      "name": "#3920",
+      "customerName": "Lars Hollemans",
+      "createdAt": "2026-07-07T15:41:41+02:00",
+      "itemCount": 9,
+      "reasons": [
+        {
+          "product": "132828 \tSteven’s Metagross ex - Mega Evolution Ascended Heroes 289/217 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132592 Marnie’s Grimmsnarl ex - Mega Evolution Ascended Heroes 287/217 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132616 Mega Froslass ex - Mega Evolution Ascended Heroes 275/217 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132622 Mega Meganium ex - Mega Evolution Ascended Heroes 272/217 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132698 Banette - Mega Evolution Ascended Heroes 234/217 NM (English) — 234/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132722 Ethan’s Magcargo - Mega Evolution Ascended Heroes 222/217 NM (English) — 222/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132576 Mega Dragonite ex - Mega Evolution Ascended Heroes 295/217 NM (English) — 295/217, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132590 Fezandipiti ex - Mega Evolution Ascended Heroes 288/217 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1748,8 +1811,8 @@
         "productId": 15641321013592,
         "variantId": 56849271095640,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "132850 Mega Eelektross ex - Mega Evolution Ascended Heroes 278/217 NM (English)",
@@ -1764,8 +1827,8 @@
         "productId": 15749445157208,
         "variantId": 57264596123992,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
@@ -2422,6 +2485,70 @@
         "onHand": 3,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "132828 \tSteven’s Metagross ex - Mega Evolution Ascended Heroes 289/217 NM (English) - Special Illustration Rare",
+        "productId": 15710876074328,
+        "variantId": 57123564585304,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132616 Mega Froslass ex - Mega Evolution Ascended Heroes 275/217 NM (English) - Special Illustration Rare",
+        "productId": 15820084314456,
+        "variantId": 57528408146264,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132622 Mega Meganium ex - Mega Evolution Ascended Heroes 272/217 NM (English) - Special Illustration Rare",
+        "productId": 15713423655256,
+        "variantId": 57130759323992,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132698 Banette - Mega Evolution Ascended Heroes 234/217 NM (English) — 234/217, Near-Mint / Illustration Rare",
+        "productId": 15641319014744,
+        "variantId": 56849268080984,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132722 Ethan’s Magcargo - Mega Evolution Ascended Heroes 222/217 NM (English) — 222/217, Near-Mint / Illustration Rare",
+        "productId": 15641318195544,
+        "variantId": 56849266508120,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132576 Mega Dragonite ex - Mega Evolution Ascended Heroes 295/217 NM (English) — 295/217, Near-Mint / Secret Rare",
+        "productId": 15641321177432,
+        "variantId": 56849271292248,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132590 Fezandipiti ex - Mega Evolution Ascended Heroes 288/217 NM (English) - Special Illustration Rare",
+        "productId": 15864692539736,
+        "variantId": 57658683818328,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131480 Kingdoms of Intrigue One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641344672088,
+        "variantId": 56849304715608,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2489,6 +2616,16 @@
         "product": "RØDE PodMic XLR Broadcast Microphone",
         "productId": 15858041553240,
         "variantId": 57644560318808,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132616 Mega Froslass ex - Mega Evolution Ascended Heroes 275/217 NM (English) - Special Illustration Rare",
+        "productId": 15820084314456,
+        "variantId": 57528408146264,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
