@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-07T16:08:14.628Z",
+  "generatedAt": "2026-07-07T18:24:49.125Z",
   "summary": {
-    "totalUnfulfilled": 62,
-    "canFulfill": 5,
-    "blocked": 57
+    "totalUnfulfilled": 64,
+    "canFulfill": 6,
+    "blocked": 58
   },
   "fulfillableOrders": [
     {
@@ -34,6 +34,12 @@
       "id": 12449392820568,
       "name": "#3921",
       "createdAt": "2026-07-07T16:32:11+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12449601421656,
+      "name": "#3922",
+      "createdAt": "2026-07-07T18:23:52+02:00",
       "itemCount": 1
     }
   ],
@@ -1109,6 +1115,21 @@
         },
         {
           "product": "132590 Fezandipiti ex - Mega Evolution Ascended Heroes 288/217 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12449606599000,
+      "name": "#3923",
+      "customerName": "Casper Männys",
+      "createdAt": "2026-07-07T18:27:14+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "146987 Wilds Unknown Booster Pack (English)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2547,6 +2568,22 @@
         "productId": 15641344672088,
         "variantId": 56849304715608,
         "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110198 Scarlet & Violet Paldean Fates Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566019928,
+        "variantId": 56849731322200,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "146987 Wilds Unknown Booster Pack (English)",
+        "productId": 15864794087768,
+        "variantId": 57659397964120,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
