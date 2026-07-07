@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-07T11:16:28.103Z",
+  "generatedAt": "2026-07-07T13:31:00.710Z",
   "summary": {
-    "totalUnfulfilled": 61,
-    "canFulfill": 5,
+    "totalUnfulfilled": 60,
+    "canFulfill": 4,
     "blocked": 56
   },
   "fulfillableOrders": [
@@ -11,12 +11,6 @@
       "name": "#3656",
       "createdAt": "2026-06-01T19:55:11+02:00",
       "itemCount": 1
-    },
-    {
-      "id": 12356642013528,
-      "name": "#3658",
-      "createdAt": "2026-06-01T21:27:23+02:00",
-      "itemCount": 9
     },
     {
       "id": 12364878414168,
@@ -1061,78 +1055,6 @@
   ],
   "stockAlerts": {
     "lowStock": [
-      {
-        "product": "131442 1st Anniversary DON!! Card Pack One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641345360216,
-        "variantId": 56849305403736,
-        "onHand": 4,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131452 Winner Pack 2025 Vol.3 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641345261912,
-        "variantId": 56849305305432,
-        "onHand": 2,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "131434 Sealed Battle Kit Vol.1 One Piece Booster Pack (English) — 2 cards / Black / White",
-        "productId": 15641345392984,
-        "variantId": 56849305436504,
-        "onHand": 5,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131460 Winner Pack 2025 Vol.1 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15650755051864,
-        "variantId": 56886271541592,
-        "onHand": 2,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131390 Pillars of Strength One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
-        "productId": 15641346277720,
-        "variantId": 56849306452312,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 3
-      },
-      {
-        "product": "130870 Monkey D. Luffy - The Best Vol.1 P‑055 NM V3 (English) — P‑055/V3, Near-Mint / Promo",
-        "productId": 15641360859480,
-        "variantId": 56849418125656,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131382 - CS‑2023 Celebration One Piece Booster Pack (English) - Black / White",
-        "productId": 15784541061464,
-        "variantId": 57414562546008,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "141981 Gum-Gum Golden Rifle - Adventure on Kamis Island OP15-116 V2 NM (English) - Alternate Art",
-        "productId": 15784544010584,
-        "variantId": 57414588399960,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "138103 Roronoa Zoro - The Best PRB02-006 V1 NM (Japanese)",
-        "productId": 15784546337112,
-        "variantId": 57414612582744,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
       {
         "product": "118668 Scarlet & Violet White Flare Gothitelle Tech Sticker Collection (English) — 3 booster pack / Multicolor",
         "productId": 15641522897240,
@@ -2338,6 +2260,14 @@
         "productId": 15667333103960,
         "variantId": 56960147652952,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131452 Winner Pack 2025 Vol.3 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641345261912,
+        "variantId": 56849305305432,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
