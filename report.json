@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-07T18:24:49.125Z",
+  "generatedAt": "2026-07-07T20:29:40.682Z",
   "summary": {
     "totalUnfulfilled": 64,
-    "canFulfill": 6,
-    "blocked": 58
+    "canFulfill": 7,
+    "blocked": 57
   },
   "fulfillableOrders": [
     {
@@ -16,6 +16,12 @@
       "id": 12364878414168,
       "name": "#3704",
       "createdAt": "2026-06-05T18:25:16+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12369867669848,
+      "name": "#3713",
+      "createdAt": "2026-06-07T19:38:15+02:00",
       "itemCount": 1
     },
     {
@@ -45,26 +51,11 @@
   ],
   "blockedOrders": [
     {
-      "id": 12369867669848,
-      "name": "#3713",
-      "customerName": "Zoel von Hessberg",
-      "createdAt": "2026-06-07T19:38:15+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12376044798296,
       "name": "#3731",
       "customerName": "Kevin Jansen",
       "createdAt": "2026-06-09T21:55:09+02:00",
-      "itemCount": 2,
+      "itemCount": 3,
       "reasons": [
         {
           "product": "124034 Phantasmal Flames Mega Charizard X ex 65-Sleeves (English) — Standard (66x91mm) / Blue",
@@ -1152,7 +1143,7 @@
         "productId": 15771147010392,
         "variantId": 57362036457816,
         "onHand": 0,
-        "committed": 1,
+        "committed": 0,
         "demand": 1
       },
       {
@@ -1168,7 +1159,7 @@
         "productId": 15641487638872,
         "variantId": 56849614373208,
         "onHand": 1,
-        "committed": 2,
+        "committed": 1,
         "demand": 2
       },
       {
@@ -2598,16 +2589,6 @@
         "incoming": 1,
         "available": -3,
         "shortfall": 2
-      },
-      {
-        "product": "124034 Phantasmal Flames Mega Charizard X ex 65-Sleeves (English) — Standard (66x91mm) / Blue",
-        "productId": 15641487638872,
-        "variantId": 56849614373208,
-        "onHand": 1,
-        "committed": 2,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
       },
       {
         "product": "109986 Mew ex - Scarlet & Violet 151 151/165 NM (English) — 151/165, Near-Mint / Double Rare",
