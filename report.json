@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-08T09:18:17.395Z",
+  "generatedAt": "2026-07-08T11:22:49.723Z",
   "summary": {
     "totalUnfulfilled": 64,
-    "canFulfill": 18,
-    "blocked": 46
+    "canFulfill": 20,
+    "blocked": 44
   },
   "fulfillableOrders": [
     {
@@ -31,10 +31,22 @@
       "itemCount": 3
     },
     {
+      "id": 12411544961368,
+      "name": "#3793",
+      "createdAt": "2026-06-19T16:21:09+02:00",
+      "itemCount": 3
+    },
+    {
       "id": 12415522931032,
       "name": "#3810",
       "createdAt": "2026-06-21T21:56:58+02:00",
       "itemCount": 5
+    },
+    {
+      "id": 12420974182744,
+      "name": "#3833",
+      "createdAt": "2026-06-24T15:54:16+02:00",
+      "itemCount": 3
     },
     {
       "id": 12425000747352,
@@ -220,12 +232,6 @@
       "itemCount": 18,
       "reasons": [
         {
-          "product": "125908 Mega Gengar ex - MEGA Dream ex 240/193 NM (Japanese) — 240/193, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "71876 Charmander - 30th Anniversary Celebration Simplified Chinese 002/30th-P NM (Chinese)",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -233,21 +239,6 @@
         },
         {
           "product": "71873 Bulbasaur - 30th Anniversary Celebration Simplified Chinese 001/30th-P NM (Chinese)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12411544961368,
-      "name": "#3793",
-      "customerName": "Mert Asik",
-      "createdAt": "2026-06-19T16:21:09+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "110040 Sword & Shield Space Juggler Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -266,12 +257,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
-        },
-        {
-          "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -323,21 +308,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12420974182744,
-      "name": "#3833",
-      "customerName": "Adrian Arnesen",
-      "createdAt": "2026-06-24T15:54:16+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 3
         }
       ]
     },
@@ -1415,7 +1385,7 @@
         "product": "125908 Mega Gengar ex - MEGA Dream ex 240/193 NM (Japanese) — 240/193, Near-Mint / Special Illustration Rare",
         "productId": 15641387729240,
         "variantId": 56849458889048,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1543,7 +1513,7 @@
         "product": "110040 Sword & Shield Space Juggler Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
         "productId": 15641567756632,
         "variantId": 56849734369624,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1591,7 +1561,7 @@
         "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
         "productId": 15641340477784,
         "variantId": 56849299997016,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1639,7 +1609,7 @@
         "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
         "productId": 15641488556376,
         "variantId": 56849615421784,
-        "onHand": 3,
+        "onHand": 5,
         "committed": 2,
         "demand": 2
       },
@@ -1663,7 +1633,7 @@
         "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
         "productId": 15641503891800,
         "variantId": 56849639604568,
-        "onHand": 0,
+        "onHand": 3,
         "committed": 3,
         "demand": 3
       },
@@ -1855,7 +1825,7 @@
         "product": "110169 Scarlet & Violet Stellar Crown Sleeved Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641566576984,
         "variantId": 56849732370776,
-        "onHand": 1,
+        "onHand": 6,
         "committed": 1,
         "demand": 1
       },
