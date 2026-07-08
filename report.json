@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-08T11:22:49.723Z",
+  "generatedAt": "2026-07-08T13:11:39.435Z",
   "summary": {
-    "totalUnfulfilled": 64,
+    "totalUnfulfilled": 65,
     "canFulfill": 20,
-    "blocked": 44
+    "blocked": 45
   },
   "fulfillableOrders": [
     {
@@ -980,6 +980,21 @@
       "reasons": [
         {
           "product": "146987 Wilds Unknown Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12451056910680,
+      "name": "#3924",
+      "customerName": "Hugo Pessin",
+      "createdAt": "2026-07-08T14:23:48+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Logitech Yeti Orb Gaming Microphone",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2428,19 +2443,17 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Logitech Yeti Orb Gaming Microphone",
+        "productId": 15858102436184,
+        "variantId": 57644934267224,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
-      {
-        "product": "70211 One Piece Card Game Double Pack Set Vol. 10 OP15 2 Booster Packs (English) — 2 Booster Packs / Yellow",
-        "productId": 15732278362456,
-        "variantId": 57196095471960,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 1,
-        "available": -3,
-        "shortfall": 2
-      },
       {
         "product": "109986 Mew ex - Scarlet & Violet 151 151/165 NM (English) — 151/165, Near-Mint / Double Rare",
         "productId": 15641568772440,
@@ -2495,6 +2508,16 @@
         "product": "132616 Mega Froslass ex - Mega Evolution Ascended Heroes 275/217 NM (English) - Special Illustration Rare",
         "productId": 15820084314456,
         "variantId": 57528408146264,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Logitech Yeti Orb Gaming Microphone",
+        "productId": 15858102436184,
+        "variantId": 57644934267224,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
