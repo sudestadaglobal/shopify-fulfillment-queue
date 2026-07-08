@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-08T15:38:46.452Z",
+  "generatedAt": "2026-07-08T17:14:05.970Z",
   "summary": {
-    "totalUnfulfilled": 51,
+    "totalUnfulfilled": 52,
     "canFulfill": 5,
-    "blocked": 46
+    "blocked": 47
   },
   "fulfillableOrders": [
     {
@@ -943,6 +943,27 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12451461726552,
+      "name": "#3929",
+      "customerName": "Ludvig Corswant",
+      "createdAt": "2026-07-08T17:36:45+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "113534 Scarlet & Violet Prismatic Evolutions Mini Tin Display 8 Booster Pack (English) — 8 Mini Tin, 2 booster pack, 1 coin each / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -961,7 +982,7 @@
         "variantId": 57362036457816,
         "onHand": 0,
         "committed": 1,
-        "demand": 1
+        "demand": 2
       },
       {
         "product": "133204 Mega Charizard Y ex - Mega Evolution Ascended Heroes 022/217 NM (English) — 022/217, Near-Mint / Double Rare",
@@ -1249,7 +1270,7 @@
         "variantId": 56849646387544,
         "onHand": 1,
         "committed": 2,
-        "demand": 1
+        "demand": 2
       },
       {
         "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
@@ -2266,6 +2287,22 @@
         "onHand": 7,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "113534 Scarlet & Violet Prismatic Evolutions Mini Tin Display 8 Booster Pack (English) — 8 Mini Tin, 2 booster pack, 1 coin each / Multicolor",
+        "productId": 15641562644824,
+        "variantId": 56849718051160,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
+        "productId": 15641566871896,
+        "variantId": 56849732698456,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2275,16 +2312,6 @@
         "variantId": 56849736139096,
         "onHand": 0,
         "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119401 Scarlet & Violet Black Bolt Zekrom 9-Pocket Album (English) — 9 Pocket Album / Black / Blue",
-        "productId": 15641508249944,
-        "variantId": 56849646387544,
-        "onHand": 1,
-        "committed": 2,
         "incoming": 0,
         "available": -1,
         "shortfall": 1
