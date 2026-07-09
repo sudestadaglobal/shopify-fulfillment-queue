@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-09T16:45:44.312Z",
+  "generatedAt": "2026-07-09T18:33:08.280Z",
   "summary": {
-    "totalUnfulfilled": 53,
+    "totalUnfulfilled": 54,
     "canFulfill": 4,
-    "blocked": 49
+    "blocked": 50
   },
   "fulfillableOrders": [
     {
@@ -989,6 +989,21 @@
       "reasons": [
         {
           "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12453552783704,
+      "name": "#3934",
+      "customerName": "Mario Heine",
+      "createdAt": "2026-07-09T19:52:47+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "110078 Scarlet & Violet Future Flash Booster Box (Japanese) — 30 booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2355,6 +2370,22 @@
         "productId": 15867913109848,
         "variantId": 57673193455960,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110078 Scarlet & Violet Future Flash Booster Box (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567166808,
+        "variantId": 56849733189976,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567560024,
+        "variantId": 56849733583192,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       }
