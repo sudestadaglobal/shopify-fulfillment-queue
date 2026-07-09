@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-09T11:29:05.221Z",
+  "generatedAt": "2026-07-09T14:09:05.700Z",
   "summary": {
-    "totalUnfulfilled": 49,
-    "canFulfill": 3,
-    "blocked": 46
+    "totalUnfulfilled": 51,
+    "canFulfill": 4,
+    "blocked": 47
   },
   "fulfillableOrders": [
     {
@@ -22,6 +22,12 @@
       "id": 12369867669848,
       "name": "#3713",
       "createdAt": "2026-06-07T19:38:15+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12453115822424,
+      "name": "#3930",
+      "createdAt": "2026-07-09T15:40:09+02:00",
       "itemCount": 1
     }
   ],
@@ -925,6 +931,27 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12453140398424,
+      "name": "#3931",
+      "customerName": "Janis Albinus",
+      "createdAt": "2026-07-09T15:52:44+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "48462 Magic: The Gathering - Modern Horizons 2 Set Booster Box",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "120047 Magic: The Gathering - Edge of Eternities Prerelease Promo Cards Booster (EN)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1654,7 +1681,7 @@
         "productId": 15641561334104,
         "variantId": 56849715921240,
         "onHand": 0,
-        "committed": 1,
+        "committed": 2,
         "demand": 1
       },
       {
@@ -2248,6 +2275,30 @@
         "onHand": 1,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "110279 Sword & Shield Chilling Reign Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641564545368,
+        "variantId": 56849721065816,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "48462 Magic: The Gathering - Modern Horizons 2 Set Booster Box",
+        "productId": 15661187268952,
+        "variantId": 56938023715160,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "120047 Magic: The Gathering - Edge of Eternities Prerelease Promo Cards Booster (EN)",
+        "productId": 15867904328024,
+        "variantId": 57673158885720,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2259,6 +2310,16 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "113607 Scarlet & Violet Prismatic Evolution Leafeon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
+        "productId": 15641561334104,
+        "variantId": 56849715921240,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       },
       {
