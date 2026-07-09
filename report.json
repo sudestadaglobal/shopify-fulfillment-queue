@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-09T18:33:08.280Z",
+  "generatedAt": "2026-07-09T20:29:07.856Z",
   "summary": {
-    "totalUnfulfilled": 54,
-    "canFulfill": 4,
-    "blocked": 50
+    "totalUnfulfilled": 58,
+    "canFulfill": 5,
+    "blocked": 53
   },
   "fulfillableOrders": [
     {
@@ -28,6 +28,12 @@
       "id": 12453115822424,
       "name": "#3930",
       "createdAt": "2026-07-09T15:40:09+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12453712068952,
+      "name": "#3937",
+      "createdAt": "2026-07-09T21:38:42+02:00",
       "itemCount": 1
     }
   ],
@@ -1009,6 +1015,69 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12453632082264,
+      "name": "#3935",
+      "customerName": "Christopher Roza",
+      "createdAt": "2026-07-09T20:47:03+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12453675204952,
+      "name": "#3936",
+      "customerName": "Robert Brauner",
+      "createdAt": "2026-07-09T21:14:55+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12453722751320,
+      "name": "#3938",
+      "customerName": "Christian Fiedler",
+      "createdAt": "2026-07-09T21:45:28+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "132266 Nami - The Azure Sea's Seven OP14‑031 V2 NM (English) — OP14‑031/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132042 Crocodile - The Azure Sea's Seven OP14‑120 NM V2 (English) — OP14‑120/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "145633 \tMr.3(Galdino) - One Piece The Time of Battle OP16-056-V1 NM (English) - Super Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1618,8 +1687,8 @@
         "productId": 15641560842584,
         "variantId": 56849715429720,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "128016 Gol.D.Roger - Carrying on His Will OP13‑003 V2 NM (English) — OP13‑003/V2, Near-Mint / Alternate Art",
@@ -1698,8 +1767,8 @@
         "productId": 15641565725016,
         "variantId": 56849722835288,
         "onHand": 5,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110223 Scarlet & Violet Sleeved Booster Pack (English) — Multicolor / 10 cards",
@@ -2386,6 +2455,78 @@
         "productId": 15641567560024,
         "variantId": 56849733583192,
         "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
+        "productId": 15641569788248,
+        "variantId": 56849737253208,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336676696,
+        "variantId": 56849295737176,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
+        "productId": 15642692911448,
+        "variantId": 56856050270552,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
+        "productId": 15641488556376,
+        "variantId": 56849615421784,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110166 Scarlet & Violet Prismatic Evolutions Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566642520,
+        "variantId": 56849732436312,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132344 Double Pack Set Vol. 9 (DP‑09) - The Azure Sea’s Seven (English) — 2 Booster Packs / 1 Don!! / Blue",
+        "productId": 15641321472344,
+        "variantId": 56849271685464,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132266 Nami - The Azure Sea's Seven OP14‑031 V2 NM (English) — OP14‑031/V2, Near-Mint / Alternate Art",
+        "productId": 15641324192088,
+        "variantId": 56849278697816,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132042 Crocodile - The Azure Sea's Seven OP14‑120 NM V2 (English) — OP14‑120/V2, Near-Mint / Alternate Art",
+        "productId": 15641332056408,
+        "variantId": 56849290494296,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "145633 \tMr.3(Galdino) - One Piece The Time of Battle OP16-056-V1 NM (English) - Super Rare",
+        "productId": 15868324249944,
+        "variantId": 57677086982488,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
