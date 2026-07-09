@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-09T14:09:05.700Z",
+  "generatedAt": "2026-07-09T16:45:44.312Z",
   "summary": {
-    "totalUnfulfilled": 51,
+    "totalUnfulfilled": 53,
     "canFulfill": 4,
-    "blocked": 47
+    "blocked": 49
   },
   "fulfillableOrders": [
     {
@@ -952,6 +952,48 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12453171986776,
+      "name": "#3932",
+      "customerName": "Valtteri Matero",
+      "createdAt": "2026-07-09T16:07:36+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "113607 Scarlet & Violet Prismatic Evolution Leafeon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "110090 Scarlet & Violet Booster Box 36 Booster Pack (English) — 36 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "147156 Sword & Shield Fusion Strike Sleeved Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12453249253720,
+      "name": "#3933",
+      "customerName": "Stefan Lautmann",
+      "createdAt": "2026-07-09T16:50:20+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1682,7 +1724,7 @@
         "variantId": 56849715921240,
         "onHand": 0,
         "committed": 2,
-        "demand": 1
+        "demand": 2
       },
       {
         "product": "113611 Scarlet & Violet Prismatic Evolution Glaceon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
@@ -1905,8 +1947,8 @@
         "productId": 15834588119384,
         "variantId": 57582670676312,
         "onHand": 0,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
@@ -2299,6 +2341,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "110090 Scarlet & Violet Booster Box 36 Booster Pack (English) — 36 booster pack / Multicolor",
+        "productId": 15641566970200,
+        "variantId": 56849732796760,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "147156 Sword & Shield Fusion Strike Sleeved Booster Pack (English) - Multicolor",
+        "productId": 15867913109848,
+        "variantId": 57673193455960,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2310,16 +2368,6 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "113607 Scarlet & Violet Prismatic Evolution Leafeon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
-        "productId": 15641561334104,
-        "variantId": 56849715921240,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
         "shortfall": 1
       },
       {
@@ -2386,6 +2434,16 @@
         "product": "71783 Mega Excadrill ex - MEGA Abyss Eye 101/081 NM (Japanese)",
         "productId": 15866995704152,
         "variantId": 57669310873944,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "110090 Scarlet & Violet Booster Box 36 Booster Pack (English) — 36 booster pack / Multicolor",
+        "productId": 15641566970200,
+        "variantId": 56849732796760,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
