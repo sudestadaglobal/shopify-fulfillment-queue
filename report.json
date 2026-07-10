@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-10T14:49:37.316Z",
+  "generatedAt": "2026-07-10T17:04:23.106Z",
   "summary": {
-    "totalUnfulfilled": 58,
-    "canFulfill": 5,
-    "blocked": 53
+    "totalUnfulfilled": 64,
+    "canFulfill": 8,
+    "blocked": 56
   },
   "fulfillableOrders": [
     {
@@ -25,6 +25,12 @@
       "itemCount": 1
     },
     {
+      "id": 12441821053272,
+      "name": "#3890",
+      "createdAt": "2026-07-03T16:06:58+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12453115822424,
       "name": "#3930",
       "createdAt": "2026-07-09T15:40:09+02:00",
@@ -34,6 +40,18 @@
       "id": 12453712068952,
       "name": "#3937",
       "createdAt": "2026-07-09T21:38:42+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12455207567704,
+      "name": "#3939",
+      "createdAt": "2026-07-10T17:25:01+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12455283851608,
+      "name": "#3943",
+      "createdAt": "2026-07-10T18:03:08+02:00",
       "itemCount": 1
     }
   ],
@@ -419,21 +437,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12441821053272,
-      "name": "#3890",
-      "customerName": "Leon Virkus L.V.",
-      "createdAt": "2026-07-03T16:06:58+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 3
         }
       ]
     },
@@ -1078,6 +1081,66 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12455249281368,
+      "name": "#3940",
+      "customerName": "JAVIER Barragan",
+      "createdAt": "2026-07-10T17:44:25+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131416 Paramount War Box Promotion One Piece Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12455262814552,
+      "name": "#3941",
+      "customerName": "Emil Christiansen",
+      "createdAt": "2026-07-10T17:51:29+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "125828 MEGA Dream ex Booster Box 10 Booster Packs (Japanese) — 10 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
+        }
+      ]
+    },
+    {
+      "id": 12455270416728,
+      "name": "#3942",
+      "customerName": "sven utzinger",
+      "createdAt": "2026-07-10T17:55:46+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "110270 Sword & Shield Fusion Strike Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12455288602968,
+      "name": "#3944",
+      "customerName": "Leon Berthold",
+      "createdAt": "2026-07-10T18:05:49+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1614,7 +1677,7 @@
         "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
         "productId": 15641340477784,
         "variantId": 56849299997016,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       },
@@ -1927,8 +1990,8 @@
         "productId": 15657571811672,
         "variantId": 56923414757720,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "142952 Mega Evolution Chaos Rising Booster Bundle 6 Booster Packs (English)",
@@ -2030,7 +2093,7 @@
         "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
         "productId": 15834588119384,
         "variantId": 57582670676312,
-        "onHand": 0,
+        "onHand": 3,
         "committed": 5,
         "demand": 5
       },
@@ -2529,6 +2592,38 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131416 Paramount War Box Promotion One Piece Booster Pack (English)",
+        "productId": 15721594913112,
+        "variantId": 57156955210072,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "125828 MEGA Dream ex Booster Box 10 Booster Packs (Japanese) — 10 Booster Packs / Multicolor",
+        "productId": 15641389039960,
+        "variantId": 56849460199768,
+        "onHand": 0,
+        "committed": 3,
+        "demand": 3
+      },
+      {
+        "product": "110270 Sword & Shield Fusion Strike Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641564774744,
+        "variantId": 56849721295192,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134044 Mega Evolution Perfect Order Chikorita Blister 3 Booster Packs (English) Pre‑order",
+        "productId": 15642769260888,
+        "variantId": 56856313463128,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2616,6 +2711,16 @@
         "product": "110090 Scarlet & Violet Booster Box 36 Booster Pack (English) — 36 booster pack / Multicolor",
         "productId": 15641566970200,
         "variantId": 56849732796760,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "110270 Sword & Shield Fusion Strike Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641564774744,
+        "variantId": 56849721295192,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
