@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-12T16:40:35.204Z",
+  "generatedAt": "2026-07-12T17:48:04.737Z",
   "summary": {
-    "totalUnfulfilled": 69,
+    "totalUnfulfilled": 70,
     "canFulfill": 11,
-    "blocked": 58
+    "blocked": 59
   },
   "fulfillableOrders": [
     {
@@ -1195,6 +1195,63 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12466510496088,
+      "name": "#3950",
+      "customerName": "Adrian Arnesen",
+      "createdAt": "2026-07-12T19:09:19+02:00",
+      "itemCount": 10,
+      "reasons": [
+        {
+          "product": "119473 Charmander - Scarlet & Violet 151 168/165 NM (English) — 168/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "119889 Squirtle - Scarlet & Violet 151 007/165 NM (English) — 007/165, Near-Mint / Common",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "119893 Eevee Poké Post Pop-up Exclusive Promo - Scarlet & Violet 151 133/165 NM (English) — 133/165, Near-Mint / Common",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 4
+        },
+        {
+          "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 4
+        },
+        {
+          "product": "119425 Venusaur ex - Scarlet & Violet 151 198/165 NM (English) — 198/165, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 4
+        },
+        {
+          "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 11
+        },
+        {
+          "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 4
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2156,8 +2213,8 @@
         "productId": 15641507266904,
         "variantId": 56849645109592,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "131562 Royal Blood Release Event One Piece Booster Pack (English) — 2 cards / Black / White",
@@ -2718,9 +2775,101 @@
         "onHand": 6,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (Japanese) — 175/165, Near-Mint / Illustration Rare",
+        "productId": 15641506021720,
+        "variantId": 56849643405656,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119473 Charmander - Scarlet & Violet 151 168/165 NM (English) — 168/165, Near-Mint / Illustration Rare",
+        "productId": 15641506349400,
+        "variantId": 56849643733336,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "119889 Squirtle - Scarlet & Violet 151 007/165 NM (English) — 007/165, Near-Mint / Common",
+        "productId": 15641504055640,
+        "variantId": 56849640194392,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "119893 Eevee Poké Post Pop-up Exclusive Promo - Scarlet & Violet 151 133/165 NM (English) — 133/165, Near-Mint / Common",
+        "productId": 15641503990104,
+        "variantId": 56849640128856,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "109980 Squirtle - Scarlet & Violet 151 170/165 NM (Japanese) — 170/165, Near-Mint / Illustration Rare",
+        "productId": 15641568903512,
+        "variantId": 56849736270168,
+        "onHand": 1,
+        "committed": 0,
+        "demand": 4
+      },
+      {
+        "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
+        "productId": 15641506120024,
+        "variantId": 56849643503960,
+        "onHand": 0,
+        "committed": 4,
+        "demand": 4
+      },
+      {
+        "product": "119425 Venusaur ex - Scarlet & Violet 151 198/165 NM (English) — 198/165, Near-Mint / Special Illustration Rare",
+        "productId": 15641507430744,
+        "variantId": 56849645273432,
+        "onHand": 0,
+        "committed": 4,
+        "demand": 4
+      },
+      {
+        "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
+        "productId": 15641507365208,
+        "variantId": 56849645207896,
+        "onHand": 0,
+        "committed": 11,
+        "demand": 11
+      },
+      {
+        "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
+        "productId": 15641506251096,
+        "variantId": 56849643602264,
+        "onHand": -1,
+        "committed": 4,
+        "demand": 4
       }
     ],
     "demandExceedsStock": [
+      {
+        "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
+        "productId": 15641506251096,
+        "variantId": 56849643602264,
+        "onHand": -1,
+        "committed": 4,
+        "incoming": 0,
+        "available": -5,
+        "shortfall": 5
+      },
+      {
+        "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
+        "productId": 15641507365208,
+        "variantId": 56849645207896,
+        "onHand": 0,
+        "committed": 11,
+        "incoming": 8,
+        "available": -11,
+        "shortfall": 3
+      },
       {
         "product": "109986 Mew ex - Scarlet & Violet 151 151/165 NM (English) — 151/165, Near-Mint / Double Rare",
         "productId": 15641568772440,
