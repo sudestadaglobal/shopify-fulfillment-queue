@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-12T18:44:49.332Z",
+  "generatedAt": "2026-07-12T19:58:00.979Z",
   "summary": {
-    "totalUnfulfilled": 71,
+    "totalUnfulfilled": 72,
     "canFulfill": 11,
-    "blocked": 60
+    "blocked": 61
   },
   "fulfillableOrders": [
     {
@@ -1307,6 +1307,51 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12466799313240,
+      "name": "#3952",
+      "customerName": "Adrian Arnesen",
+      "createdAt": "2026-07-12T21:47:23+02:00",
+      "itemCount": 7,
+      "reasons": [
+        {
+          "product": "126601 The Glory of Team Rocket Attaché Case Set (JP)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119901 Scarlet & Violet 151 65-Sleeves — 66 x 91 mm / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 4
+        },
+        {
+          "product": "110207 Scarlet & Violet 151 Booster NM (English) — Scarlet & Violet 151 (10 cards) / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 3,
+          "needed": 5
+        },
+        {
+          "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 5
+        },
+        {
+          "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
         }
       ]
     }
@@ -2944,6 +2989,62 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "126601 The Glory of Team Rocket Attaché Case Set (JP)",
+        "productId": 15556789993816,
+        "variantId": 56513303118168,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
+        "productId": 15641523421528,
+        "variantId": 56849676173656,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119903 Scarlet & Violet 151 9-Pocket Album (English) — 9 Pocket Album / Multicolor",
+        "productId": 15641503793496,
+        "variantId": 56849639506264,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119901 Scarlet & Violet 151 65-Sleeves — 66 x 91 mm / Multicolor",
+        "productId": 15641503826264,
+        "variantId": 56849639539032,
+        "onHand": 0,
+        "committed": 4,
+        "demand": 4
+      },
+      {
+        "product": "110207 Scarlet & Violet 151 Booster NM (English) — Scarlet & Violet 151 (10 cards) / Multicolor",
+        "productId": 15641565823320,
+        "variantId": 56849731092824,
+        "onHand": 3,
+        "committed": 5,
+        "demand": 5
+      },
+      {
+        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641503891800,
+        "variantId": 56849639604568,
+        "onHand": 0,
+        "committed": 5,
+        "demand": 5
+      },
+      {
+        "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
+        "productId": 15641503859032,
+        "variantId": 56849639571800,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3065,6 +3166,16 @@
         "committed": 2,
         "incoming": 1,
         "available": -2,
+        "shortfall": 1
+      },
+      {
+        "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
+        "productId": 15641503859032,
+        "variantId": 56849639571800,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
         "shortfall": 1
       }
     ]
