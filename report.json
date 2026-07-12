@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-12T19:58:00.979Z",
+  "generatedAt": "2026-07-12T21:00:48.018Z",
   "summary": {
-    "totalUnfulfilled": 72,
-    "canFulfill": 11,
-    "blocked": 61
+    "totalUnfulfilled": 75,
+    "canFulfill": 13,
+    "blocked": 62
   },
   "fulfillableOrders": [
     {
@@ -71,6 +71,18 @@
       "name": "#3949",
       "createdAt": "2026-07-11T16:52:30+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12466830737752,
+      "name": "#3953",
+      "createdAt": "2026-07-12T22:05:16+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12466838012248,
+      "name": "#3954",
+      "createdAt": "2026-07-12T22:07:41+02:00",
+      "itemCount": 2
     }
   ],
   "blockedOrders": [
@@ -1354,6 +1366,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12466841649496,
+      "name": "#3955",
+      "customerName": "Adrian Arnesen",
+      "createdAt": "2026-07-12T22:10:17+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1643,8 +1670,8 @@
         "productId": 15641566216536,
         "variantId": 56849731518808,
         "onHand": 3,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -3043,6 +3070,14 @@
         "productId": 15641503859032,
         "variantId": 56849639571800,
         "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "131568 Judge Pack Vol. 3 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641341395288,
+        "variantId": 56849301176664,
+        "onHand": 3,
         "committed": 1,
         "demand": 1
       }
@@ -3166,16 +3201,6 @@
         "committed": 2,
         "incoming": 1,
         "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
-        "productId": 15641503859032,
-        "variantId": 56849639571800,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
         "shortfall": 1
       }
     ]
