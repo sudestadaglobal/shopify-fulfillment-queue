@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-13T10:47:03.565Z",
+  "generatedAt": "2026-07-13T13:11:50.885Z",
   "summary": {
-    "totalUnfulfilled": 75,
+    "totalUnfulfilled": 74,
     "canFulfill": 13,
-    "blocked": 62
+    "blocked": 61
   },
   "fulfillableOrders": [
     {
@@ -95,21 +95,6 @@
       "reasons": [
         {
           "product": "109986 Mew ex - Scarlet & Violet 151 151/165 NM (English) — 151/165, Near-Mint / Double Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12377659572568,
-      "name": "#3742",
-      "customerName": "Justin Veenhuizen",
-      "createdAt": "2026-06-10T19:47:06+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "119085 Petilil - Scarlet & Violet Black Bolt 091/086 NM (English) — 091/086, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1638,14 +1623,6 @@
         "productId": 15641515000152,
         "variantId": 56849657528664,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "119085 Petilil - Scarlet & Violet Black Bolt 091/086 NM (English) — 091/086, Near-Mint / Illustration Rare",
-        "productId": 15641514967384,
-        "variantId": 56849657495896,
-        "onHand": 0,
         "committed": 1,
         "demand": 1
       },
