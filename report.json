@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-13T13:11:50.885Z",
+  "generatedAt": "2026-07-13T16:02:23.743Z",
   "summary": {
-    "totalUnfulfilled": 74,
-    "canFulfill": 13,
-    "blocked": 61
+    "totalUnfulfilled": 75,
+    "canFulfill": 17,
+    "blocked": 58
   },
   "fulfillableOrders": [
     {
@@ -25,9 +25,27 @@
       "itemCount": 1
     },
     {
+      "id": 12438101590360,
+      "name": "#3875",
+      "createdAt": "2026-07-01T17:06:05+02:00",
+      "itemCount": 3
+    },
+    {
       "id": 12441821053272,
       "name": "#3890",
       "createdAt": "2026-07-03T16:06:58+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12447459508568,
+      "name": "#3915",
+      "createdAt": "2026-07-06T16:53:45+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12451056910680,
+      "name": "#3924",
+      "createdAt": "2026-07-08T14:23:48+02:00",
       "itemCount": 1
     },
     {
@@ -82,6 +100,12 @@
       "id": 12466838012248,
       "name": "#3954",
       "createdAt": "2026-07-12T22:07:41+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12468680720728,
+      "name": "#3956",
+      "createdAt": "2026-07-13T17:30:46+02:00",
       "itemCount": 2
     }
   ],
@@ -324,21 +348,6 @@
       ]
     },
     {
-      "id": 12438101590360,
-      "name": "#3875",
-      "customerName": "Leon Berthold",
-      "createdAt": "2026-07-01T17:06:05+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "124016 Phantasmal Flames Mega Evolution Sneasel 3 Booster Pack Blister (English) — 3 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12438155854168,
       "name": "#3876",
       "customerName": "fernando queipo de llano de aguilera",
@@ -365,18 +374,6 @@
         },
         {
           "product": "141865 MEGA Ninja Spinner Booster Box 30 Booster Packs (Japanese) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 1,
-          "needed": 2
-        },
-        {
-          "product": "142959 Mega Evolution Chaos Rising Build & Battle Box 4 Booster Packs (English)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -750,21 +747,6 @@
       ]
     },
     {
-      "id": 12447459508568,
-      "name": "#3915",
-      "customerName": "Tom Siebert",
-      "createdAt": "2026-07-06T16:53:45+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "RØDE PodMic XLR Broadcast Microphone",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12447469371736,
       "name": "#3916",
       "customerName": "Axel Epskamp",
@@ -872,21 +854,6 @@
       "reasons": [
         {
           "product": "146987 Wilds Unknown Booster Pack (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12451056910680,
-      "name": "#3924",
-      "customerName": "Hugo Pessin",
-      "createdAt": "2026-07-08T14:23:48+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Logitech Yeti Orb Gaming Microphone",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2023,8 +1990,8 @@
         "productId": 15641523519832,
         "variantId": 56849676435800,
         "onHand": 9,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110240 Sword & Shield Silver Tempest Sleeved Booster Pack (English) — 10 cards / Multicolor",
@@ -2166,7 +2133,7 @@
         "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
         "productId": 15796633665880,
         "variantId": 57468100968792,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 3,
         "demand": 3
       },
@@ -2182,7 +2149,7 @@
         "product": "124016 Phantasmal Flames Mega Evolution Sneasel 3 Booster Pack Blister (English) — 3 Booster Packs / Multicolor",
         "productId": 15641488294232,
         "variantId": 56849615061336,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2190,7 +2157,7 @@
         "product": "131912 Mega Evolution Ascended Heroes Erika’s Tangela Blister 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
         "productId": 15641336971608,
         "variantId": 56849296032088,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       },
@@ -2238,7 +2205,7 @@
         "product": "142959 Mega Evolution Chaos Rising Build & Battle Box 4 Booster Packs (English)",
         "productId": 15843146826072,
         "variantId": 57609683894616,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2526,7 +2493,7 @@
         "product": "RØDE PodMic XLR Broadcast Microphone",
         "productId": 15858041553240,
         "variantId": 57644560318808,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2638,7 +2605,7 @@
         "product": "Logitech Yeti Orb Gaming Microphone",
         "productId": 15858102436184,
         "variantId": 57644934267224,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2671,7 +2638,7 @@
         "productId": 15641562644824,
         "variantId": 56849718051160,
         "onHand": 0,
-        "committed": 1,
+        "committed": 2,
         "demand": 1
       },
       {
@@ -3057,6 +3024,14 @@
         "onHand": 3,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "125812 Pokémon TCG: Holiday Calendar 2025 Box 6 Booster Packs (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641389236568,
+        "variantId": 56849460396376,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3101,29 +3076,9 @@
         "shortfall": 1
       },
       {
-        "product": "RØDE PodMic XLR Broadcast Microphone",
-        "productId": 15858041553240,
-        "variantId": 57644560318808,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "132616 Mega Froslass ex - Mega Evolution Ascended Heroes 275/217 NM (English) - Special Illustration Rare",
         "productId": 15820084314456,
         "variantId": 57528408146264,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Logitech Yeti Orb Gaming Microphone",
-        "productId": 15858102436184,
-        "variantId": 57644934267224,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
