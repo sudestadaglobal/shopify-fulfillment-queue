@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-13T16:02:23.743Z",
+  "generatedAt": "2026-07-13T18:06:21.686Z",
   "summary": {
-    "totalUnfulfilled": 75,
-    "canFulfill": 17,
-    "blocked": 58
+    "totalUnfulfilled": 80,
+    "canFulfill": 19,
+    "blocked": 61
   },
   "fulfillableOrders": [
     {
@@ -107,6 +107,18 @@
       "name": "#3956",
       "createdAt": "2026-07-13T17:30:46+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12468736033112,
+      "name": "#3958",
+      "createdAt": "2026-07-13T18:02:54+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12468801536344,
+      "name": "#3960",
+      "createdAt": "2026-07-13T18:39:05+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1333,6 +1345,51 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12468728136024,
+      "name": "#3957",
+      "customerName": "Quinten Vandenbulcke",
+      "createdAt": "2026-07-13T17:58:04+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "113534 Scarlet & Violet Prismatic Evolutions Mini Tin Display 8 Booster Pack (English) — 8 Mini Tin, 2 booster pack, 1 coin each / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12468750123352,
+      "name": "#3959",
+      "customerName": "Witt Bobski",
+      "createdAt": "2026-07-13T18:08:18+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "146992 Wilds Unknown Illumineer's Trove 8 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12468803993944,
+      "name": "#3961",
+      "customerName": "Milan Jovanovic",
+      "createdAt": "2026-07-13T18:40:30+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "109954 Scarlet & Violet Surging Sparks Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1622,8 +1679,8 @@
         "productId": 15641566052696,
         "variantId": 56849731354968,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119401 Scarlet & Violet Black Bolt Zekrom 9-Pocket Album (English) — 9 Pocket Album / Black / Blue",
@@ -2639,7 +2696,7 @@
         "variantId": 56849718051160,
         "onHand": 0,
         "committed": 2,
-        "demand": 1
+        "demand": 2
       },
       {
         "product": "110095 Sword & Shield VSTAR Universe Booster Box 10 pack (Japanese) — 10 booster pack / Multicolor",
@@ -3032,6 +3089,22 @@
         "onHand": 2,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "146992 Wilds Unknown Illumineer's Trove 8 Booster Packs (English) - Multicolor",
+        "productId": 15873086816600,
+        "variantId": 57706386850136,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "109954 Scarlet & Violet Surging Sparks Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641569493336,
+        "variantId": 56849736925528,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3041,9 +3114,9 @@
         "variantId": 56849643602264,
         "onHand": -1,
         "committed": 4,
-        "incoming": 0,
+        "incoming": 1,
         "available": -5,
-        "shortfall": 5
+        "shortfall": 4
       },
       {
         "product": "109986 Mew ex - Scarlet & Violet 151 151/165 NM (English) — 151/165, Near-Mint / Double Rare",
@@ -3116,16 +3189,6 @@
         "shortfall": 1
       },
       {
-        "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
-        "productId": 15641507365208,
-        "variantId": 56849645207896,
-        "onHand": 0,
-        "committed": 11,
-        "incoming": 10,
-        "available": -11,
-        "shortfall": 1
-      },
-      {
         "product": "119471 Ivysaur - Scarlet & Violet 151 167/165 NM (English) — 167/165, Near-Mint / Illustration Rare",
         "productId": 15641506414936,
         "variantId": 56849643798872,
@@ -3133,6 +3196,16 @@
         "committed": 2,
         "incoming": 1,
         "available": -2,
+        "shortfall": 1
+      },
+      {
+        "product": "146992 Wilds Unknown Illumineer's Trove 8 Booster Packs (English) - Multicolor",
+        "productId": 15873086816600,
+        "variantId": 57706386850136,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
         "shortfall": 1
       }
     ]
