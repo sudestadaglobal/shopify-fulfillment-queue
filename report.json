@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-14T08:27:21.754Z",
+  "generatedAt": "2026-07-14T10:22:02.447Z",
   "summary": {
-    "totalUnfulfilled": 80,
+    "totalUnfulfilled": 79,
     "canFulfill": 19,
-    "blocked": 61
+    "blocked": 60
   },
   "fulfillableOrders": [
     {
@@ -122,21 +122,6 @@
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12377304727896,
-      "name": "#3737",
-      "customerName": "Francisco Sarabia sanchez",
-      "createdAt": "2026-06-10T16:09:15+02:00",
-      "itemCount": 31,
-      "reasons": [
-        {
-          "product": "109986 Mew ex - Scarlet & Violet 151 151/165 NM (English) — 151/165, Near-Mint / Double Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
     {
       "id": 12385624654168,
       "name": "#3756",
@@ -1409,246 +1394,6 @@
         "onHand": 0,
         "committed": 1,
         "demand": 2
-      },
-      {
-        "product": "133204 Mega Charizard Y ex - Mega Evolution Ascended Heroes 022/217 NM (English) — 022/217, Near-Mint / Double Rare",
-        "productId": 15641302729048,
-        "variantId": 56849244225880,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "120699 Rotom Dex - Sun & Moon 159/149 NM (English) — 159/149, Near-Mint / Secret Rare",
-        "productId": 15641502613848,
-        "variantId": 56849637245272,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131672 Yveltal‑ex - Nihil Zero 098/080 NM (Japanese) — 098/080, Near-Mint / Ultra Rare",
-        "productId": 15641338904920,
-        "variantId": 56849298129240,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "144740 Chimchar - 30th Anniversary Celebration Simplified Chinese 011/30th-P NM (Chinese",
-        "productId": 15803133198680,
-        "variantId": 57487825371480,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "132668 Larry’s Staraptor - Mega Evolution Ascended Heroes 249/217 NM (English) — 249/217, Near-Mint / Illustration Rare",
-        "productId": 15641319866712,
-        "variantId": 56849268932952,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "141687 Ampharos - MEGA Ninja Spinner 088/083 NM (Japanese)",
-        "productId": 15803135230296,
-        "variantId": 57487835070808,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "143027 Mega Pyroar ex - Mega Evolution Chaos Rising 099/086 NM (English) - Ultra Rare",
-        "productId": 15803136278872,
-        "variantId": 57487837659480,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "144630 Lurantis ex - MEGA Abyss Eye 094/081 NM (Japanese) - Ultra Rare",
-        "productId": 15803137065304,
-        "variantId": 57487842050392,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "141665 Mega Floette ex - MEGA Ninja Spinner 099/083 NM (Japanese) - Ultra Rare",
-        "productId": 15803138212184,
-        "variantId": 57487844999512,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "109986 Mew ex - Scarlet & Violet 151 151/165 NM (English) — 151/165, Near-Mint / Double Rare",
-        "productId": 15641568772440,
-        "variantId": 56849736139096,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "144614 Manectric - MEGA Abyss Eye 086/081 NM (Japanese) - Illustration Rare",
-        "productId": 15803138769240,
-        "variantId": 57487847457112,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "144628 Silvally - MEGA Abyss Eye 093/081 NM (Japanese) - Illustration Rare",
-        "productId": 15803139621208,
-        "variantId": 57487851848024,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "113578 Walking Wake ex - Scarlet & Violet Prismatic Evolution 178/131 NM (English) — 178/131, Near-Mint / Secret Rare",
-        "productId": 15641561825624,
-        "variantId": 56849716478296,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "132712 Snorunt - Mega Evolution Ascended Heroes 227/217 NM (English) — 227/217, Near-Mint / Illustration Rare",
-        "productId": 15641318555992,
-        "variantId": 56849267655000,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "120883 Ampharos GX - Sun & Moon Team Up 043/181 NM (English) — 43/181, Near-Mint / Ultra Rare",
-        "productId": 15641499271512,
-        "variantId": 56849631936856,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "119105 Panpour - Scarlet & Violet Black Bolt 101/086 NM (English) — 101/086, Near-Mint / Illustration Rare",
-        "productId": 15641514574168,
-        "variantId": 56849656906072,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "119503 Charizard ex - Scarlet & Violet 151 006/165 NM (English) — 006/165, Near-Mint / Double Rare",
-        "productId": 15641505726808,
-        "variantId": 56849642651992,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "118840 Herdier - Scarlet & Violet White Flare 155/086 NM (English) — 155/086, Near-Mint / Illustration Rare",
-        "productId": 15641519391064,
-        "variantId": 56849664901464,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "119099 Darmanitan - Scarlet & Violet Black Bolt 098/086 NM (English) — 098/086, Near-Mint / Illustration Rare",
-        "productId": 15641514672472,
-        "variantId": 56849657004376,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "118772 Sigilyph - Scarlet & Violet White Flare 121/086 NM (English) — 121/086, Near-Mint / Illustration Rare",
-        "productId": 15641520832856,
-        "variantId": 56849666834776,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "119137 Musharna - Scarlet & Violet Black Bolt 117/086 NM (English) — 117/086, Near-Mint / Illustration Rare",
-        "productId": 15641513853272,
-        "variantId": 56849655562584,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "123264 Slakoth – Surging Sparks 212/191 NM (English) — 212/191, Near-Mint / Illustration Rare",
-        "productId": 15641488851288,
-        "variantId": 56849615716696,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "132686 Hitmontop - Mega Evolution Ascended Heroes 240/217 NM (English) — 240/217, Near-Mint / Illustration Rare",
-        "productId": 15641319375192,
-        "variantId": 56849268441432,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "140400 Yveltal ex - Mega Evolution Perfect Order 105/088 NM (English)",
-        "productId": 15803148697944,
-        "variantId": 57487881830744,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "144612 Primarina - MEGA Abyss Eye 085/081 NM (Japanese) - Illustration Rare",
-        "productId": 15803140637016,
-        "variantId": 57487853453656,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "113574 Teal Mask Ogerpon ex - Scarlet & Violet Prismatic Evolution 177/131 NM (English) — 177/131, Near-Mint / Secret Rare",
-        "productId": 15641561891160,
-        "variantId": 56849716805976,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "118730 Pansear - Scarlet & Violet White Flare 099/086 NM (English) — 099/086, Near-Mint / Illustration Rare",
-        "productId": 15641521619288,
-        "variantId": 56849667653976,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "119101 Larvesta - Scarlet & Violet Black Bolt 099/086 NM (English) — 099/086, Near-Mint / Illustration Rare",
-        "productId": 15641514639704,
-        "variantId": 56849656971608,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "118758 Blitzle - Scarlet & Violet White Flare 114/086 NM (English) — 114/086, Near-Mint / Illustration Rare",
-        "productId": 15641521062232,
-        "variantId": 56849667096920,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "119083 Simisage - Scarlet & Violet Black Bolt 090/086 NM (English) — 090/086, Near-Mint / Illustration Rare",
-        "productId": 15641515000152,
-        "variantId": 56849657528664,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
       },
       {
         "product": "142955 Mega Evolution Chaos Rising Booster Pack (English) - Multicolor",
@@ -3117,16 +2862,6 @@
         "incoming": 1,
         "available": -5,
         "shortfall": 4
-      },
-      {
-        "product": "109986 Mew ex - Scarlet & Violet 151 151/165 NM (English) — 151/165, Near-Mint / Double Rare",
-        "productId": 15641568772440,
-        "variantId": 56849736139096,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
       },
       {
         "product": "LEGO Speed Champions Ferrari SF90 XX Stradale Sports Car Set #77254",
