@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-14T14:05:06.788Z",
+  "generatedAt": "2026-07-14T15:50:57.237Z",
   "summary": {
-    "totalUnfulfilled": 78,
-    "canFulfill": 19,
-    "blocked": 59
+    "totalUnfulfilled": 88,
+    "canFulfill": 23,
+    "blocked": 65
   },
   "fulfillableOrders": [
     {
@@ -73,6 +73,12 @@
       "itemCount": 1
     },
     {
+      "id": 12464344432984,
+      "name": "#3945",
+      "createdAt": "2026-07-11T16:31:27+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12464376480088,
       "name": "#3947",
       "createdAt": "2026-07-11T16:46:21+02:00",
@@ -118,6 +124,24 @@
       "id": 12468801536344,
       "name": "#3960",
       "createdAt": "2026-07-13T18:39:05+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12470644900184,
+      "name": "#3967",
+      "createdAt": "2026-07-14T17:16:00+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12470659481944,
+      "name": "#3969",
+      "createdAt": "2026-07-14T17:23:18+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12470675931480,
+      "name": "#3971",
+      "createdAt": "2026-07-14T17:33:03+02:00",
       "itemCount": 1
     }
   ],
@@ -1107,21 +1131,6 @@
       ]
     },
     {
-      "id": 12464344432984,
-      "name": "#3945",
-      "customerName": "Milan Jovanovic",
-      "createdAt": "2026-07-11T16:31:27+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "110213 Scarlet & Violet Obsidian Flames Booster Pack (English) — 10 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12464355049816,
       "name": "#3946",
       "customerName": "João Joaquim",
@@ -1355,6 +1364,111 @@
       "reasons": [
         {
           "product": "109954 Scarlet & Violet Surging Sparks Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12470559474008,
+      "name": "#3962",
+      "customerName": "Adrian Arnesen",
+      "createdAt": "2026-07-14T16:29:45+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12470568255832,
+      "name": "#3963",
+      "customerName": "gijs Meelen",
+      "createdAt": "2026-07-14T16:33:42+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "116641 Team Rocket's Mewtwo ex - Scarlet & Violet Destined Rivals 213/182 NM (English) — 213/182, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12470581100888,
+      "name": "#3964",
+      "customerName": "Marc Visser",
+      "createdAt": "2026-07-14T16:40:27+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "116641 Team Rocket's Mewtwo ex - Scarlet & Violet Destined Rivals 213/182 NM (English) — 213/182, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12470611575128,
+      "name": "#3965",
+      "customerName": "ignaz gschwentner",
+      "createdAt": "2026-07-14T16:57:08+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12470626320728,
+      "name": "#3966",
+      "customerName": "Daniel Csucs Aron Csucs Aron",
+      "createdAt": "2026-07-14T17:04:51+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12470652109144,
+      "name": "#3968",
+      "customerName": "Luis Brauner",
+      "createdAt": "2026-07-14T17:19:23+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119391 Scarlet & Violet Black Bolt Reuniclus Tech Sticker Collection (English) — 3 booster pack / Black / Blue",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12470665609560,
+      "name": "#3970",
+      "customerName": "Enrico Rinaldi",
+      "createdAt": "2026-07-14T17:26:48+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "99731 Charizard - XY Evolutions 011/108 NM Reverse Holo (English) - Holo Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2289,8 +2403,8 @@
         "productId": 15641542984024,
         "variantId": 56849696358744,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "99732 Charizard V - Sword & Shield Black Star Promos 050/307 NM (English) — 050/307, Near-Mint / Promo",
@@ -2600,7 +2714,7 @@
         "product": "110213 Scarlet & Violet Obsidian Flames Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641565692248,
         "variantId": 56849722802520,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2697,8 +2811,8 @@
         "productId": 15641507365208,
         "variantId": 56849645207896,
         "onHand": 0,
-        "committed": 11,
-        "demand": 11
+        "committed": 12,
+        "demand": 12
       },
       {
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
@@ -2817,8 +2931,8 @@
         "productId": 15641389236568,
         "variantId": 56849460396376,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "146992 Wilds Unknown Illumineer's Trove 8 Booster Packs (English) - Multicolor",
@@ -2835,6 +2949,46 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
+        "productId": 14834629312856,
+        "variantId": 54023479296344,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "119391 Scarlet & Violet Black Bolt Reuniclus Tech Sticker Collection (English) — 3 booster pack / Black / Blue",
+        "productId": 15641508446552,
+        "variantId": 56849646584152,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119417 Mega Evolution Meowscarada Premium Checklane Blister (English) — 1 booster pack / Multicolor",
+        "productId": 15641507725656,
+        "variantId": 56849645568344,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "99731 Charizard - XY Evolutions 011/108 NM Reverse Holo (English) - Holo Rare",
+        "productId": 15874577334616,
+        "variantId": 57711765881176,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131532 Tournament Pack Vol.4 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641342902616,
+        "variantId": 56849302716760,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2847,6 +3001,16 @@
         "incoming": 1,
         "available": -5,
         "shortfall": 4
+      },
+      {
+        "product": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
+        "productId": 14834629312856,
+        "variantId": 54023479296344,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
       },
       {
         "product": "LEGO Speed Champions Ferrari SF90 XX Stradale Sports Car Set #77254",
@@ -2902,6 +3066,26 @@
         "product": "146992 Wilds Unknown Illumineer's Trove 8 Booster Packs (English) - Multicolor",
         "productId": 15873086816600,
         "variantId": 57706386850136,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "119391 Scarlet & Violet Black Bolt Reuniclus Tech Sticker Collection (English) — 3 booster pack / Black / Blue",
+        "productId": 15641508446552,
+        "variantId": 56849646584152,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "99731 Charizard - XY Evolutions 011/108 NM Reverse Holo (English) - Holo Rare",
+        "productId": 15874577334616,
+        "variantId": 57711765881176,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
