@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-14T11:59:54.787Z",
+  "generatedAt": "2026-07-14T14:05:06.788Z",
   "summary": {
-    "totalUnfulfilled": 79,
+    "totalUnfulfilled": 78,
     "canFulfill": 19,
-    "blocked": 60
+    "blocked": 59
   },
   "fulfillableOrders": [
     {
@@ -224,21 +224,6 @@
         },
         {
           "product": "142987 Cinccino ex - Mega Evolution Chaos Rising 119/086 NM (English) - Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12411864744280,
-      "name": "#3800",
-      "customerName": "Joshwoshyy LLC",
-      "createdAt": "2026-06-19T17:52:28+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1496,7 +1481,7 @@
         "productId": 15732283605336,
         "variantId": 57196109234520,
         "onHand": 1,
-        "committed": 2,
+        "committed": 1,
         "demand": 2
       },
       {
@@ -1687,14 +1672,6 @@
         "product": "142987 Cinccino ex - Mega Evolution Chaos Rising 119/086 NM (English) - Special Illustration Rare",
         "productId": 15822596735320,
         "variantId": 57537688502616,
-        "onHand": 0,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
-        "productId": 15641321341272,
-        "variantId": 56849271554392,
         "onHand": 0,
         "committed": 2,
         "demand": 2
@@ -2055,6 +2032,14 @@
         "product": "LEGO Speed Champions Ferrari SF90 XX Stradale Sports Car Set #77254",
         "productId": 15846809239896,
         "variantId": 57617331257688,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
+        "productId": 15641321341272,
+        "variantId": 56849271554392,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -2911,26 +2896,6 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119473 Charmander - Scarlet & Violet 151 168/165 NM (English) — 168/165, Near-Mint / Illustration Rare",
-        "productId": 15641506349400,
-        "variantId": 56849643733336,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 2,
-        "available": -3,
-        "shortfall": 1
-      },
-      {
-        "product": "119471 Ivysaur - Scarlet & Violet 151 167/165 NM (English) — 167/165, Near-Mint / Illustration Rare",
-        "productId": 15641506414936,
-        "variantId": 56849643798872,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
         "shortfall": 1
       },
       {
