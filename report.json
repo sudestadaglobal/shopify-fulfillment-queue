@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T20:00:31.024Z",
+  "generatedAt": "2026-07-14T21:10:54.375Z",
   "summary": {
     "totalUnfulfilled": 88,
     "canFulfill": 23,
@@ -2998,9 +2998,9 @@
         "variantId": 56849643602264,
         "onHand": -1,
         "committed": 4,
-        "incoming": 1,
+        "incoming": 2,
         "available": -5,
-        "shortfall": 4
+        "shortfall": 3
       },
       {
         "product": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
@@ -3056,26 +3056,6 @@
         "product": "71783 Mega Excadrill ex - MEGA Abyss Eye 101/081 NM (Japanese)",
         "productId": 15866995704152,
         "variantId": 57669310873944,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "146992 Wilds Unknown Illumineer's Trove 8 Booster Packs (English) - Multicolor",
-        "productId": 15873086816600,
-        "variantId": 57706386850136,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119391 Scarlet & Violet Black Bolt Reuniclus Tech Sticker Collection (English) — 3 booster pack / Black / Blue",
-        "productId": 15641508446552,
-        "variantId": 56849646584152,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
