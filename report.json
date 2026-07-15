@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T17:25:49.084Z",
+  "generatedAt": "2026-07-15T18:42:59.697Z",
   "summary": {
     "totalUnfulfilled": 98,
     "canFulfill": 41,
@@ -3011,26 +3011,6 @@
         "shortfall": 1
       },
       {
-        "product": "71773 Mega Zeraora ex - MEGA Abyss Eye 096/081 NM (Japanese)",
-        "productId": 15866995474776,
-        "variantId": 57669310087512,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "71783 Mega Excadrill ex - MEGA Abyss Eye 101/081 NM (Japanese)",
-        "productId": 15866995704152,
-        "variantId": 57669310873944,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
         "productId": 15641506283864,
         "variantId": 56849643635032,
@@ -3038,16 +3018,6 @@
         "committed": 2,
         "incoming": 1,
         "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "99731 Charizard - XY Evolutions 011/108 NM Reverse Holo (English) - Holo Rare",
-        "productId": 15874577334616,
-        "variantId": 57711765881176,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
         "shortfall": 1
       },
       {
