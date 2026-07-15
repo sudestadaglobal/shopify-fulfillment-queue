@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-15T15:56:50.429Z",
+  "generatedAt": "2026-07-15T17:25:49.084Z",
   "summary": {
-    "totalUnfulfilled": 97,
-    "canFulfill": 42,
-    "blocked": 55
+    "totalUnfulfilled": 98,
+    "canFulfill": 41,
+    "blocked": 57
   },
   "fulfillableOrders": [
     {
@@ -58,12 +58,6 @@
       "id": 12441993314648,
       "name": "#3897",
       "createdAt": "2026-07-03T17:40:25+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12442000687448,
-      "name": "#3898",
-      "createdAt": "2026-07-03T17:44:11+02:00",
       "itemCount": 1
     },
     {
@@ -566,6 +560,21 @@
         },
         {
           "product": "142983 - Roxie’s Performance - Mega Evolution Chaos Rising 121/086 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12442000687448,
+      "name": "#3898",
+      "customerName": "Milan Overwijk",
+      "createdAt": "2026-07-03T17:44:11+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131668 Meowth‑ex - Nihil Zero 100/080 NM (Japanese) — 100/080, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1349,6 +1358,21 @@
       "reasons": [
         {
           "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12472656822616,
+      "name": "#3981",
+      "customerName": "Ben Flanagan",
+      "createdAt": "2026-07-15T17:54:30+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "125790 Glaceon ex - Terastal Festival ex 206/187 NM (Japanese) — 206/187, Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2154,7 +2178,7 @@
         "product": "131668 Meowth‑ex - Nihil Zero 100/080 NM (Japanese) — 100/080, Near-Mint / Ultra Rare",
         "productId": 15641339068760,
         "variantId": 56849298260312,
-        "onHand": 1,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       },
@@ -2925,6 +2949,14 @@
         "onHand": 6,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "125790 Glaceon ex - Terastal Festival ex 206/187 NM (Japanese) — 206/187, Near-Mint / Special Illustration Rare",
+        "productId": 15641389662552,
+        "variantId": 56849460822360,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2972,16 +3004,6 @@
         "product": "Play by Play Hello Kitty Keroppy Plush Toy",
         "productId": 15849909944664,
         "variantId": 57625629065560,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132616 Mega Froslass ex - Mega Evolution Ascended Heroes 275/217 NM (English) - Special Illustration Rare",
-        "productId": 15820084314456,
-        "variantId": 57528408146264,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -3042,6 +3064,16 @@
         "product": "119491 Machoke - Scarlet & Violet 151 177/165 NM (English) — 177/165, Near-Mint / Illustration Rare",
         "productId": 15641505923416,
         "variantId": 56849643274584,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "125790 Glaceon ex - Terastal Festival ex 206/187 NM (Japanese) — 206/187, Near-Mint / Special Illustration Rare",
+        "productId": 15641389662552,
+        "variantId": 56849460822360,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
