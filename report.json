@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-15T12:07:25.596Z",
+  "generatedAt": "2026-07-15T14:15:35.954Z",
   "summary": {
-    "totalUnfulfilled": 88,
+    "totalUnfulfilled": 89,
     "canFulfill": 23,
-    "blocked": 65
+    "blocked": 66
   },
   "fulfillableOrders": [
     {
@@ -1469,6 +1469,27 @@
       "reasons": [
         {
           "product": "99731 Charizard - XY Evolutions 011/108 NM Reverse Holo (English) - Holo Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12472461689176,
+      "name": "#3972",
+      "customerName": "Traeton Isham-Her",
+      "createdAt": "2026-07-15T16:03:50+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "114536 Wailord - Scarlet & Violet Journey Together 162/159 NM (English) — 162/159, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132609 Iono’s Bellibolt ex - Mega Evolution Ascended Heroes 279/217 NM Holofoil (English) - Special Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2987,6 +3008,22 @@
         "productId": 15641342902616,
         "variantId": 56849302716760,
         "onHand": 6,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "114536 Wailord - Scarlet & Violet Journey Together 162/159 NM (English) — 162/159, Near-Mint / Illustration Rare",
+        "productId": 15641558942040,
+        "variantId": 56849713430872,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132609 Iono’s Bellibolt ex - Mega Evolution Ascended Heroes 279/217 NM Holofoil (English) - Special Illustration Rare",
+        "productId": 15876501700952,
+        "variantId": 57718137979224,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
