@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-16T15:11:00.194Z",
+  "generatedAt": "2026-07-16T16:45:35.430Z",
   "summary": {
-    "totalUnfulfilled": 102,
-    "canFulfill": 41,
+    "totalUnfulfilled": 64,
+    "canFulfill": 3,
     "blocked": 61
   },
   "fulfillableOrders": [
@@ -22,234 +22,6 @@
       "id": 12369867669848,
       "name": "#3713",
       "createdAt": "2026-06-07T19:38:15+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12411734065496,
-      "name": "#3795",
-      "createdAt": "2026-06-19T16:42:51+02:00",
-      "itemCount": 6
-    },
-    {
-      "id": 12438101590360,
-      "name": "#3875",
-      "createdAt": "2026-07-01T17:06:05+02:00",
-      "itemCount": 3
-    },
-    {
-      "id": 12438155854168,
-      "name": "#3876",
-      "createdAt": "2026-07-01T17:34:05+02:00",
-      "itemCount": 8
-    },
-    {
-      "id": 12441821053272,
-      "name": "#3890",
-      "createdAt": "2026-07-03T16:06:58+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12441855951192,
-      "name": "#3892",
-      "createdAt": "2026-07-03T16:26:12+02:00",
-      "itemCount": 4
-    },
-    {
-      "id": 12441993314648,
-      "name": "#3897",
-      "createdAt": "2026-07-03T17:40:25+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12445063119192,
-      "name": "#3901",
-      "createdAt": "2026-07-05T13:21:21+02:00",
-      "itemCount": 6
-    },
-    {
-      "id": 12445102997848,
-      "name": "#3903",
-      "createdAt": "2026-07-05T13:42:12+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12445146055000,
-      "name": "#3907",
-      "createdAt": "2026-07-05T14:04:45+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12447348949336,
-      "name": "#3913",
-      "createdAt": "2026-07-06T15:57:28+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12447459508568,
-      "name": "#3915",
-      "createdAt": "2026-07-06T16:53:45+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12447469371736,
-      "name": "#3916",
-      "createdAt": "2026-07-06T16:58:54+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12447925207384,
-      "name": "#3917",
-      "createdAt": "2026-07-06T21:18:25+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12451056910680,
-      "name": "#3924",
-      "createdAt": "2026-07-08T14:23:48+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12451316531544,
-      "name": "#3925",
-      "createdAt": "2026-07-08T16:24:55+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12453115822424,
-      "name": "#3930",
-      "createdAt": "2026-07-09T15:40:09+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12453712068952,
-      "name": "#3937",
-      "createdAt": "2026-07-09T21:38:42+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12455207567704,
-      "name": "#3939",
-      "createdAt": "2026-07-10T17:25:01+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12455283851608,
-      "name": "#3943",
-      "createdAt": "2026-07-10T18:03:08+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12464344432984,
-      "name": "#3945",
-      "createdAt": "2026-07-11T16:31:27+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12464376480088,
-      "name": "#3947",
-      "createdAt": "2026-07-11T16:46:21+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12464385458520,
-      "name": "#3948",
-      "createdAt": "2026-07-11T16:50:53+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12464388964696,
-      "name": "#3949",
-      "createdAt": "2026-07-11T16:52:30+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12466830737752,
-      "name": "#3953",
-      "createdAt": "2026-07-12T22:05:16+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12466838012248,
-      "name": "#3954",
-      "createdAt": "2026-07-12T22:07:41+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12468680720728,
-      "name": "#3956",
-      "createdAt": "2026-07-13T17:30:46+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12468736033112,
-      "name": "#3958",
-      "createdAt": "2026-07-13T18:02:54+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12468801536344,
-      "name": "#3960",
-      "createdAt": "2026-07-13T18:39:05+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12470559474008,
-      "name": "#3962",
-      "createdAt": "2026-07-14T16:29:45+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12470644900184,
-      "name": "#3967",
-      "createdAt": "2026-07-14T17:16:00+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12470659481944,
-      "name": "#3969",
-      "createdAt": "2026-07-14T17:23:18+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12470675931480,
-      "name": "#3971",
-      "createdAt": "2026-07-14T17:33:03+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12472571298136,
-      "name": "#3974",
-      "createdAt": "2026-07-15T17:04:54+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12472575590744,
-      "name": "#3975",
-      "createdAt": "2026-07-15T17:07:11+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12472582046040,
-      "name": "#3976",
-      "createdAt": "2026-07-15T17:11:09+02:00",
-      "itemCount": 3
-    },
-    {
-      "id": 12472595644760,
-      "name": "#3977",
-      "createdAt": "2026-07-15T17:18:35+02:00",
-      "itemCount": 3
-    },
-    {
-      "id": 12472602165592,
-      "name": "#3978",
-      "createdAt": "2026-07-15T17:22:25+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12472645910872,
-      "name": "#3980",
-      "createdAt": "2026-07-15T17:48:15+02:00",
       "itemCount": 1
     }
   ],
@@ -431,6 +203,12 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
+        },
+        {
+          "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
         }
       ]
     },
@@ -458,6 +236,12 @@
       "reasons": [
         {
           "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "116774 Scarlet & Violet Destined Rivals Team Rocket's Mewtwo ex Box 4 Booster Pack (English) — 4 booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1035,7 +819,7 @@
         {
           "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
-          "stock": 1,
+          "stock": 0,
           "needed": 11
         },
         {
@@ -1532,17 +1316,17 @@
         "product": "110186 Scarlet & Violet Mask of Change Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566216536,
         "variantId": 56849731518808,
-        "onHand": 3,
-        "committed": 2,
-        "demand": 2
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566052696,
         "variantId": 56849731354968,
-        "onHand": 2,
-        "committed": 2,
-        "demand": 2
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "119401 Scarlet & Violet Black Bolt Zekrom 9-Pocket Album (English) — 9 Pocket Album / Black / Blue",
@@ -1556,9 +1340,9 @@
         "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
         "productId": 15790986723672,
         "variantId": 57444361929048,
-        "onHand": 9,
-        "committed": 6,
-        "demand": 6
+        "onHand": 8,
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "71797 Misty’s Spirit - MEGA Abyss Eye 108/081 NM (Japanese)",
@@ -1614,7 +1398,7 @@
         "variantId": 57196109234520,
         "onHand": 1,
         "committed": 1,
-        "demand": 2
+        "demand": 1
       },
       {
         "product": "125908 Mega Gengar ex - MEGA Dream ex 240/193 NM (Japanese) — 240/193, Near-Mint / Special Illustration Rare",
@@ -1737,54 +1521,6 @@
         "demand": 1
       },
       {
-        "product": "134660 Sanji - Romance Dawn (Pre‑Errata) OP01‑013 V2 NM (English) — OP01‑013/V2, Near-Mint / Alternate Art",
-        "productId": 15641280414040,
-        "variantId": 56849213227352,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "132068 Boa Hancock - The Azure Sea's Seven OP14‑112 NM V2 (English) — OP14‑112/V2, Near-Mint / Alternate Art",
-        "productId": 15641331204440,
-        "variantId": 56849289478488,
-        "onHand": 2,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "131400 Tournament Pack Vol.5 Winner One Piece Booster Pack (English",
-        "productId": 15775998247256,
-        "variantId": 57373542711640,
-        "onHand": 5,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131456 Winner Pack 2024 Oct‑Dec One Piece Booster Pack (English) — 1 card / black / white",
-        "productId": 15650758066520,
-        "variantId": 56886286483800,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "70211 One Piece Card Game Double Pack Set Vol. 10 OP15 2 Booster Packs (English) — 2 Booster Packs / Yellow",
-        "productId": 15732278362456,
-        "variantId": 57196095471960,
-        "onHand": 5,
-        "committed": 3,
-        "demand": 3
-      },
-      {
-        "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
-        "productId": 15641340477784,
-        "variantId": 56849299997016,
-        "onHand": 2,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "142989 Mega Dragalge ex - Mega Evolution Chaos Rising 118/086 NM (English) - Special Illustration Rare",
         "productId": 15822594638168,
         "variantId": 57537676214616,
@@ -1900,9 +1636,9 @@
         "product": "116754 Scarlet & Violet Destined Rivals Sleeved Booster Pack (English) — 11 cards / Multicolor",
         "productId": 15641523519832,
         "variantId": 56849676435800,
-        "onHand": 9,
-        "committed": 2,
-        "demand": 2
+        "onHand": 8,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "110240 Sword & Shield Silver Tempest Sleeved Booster Pack (English) — 10 cards / Multicolor",
@@ -2044,78 +1780,14 @@
         "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
         "productId": 15796633665880,
         "variantId": 57468100968792,
-        "onHand": 2,
-        "committed": 3,
-        "demand": 3
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
         "productId": 15641321406808,
         "variantId": 56849271619928,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "124016 Phantasmal Flames Mega Evolution Sneasel 3 Booster Pack Blister (English) — 3 Booster Packs / Multicolor",
-        "productId": 15641488294232,
-        "variantId": 56849615061336,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131912 Mega Evolution Ascended Heroes Erika’s Tangela Blister 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
-        "productId": 15641336971608,
-        "variantId": 56849296032088,
-        "onHand": 2,
-        "committed": 3,
-        "demand": 3
-      },
-      {
-        "product": "110215 Play! Pokémon Prize Pack Series Three Booster Pack (English) — 6 cards / Multicolor",
-        "productId": 15641565659480,
-        "variantId": 56849722769752,
-        "onHand": 6,
-        "committed": 3,
-        "demand": 3
-      },
-      {
-        "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
-        "productId": 15657571811672,
-        "variantId": 56923414757720,
-        "onHand": 1,
-        "committed": 3,
-        "demand": 3
-      },
-      {
-        "product": "142952 Mega Evolution Chaos Rising Booster Bundle 6 Booster Packs (English)",
-        "productId": 15779706765656,
-        "variantId": 57390579482968,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
-        "productId": 15770791018840,
-        "variantId": 57361382703448,
-        "onHand": 2,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "141865 MEGA Ninja Spinner Booster Box 30 Booster Packs (Japanese) - Multicolor",
-        "productId": 15720140046680,
-        "variantId": 57151562678616,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "142959 Mega Evolution Chaos Rising Build & Battle Box 4 Booster Packs (English)",
-        "productId": 15843146826072,
-        "variantId": 57609683894616,
         "onHand": 1,
         "committed": 1,
         "demand": 1
@@ -2164,9 +1836,9 @@
         "product": "116774 Scarlet & Violet Destined Rivals Team Rocket's Mewtwo ex Box 4 Booster Pack (English) — 4 booster pack / Multicolor",
         "productId": 15641523126616,
         "variantId": 56849669620056,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "Play by Play Hello Kitty Keroppy Plush Toy",
@@ -2177,28 +1849,12 @@
         "demand": 1
       },
       {
-        "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
-        "productId": 15834588119384,
-        "variantId": 57582670676312,
-        "onHand": 4,
-        "committed": 5,
-        "demand": 5
-      },
-      {
         "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507266904,
         "variantId": 56849645109592,
         "onHand": 0,
         "committed": 5,
         "demand": 5
-      },
-      {
-        "product": "131562 Royal Blood Release Event One Piece Booster Pack (English) — 2 cards / Black / White",
-        "productId": 15641341591896,
-        "variantId": 56849301373272,
-        "onHand": 4,
-        "committed": 1,
-        "demand": 1
       },
       {
         "product": "146953 DunBroch Family Tapestry (V.2) - Wilds Unknown #228 NM (English) - Enchanted",
@@ -2273,58 +1929,10 @@
         "demand": 1
       },
       {
-        "product": "131696 Clefairy - Nihil Zero 086/080 NM (Japanese) — 086/080, Near-Mint / Illustration Rare",
-        "productId": 15641338216792,
-        "variantId": 56849297277272,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "131668 Meowth‑ex - Nihil Zero 100/080 NM (Japanese) — 100/080, Near-Mint / Ultra Rare",
         "productId": 15641339068760,
         "variantId": 56849298260312,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
-        "productId": 15667333103960,
-        "variantId": 56960147652952,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131452 Winner Pack 2025 Vol.3 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641345261912,
-        "variantId": 56849305305432,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131468 Winner Pack 2025 Vol.4 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641345098072,
-        "variantId": 56849305141592,
-        "onHand": 4,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131430 Tournament Pack Vol.2 Winner One Piece Booster Pack (English)",
-        "productId": 15798656500056,
-        "variantId": 57474322104664,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
-        "productId": 15641345753432,
-        "variantId": 56849305796952,
-        "onHand": 2,
         "committed": 1,
         "demand": 1
       },
@@ -2341,14 +1949,6 @@
         "productId": 15856571154776,
         "variantId": 57637141283160,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "118674 Reshiram ex - Scarlet & Violet White Flare 173/086 NM (English) — 173/086, Near-Mint / Double Rare",
-        "productId": 15641522798936,
-        "variantId": 56849669292376,
-        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2381,46 +1981,6 @@
         "productId": 15641569067352,
         "variantId": 56849736434008,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "145459 OP16 The Time of Battle Release Event Booster Pack (English) - Black/White",
-        "productId": 15857990959448,
-        "variantId": 57644059001176,
-        "onHand": 5,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "RØDE PodMic XLR Broadcast Microphone",
-        "productId": 15858041553240,
-        "variantId": 57644560318808,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "116641 Team Rocket's Mewtwo ex - Scarlet & Violet Destined Rivals 213/182 NM (English) — 213/182, Near-Mint / Ultra Rare",
-        "productId": 15641542984024,
-        "variantId": 56849696358744,
-        "onHand": 1,
-        "committed": 3,
-        "demand": 3
-      },
-      {
-        "product": "99732 Charizard V - Sword & Shield Black Star Promos 050/307 NM (English) — 050/307, Near-Mint / Promo",
-        "productId": 15641569558872,
-        "variantId": 56849736991064,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "142981 Mega Greninja ex - Mega Evolution Chaos Rising 122/086 NM (English)",
-        "productId": 15858416124248,
-        "variantId": 57648244457816,
-        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2505,14 +2065,6 @@
         "demand": 1
       },
       {
-        "product": "Logitech Yeti Orb Gaming Microphone",
-        "productId": 15858102436184,
-        "variantId": 57644934267224,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "71773 Mega Zeraora ex - MEGA Abyss Eye 096/081 NM (Japanese)",
         "productId": 15866995474776,
         "variantId": 57669310087512,
@@ -2553,14 +2105,6 @@
         "demand": 1
       },
       {
-        "product": "110279 Sword & Shield Chilling Reign Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641564545368,
-        "variantId": 56849721065816,
-        "onHand": 4,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "48462 Magic: The Gathering - Modern Horizons 2 Set Booster Box",
         "productId": 15661187268952,
         "variantId": 56938023715160,
@@ -2593,6 +2137,14 @@
         "demand": 1
       },
       {
+        "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
+        "productId": 15834588119384,
+        "variantId": 57582670676312,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
         "product": "110078 Scarlet & Violet Future Flash Booster Box (Japanese) — 30 booster pack / Multicolor",
         "productId": 15641567166808,
         "variantId": 56849733189976,
@@ -2620,9 +2172,9 @@
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336676696,
         "variantId": 56849295737176,
-        "onHand": 8,
-        "committed": 7,
-        "demand": 7
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
@@ -2637,14 +2189,6 @@
         "productId": 15641488556376,
         "variantId": 56849615421784,
         "onHand": 3,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "110166 Scarlet & Violet Prismatic Evolutions Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641566642520,
-        "variantId": 56849732436312,
-        "onHand": 4,
         "committed": 1,
         "demand": 1
       },
@@ -2705,20 +2249,12 @@
         "demand": 1
       },
       {
-        "product": "134044 Mega Evolution Perfect Order Chikorita Blister 3 Booster Packs (English) Pre‑order",
-        "productId": 15642769260888,
-        "variantId": 56856313463128,
-        "onHand": 6,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "110213 Scarlet & Violet Obsidian Flames Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641565692248,
-        "variantId": 56849722802520,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
+        "productId": 15657571811672,
+        "variantId": 56923414757720,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119095 Amoonguss - Scarlet & Violet Black Bolt 096/086 NM (English) — 096/086, Near-Mint / Illustration Rare",
@@ -2735,22 +2271,6 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "110285 Sword & Shield Darkness Ablaze Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641564447064,
-        "variantId": 56849720967512,
-        "onHand": 7,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-        "productId": 15641336611160,
-        "variantId": 56849295671640,
-        "onHand": 7,
-        "committed": 2,
-        "demand": 2
       },
       {
         "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (English) — 175/165, Near-Mint / Illustration Rare",
@@ -2812,9 +2332,9 @@
         "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507365208,
         "variantId": 56849645207896,
-        "onHand": 1,
-        "committed": 12,
-        "demand": 12
+        "onHand": 0,
+        "committed": 11,
+        "demand": 11
       },
       {
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
@@ -2921,22 +2441,6 @@
         "demand": 2
       },
       {
-        "product": "131568 Judge Pack Vol. 3 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641341395288,
-        "variantId": 56849301176664,
-        "onHand": 3,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "125812 Pokémon TCG: Holiday Calendar 2025 Box 6 Booster Packs (English) — 6 Booster Packs / Multicolor",
-        "productId": 15641389236568,
-        "variantId": 56849460396376,
-        "onHand": 2,
-        "committed": 2,
-        "demand": 2
-      },
-      {
         "product": "146992 Wilds Unknown Illumineer's Trove 8 Booster Packs (English) - Multicolor",
         "productId": 15873086816600,
         "variantId": 57706386850136,
@@ -2951,6 +2455,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "125812 Pokémon TCG: Holiday Calendar 2025 Box 6 Booster Packs (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641389236568,
+        "variantId": 56849460396376,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116641 Team Rocket's Mewtwo ex - Scarlet & Violet Destined Rivals 213/182 NM (English) — 213/182, Near-Mint / Ultra Rare",
+        "productId": 15641542984024,
+        "variantId": 56849696358744,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
@@ -2969,26 +2489,10 @@
         "demand": 1
       },
       {
-        "product": "119417 Mega Evolution Meowscarada Premium Checklane Blister (English) — 1 booster pack / Multicolor",
-        "productId": 15641507725656,
-        "variantId": 56849645568344,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "99731 Charizard - XY Evolutions 011/108 NM Reverse Holo (English) - Holo Rare",
         "productId": 15874577334616,
         "variantId": 57711765881176,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131532 Tournament Pack Vol.4 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641342902616,
-        "variantId": 56849302716760,
-        "onHand": 6,
         "committed": 1,
         "demand": 1
       },
@@ -3021,38 +2525,6 @@
         "productId": 15641505923416,
         "variantId": 56849643274584,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131512 Emperors in the New World One Piece Booster Pack (English) — 12 cards / Multicolor",
-        "productId": 15641343656280,
-        "variantId": 56849303667032,
-        "onHand": 4,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-        "productId": 15641336775000,
-        "variantId": 56849295835480,
-        "onHand": 8,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "110269 Sword & Shield Brilliant Stars Booster (English) — 10 cards / Multicolor",
-        "productId": 15641564840280,
-        "variantId": 56849721360728,
-        "onHand": 4,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131530 Tournament Pack Vol.3 One Piece Booster Pack (English) — 1 card / Black / White",
-        "productId": 15641342968152,
-        "variantId": 56849302782296,
-        "onHand": 6,
         "committed": 1,
         "demand": 1
       },
@@ -3100,6 +2572,14 @@
         "product": "145256 Squirtle - Scarlet & Violet Stellar Crown 148/142 NM Holofoil (English) - Illustration Rare",
         "productId": 15878279758168,
         "variantId": 57729712423256,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131912 Mega Evolution Ascended Heroes Erika’s Tangela Blister 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641336971608,
+        "variantId": 56849296032088,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -3191,16 +2671,6 @@
         "shortfall": 2
       },
       {
-        "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
-        "productId": 15657571811672,
-        "variantId": 56923414757720,
-        "onHand": 1,
-        "committed": 3,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
         "product": "Play by Play Hello Kitty Keroppy Plush Toy",
         "productId": 15849909944664,
         "variantId": 57625629065560,
@@ -3208,6 +2678,16 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
+        "productId": 15657571811672,
+        "variantId": 56923414757720,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       },
       {
