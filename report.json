@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-16T19:23:15.618Z",
+  "generatedAt": "2026-07-16T20:30:45.080Z",
   "summary": {
-    "totalUnfulfilled": 69,
-    "canFulfill": 5,
+    "totalUnfulfilled": 70,
+    "canFulfill": 6,
     "blocked": 64
   },
   "fulfillableOrders": [
@@ -34,6 +34,12 @@
       "id": 12474925220184,
       "name": "#3989",
       "createdAt": "2026-07-16T19:55:36+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12475058651480,
+      "name": "#3992",
+      "createdAt": "2026-07-16T21:24:19+02:00",
       "itemCount": 1
     }
   ],
@@ -1714,8 +1720,8 @@
         "productId": 15641565233496,
         "variantId": 56849722081624,
         "onHand": 5,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110169 Scarlet & Violet Stellar Crown Sleeved Booster Pack (English) — 10 cards / Multicolor",
