@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T06:39:13.944Z",
+  "generatedAt": "2026-07-16T09:07:33.288Z",
   "summary": {
-    "totalUnfulfilled": 98,
+    "totalUnfulfilled": 97,
     "canFulfill": 41,
-    "blocked": 57
+    "blocked": 56
   },
   "fulfillableOrders": [
     {
@@ -443,21 +443,6 @@
       "reasons": [
         {
           "product": "145944 OP16 The Time of Battle Booster Pack (Japanese)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12439802970456,
-      "name": "#3882",
-      "customerName": "Angel Garcías Martinez",
-      "createdAt": "2026-07-02T14:59:33+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "LEGO Speed Champions Ferrari SF90 XX Stradale Sports Car Set #77254",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2039,14 +2024,6 @@
         "demand": 1
       },
       {
-        "product": "LEGO Speed Champions Ferrari SF90 XX Stradale Sports Car Set #77254",
-        "productId": 15846809239896,
-        "variantId": 57617331257688,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
         "productId": 15641321341272,
         "variantId": 56849271554392,
@@ -2988,16 +2965,6 @@
         "committed": 3,
         "incoming": 1,
         "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "LEGO Speed Champions Ferrari SF90 XX Stradale Sports Car Set #77254",
-        "productId": 15846809239896,
-        "variantId": 57617331257688,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
         "shortfall": 1
       },
       {
