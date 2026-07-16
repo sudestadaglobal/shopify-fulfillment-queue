@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T17:57:51.251Z",
+  "generatedAt": "2026-07-16T19:23:15.618Z",
   "summary": {
-    "totalUnfulfilled": 66,
-    "canFulfill": 4,
-    "blocked": 62
+    "totalUnfulfilled": 69,
+    "canFulfill": 5,
+    "blocked": 64
   },
   "fulfillableOrders": [
     {
@@ -29,6 +29,12 @@
       "name": "#3987",
       "createdAt": "2026-07-16T19:24:16+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12474925220184,
+      "name": "#3989",
+      "createdAt": "2026-07-16T19:55:36+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1309,6 +1315,36 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12474926924120,
+      "name": "#3990",
+      "customerName": "Jonathan Van Praet",
+      "createdAt": "2026-07-16T19:56:43+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12475007631704,
+      "name": "#3991",
+      "customerName": "Luis Brauner",
+      "createdAt": "2026-07-16T20:50:48+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "116774 Scarlet & Violet Destined Rivals Team Rocket's Mewtwo ex Box 4 Booster Pack (English) — 4 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1870,8 +1906,8 @@
         "productId": 15641523126616,
         "variantId": 56849669620056,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "Play by Play Hello Kitty Keroppy Plush Toy",
@@ -2720,6 +2756,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131534 Tournament Pack Vol.5 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641342804312,
+        "variantId": 56849302585688,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
+        "productId": 15742390337880,
+        "variantId": 57232830890328,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2837,6 +2889,16 @@
         "product": "132668 Larry’s Staraptor - Mega Evolution Ascended Heroes 249/217 NM (English) — 249/217, Near-Mint / Illustration Rare",
         "productId": 15641319866712,
         "variantId": 56849268932952,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
+        "productId": 15742390337880,
+        "variantId": 57232830890328,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
