@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T11:16:47.172Z",
+  "generatedAt": "2026-07-16T12:57:15.655Z",
   "summary": {
-    "totalUnfulfilled": 97,
+    "totalUnfulfilled": 98,
     "canFulfill": 41,
-    "blocked": 56
+    "blocked": 57
   },
   "fulfillableOrders": [
     {
@@ -1358,6 +1358,27 @@
       "reasons": [
         {
           "product": "125790 Glaceon ex - Terastal Festival ex 206/187 NM (Japanese) — 206/187, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12474223001944,
+      "name": "#3982",
+      "customerName": "Maximilian Milota",
+      "createdAt": "2026-07-16T14:27:41+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "131646 Mega Starmie‑ex - Nihil Zero 111/080 NM (Japanese) — 111/080, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "125850 Mega Charizard X ex - MEGA Dream ex 223/193 NM (Japanese) — 223/193, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2934,6 +2955,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131646 Mega Starmie‑ex - Nihil Zero 111/080 NM (Japanese) — 111/080, Near-Mint / Special Illustration Rare",
+        "productId": 15641339625816,
+        "variantId": 56849298850136,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "125850 Mega Charizard X ex - MEGA Dream ex 223/193 NM (Japanese) — 223/193, Near-Mint / Ultra Rare",
+        "productId": 15641388745048,
+        "variantId": 56849459904856,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3011,6 +3048,26 @@
         "product": "125790 Glaceon ex - Terastal Festival ex 206/187 NM (Japanese) — 206/187, Near-Mint / Special Illustration Rare",
         "productId": 15641389662552,
         "variantId": 56849460822360,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "131646 Mega Starmie‑ex - Nihil Zero 111/080 NM (Japanese) — 111/080, Near-Mint / Special Illustration Rare",
+        "productId": 15641339625816,
+        "variantId": 56849298850136,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "125850 Mega Charizard X ex - MEGA Dream ex 223/193 NM (Japanese) — 223/193, Near-Mint / Ultra Rare",
+        "productId": 15641388745048,
+        "variantId": 56849459904856,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
