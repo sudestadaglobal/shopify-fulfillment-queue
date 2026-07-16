@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T12:57:15.655Z",
+  "generatedAt": "2026-07-16T15:11:00.194Z",
   "summary": {
-    "totalUnfulfilled": 98,
+    "totalUnfulfilled": 102,
     "canFulfill": 41,
-    "blocked": 57
+    "blocked": 61
   },
   "fulfillableOrders": [
     {
@@ -1384,6 +1384,114 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12474400178520,
+      "name": "#3983",
+      "customerName": "Traeton Isham-Her",
+      "createdAt": "2026-07-16T15:56:08+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "145256 Squirtle - Scarlet & Violet Stellar Crown 148/142 NM Holofoil (English) - Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12474430488920,
+      "name": "#3984",
+      "customerName": "Luis Brauner",
+      "createdAt": "2026-07-16T16:09:22+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131912 Mega Evolution Ascended Heroes Erika’s Tangela Blister 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12474499465560,
+      "name": "#3985",
+      "customerName": "gijs Meelen",
+      "createdAt": "2026-07-16T16:46:58+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12474510475608,
+      "name": "#3986",
+      "customerName": "Adrià Cáceres",
+      "createdAt": "2026-07-16T16:53:18+02:00",
+      "itemCount": 10,
+      "reasons": [
+        {
+          "product": "132686 Hitmontop - Mega Evolution Ascended Heroes 240/217 NM (English) — 240/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132704 Iono’s Wattrel - Mega Evolution Ascended Heroes 231/217 NM (English) — 231/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132596 Mega Scrafty ex - Mega Evolution Ascended Heroes 285/217 NM (English) — Size 285/217 / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132609 Iono’s Bellibolt ex - Mega Evolution Ascended Heroes 279/217 NM Holofoil (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132668 Larry’s Staraptor - Mega Evolution Ascended Heroes 249/217 NM (English) — 249/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132710 Weavile - Mega Evolution Ascended Heroes 228/217 NM (English) — 228/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132722 Ethan’s Magcargo - Mega Evolution Ascended Heroes 222/217 NM (English) — 222/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132728 Beautifly - Mega Evolution Ascended Heroes 219/217 NM (English) — 219/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132672 Dreepy - Mega Evolution Ascended Heroes 247/217 NM (English) — 247/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1737,8 +1845,8 @@
         "productId": 15641560842584,
         "variantId": 56849715429720,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "128016 Gol.D.Roger - Carrying on His Will OP13‑003 V2 NM (English) — OP13‑003/V2, Near-Mint / Alternate Art",
@@ -1961,8 +2069,8 @@
         "productId": 15641336971608,
         "variantId": 56849296032088,
         "onHand": 2,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "110215 Play! Pokémon Prize Pack Series Three Booster Pack (English) — 6 cards / Multicolor",
@@ -2369,8 +2477,8 @@
         "productId": 15641318195544,
         "variantId": 56849266508120,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "132576 Mega Dragonite ex - Mega Evolution Ascended Heroes 295/217 NM (English) — 295/217, Near-Mint / Secret Rare",
@@ -2897,8 +3005,8 @@
         "productId": 15876501700952,
         "variantId": 57718137979224,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119485 Nidoking - Scarlet & Violet 151 174/165 NM (English) — 174/165, Near-Mint / Illustration Rare",
@@ -2968,6 +3076,94 @@
         "product": "125850 Mega Charizard X ex - MEGA Dream ex 223/193 NM (Japanese) — 223/193, Near-Mint / Ultra Rare",
         "productId": 15641388745048,
         "variantId": 56849459904856,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "114529 Iono's Bellibolt ex - Scarlet & Violet Journey Together 183/159 NM (English) — 183/159, Near-Mint / Special Illustration Rare",
+        "productId": 15641560252760,
+        "variantId": 56849714741592,
+        "onHand": 0,
+        "committed": 0,
+        "demand": 1
+      },
+      {
+        "product": "116629 Misty's Psyduck - Scarlet & Violet Destined Rivals 193/182 NM (English) — 193/182, Near-Mint / Illustration Rare",
+        "productId": 15641544982872,
+        "variantId": 56849698423128,
+        "onHand": 0,
+        "committed": 0,
+        "demand": 1
+      },
+      {
+        "product": "145256 Squirtle - Scarlet & Violet Stellar Crown 148/142 NM Holofoil (English) - Illustration Rare",
+        "productId": 15878279758168,
+        "variantId": 57729712423256,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132686 Hitmontop - Mega Evolution Ascended Heroes 240/217 NM (English) — 240/217, Near-Mint / Illustration Rare",
+        "productId": 15641319375192,
+        "variantId": 56849268441432,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132704 Iono’s Wattrel - Mega Evolution Ascended Heroes 231/217 NM (English) — 231/217, Near-Mint / Illustration Rare",
+        "productId": 15641318818136,
+        "variantId": 56849267917144,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132596 Mega Scrafty ex - Mega Evolution Ascended Heroes 285/217 NM (English) — Size 285/217 / Special Illustration Rare",
+        "productId": 15653258461528,
+        "variantId": 56897717731672,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132596 Mega Scrafty ex - Mega Evolution Ascended Heroes 285/217 NM (English) — Near-Mint / Special Illustration Rare",
+        "productId": 15653258461528,
+        "variantId": 56897717764440,
+        "onHand": 0,
+        "committed": 0,
+        "demand": 1
+      },
+      {
+        "product": "132668 Larry’s Staraptor - Mega Evolution Ascended Heroes 249/217 NM (English) — 249/217, Near-Mint / Illustration Rare",
+        "productId": 15641319866712,
+        "variantId": 56849268932952,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132710 Weavile - Mega Evolution Ascended Heroes 228/217 NM (English) — 228/217, Near-Mint / Illustration Rare",
+        "productId": 15641318621528,
+        "variantId": 56849267720536,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132728 Beautifly - Mega Evolution Ascended Heroes 219/217 NM (English) — 219/217, Near-Mint / Illustration Rare",
+        "productId": 15641317998936,
+        "variantId": 56849266311512,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132672 Dreepy - Mega Evolution Ascended Heroes 247/217 NM (English) — 247/217, Near-Mint / Illustration Rare",
+        "productId": 15641319735640,
+        "variantId": 56849268834648,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -3068,6 +3264,26 @@
         "product": "125850 Mega Charizard X ex - MEGA Dream ex 223/193 NM (Japanese) — 223/193, Near-Mint / Ultra Rare",
         "productId": 15641388745048,
         "variantId": 56849459904856,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "145256 Squirtle - Scarlet & Violet Stellar Crown 148/142 NM Holofoil (English) - Illustration Rare",
+        "productId": 15878279758168,
+        "variantId": 57729712423256,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132668 Larry’s Staraptor - Mega Evolution Ascended Heroes 249/217 NM (English) — 249/217, Near-Mint / Illustration Rare",
+        "productId": 15641319866712,
+        "variantId": 56849268932952,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
