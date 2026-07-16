@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T16:45:35.430Z",
+  "generatedAt": "2026-07-16T17:57:51.251Z",
   "summary": {
-    "totalUnfulfilled": 64,
-    "canFulfill": 3,
-    "blocked": 61
+    "totalUnfulfilled": 66,
+    "canFulfill": 4,
+    "blocked": 62
   },
   "fulfillableOrders": [
     {
@@ -23,6 +23,12 @@
       "name": "#3713",
       "createdAt": "2026-06-07T19:38:15+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12474878820696,
+      "name": "#3987",
+      "createdAt": "2026-07-16T19:24:16+02:00",
+      "itemCount": 2
     }
   ],
   "blockedOrders": [
@@ -1271,6 +1277,33 @@
         },
         {
           "product": "132672 Dreepy - Mega Evolution Ascended Heroes 247/217 NM (English) — 247/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12474888356184,
+      "name": "#3988",
+      "customerName": "Szücs Kevin",
+      "createdAt": "2026-07-16T19:30:18+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131932 Mega Evolution Ascended Heroes Zorua Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131928 Mega Evolution Ascended Heroes Pikachu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2644,6 +2677,46 @@
         "product": "132672 Dreepy - Mega Evolution Ascended Heroes 247/217 NM (English) — 247/217, Near-Mint / Illustration Rare",
         "productId": 15641319735640,
         "variantId": 56849268834648,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131538 Tournament Pack Vol.7 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641342640472,
+        "variantId": 56849302421848,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131536 Tournament Pack Vol.6 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641342738776,
+        "variantId": 56849302520152,
+        "onHand": 8,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131934 Mega Evolution Ascended Heroes Togepi Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641336152408,
+        "variantId": 56849295245656,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131932 Mega Evolution Ascended Heroes Zorua Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641336283480,
+        "variantId": 56849295343960,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131928 Mega Evolution Ascended Heroes Pikachu Mini Tin 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641336447320,
+        "variantId": 56849295507800,
         "onHand": 0,
         "committed": 1,
         "demand": 1
