@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T14:19:18.847Z",
+  "generatedAt": "2026-07-17T15:59:25.772Z",
   "summary": {
     "totalUnfulfilled": 51,
     "canFulfill": 4,
@@ -364,7 +364,7 @@
       "itemCount": 2,
       "reasons": [
         {
-          "product": "120047 Magic: The Gathering - Edge of Eternities Prerelease Promo Cards Booster (EN)",
+          "product": "Product #15867904328024",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1495,7 +1495,7 @@
         "demand": 1
       },
       {
-        "product": "120047 Magic: The Gathering - Edge of Eternities Prerelease Promo Cards Booster (EN)",
+        "product": "Product #15867904328024",
         "productId": 15867904328024,
         "variantId": 57673158885720,
         "onHand": 0,
