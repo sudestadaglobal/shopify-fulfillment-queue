@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-17T18:37:26.958Z",
+  "generatedAt": "2026-07-17T19:51:22.520Z",
   "summary": {
-    "totalUnfulfilled": 52,
+    "totalUnfulfilled": 57,
     "canFulfill": 5,
-    "blocked": 47
+    "blocked": 52
   },
   "fulfillableOrders": [
     {
@@ -1000,6 +1000,87 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12476801384792,
+      "name": "#3994",
+      "customerName": "Fabian Langguth",
+      "createdAt": "2026-07-17T20:37:28+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12476808003928,
+      "name": "#3995",
+      "customerName": "sascha schrader",
+      "createdAt": "2026-07-17T20:43:31+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "113480 Umbreon ex - Scarlet & Violet Prismatic Evolution 161/131 NM (English) — 161/131, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12476815311192,
+      "name": "#3996",
+      "customerName": "Christian Fiedler",
+      "createdAt": "2026-07-17T20:49:08+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "130734 Portgas D. Ace - The Best Vol.2 PRB02‑018 NM V2 (English) — PRB02‑018/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "130760 Nami - The Best Vol.2 PRB02‑012 NM V2 (English) — PRB02‑012/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12476821700952,
+      "name": "#3997",
+      "customerName": "gijs Meelen",
+      "createdAt": "2026-07-17T20:54:41+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "71876 Charmander - 30th Anniversary Celebration Simplified Chinese 002/30th-P NM (Chinese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12476826419544,
+      "name": "#3998",
+      "customerName": "Nathan Jubinville-Savard",
+      "createdAt": "2026-07-17T20:58:50+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "146989 Wilds Unknown Booster Box 24 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1065,8 +1146,8 @@
         "productId": 15641345556824,
         "variantId": 56849305600344,
         "onHand": 4,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131404 Kingdoms of Intrigue One Piece Sleeved Booster Pack (English) — 12 cards / Multicolor",
@@ -1113,8 +1194,8 @@
         "productId": 15821409288536,
         "variantId": 57533802873176,
         "onHand": 0,
-        "committed": 0,
-        "demand": 1
+        "committed": 1,
+        "demand": 2
       },
       {
         "product": "71873 Bulbasaur - 30th Anniversary Celebration Simplified Chinese 001/30th-P NM (Chinese)",
@@ -2067,6 +2148,46 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
+        "productId": 15834588119384,
+        "variantId": 57582670676312,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113480 Umbreon ex - Scarlet & Violet Prismatic Evolution 161/131 NM (English) — 161/131, Near-Mint / Special Illustration Rare",
+        "productId": 15641563758936,
+        "variantId": 56849719656792,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "130734 Portgas D. Ace - The Best Vol.2 PRB02‑018 NM V2 (English) — PRB02‑018/V2, Near-Mint / Alternate Art",
+        "productId": 15641363546456,
+        "variantId": 56849421959512,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "130760 Nami - The Best Vol.2 PRB02‑012 NM V2 (English) — PRB02‑012/V2, Near-Mint / Alternate Art",
+        "productId": 15641363087704,
+        "variantId": 56849421500760,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "146989 Wilds Unknown Booster Box 24 Booster Packs (English) - Multicolor",
+        "productId": 15880047231320,
+        "variantId": 57737306734936,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2154,6 +2275,26 @@
         "product": "124054 Mega Charizard X ex - Phantasmal Flames 125/094 NM (English) — 125/094, Near-Mint / Special Illustration Rare",
         "productId": 15641486950744,
         "variantId": 56849613652312,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "113480 Umbreon ex - Scarlet & Violet Prismatic Evolution 161/131 NM (English) — 161/131, Near-Mint / Special Illustration Rare",
+        "productId": 15641563758936,
+        "variantId": 56849719656792,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "146989 Wilds Unknown Booster Box 24 Booster Packs (English) - Multicolor",
+        "productId": 15880047231320,
+        "variantId": 57737306734936,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
