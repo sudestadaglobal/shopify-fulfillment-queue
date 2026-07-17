@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-17T17:21:19.999Z",
+  "generatedAt": "2026-07-17T18:37:26.958Z",
   "summary": {
-    "totalUnfulfilled": 51,
-    "canFulfill": 4,
+    "totalUnfulfilled": 52,
+    "canFulfill": 5,
     "blocked": 47
   },
   "fulfillableOrders": [
@@ -23,6 +23,12 @@
       "name": "#3713",
       "createdAt": "2026-06-07T19:38:15+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12406675538264,
+      "name": "#3791",
+      "createdAt": "2026-06-18T16:08:19+02:00",
+      "itemCount": 18
     },
     {
       "id": 12468803993944,
@@ -62,27 +68,6 @@
       "reasons": [
         {
           "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12406675538264,
-      "name": "#3791",
-      "customerName": "fernando queipo de llano de aguilera",
-      "createdAt": "2026-06-18T16:08:19+02:00",
-      "itemCount": 18,
-      "reasons": [
-        {
-          "product": "71876 Charmander - 30th Anniversary Celebration Simplified Chinese 002/30th-P NM (Chinese)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "71873 Bulbasaur - 30th Anniversary Celebration Simplified Chinese 001/30th-P NM (Chinese)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -994,6 +979,27 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12476793979224,
+      "name": "#3993",
+      "customerName": "Elias Laurens",
+      "createdAt": "2026-07-17T20:31:27+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "125810 Suicune V - Sword & Shield Crown Zenith Galarian Gallery 038/070 NM (English) — 038/070, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "124054 Mega Charizard X ex - Phantasmal Flames 125/094 NM (English) — 125/094, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1107,7 +1113,7 @@
         "productId": 15821409288536,
         "variantId": 57533802873176,
         "onHand": 0,
-        "committed": 1,
+        "committed": 0,
         "demand": 1
       },
       {
@@ -1115,7 +1121,7 @@
         "productId": 15821412434264,
         "variantId": 57533807493464,
         "onHand": 0,
-        "committed": 1,
+        "committed": 0,
         "demand": 1
       },
       {
@@ -2045,6 +2051,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "125810 Suicune V - Sword & Shield Crown Zenith Galarian Gallery 038/070 NM (English) — 038/070, Near-Mint / Special Illustration Rare",
+        "productId": 15641389269336,
+        "variantId": 56849460429144,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "124054 Mega Charizard X ex - Phantasmal Flames 125/094 NM (English) — 125/094, Near-Mint / Special Illustration Rare",
+        "productId": 15641486950744,
+        "variantId": 56849613652312,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2089,66 +2111,6 @@
         "shortfall": 1
       },
       {
-        "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
-        "productId": 15641506283864,
-        "variantId": 56849643635032,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "119485 Nidoking - Scarlet & Violet 151 174/165 NM (English) — 174/165, Near-Mint / Illustration Rare",
-        "productId": 15641506087256,
-        "variantId": 56849643471192,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119491 Machoke - Scarlet & Violet 151 177/165 NM (English) — 177/165, Near-Mint / Illustration Rare",
-        "productId": 15641505923416,
-        "variantId": 56849643274584,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "125790 Glaceon ex - Terastal Festival ex 206/187 NM (Japanese) — 206/187, Near-Mint / Special Illustration Rare",
-        "productId": 15641389662552,
-        "variantId": 56849460822360,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "131646 Mega Starmie‑ex - Nihil Zero 111/080 NM (Japanese) — 111/080, Near-Mint / Special Illustration Rare",
-        "productId": 15641339625816,
-        "variantId": 56849298850136,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "125850 Mega Charizard X ex - MEGA Dream ex 223/193 NM (Japanese) — 223/193, Near-Mint / Ultra Rare",
-        "productId": 15641388745048,
-        "variantId": 56849459904856,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "145256 Squirtle - Scarlet & Violet Stellar Crown 148/142 NM Holofoil (English) - Illustration Rare",
         "productId": 15878279758168,
         "variantId": 57729712423256,
@@ -2172,6 +2134,26 @@
         "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
         "productId": 15742390337880,
         "variantId": 57232830890328,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "125810 Suicune V - Sword & Shield Crown Zenith Galarian Gallery 038/070 NM (English) — 038/070, Near-Mint / Special Illustration Rare",
+        "productId": 15641389269336,
+        "variantId": 56849460429144,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "124054 Mega Charizard X ex - Phantasmal Flames 125/094 NM (English) — 125/094, Near-Mint / Special Illustration Rare",
+        "productId": 15641486950744,
+        "variantId": 56849613652312,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
