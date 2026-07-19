@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-19T12:41:55.748Z",
+  "generatedAt": "2026-07-19T14:15:53.074Z",
   "summary": {
-    "totalUnfulfilled": 58,
-    "canFulfill": 6,
-    "blocked": 52
+    "totalUnfulfilled": 61,
+    "canFulfill": 8,
+    "blocked": 53
   },
   "fulfillableOrders": [
     {
@@ -41,6 +41,18 @@
       "name": "#3999",
       "createdAt": "2026-07-17T22:17:59+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12479823774040,
+      "name": "#4000",
+      "createdAt": "2026-07-19T15:47:10+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12479849824600,
+      "name": "#4002",
+      "createdAt": "2026-07-19T16:02:10+02:00",
+      "itemCount": 4
     }
   ],
   "blockedOrders": [
@@ -1087,6 +1099,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12479835504984,
+      "name": "#4001",
+      "customerName": "Adrian Arnesen",
+      "createdAt": "2026-07-19T15:54:04+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 4
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1872,16 +1899,16 @@
         "productId": 15641503793496,
         "variantId": 56849639506264,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119901 Scarlet & Violet 151 65-Sleeves — 66 x 91 mm / Multicolor",
         "productId": 15641503826264,
         "variantId": 56849639539032,
         "onHand": 4,
-        "committed": 4,
-        "demand": 4
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "110207 Scarlet & Violet 151 Booster NM (English) — Scarlet & Violet 151 (10 cards) / Multicolor",
@@ -1896,16 +1923,16 @@
         "productId": 15641503891800,
         "variantId": 56849639604568,
         "onHand": 5,
-        "committed": 5,
-        "demand": 5
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
         "productId": 15641503859032,
         "variantId": 56849639571800,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "109954 Scarlet & Violet Surging Sparks Booster Pack (English) — 10 cards / Multicolor",
@@ -2210,6 +2237,22 @@
         "onHand": 4,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336775000,
+        "variantId": 56849295835480,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116764 Scarlet & Violet Destined Rivals Kangaskhan 3 Booster Pack Blister (English) — 3 Booster pack, 1 card / Multicolor",
+        "productId": 15641523323224,
+        "variantId": 56849676075352,
+        "onHand": 0,
+        "committed": 0,
+        "demand": 3
       }
     ],
     "demandExceedsStock": [
@@ -2221,6 +2264,16 @@
         "committed": 4,
         "incoming": 2,
         "available": -5,
+        "shortfall": 3
+      },
+      {
+        "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
+        "productId": 15641503859032,
+        "variantId": 56849639571800,
+        "onHand": 0,
+        "committed": 6,
+        "incoming": 3,
+        "available": -6,
         "shortfall": 3
       },
       {
@@ -2251,6 +2304,26 @@
         "committed": 2,
         "incoming": 1,
         "available": -2,
+        "shortfall": 1
+      },
+      {
+        "product": "119903 Scarlet & Violet 151 9-Pocket Album (English) — 9 Pocket Album / Multicolor",
+        "productId": 15641503793496,
+        "variantId": 56849639506264,
+        "onHand": 1,
+        "committed": 2,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641503891800,
+        "variantId": 56849639604568,
+        "onHand": 5,
+        "committed": 6,
+        "incoming": 0,
+        "available": -1,
         "shortfall": 1
       },
       {
