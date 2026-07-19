@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-19T14:15:53.074Z",
+  "generatedAt": "2026-07-19T15:20:51.382Z",
   "summary": {
-    "totalUnfulfilled": 61,
+    "totalUnfulfilled": 64,
     "canFulfill": 8,
-    "blocked": 53
+    "blocked": 56
   },
   "fulfillableOrders": [
     {
@@ -1114,6 +1114,87 @@
           "needed": 4
         }
       ]
+    },
+    {
+      "id": 12479902712152,
+      "name": "#4003",
+      "customerName": "Adrian Arnesen",
+      "createdAt": "2026-07-19T16:30:22+02:00",
+      "itemCount": 12,
+      "reasons": [
+        {
+          "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119425 Venusaur ex - Scarlet & Violet 151 198/165 NM (English) — 198/165, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119469 Bulbasaur - Scarlet & Violet 151 166/165 NM (English) — 166/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119479 Wartortle - Scarlet & Violet 151 171/165 NM (English) — 171/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119489 Poliwhirl - Scarlet & Violet 151 176/165 NM (English) — 176/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (English) — 175/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12479957893464,
+      "name": "#4004",
+      "customerName": "Elias Laurens",
+      "createdAt": "2026-07-19T17:02:56+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132612 Pikachu ex - Ascended Heroes 277/217 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12479976243544,
+      "name": "#4005",
+      "customerName": "Emile Cnudde",
+      "createdAt": "2026-07-19T17:13:41+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "121025 Ivysaur - Mega Evolution 134/132 NM (English) — 134/132, Near-Mint / Ilustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1411,8 +1492,8 @@
         "productId": 15641507266904,
         "variantId": 56849645109592,
         "onHand": 0,
-        "committed": 5,
-        "demand": 5
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "146953 DunBroch Family Tapestry (V.2) - Wilds Unknown #228 NM (English) - Enchanted",
@@ -1771,16 +1852,16 @@
         "productId": 15641506021720,
         "variantId": 56849643405656,
         "onHand": 1,
-        "committed": 4,
-        "demand": 4
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "119473 Charmander - Scarlet & Violet 151 168/165 NM (English) — 168/165, Near-Mint / Illustration Rare",
         "productId": 15641506349400,
         "variantId": 56849643733336,
         "onHand": 1,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "119889 Squirtle - Scarlet & Violet 151 007/165 NM (English) — 007/165, Near-Mint / Common",
@@ -1811,24 +1892,24 @@
         "productId": 15641506120024,
         "variantId": 56849643503960,
         "onHand": 2,
-        "committed": 5,
-        "demand": 5
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "119425 Venusaur ex - Scarlet & Violet 151 198/165 NM (English) — 198/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507430744,
         "variantId": 56849645273432,
         "onHand": 0,
-        "committed": 6,
-        "demand": 6
+        "committed": 7,
+        "demand": 7
       },
       {
         "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507365208,
         "variantId": 56849645207896,
         "onHand": 0,
-        "committed": 11,
-        "demand": 11
+        "committed": 12,
+        "demand": 12
       },
       {
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
@@ -1843,8 +1924,8 @@
         "productId": 15641506218328,
         "variantId": 56849643569496,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
@@ -1867,16 +1948,16 @@
         "productId": 15641506414936,
         "variantId": 56849643798872,
         "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "119469 Bulbasaur - Scarlet & Violet 151 166/165 NM (English) — 166/165, Near-Mint / Illustration Rare",
         "productId": 15641506480472,
         "variantId": 56849644028248,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "126601 The Glory of Team Rocket Attaché Case Set (JP)",
@@ -2253,6 +2334,46 @@
         "onHand": 0,
         "committed": 0,
         "demand": 3
+      },
+      {
+        "product": "109982 Pikachu - Scarlet & Violet 151 173/165 NM (Japanese) — 173/165, Near-Mint / Illustration Rare",
+        "productId": 15641568870744,
+        "variantId": 56849736237400,
+        "onHand": 0,
+        "committed": 0,
+        "demand": 1
+      },
+      {
+        "product": "109976 Ivysaur - Scarlet & Violet 151 167/165 NM (Japanese) — 167/165, Near-Mint / Illustration Rare",
+        "productId": 15641568969048,
+        "variantId": 56849736335704,
+        "onHand": 0,
+        "committed": 0,
+        "demand": 1
+      },
+      {
+        "product": "119489 Poliwhirl - Scarlet & Violet 151 176/165 NM (English) — 176/165, Near-Mint / Illustration Rare",
+        "productId": 15641505988952,
+        "variantId": 56849643372888,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132612 Pikachu ex - Ascended Heroes 277/217 NM (English) - Special Illustration Rare",
+        "productId": 15713423819096,
+        "variantId": 57130759848280,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "121025 Ivysaur - Mega Evolution 134/132 NM (English) — 134/132, Near-Mint / Ilustration Rare",
+        "productId": 15641496355160,
+        "variantId": 56849626366296,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2297,9 +2418,89 @@
         "shortfall": 1
       },
       {
+        "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
+        "productId": 15641507266904,
+        "variantId": 56849645109592,
+        "onHand": 0,
+        "committed": 6,
+        "incoming": 5,
+        "available": -6,
+        "shortfall": 1
+      },
+      {
         "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
         "productId": 15657571811672,
         "variantId": 56923414757720,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
+      },
+      {
+        "product": "119473 Charmander - Scarlet & Violet 151 168/165 NM (English) — 168/165, Near-Mint / Illustration Rare",
+        "productId": 15641506349400,
+        "variantId": 56849643733336,
+        "onHand": 1,
+        "committed": 4,
+        "incoming": 2,
+        "available": -3,
+        "shortfall": 1
+      },
+      {
+        "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
+        "productId": 15641506120024,
+        "variantId": 56849643503960,
+        "onHand": 2,
+        "committed": 6,
+        "incoming": 3,
+        "available": -4,
+        "shortfall": 1
+      },
+      {
+        "product": "119425 Venusaur ex - Scarlet & Violet 151 198/165 NM (English) — 198/165, Near-Mint / Special Illustration Rare",
+        "productId": 15641507430744,
+        "variantId": 56849645273432,
+        "onHand": 0,
+        "committed": 7,
+        "incoming": 6,
+        "available": -7,
+        "shortfall": 1
+      },
+      {
+        "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
+        "productId": 15641507365208,
+        "variantId": 56849645207896,
+        "onHand": 0,
+        "committed": 12,
+        "incoming": 11,
+        "available": -12,
+        "shortfall": 1
+      },
+      {
+        "product": "119479 Wartortle - Scarlet & Violet 151 171/165 NM (English) — 171/165, Near-Mint / Illustration Rare",
+        "productId": 15641506218328,
+        "variantId": 56849643569496,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
+      },
+      {
+        "product": "119471 Ivysaur - Scarlet & Violet 151 167/165 NM (English) — 167/165, Near-Mint / Illustration Rare",
+        "productId": 15641506414936,
+        "variantId": 56849643798872,
+        "onHand": 1,
+        "committed": 3,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
+      },
+      {
+        "product": "119469 Bulbasaur - Scarlet & Violet 151 166/165 NM (English) — 166/165, Near-Mint / Illustration Rare",
+        "productId": 15641506480472,
+        "variantId": 56849644028248,
         "onHand": 0,
         "committed": 2,
         "incoming": 1,
@@ -2390,6 +2591,36 @@
         "product": "146989 Wilds Unknown Booster Box 24 Booster Packs (English) - Multicolor",
         "productId": 15880047231320,
         "variantId": 57737306734936,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "119489 Poliwhirl - Scarlet & Violet 151 176/165 NM (English) — 176/165, Near-Mint / Illustration Rare",
+        "productId": 15641505988952,
+        "variantId": 56849643372888,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132612 Pikachu ex - Ascended Heroes 277/217 NM (English) - Special Illustration Rare",
+        "productId": 15713423819096,
+        "variantId": 57130759848280,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "121025 Ivysaur - Mega Evolution 134/132 NM (English) — 134/132, Near-Mint / Ilustration Rare",
+        "productId": 15641496355160,
+        "variantId": 56849626366296,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
