@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-19T15:20:51.382Z",
+  "generatedAt": "2026-07-19T16:30:30.175Z",
   "summary": {
-    "totalUnfulfilled": 64,
-    "canFulfill": 8,
-    "blocked": 56
+    "totalUnfulfilled": 69,
+    "canFulfill": 10,
+    "blocked": 59
   },
   "fulfillableOrders": [
     {
@@ -53,6 +53,18 @@
       "name": "#4002",
       "createdAt": "2026-07-19T16:02:10+02:00",
       "itemCount": 4
+    },
+    {
+      "id": 12480024314200,
+      "name": "#4008",
+      "createdAt": "2026-07-19T17:40:21+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12480030572888,
+      "name": "#4009",
+      "createdAt": "2026-07-19T17:43:53+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1195,6 +1207,75 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12479986893144,
+      "name": "#4006",
+      "customerName": "Adrià Cáceres",
+      "createdAt": "2026-07-19T17:18:19+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "132688 Team Rocket’s Dugtrio - Mega Evolution Ascended Heroes 239/217 NM (English) — 239/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132716 Scorbunny - Mega Evolution Ascended Heroes 225/217 NM (English) — 225/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12480011207000,
+      "name": "#4007",
+      "customerName": "clement gautier",
+      "createdAt": "2026-07-19T17:32:38+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12480037781848,
+      "name": "#4010",
+      "customerName": "Fabian Moser",
+      "createdAt": "2026-07-19T17:47:39+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131634 Mega Zygarde‑ex - Nihil Zero 117/080 NM (Japanese) — 117/080, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1252,8 +1333,8 @@
         "productId": 15641321570648,
         "variantId": 56849271783768,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131422 Memorial Collection One Piece Booster Pack (English) — 12 cards / Multicolor",
@@ -2268,8 +2349,8 @@
         "productId": 15834588119384,
         "variantId": 57582670676312,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "113480 Umbreon ex - Scarlet & Violet Prismatic Evolution 161/131 NM (English) — 161/131, Near-Mint / Special Illustration Rare",
@@ -2374,6 +2455,62 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "132688 Team Rocket’s Dugtrio - Mega Evolution Ascended Heroes 239/217 NM (English) — 239/217, Near-Mint / Illustration Rare",
+        "productId": 15641319309656,
+        "variantId": 56849268408664,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132716 Scorbunny - Mega Evolution Ascended Heroes 225/217 NM (English) — 225/217, Near-Mint / Illustration Rare",
+        "productId": 15641318424920,
+        "variantId": 56849267523928,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+        "productId": 15732280426840,
+        "variantId": 57196101075288,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
+        "productId": 15641340051800,
+        "variantId": 56849299571032,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "131568 Judge Pack Vol. 3 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641341395288,
+        "variantId": 56849301176664,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116754 Scarlet & Violet Destined Rivals Sleeved Booster Pack (English) — 11 cards / Multicolor",
+        "productId": 15641523519832,
+        "variantId": 56849676435800,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131634 Mega Zygarde‑ex - Nihil Zero 117/080 NM (Japanese) — 117/080, Near-Mint / Secret Rare",
+        "productId": 15641340019032,
+        "variantId": 56849299538264,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2398,9 +2535,39 @@
         "shortfall": 3
       },
       {
+        "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
+        "productId": 15641321570648,
+        "variantId": 56849271783768,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 1,
+        "available": -3,
+        "shortfall": 2
+      },
+      {
         "product": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
         "productId": 14834629312856,
         "variantId": 54023479296344,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
+        "productId": 15834588119384,
+        "variantId": 57582670676312,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 1,
+        "available": -3,
+        "shortfall": 2
+      },
+      {
+        "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+        "productId": 15732280426840,
+        "variantId": 57196101075288,
         "onHand": 0,
         "committed": 2,
         "incoming": 0,
@@ -2621,6 +2788,36 @@
         "product": "121025 Ivysaur - Mega Evolution 134/132 NM (English) — 134/132, Near-Mint / Ilustration Rare",
         "productId": 15641496355160,
         "variantId": 56849626366296,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132688 Team Rocket’s Dugtrio - Mega Evolution Ascended Heroes 239/217 NM (English) — 239/217, Near-Mint / Illustration Rare",
+        "productId": 15641319309656,
+        "variantId": 56849268408664,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132716 Scorbunny - Mega Evolution Ascended Heroes 225/217 NM (English) — 225/217, Near-Mint / Illustration Rare",
+        "productId": 15641318424920,
+        "variantId": 56849267523928,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "131634 Mega Zygarde‑ex - Nihil Zero 117/080 NM (Japanese) — 117/080, Near-Mint / Secret Rare",
+        "productId": 15641340019032,
+        "variantId": 56849299538264,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
