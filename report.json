@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-19T17:36:36.751Z",
+  "generatedAt": "2026-07-19T18:43:04.441Z",
   "summary": {
-    "totalUnfulfilled": 69,
-    "canFulfill": 10,
-    "blocked": 59
+    "totalUnfulfilled": 74,
+    "canFulfill": 13,
+    "blocked": 61
   },
   "fulfillableOrders": [
     {
@@ -65,6 +65,24 @@
       "name": "#4009",
       "createdAt": "2026-07-19T17:43:53+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12480275972440,
+      "name": "#4012",
+      "createdAt": "2026-07-19T20:09:59+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12480305201496,
+      "name": "#4013",
+      "createdAt": "2026-07-19T20:27:47+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12480307560792,
+      "name": "#4014",
+      "createdAt": "2026-07-19T20:29:11+02:00",
+      "itemCount": 2
     }
   ],
   "blockedOrders": [
@@ -1276,6 +1294,42 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12480239993176,
+      "name": "#4011",
+      "customerName": "Maxim Leitsch",
+      "createdAt": "2026-07-19T19:49:48+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
+        }
+      ]
+    },
+    {
+      "id": 12480312344920,
+      "name": "#4015",
+      "customerName": "Hugo Pessin",
+      "createdAt": "2026-07-19T20:31:55+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "125798 Glaceon VSTAR - VSTAR Universe 217/172 NM (Japanese) — 217/172, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "99731 Charizard - XY Evolutions 011/108 NM Reverse Holo (English) - Holo Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2141,8 +2195,8 @@
         "productId": 15874577334616,
         "variantId": 57711765881176,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "114536 Wailord - Scarlet & Violet Journey Together 162/159 NM (English) — 162/159, Near-Mint / Illustration Rare",
@@ -2397,16 +2451,16 @@
         "productId": 15641345130840,
         "variantId": 56849305174360,
         "onHand": 4,
-        "committed": 1,
-        "demand": 1
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336775000,
         "variantId": 56849295835480,
         "onHand": 7,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "116764 Scarlet & Violet Destined Rivals Kangaskhan 3 Booster Pack Blister (English) — 3 Booster pack, 1 card / Multicolor",
@@ -2477,8 +2531,8 @@
         "productId": 15732280426840,
         "variantId": 57196101075288,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
@@ -2508,6 +2562,46 @@
         "product": "131634 Mega Zygarde‑ex - Nihil Zero 117/080 NM (Japanese) — 117/080, Near-Mint / Secret Rare",
         "productId": 15641340019032,
         "variantId": 56849299538264,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134030 Legacy of the Master One Piece Booster Pack (English) — 12 Cards / Green",
+        "productId": 15641283559768,
+        "variantId": 56849220043096,
+        "onHand": 4,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641343099224,
+        "variantId": 56849302946136,
+        "onHand": 2,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "131518 Judge Pack Vol.6 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641343459672,
+        "variantId": 56849303470424,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131560 Judge Pack Vol. 5 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641341657432,
+        "variantId": 56849301438808,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "125798 Glaceon VSTAR - VSTAR Universe 217/172 NM (Japanese) — 217/172, Near-Mint / Special Illustration Rare",
+        "productId": 15641389498712,
+        "variantId": 56849460658520,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -2569,9 +2663,9 @@
         "productId": 15732280426840,
         "variantId": 57196101075288,
         "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
+        "committed": 5,
+        "incoming": 3,
+        "available": -5,
         "shortfall": 2
       },
       {
@@ -2692,6 +2786,16 @@
         "committed": 6,
         "incoming": 0,
         "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "99731 Charizard - XY Evolutions 011/108 NM Reverse Holo (English) - Holo Rare",
+        "productId": 15874577334616,
+        "variantId": 57711765881176,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       },
       {
@@ -2818,6 +2922,16 @@
         "product": "131634 Mega Zygarde‑ex - Nihil Zero 117/080 NM (Japanese) — 117/080, Near-Mint / Secret Rare",
         "productId": 15641340019032,
         "variantId": 56849299538264,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "125798 Glaceon VSTAR - VSTAR Universe 217/172 NM (Japanese) — 217/172, Near-Mint / Special Illustration Rare",
+        "productId": 15641389498712,
+        "variantId": 56849460658520,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
