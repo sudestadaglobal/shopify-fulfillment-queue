@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-19T18:43:04.441Z",
+  "generatedAt": "2026-07-19T19:58:25.566Z",
   "summary": {
-    "totalUnfulfilled": 74,
+    "totalUnfulfilled": 76,
     "canFulfill": 13,
-    "blocked": 61
+    "blocked": 63
   },
   "fulfillableOrders": [
     {
@@ -1330,6 +1330,36 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12480353337688,
+      "name": "#4016",
+      "customerName": "Elias Laurens",
+      "createdAt": "2026-07-19T20:57:56+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "110040 Sword & Shield Space Juggler Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12480357204312,
+      "name": "#4017",
+      "customerName": "Carl Vestling",
+      "createdAt": "2026-07-19T21:00:35+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "141865 MEGA Ninja Spinner Booster Box 30 Booster Packs (Japanese) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2605,6 +2635,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "110040 Sword & Shield Space Juggler Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567756632,
+        "variantId": 56849734369624,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "141865 MEGA Ninja Spinner Booster Box 30 Booster Packs (Japanese) - Multicolor",
+        "productId": 15720140046680,
+        "variantId": 57151562678616,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2932,6 +2978,16 @@
         "product": "125798 Glaceon VSTAR - VSTAR Universe 217/172 NM (Japanese) — 217/172, Near-Mint / Special Illustration Rare",
         "productId": 15641389498712,
         "variantId": 56849460658520,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "110040 Sword & Shield Space Juggler Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567756632,
+        "variantId": 56849734369624,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
