@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-20T18:59:51.569Z",
+  "generatedAt": "2026-07-20T20:29:31.208Z",
   "summary": {
-    "totalUnfulfilled": 83,
-    "canFulfill": 22,
-    "blocked": 61
+    "totalUnfulfilled": 85,
+    "canFulfill": 23,
+    "blocked": 62
   },
   "fulfillableOrders": [
     {
@@ -137,6 +137,12 @@
       "name": "#4024",
       "createdAt": "2026-07-20T20:23:27+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12482230681944,
+      "name": "#4027",
+      "createdAt": "2026-07-20T21:51:05+02:00",
+      "itemCount": 4
     }
   ],
   "blockedOrders": [
@@ -1300,6 +1306,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12482188509528,
+      "name": "#4026",
+      "customerName": "Jonathan Bergström",
+      "createdAt": "2026-07-20T21:22:26+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2117,8 +2138,8 @@
         "productId": 15641569493336,
         "variantId": 56849736925528,
         "onHand": 5,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "125812 Pokémon TCG: Holiday Calendar 2025 Box 6 Booster Packs (English) — 6 Booster Packs / Multicolor",
@@ -2663,6 +2684,46 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
+        "productId": 15641566052696,
+        "variantId": 56849731354968,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110182 Scarlet & Violet Night Wanderer Booster Pack (Japanese) — 5 cards / Multicolor",
+        "productId": 15641566347608,
+        "variantId": 56849732141400,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110180 Scarlet & Violet Stellar Miracle Booster Pack (Japanese) — 5 cards / Multicolor",
+        "productId": 15641566413144,
+        "variantId": 56849732206936,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110168 Scarlet & Violet Stellar Crown Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566609752,
+        "variantId": 56849732403544,
+        "onHand": 9,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110277 Sword & Shield Evolving Skies Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641564643672,
+        "variantId": 56849721164120,
+        "onHand": 8,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3027,9 +3088,9 @@
         "shortfall": 1
       },
       {
-        "product": "136123 Start Deck 100 Deck (Japanese) — 60 cards / Multicolor",
-        "productId": 15641265471832,
-        "variantId": 56849189077336,
+        "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
+        "productId": 15641566052696,
+        "variantId": 56849731354968,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
