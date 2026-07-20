@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-19T23:07:16.302Z",
+  "generatedAt": "2026-07-20T02:59:36.479Z",
   "summary": {
-    "totalUnfulfilled": 76,
-    "canFulfill": 14,
-    "blocked": 62
+    "totalUnfulfilled": 78,
+    "canFulfill": 15,
+    "blocked": 63
   },
   "fulfillableOrders": [
     {
@@ -89,6 +89,12 @@
       "name": "#4014",
       "createdAt": "2026-07-19T20:29:11+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12480668959064,
+      "name": "#4018",
+      "createdAt": "2026-07-20T01:23:23+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1345,6 +1351,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12480670728536,
+      "name": "#4019",
+      "customerName": "Adrian Arnesen",
+      "createdAt": "2026-07-20T01:26:12+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "110198 Scarlet & Violet Paldean Fates Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 3,
+          "needed": 5
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2474,8 +2495,8 @@
         "productId": 15641336775000,
         "variantId": 56849295835480,
         "onHand": 7,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "116764 Scarlet & Violet Destined Rivals Kangaskhan 3 Booster Pack Blister (English) — 3 Booster pack, 1 card / Multicolor",
@@ -2570,8 +2591,8 @@
         "productId": 15641523519832,
         "variantId": 56849676435800,
         "onHand": 7,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131634 Mega Zygarde‑ex - Nihil Zero 117/080 NM (Japanese) — 117/080, Near-Mint / Secret Rare",
@@ -2636,6 +2657,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "110198 Scarlet & Violet Paldean Fates Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566019928,
+        "variantId": 56849731322200,
+        "onHand": 3,
+        "committed": 5,
+        "demand": 5
       }
     ],
     "demandExceedsStock": [
@@ -2687,6 +2716,16 @@
         "committed": 5,
         "incoming": 3,
         "available": -5,
+        "shortfall": 2
+      },
+      {
+        "product": "110198 Scarlet & Violet Paldean Fates Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566019928,
+        "variantId": 56849731322200,
+        "onHand": 3,
+        "committed": 5,
+        "incoming": 0,
+        "available": -2,
         "shortfall": 2
       },
       {
