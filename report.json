@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T20:29:31.208Z",
+  "generatedAt": "2026-07-20T21:48:36.654Z",
   "summary": {
     "totalUnfulfilled": 85,
     "canFulfill": 23,
@@ -2778,51 +2778,11 @@
         "shortfall": 2
       },
       {
-        "product": "110198 Scarlet & Violet Paldean Fates Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641566019928,
-        "variantId": 56849731322200,
-        "onHand": 3,
-        "committed": 5,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
-        "productId": 15641507266904,
-        "variantId": 56849645109592,
-        "onHand": 4,
-        "committed": 6,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
         "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
         "productId": 15657571811672,
         "variantId": 56923414757720,
         "onHand": 0,
         "committed": 2,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "119473 Charmander - Scarlet & Violet 151 168/165 NM (English) — 168/165, Near-Mint / Illustration Rare",
-        "productId": 15641506349400,
-        "variantId": 56849643733336,
-        "onHand": 3,
-        "committed": 4,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
-        "productId": 15641506120024,
-        "variantId": 56849643503960,
-        "onHand": 4,
-        "committed": 6,
         "incoming": 1,
         "available": -2,
         "shortfall": 1
@@ -2838,61 +2798,11 @@
         "shortfall": 1
       },
       {
-        "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
-        "productId": 15641507365208,
-        "variantId": 56849645207896,
-        "onHand": 5,
-        "committed": 12,
-        "incoming": 6,
-        "available": -7,
-        "shortfall": 1
-      },
-      {
-        "product": "119479 Wartortle - Scarlet & Violet 151 171/165 NM (English) — 171/165, Near-Mint / Illustration Rare",
-        "productId": 15641506218328,
-        "variantId": 56849643569496,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "119471 Ivysaur - Scarlet & Violet 151 167/165 NM (English) — 167/165, Near-Mint / Illustration Rare",
-        "productId": 15641506414936,
-        "variantId": 56849643798872,
-        "onHand": 1,
-        "committed": 3,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "119469 Bulbasaur - Scarlet & Violet 151 166/165 NM (English) — 166/165, Near-Mint / Illustration Rare",
-        "productId": 15641506480472,
-        "variantId": 56849644028248,
-        "onHand": 1,
-        "committed": 2,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "119903 Scarlet & Violet 151 9-Pocket Album (English) — 9 Pocket Album / Multicolor",
         "productId": 15641503793496,
         "variantId": 56849639506264,
         "onHand": 1,
         "committed": 2,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
-        "productId": 15641503891800,
-        "variantId": 56849639604568,
-        "onHand": 5,
-        "committed": 6,
         "incoming": 0,
         "available": -1,
         "shortfall": 1
@@ -2905,26 +2815,6 @@
         "committed": 2,
         "incoming": 1,
         "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "145256 Squirtle - Scarlet & Violet Stellar Crown 148/142 NM Holofoil (English) - Illustration Rare",
-        "productId": 15878279758168,
-        "variantId": 57729712423256,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132668 Larry’s Staraptor - Mega Evolution Ascended Heroes 249/217 NM (English) — 249/217, Near-Mint / Illustration Rare",
-        "productId": 15641319866712,
-        "variantId": 56849268932952,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
         "shortfall": 1
       },
       {
@@ -3021,26 +2911,6 @@
         "product": "131634 Mega Zygarde‑ex - Nihil Zero 117/080 NM (Japanese) — 117/080, Near-Mint / Secret Rare",
         "productId": 15641340019032,
         "variantId": 56849299538264,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "125798 Glaceon VSTAR - VSTAR Universe 217/172 NM (Japanese) — 217/172, Near-Mint / Special Illustration Rare",
-        "productId": 15641389498712,
-        "variantId": 56849460658520,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "110040 Sword & Shield Space Juggler Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
-        "productId": 15641567756632,
-        "variantId": 56849734369624,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
