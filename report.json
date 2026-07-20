@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-20T16:49:39.519Z",
+  "generatedAt": "2026-07-20T18:59:51.569Z",
   "summary": {
-    "totalUnfulfilled": 78,
-    "canFulfill": 20,
-    "blocked": 58
+    "totalUnfulfilled": 83,
+    "canFulfill": 22,
+    "blocked": 61
   },
   "fulfillableOrders": [
     {
@@ -124,6 +124,18 @@
       "id": 12480668959064,
       "name": "#4018",
       "createdAt": "2026-07-20T01:23:23+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12482079162712,
+      "name": "#4022",
+      "createdAt": "2026-07-20T20:09:35+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12482099020120,
+      "name": "#4024",
+      "createdAt": "2026-07-20T20:23:27+02:00",
       "itemCount": 1
     }
   ],
@@ -1226,6 +1238,63 @@
       "reasons": [
         {
           "product": "Apple AirTag - (4 Pack)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12482032861528,
+      "name": "#4021",
+      "customerName": "Kyndael Bowen",
+      "createdAt": "2026-07-20T19:39:07+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12482083979608,
+      "name": "#4023",
+      "customerName": "Adrià Cáceres",
+      "createdAt": "2026-07-20T20:12:39+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "132690 Team Rocket’s Mimikyu - Mega Evolution Ascended Heroes 238/217 NM (English) — 238/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132670 Drakloak - Mega Evolution Ascended Heroes 248/217 NM (English) — 248/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12482106589528,
+      "name": "#4025",
+      "customerName": "Mateo Barro Fernández",
+      "createdAt": "2026-07-20T20:28:26+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "110234 Chinese 2024 Lunar New Year Red Promo Pack (Chinese) — 9 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "136123 Start Deck 100 Deck (Japanese) — 60 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2336,8 +2405,8 @@
         "productId": 15641321636184,
         "variantId": 56849271816536,
         "onHand": 5,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131466 The Best Vol.2 One Piece Sleeved Booster Pack (English) — 10 cards / Multicolor",
@@ -2345,7 +2414,7 @@
         "variantId": 56849305174360,
         "onHand": 4,
         "committed": 4,
-        "demand": 4
+        "demand": 5
       },
       {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -2527,6 +2596,70 @@
         "product": "Apple AirTag - (4 Pack)",
         "productId": 15119366914392,
         "variantId": 55016772567384,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641343951192,
+        "variantId": 56849303994712,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641344541016,
+        "variantId": 56849304584536,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131910 Mega Evolution Ascended Heroes Larry’s Komala Blister 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641337069912,
+        "variantId": 56849296097624,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132690 Team Rocket’s Mimikyu - Mega Evolution Ascended Heroes 238/217 NM (English) — 238/217, Near-Mint / Illustration Rare",
+        "productId": 15641319244120,
+        "variantId": 56849268343128,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132670 Drakloak - Mega Evolution Ascended Heroes 248/217 NM (English) — 248/217, Near-Mint / Illustration Rare",
+        "productId": 15641319801176,
+        "variantId": 56849268900184,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116770 Scarlet & Violet Destined Rivals Skeledirge Premium Checklane 1 Booster Pack Blister (English) — 1 Booster pack, 3 cards / Multicolor",
+        "productId": 15641523224920,
+        "variantId": 56849675977048,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110234 Chinese 2024 Lunar New Year Red Promo Pack (Chinese) — 9 cards / Multicolor",
+        "productId": 15641565364568,
+        "variantId": 56849722212696,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "136123 Start Deck 100 Deck (Japanese) — 60 cards / Multicolor",
+        "productId": 15641265471832,
+        "variantId": 56849189077336,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -2857,6 +2990,46 @@
         "product": "Apple AirTag - (4 Pack)",
         "productId": 15119366914392,
         "variantId": 55016772567384,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641344541016,
+        "variantId": 56849304584536,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132690 Team Rocket’s Mimikyu - Mega Evolution Ascended Heroes 238/217 NM (English) — 238/217, Near-Mint / Illustration Rare",
+        "productId": 15641319244120,
+        "variantId": 56849268343128,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132670 Drakloak - Mega Evolution Ascended Heroes 248/217 NM (English) — 248/217, Near-Mint / Illustration Rare",
+        "productId": 15641319801176,
+        "variantId": 56849268900184,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "136123 Start Deck 100 Deck (Japanese) — 60 cards / Multicolor",
+        "productId": 15641265471832,
+        "variantId": 56849189077336,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
