@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-20T15:17:21.422Z",
+  "generatedAt": "2026-07-20T16:49:39.519Z",
   "summary": {
-    "totalUnfulfilled": 77,
+    "totalUnfulfilled": 78,
     "canFulfill": 20,
-    "blocked": 57
+    "blocked": 58
   },
   "fulfillableOrders": [
     {
@@ -1216,6 +1216,21 @@
           "needed": 5
         }
       ]
+    },
+    {
+      "id": 12481849721176,
+      "name": "#4020",
+      "customerName": "Eddie Heikkinen",
+      "createdAt": "2026-07-20T17:44:18+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Apple AirTag - (4 Pack)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2357,7 +2372,7 @@
         "demand": 1
       },
       {
-        "product": "Product #15641568969048 — 167/165, Near-Mint / Illustration Rare",
+        "product": "109976 Ivysaur - Scarlet & Violet 151 167/165 NM (Japanese) — 167/165, Near-Mint / Illustration Rare",
         "productId": 15641568969048,
         "variantId": 56849736335704,
         "onHand": 0,
@@ -2507,6 +2522,14 @@
         "onHand": 3,
         "committed": 5,
         "demand": 5
+      },
+      {
+        "product": "Apple AirTag - (4 Pack)",
+        "productId": 15119366914392,
+        "variantId": 55016772567384,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2824,6 +2847,16 @@
         "product": "110040 Sword & Shield Space Juggler Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
         "productId": 15641567756632,
         "variantId": 56849734369624,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Apple AirTag - (4 Pack)",
+        "productId": 15119366914392,
+        "variantId": 55016772567384,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
