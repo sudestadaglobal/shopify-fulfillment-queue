@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T16:05:26.217Z",
+  "generatedAt": "2026-07-21T17:49:15.668Z",
   "summary": {
-    "totalUnfulfilled": 62,
+    "totalUnfulfilled": 64,
     "canFulfill": 3,
-    "blocked": 59
+    "blocked": 61
   },
   "fulfillableOrders": [
     {
@@ -1126,6 +1126,42 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12483846308184,
+      "name": "#4028",
+      "customerName": "Adrian Arnesen",
+      "createdAt": "2026-07-21T18:06:44+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "148029 Mega Darkrai ex - Mega Evolution Pitch Black 116/084 NM Holofoil (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12483867148632,
+      "name": "#4029",
+      "customerName": "Robert Brauner",
+      "createdAt": "2026-07-21T18:19:18+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "118668 Scarlet & Violet White Flare Gothitelle Tech Sticker Collection (English) — 3 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "113535 Scarlet & Violet Prismatic Evolutions Vaporeon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1135,8 +1171,8 @@
         "productId": 15641522897240,
         "variantId": 56849669390680,
         "onHand": 0,
-        "committed": 0,
-        "demand": 3
+        "committed": 1,
+        "demand": 4
       },
       {
         "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
@@ -2135,6 +2171,22 @@
         "productId": 15641566413144,
         "variantId": 56849732206936,
         "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "148029 Mega Darkrai ex - Mega Evolution Pitch Black 116/084 NM Holofoil (English) - Special Illustration Rare",
+        "productId": 15886250967384,
+        "variantId": 57765792252248,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113535 Scarlet & Violet Prismatic Evolutions Vaporeon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
+        "productId": 15641562612056,
+        "variantId": 56849718018392,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
