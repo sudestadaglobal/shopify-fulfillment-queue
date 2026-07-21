@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T04:37:25.200Z",
+  "generatedAt": "2026-07-21T07:25:08.614Z",
   "summary": {
-    "totalUnfulfilled": 85,
-    "canFulfill": 23,
-    "blocked": 62
+    "totalUnfulfilled": 86,
+    "canFulfill": 25,
+    "blocked": 61
   },
   "fulfillableOrders": [
     {
@@ -22,6 +22,12 @@
       "id": 12369867669848,
       "name": "#3713",
       "createdAt": "2026-06-07T19:38:15+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12385976713560,
+      "name": "#3765",
+      "createdAt": "2026-06-14T20:20:21+02:00",
       "itemCount": 1
     },
     {
@@ -47,6 +53,12 @@
       "name": "#3891",
       "createdAt": "2026-07-03T16:16:25+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12446031315288,
+      "name": "#3908",
+      "createdAt": "2026-07-05T21:45:23+02:00",
+      "itemCount": 2
     },
     {
       "id": 12449297006936,
@@ -278,27 +290,6 @@
       "reasons": [
         {
           "product": "144636 Mega Chandelure ex - MEGA Abyss Eye 097/081 NM (Japanese) - Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12446031315288,
-      "name": "#3908",
-      "customerName": "Robert Brauner",
-      "createdAt": "2026-07-05T21:45:23+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "142987 Cinccino ex - Mega Evolution Chaos Rising 119/086 NM (English) - Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "143015 Cinccino ex - Mega Evolution Chaos Rising 105/086 NM (English) - Ultra Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1374,6 +1365,14 @@
         "demand": 1
       },
       {
+        "product": "134224 Lotus Petal - Secret Lair Drop Series Foil #7034 NM (English) — Secret Lair Drop Series #7034, Near-Mint / Mythic",
+        "productId": 15641282969944,
+        "variantId": 56849219420504,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
         "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
         "productId": 15641321570648,
         "variantId": 56849271783768,
@@ -1545,7 +1544,7 @@
         "product": "142987 Cinccino ex - Mega Evolution Chaos Rising 119/086 NM (English) - Special Illustration Rare",
         "productId": 15822596735320,
         "variantId": 57537688502616,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 2
       },
@@ -1705,7 +1704,7 @@
         "product": "143015 Cinccino ex - Mega Evolution Chaos Rising 105/086 NM (English) - Ultra Rare",
         "productId": 15857003987288,
         "variantId": 57639685914968,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
