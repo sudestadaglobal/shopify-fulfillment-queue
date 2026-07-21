@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T07:25:08.614Z",
+  "generatedAt": "2026-07-21T10:07:10.651Z",
   "summary": {
     "totalUnfulfilled": 86,
-    "canFulfill": 25,
-    "blocked": 61
+    "canFulfill": 27,
+    "blocked": 59
   },
   "fulfillableOrders": [
     {
@@ -23,6 +23,12 @@
       "name": "#3713",
       "createdAt": "2026-06-07T19:38:15+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12385924972888,
+      "name": "#3762",
+      "createdAt": "2026-06-14T19:50:53+02:00",
+      "itemCount": 7
     },
     {
       "id": 12385976713560,
@@ -53,6 +59,18 @@
       "name": "#3891",
       "createdAt": "2026-07-03T16:16:25+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12445086318936,
+      "name": "#3902",
+      "createdAt": "2026-07-05T13:33:25+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12445127868760,
+      "name": "#3906",
+      "createdAt": "2026-07-05T13:54:58+02:00",
+      "itemCount": 2
     },
     {
       "id": 12446031315288,
@@ -115,12 +133,6 @@
       "itemCount": 1
     },
     {
-      "id": 12480275972440,
-      "name": "#4012",
-      "createdAt": "2026-07-19T20:09:59+02:00",
-      "itemCount": 3
-    },
-    {
       "id": 12480305201496,
       "name": "#4013",
       "createdAt": "2026-07-19T20:27:47+02:00",
@@ -159,21 +171,6 @@
   ],
   "blockedOrders": [
     {
-      "id": 12385924972888,
-      "name": "#3762",
-      "customerName": "fernando queipo de llano de aguilera",
-      "createdAt": "2026-06-14T19:50:53+02:00",
-      "itemCount": 7,
-      "reasons": [
-        {
-          "product": "71877 Squirtle - 30th Anniversary Celebration Simplified Chinese 003/30th-P NM (Chinese)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12399575695704,
       "name": "#3776",
       "customerName": "JAVIER Barragan",
@@ -197,12 +194,6 @@
       "reasons": [
         {
           "product": "128022 Monkey D. Luffy - Carrying on His Will OP13‑001 V2 NM (English) — OP13‑001/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132240 Boa Hancock - The Azure Sea's Seven OP14‑041 V2 NM (English) — OP14‑041/V2, Near-Mint / Alternate Art",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -267,36 +258,6 @@
       ]
     },
     {
-      "id": 12445086318936,
-      "name": "#3902",
-      "customerName": "Leon Berthold",
-      "createdAt": "2026-07-05T13:33:25+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "145449 Misty's Lapras - Scarlet & Violet Heat Wave Arena 072/063 NM (Japanese) - Art Rare (AR)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12445127868760,
-      "name": "#3906",
-      "customerName": "Adrià Cáceres",
-      "createdAt": "2026-07-05T13:54:58+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "144636 Mega Chandelure ex - MEGA Abyss Eye 097/081 NM (Japanese) - Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12451447046488,
       "name": "#3927",
       "customerName": "Adrià Cáceres",
@@ -311,12 +272,6 @@
         },
         {
           "product": "71783 Mega Excadrill ex - MEGA Abyss Eye 101/081 NM (Japanese)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "71749 Goldeen - MEGA Abyss Eye 084/081 NM (Japanese)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -388,12 +343,6 @@
       "itemCount": 4,
       "reasons": [
         {
-          "product": "132266 Nami - The Azure Sea's Seven OP14‑031 V2 NM (English) — OP14‑031/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "132042 Crocodile - The Azure Sea's Seven OP14‑120 NM V2 (English) — OP14‑120/V2, Near-Mint / Alternate Art",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -464,12 +413,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
-        },
-        {
-          "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 3,
-          "needed": 4
         },
         {
           "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
@@ -1161,6 +1104,21 @@
       ]
     },
     {
+      "id": 12480275972440,
+      "name": "#4012",
+      "customerName": "Kyndael Bowen",
+      "createdAt": "2026-07-19T20:09:59+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "131466 The Best Vol.2 One Piece Sleeved Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 2,
+          "needed": 3
+        }
+      ]
+    },
+    {
       "id": 12480312344920,
       "name": "#4015",
       "customerName": "Hugo Pessin",
@@ -1352,7 +1310,7 @@
         "product": "71877 Squirtle - 30th Anniversary Celebration Simplified Chinese 003/30th-P NM (Chinese)",
         "productId": 15816481866072,
         "variantId": 57515963384152,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1584,7 +1542,7 @@
         "product": "132240 Boa Hancock - The Azure Sea's Seven OP14‑041 V2 NM (English) — OP14‑041/V2, Near-Mint / Alternate Art",
         "productId": 15641325142360,
         "variantId": 56849279648088,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1608,7 +1566,7 @@
         "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507266904,
         "variantId": 56849645109592,
-        "onHand": 4,
+        "onHand": 5,
         "committed": 6,
         "demand": 6
       },
@@ -1688,7 +1646,7 @@
         "product": "145449 Misty's Lapras - Scarlet & Violet Heat Wave Arena 072/063 NM (Japanese) - Art Rare (AR)",
         "productId": 15856571154776,
         "variantId": 57637141283160,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1696,7 +1654,7 @@
         "product": "144636 Mega Chandelure ex - MEGA Abyss Eye 097/081 NM (Japanese) - Ultra Rare",
         "productId": 15856577446232,
         "variantId": 57637167563096,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1800,7 +1758,7 @@
         "product": "71749 Goldeen - MEGA Abyss Eye 084/081 NM (Japanese)",
         "productId": 15866996097368,
         "variantId": 57669312315736,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1896,7 +1854,7 @@
         "product": "132266 Nami - The Azure Sea's Seven OP14‑031 V2 NM (English) — OP14‑031/V2, Near-Mint / Alternate Art",
         "productId": 15641324192088,
         "variantId": 56849278697816,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2432,7 +2390,7 @@
         "product": "131466 The Best Vol.2 One Piece Sleeved Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641345130840,
         "variantId": 56849305174360,
-        "onHand": 4,
+        "onHand": 3,
         "committed": 4,
         "demand": 5
       },
@@ -2852,6 +2810,16 @@
         "variantId": 56849719656792,
         "onHand": 0,
         "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "131466 The Best Vol.2 One Piece Sleeved Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641345130840,
+        "variantId": 56849305174360,
+        "onHand": 3,
+        "committed": 4,
         "incoming": 0,
         "available": -1,
         "shortfall": 1
