@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T17:49:15.668Z",
+  "generatedAt": "2026-07-21T19:40:36.877Z",
   "summary": {
     "totalUnfulfilled": 64,
     "canFulfill": 3,
@@ -2223,16 +2223,6 @@
         "shortfall": 2
       },
       {
-        "product": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
-        "productId": 14834629312856,
-        "variantId": 54023479296344,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
         "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
         "productId": 15732280426840,
         "variantId": 57196101075288,
@@ -2260,16 +2250,6 @@
         "committed": 2,
         "incoming": 1,
         "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
-        "productId": 15742390337880,
-        "variantId": 57232830890328,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
         "shortfall": 1
       },
       {
