@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T12:03:59.414Z",
+  "generatedAt": "2026-07-21T14:26:31.659Z",
   "summary": {
     "totalUnfulfilled": 62,
     "canFulfill": 3,
@@ -2201,16 +2201,6 @@
         "shortfall": 1
       },
       {
-        "product": "119425 Venusaur ex - Scarlet & Violet 151 198/165 NM (English) — 198/165, Near-Mint / Special Illustration Rare",
-        "productId": 15641507430744,
-        "variantId": 56849645273432,
-        "onHand": 4,
-        "committed": 7,
-        "incoming": 2,
-        "available": -3,
-        "shortfall": 1
-      },
-      {
         "product": "99731 Charizard - XY Evolutions 011/108 NM Reverse Holo (English) - Holo Rare",
         "productId": 15874577334616,
         "variantId": 57711765881176,
@@ -2224,26 +2214,6 @@
         "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
         "productId": 15742390337880,
         "variantId": 57232830890328,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "125810 Suicune V - Sword & Shield Crown Zenith Galarian Gallery 038/070 NM (English) — 038/070, Near-Mint / Special Illustration Rare",
-        "productId": 15641389269336,
-        "variantId": 56849460429144,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "124054 Mega Charizard X ex - Phantasmal Flames 125/094 NM (English) — 125/094, Near-Mint / Special Illustration Rare",
-        "productId": 15641486950744,
-        "variantId": 56849613652312,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -2271,29 +2241,9 @@
         "shortfall": 1
       },
       {
-        "product": "119489 Poliwhirl - Scarlet & Violet 151 176/165 NM (English) — 176/165, Near-Mint / Illustration Rare",
-        "productId": 15641505988952,
-        "variantId": 56849643372888,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "132612 Pikachu ex - Ascended Heroes 277/217 NM (English) - Special Illustration Rare",
         "productId": 15713423819096,
         "variantId": 57130759848280,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "121025 Ivysaur - Mega Evolution 134/132 NM (English) — 134/132, Near-Mint / Ilustration Rare",
-        "productId": 15641496355160,
-        "variantId": 56849626366296,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
