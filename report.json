@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-22T15:20:12.447Z",
+  "generatedAt": "2026-07-22T16:59:41.222Z",
   "summary": {
-    "totalUnfulfilled": 67,
+    "totalUnfulfilled": 68,
     "canFulfill": 4,
-    "blocked": 63
+    "blocked": 64
   },
   "fulfillableOrders": [
     {
@@ -1198,6 +1198,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12485854003544,
+      "name": "#4034",
+      "customerName": "Niclas Jørgensen",
+      "createdAt": "2026-07-22T17:44:26+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "119391 Scarlet & Violet Black Bolt Reuniclus Tech Sticker Collection (English) — 3 booster pack / Black / Blue",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1679,8 +1694,8 @@
         "productId": 15641508446552,
         "variantId": 56849646584152,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "99731 Charizard - XY Evolutions 011/108 NM Reverse Holo (English) - Holo Rare",
@@ -2345,6 +2360,22 @@
         "onHand": 7,
         "committed": 4,
         "demand": 4
+      },
+      {
+        "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336775000,
+        "variantId": 56849295835480,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336611160,
+        "variantId": 56849295671640,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
