@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-22T18:18:31.646Z",
+  "generatedAt": "2026-07-22T19:56:04.250Z",
   "summary": {
-    "totalUnfulfilled": 71,
+    "totalUnfulfilled": 74,
     "canFulfill": 4,
-    "blocked": 67
+    "blocked": 70
   },
   "fulfillableOrders": [
     {
@@ -1258,6 +1258,51 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12486196494680,
+      "name": "#4038",
+      "customerName": "Enrico Rinaldi",
+      "createdAt": "2026-07-22T20:21:01+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "120849 Eevee & Snorlax GX - Sun & Moon Team Up 120/181 NM (English) — 120/181, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12486225985880,
+      "name": "#4039",
+      "customerName": "Dylan FRitz",
+      "createdAt": "2026-07-22T20:34:37+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "133714 Portgas D. Ace - Legacy of the Master ST13‑011 NM (English) — ST13‑011, Near-Mint / Special Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12486280380760,
+      "name": "#4041",
+      "customerName": "Ryan Fehrman",
+      "createdAt": "2026-07-22T21:00:04+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "147791 Mega Evolution Pitch Black Booster Box 18 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2437,6 +2482,30 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "120849 Eevee & Snorlax GX - Sun & Moon Team Up 120/181 NM (English) — 120/181, Near-Mint / Ultra Rare",
+        "productId": 15641500025176,
+        "variantId": 56849634099544,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "133714 Portgas D. Ace - Legacy of the Master ST13‑011 NM (English) — ST13‑011, Near-Mint / Special Rare",
+        "productId": 15641299976536,
+        "variantId": 56849240818008,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "147791 Mega Evolution Pitch Black Booster Box 18 Booster Packs (English) - Multicolor",
+        "productId": 15889255760216,
+        "variantId": 57780450525528,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2664,6 +2733,16 @@
         "product": "145284 Marill - Scarlet & Violet Paldea Evolved 204/193 NM Holofoil (English) - Illustration Rare",
         "productId": 15889012883800,
         "variantId": 57780146078040,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "120849 Eevee & Snorlax GX - Sun & Moon Team Up 120/181 NM (English) — 120/181, Near-Mint / Ultra Rare",
+        "productId": 15641500025176,
+        "variantId": 56849634099544,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
