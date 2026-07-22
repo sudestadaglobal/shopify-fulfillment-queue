@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-22T13:06:20.323Z",
+  "generatedAt": "2026-07-22T15:20:12.447Z",
   "summary": {
-    "totalUnfulfilled": 66,
-    "canFulfill": 3,
+    "totalUnfulfilled": 67,
+    "canFulfill": 4,
     "blocked": 63
   },
   "fulfillableOrders": [
@@ -23,6 +23,12 @@
       "name": "#3713",
       "createdAt": "2026-06-07T19:38:15+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12485581373784,
+      "name": "#4033",
+      "createdAt": "2026-07-22T16:27:03+02:00",
+      "itemCount": 4
     }
   ],
   "blockedOrders": [
@@ -2065,16 +2071,16 @@
         "productId": 15641283559768,
         "variantId": 56849220043096,
         "onHand": 4,
-        "committed": 2,
-        "demand": 2
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641343099224,
         "variantId": 56849302946136,
         "onHand": 2,
-        "committed": 2,
-        "demand": 2
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "125798 Glaceon VSTAR - VSTAR Universe 217/172 NM (Japanese) — 217/172, Near-Mint / Special Illustration Rare",
@@ -2380,6 +2386,16 @@
         "committed": 5,
         "incoming": 3,
         "available": -5,
+        "shortfall": 2
+      },
+      {
+        "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641343099224,
+        "variantId": 56849302946136,
+        "onHand": 2,
+        "committed": 4,
+        "incoming": 0,
+        "available": -2,
         "shortfall": 2
       },
       {
