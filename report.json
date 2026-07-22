@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-22T11:28:20.038Z",
+  "generatedAt": "2026-07-22T13:06:20.323Z",
   "summary": {
-    "totalUnfulfilled": 64,
+    "totalUnfulfilled": 66,
     "canFulfill": 3,
-    "blocked": 61
+    "blocked": 63
   },
   "fulfillableOrders": [
     {
@@ -1162,6 +1162,36 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12485271454040,
+      "name": "#4031",
+      "customerName": "Elias Laurens",
+      "createdAt": "2026-07-22T14:18:14+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "110322 Charizard GX - Sun & Moon Hidden Fates SV49/SV94 (English） — SV49/SV94, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12485313823064,
+      "name": "#4032",
+      "customerName": "Jonathan Bergström",
+      "createdAt": "2026-07-22T14:39:11+02:00",
+      "itemCount": 20,
+      "reasons": [
+        {
+          "product": "141863 MEGA Ninja Spinner Booster Pack (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2189,6 +2219,126 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "110322 Charizard GX - Sun & Moon Hidden Fates SV49/SV94 (English） — SV49/SV94, Near-Mint / Secret Rare",
+        "productId": 15641563922776,
+        "variantId": 56849719820632,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131938 Mega Evolution Ascended Heroes Ultra‑Pro 9‑Pocket Binder (English) — 9 Pocket Album / Multicolor",
+        "productId": 15641336054104,
+        "variantId": 56849295114584,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119039 Scarlet & Violet White Flare Reshiram 65-Sleeves — 66 x 91 mm / Multicolor",
+        "productId": 15641515917656,
+        "variantId": 56849658806616,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134044 Mega Evolution Perfect Order Chikorita Blister 3 Booster Packs (English) Pre‑order",
+        "productId": 15642769260888,
+        "variantId": 56856313463128,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "109954 Scarlet & Violet Surging Sparks Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641569493336,
+        "variantId": 56849736925528,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110206 Scarlet & Violet Ancient Roar Booster Pack (Japanese) — 5 cards / Multicolor",
+        "productId": 15641565856088,
+        "variantId": 56849731125592,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110220 Scarlet & Violet Clay Burst Booster Pack (Japanese) — 5 cards / Multicolor",
+        "productId": 15641565593944,
+        "variantId": 56849722704216,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110300 Scarlet & Violet Cyber Judge Booster Pack (Japanese) — 5 cards / Multicolor",
+        "productId": 15641564217688,
+        "variantId": 56849720508760,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "144442 MEGA Abyss Eye Booster Pack 5 Cards (Japanese) - Multicolor",
+        "productId": 15816363508056,
+        "variantId": 57515342594392,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110178 Scarlet & Violet Shrouded Fable Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566445912,
+        "variantId": 56849732239704,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "142955 Mega Evolution Chaos Rising Booster Pack (English) - Multicolor",
+        "productId": 15770729218392,
+        "variantId": 57361267196248,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "141863 MEGA Ninja Spinner Booster Pack (Japanese)",
+        "productId": 15720120385880,
+        "variantId": 57151497830744,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110200 Scarlet & Violet Shiny Treasure ex Booster Pack (Japanese) — 10 cards / Multicolor",
+        "productId": 15641565987160,
+        "variantId": 56849731289432,
+        "onHand": 9,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "125758 Scarlet & Violet Snow Hazard Booster Pack (Japanese) — 5 cards / Multicolor",
+        "productId": 15641390383448,
+        "variantId": 56849461969240,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110231 Sword & Shield VSTAR Universe Booster Pack (Japanese) — 10 cards / Multicolor",
+        "productId": 15641565397336,
+        "variantId": 56849722245464,
+        "onHand": 7,
+        "committed": 4,
+        "demand": 4
       }
     ],
     "demandExceedsStock": [
@@ -2366,6 +2516,26 @@
         "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566052696,
         "variantId": 56849731354968,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "110322 Charizard GX - Sun & Moon Hidden Fates SV49/SV94 (English） — SV49/SV94, Near-Mint / Secret Rare",
+        "productId": 15641563922776,
+        "variantId": 56849719820632,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "141863 MEGA Ninja Spinner Booster Pack (Japanese)",
+        "productId": 15720120385880,
+        "variantId": 57151497830744,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
