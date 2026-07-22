@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-22T16:59:41.222Z",
+  "generatedAt": "2026-07-22T18:18:31.646Z",
   "summary": {
-    "totalUnfulfilled": 68,
+    "totalUnfulfilled": 71,
     "canFulfill": 4,
-    "blocked": 64
+    "blocked": 67
   },
   "fulfillableOrders": [
     {
@@ -1213,6 +1213,51 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12486098354520,
+      "name": "#4035",
+      "customerName": "Matthias Gesell",
+      "createdAt": "2026-07-22T19:35:28+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "124034 Phantasmal Flames Mega Charizard X ex 65-Sleeves (English) — Standard (66x91mm) / Blue",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12486123028824,
+      "name": "#4036",
+      "customerName": "fernando queipo de llano de aguilera",
+      "createdAt": "2026-07-22T19:46:55+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "145284 Marill - Scarlet & Violet Paldea Evolved 204/193 NM Holofoil (English) - Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12486143476056,
+      "name": "#4037",
+      "customerName": "Jarret Smith",
+      "createdAt": "2026-07-22T19:56:36+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1446,8 +1491,8 @@
         "productId": 15641336676696,
         "variantId": 56849295737176,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
@@ -2086,16 +2131,16 @@
         "productId": 15641283559768,
         "variantId": 56849220043096,
         "onHand": 4,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641343099224,
         "variantId": 56849302946136,
         "onHand": 2,
-        "committed": 4,
-        "demand": 4
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "125798 Glaceon VSTAR - VSTAR Universe 217/172 NM (Japanese) — 217/172, Near-Mint / Special Illustration Rare",
@@ -2158,8 +2203,8 @@
         "productId": 15641343951192,
         "variantId": 56849303994712,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
@@ -2374,6 +2419,22 @@
         "productId": 15641336611160,
         "variantId": 56849295671640,
         "onHand": 5,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "124034 Phantasmal Flames Mega Charizard X ex 65-Sleeves (English) — Standard (66x91mm) / Blue",
+        "productId": 15641487638872,
+        "variantId": 56849614373208,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "145284 Marill - Scarlet & Violet Paldea Evolved 204/193 NM Holofoil (English) - Illustration Rare",
+        "productId": 15889012883800,
+        "variantId": 57780146078040,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
@@ -2424,9 +2485,9 @@
         "productId": 15641343099224,
         "variantId": 56849302946136,
         "onHand": 2,
-        "committed": 4,
-        "incoming": 0,
-        "available": -2,
+        "committed": 5,
+        "incoming": 1,
+        "available": -3,
         "shortfall": 2
       },
       {
@@ -2583,6 +2644,26 @@
         "product": "141863 MEGA Ninja Spinner Booster Pack (Japanese)",
         "productId": 15720120385880,
         "variantId": 57151497830744,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "124034 Phantasmal Flames Mega Charizard X ex 65-Sleeves (English) — Standard (66x91mm) / Blue",
+        "productId": 15641487638872,
+        "variantId": 56849614373208,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "145284 Marill - Scarlet & Violet Paldea Evolved 204/193 NM Holofoil (English) - Illustration Rare",
+        "productId": 15889012883800,
+        "variantId": 57780146078040,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
