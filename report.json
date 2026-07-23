@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-23T14:29:03.142Z",
+  "generatedAt": "2026-07-23T16:12:24.507Z",
   "summary": {
-    "totalUnfulfilled": 79,
-    "canFulfill": 18,
-    "blocked": 61
+    "totalUnfulfilled": 82,
+    "canFulfill": 22,
+    "blocked": 60
   },
   "fulfillableOrders": [
     {
@@ -43,10 +43,28 @@
       "itemCount": 3
     },
     {
+      "id": 12453722751320,
+      "name": "#3938",
+      "createdAt": "2026-07-09T21:45:28+02:00",
+      "itemCount": 4
+    },
+    {
+      "id": 12455249281368,
+      "name": "#3940",
+      "createdAt": "2026-07-10T17:44:25+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12455288602968,
       "name": "#3944",
       "createdAt": "2026-07-10T18:05:49+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12464355049816,
+      "name": "#3946",
+      "createdAt": "2026-07-11T16:36:14+02:00",
+      "itemCount": 2
     },
     {
       "id": 12470568255832,
@@ -112,6 +130,12 @@
       "id": 12487881392472,
       "name": "#4045",
       "createdAt": "2026-07-23T16:07:56+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12488016560472,
+      "name": "#4047",
+      "createdAt": "2026-07-23T16:29:36+02:00",
       "itemCount": 1
     }
   ],
@@ -225,51 +249,6 @@
       ]
     },
     {
-      "id": 12453722751320,
-      "name": "#3938",
-      "customerName": "Christian Fiedler",
-      "createdAt": "2026-07-09T21:45:28+02:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "145633 \tMr.3(Galdino) - One Piece The Time of Battle OP16-056-V1 NM (English) - Super Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12455249281368,
-      "name": "#3940",
-      "customerName": "JAVIER Barragan",
-      "createdAt": "2026-07-10T17:44:25+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131416 Paramount War Box Promotion One Piece Booster Pack (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12464355049816,
-      "name": "#3946",
-      "customerName": "João Joaquim",
-      "createdAt": "2026-07-11T16:36:14+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "113508 Palafin ex - Scarlet & Violet Prismatic Evolution 151/131 NM (English) — 151/131, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12466510496088,
       "name": "#3950",
       "customerName": "Adrian Arnesen",
@@ -285,7 +264,7 @@
         {
           "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
-          "stock": 8,
+          "stock": 10,
           "needed": 11
         },
         {
@@ -1240,6 +1219,84 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12488118731096,
+      "name": "#4048",
+      "customerName": "Adrian Arnesen",
+      "createdAt": "2026-07-23T17:26:54+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 4
+        }
+      ]
+    },
+    {
+      "id": 12488139276632,
+      "name": "#4049",
+      "customerName": "Adrian Arnesen",
+      "createdAt": "2026-07-23T17:39:01+02:00",
+      "itemCount": 10,
+      "reasons": [
+        {
+          "product": "119445 Ninetales ex - Scarlet & Violet 151 186/165 NM (English) — 186/165, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119449 Alakazam ex - Scarlet & Violet 151 188/165 NM (English) — 188/165, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119457 Zapdos ex - Scarlet & Violet 151 192/165 NM (English) — 192/165, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119447 Wigglytuff ex - Scarlet & Violet 151 187/165 NM (English) — 187/165, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119441 Blastoise ex - Scarlet & Violet 151 184/165 NM (English) — 184/165, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119419 Mew ex V3 - Scarlet & Violet 151 205/165 NM (English) — 205/165, Near-Mint / Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "119459 Mew ex - Scarlet & Violet 151 193/165 NM (English) — 193/165, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "119439 Charizard ex - Scarlet & Violet 151 183/165 NM (English) — 183/165, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1257,8 +1314,8 @@
         "productId": 15771147010392,
         "variantId": 57362036457816,
         "onHand": 1,
-        "committed": 0,
-        "demand": 1
+        "committed": 1,
+        "demand": 2
       },
       {
         "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
@@ -1528,7 +1585,7 @@
         "product": "145633 \tMr.3(Galdino) - One Piece The Time of Battle OP16-056-V1 NM (English) - Super Rare",
         "productId": 15868324249944,
         "variantId": 57677086982488,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1536,7 +1593,7 @@
         "product": "131416 Paramount War Box Promotion One Piece Booster Pack (English)",
         "productId": 15721594913112,
         "variantId": 57156955210072,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1560,7 +1617,7 @@
         "product": "113508 Palafin ex - Scarlet & Violet Prismatic Evolution 151/131 NM (English) — 151/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563169112,
         "variantId": 56849718739288,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1629,14 +1686,6 @@
         "demand": 7
       },
       {
-        "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
-        "productId": 15641507365208,
-        "variantId": 56849645207896,
-        "onHand": 8,
-        "committed": 12,
-        "demand": 12
-      },
-      {
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
         "productId": 15641506251096,
         "variantId": 56849643602264,
@@ -1649,16 +1698,16 @@
         "productId": 15641506218328,
         "variantId": 56849643569496,
         "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
         "productId": 15641506283864,
         "variantId": 56849643635032,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "119429 Alakazam ex - Scarlet & Violet 151 201/165 NM (English) — 201/165, Near-Mint / Special Illustration Rare",
@@ -2017,8 +2066,8 @@
         "productId": 15641503891800,
         "variantId": 56849639604568,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "109982 Pikachu - Scarlet & Violet 151 173/165 NM (Japanese) — 173/165, Near-Mint / Illustration Rare",
@@ -2333,14 +2382,6 @@
         "demand": 1
       },
       {
-        "product": "144442 MEGA Abyss Eye Booster Pack 5 Cards (Japanese) - Multicolor",
-        "productId": 15816363508056,
-        "variantId": 57515342594392,
-        "onHand": 4,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "110178 Scarlet & Violet Shrouded Fable Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641566445912,
         "variantId": 56849732239704,
@@ -2515,6 +2556,70 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "119445 Ninetales ex - Scarlet & Violet 151 186/165 NM (English) — 186/165, Near-Mint / Ultra Rare",
+        "productId": 15641506906456,
+        "variantId": 56849644618072,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119449 Alakazam ex - Scarlet & Violet 151 188/165 NM (English) — 188/165, Near-Mint / Ultra Rare",
+        "productId": 15641506840920,
+        "variantId": 56849644552536,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119457 Zapdos ex - Scarlet & Violet 151 192/165 NM (English) — 192/165, Near-Mint / Ultra Rare",
+        "productId": 15641506709848,
+        "variantId": 56849644257624,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119447 Wigglytuff ex - Scarlet & Violet 151 187/165 NM (English) — 187/165, Near-Mint / Ultra Rare",
+        "productId": 15641506873688,
+        "variantId": 56849644585304,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119441 Blastoise ex - Scarlet & Violet 151 184/165 NM (English) — 184/165, Near-Mint / Ultra Rare",
+        "productId": 15641507037528,
+        "variantId": 56849644716376,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119419 Mew ex V3 - Scarlet & Violet 151 205/165 NM (English) — 205/165, Near-Mint / Secret Rare",
+        "productId": 15641507660120,
+        "variantId": 56849645502808,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "119459 Mew ex - Scarlet & Violet 151 193/165 NM (English) — 193/165, Near-Mint / Ultra Rare",
+        "productId": 15641506677080,
+        "variantId": 56849644224856,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "119439 Charizard ex - Scarlet & Violet 151 183/165 NM (English) — 183/165, Near-Mint / Ultra Rare",
+        "productId": 15641507070296,
+        "variantId": 56849644749144,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
       }
     ],
     "demandExceedsStock": [
@@ -2522,6 +2627,16 @@
         "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
         "productId": 15641503859032,
         "variantId": 56849639571800,
+        "onHand": 0,
+        "committed": 5,
+        "incoming": 2,
+        "available": -5,
+        "shortfall": 3
+      },
+      {
+        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641503891800,
+        "variantId": 56849639604568,
         "onHand": 0,
         "committed": 5,
         "incoming": 2,
@@ -2579,6 +2694,36 @@
         "shortfall": 2
       },
       {
+        "product": "119419 Mew ex V3 - Scarlet & Violet 151 205/165 NM (English) — 205/165, Near-Mint / Secret Rare",
+        "productId": 15641507660120,
+        "variantId": 56849645502808,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "119459 Mew ex - Scarlet & Violet 151 193/165 NM (English) — 193/165, Near-Mint / Ultra Rare",
+        "productId": 15641506677080,
+        "variantId": 56849644224856,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "119439 Charizard ex - Scarlet & Violet 151 183/165 NM (English) — 183/165, Near-Mint / Ultra Rare",
+        "productId": 15641507070296,
+        "variantId": 56849644749144,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
         "product": "134039 Mega Evolution Perfect Order Booster Bundle 6 Booster Packs (English) Pre-order",
         "productId": 15657571811672,
         "variantId": 56923414757720,
@@ -2586,6 +2731,26 @@
         "committed": 2,
         "incoming": 0,
         "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "119479 Wartortle - Scarlet & Violet 151 171/165 NM (English) — 171/165, Near-Mint / Illustration Rare",
+        "productId": 15641506218328,
+        "variantId": 56849643569496,
+        "onHand": 1,
+        "committed": 3,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
+      },
+      {
+        "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
+        "productId": 15641506283864,
+        "variantId": 56849643635032,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 2,
+        "available": -3,
         "shortfall": 1
       },
       {
@@ -2812,6 +2977,56 @@
         "product": "116669 Team Rocket's Raticate - Scarlet & Violet Destined Rivals 202/182 NM (English) — 202/182, Near-Mint / Illustration Rare",
         "productId": 15641538167128,
         "variantId": 56849691443544,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "119445 Ninetales ex - Scarlet & Violet 151 186/165 NM (English) — 186/165, Near-Mint / Ultra Rare",
+        "productId": 15641506906456,
+        "variantId": 56849644618072,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "119449 Alakazam ex - Scarlet & Violet 151 188/165 NM (English) — 188/165, Near-Mint / Ultra Rare",
+        "productId": 15641506840920,
+        "variantId": 56849644552536,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "119457 Zapdos ex - Scarlet & Violet 151 192/165 NM (English) — 192/165, Near-Mint / Ultra Rare",
+        "productId": 15641506709848,
+        "variantId": 56849644257624,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "119447 Wigglytuff ex - Scarlet & Violet 151 187/165 NM (English) — 187/165, Near-Mint / Ultra Rare",
+        "productId": 15641506873688,
+        "variantId": 56849644585304,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "119441 Blastoise ex - Scarlet & Violet 151 184/165 NM (English) — 184/165, Near-Mint / Ultra Rare",
+        "productId": 15641507037528,
+        "variantId": 56849644716376,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
