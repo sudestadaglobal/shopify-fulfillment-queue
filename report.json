@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-23T17:51:45.899Z",
+  "generatedAt": "2026-07-23T19:28:35.098Z",
   "summary": {
-    "totalUnfulfilled": 83,
-    "canFulfill": 22,
-    "blocked": 61
+    "totalUnfulfilled": 85,
+    "canFulfill": 23,
+    "blocked": 62
   },
   "fulfillableOrders": [
     {
@@ -136,6 +136,12 @@
       "id": 12488016560472,
       "name": "#4047",
       "createdAt": "2026-07-23T16:29:36+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12488383988056,
+      "name": "#4051",
+      "createdAt": "2026-07-23T20:17:42+02:00",
       "itemCount": 1
     }
   ],
@@ -1307,6 +1313,27 @@
       "reasons": [
         {
           "product": "147773 Mega Evolution Pitch Black Elite Trainer Box 9 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12488397947224,
+      "name": "#4052",
+      "customerName": "sander thijs",
+      "createdAt": "2026-07-23T20:27:18+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "147779 Mega Evolution Pitch Black Booster Box 36 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2643,6 +2670,30 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "110175 Play! Pokémon Prize Pack Series Five Booster Pack (English) — 6 cards / Multicolor",
+        "productId": 15641566478680,
+        "variantId": 56849732272472,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "147779 Mega Evolution Pitch Black Booster Box 36 Booster Packs (English)",
+        "productId": 15892606484824,
+        "variantId": 57791899861336,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
+        "productId": 15641318490456,
+        "variantId": 56849267589464,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2657,26 +2708,6 @@
         "shortfall": 3
       },
       {
-        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
-        "productId": 15641503891800,
-        "variantId": 56849639604568,
-        "onHand": 0,
-        "committed": 5,
-        "incoming": 2,
-        "available": -5,
-        "shortfall": 3
-      },
-      {
-        "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
-        "productId": 15641321570648,
-        "variantId": 56849271783768,
-        "onHand": 1,
-        "committed": 3,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
         "productId": 15641506251096,
         "variantId": 56849643602264,
@@ -2687,19 +2718,9 @@
         "shortfall": 2
       },
       {
-        "product": "132688 Team Rocket’s Dugtrio - Mega Evolution Ascended Heroes 239/217 NM (English) — 239/217, Near-Mint / Illustration Rare",
-        "productId": 15641319309656,
-        "variantId": 56849268408664,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
-        "productId": 15732280426840,
-        "variantId": 57196101075288,
+        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641503891800,
+        "variantId": 56849639604568,
         "onHand": 0,
         "committed": 5,
         "incoming": 3,
@@ -2777,16 +2798,6 @@
         "shortfall": 1
       },
       {
-        "product": "99731 Charizard - XY Evolutions 011/108 NM Reverse Holo (English) - Holo Rare",
-        "productId": 15874577334616,
-        "variantId": 57711765881176,
-        "onHand": 1,
-        "committed": 2,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "113480 Umbreon ex - Scarlet & Violet Prismatic Evolution 161/131 NM (English) — 161/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563758936,
         "variantId": 56849719656792,
@@ -2807,33 +2818,13 @@
         "shortfall": 1
       },
       {
-        "product": "132612 Pikachu ex - Ascended Heroes 277/217 NM (English) - Special Illustration Rare",
-        "productId": 15713423819096,
-        "variantId": 57130759848280,
+        "product": "132688 Team Rocket’s Dugtrio - Mega Evolution Ascended Heroes 239/217 NM (English) — 239/217, Near-Mint / Illustration Rare",
+        "productId": 15641319309656,
+        "variantId": 56849268408664,
         "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132716 Scorbunny - Mega Evolution Ascended Heroes 225/217 NM (English) — 225/217, Near-Mint / Illustration Rare",
-        "productId": 15641318424920,
-        "variantId": 56849267523928,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "131634 Mega Zygarde‑ex - Nihil Zero 117/080 NM (Japanese) — 117/080, Near-Mint / Secret Rare",
-        "productId": 15641340019032,
-        "variantId": 56849299538264,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       },
       {
@@ -2850,16 +2841,6 @@
         "product": "Apple AirTag - (4 Pack)",
         "productId": 15119366914392,
         "variantId": 55016772567384,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641344541016,
-        "variantId": 56849304584536,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -2890,16 +2871,6 @@
         "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566052696,
         "variantId": 56849731354968,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "110322 Charizard GX - Sun & Moon Hidden Fates SV49/SV94 (English） — SV49/SV94, Near-Mint / Secret Rare",
-        "productId": 15641563922776,
-        "variantId": 56849719820632,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -3060,6 +3031,26 @@
         "product": "147773 Mega Evolution Pitch Black Elite Trainer Box 9 Booster Packs (English)",
         "productId": 15892538556760,
         "variantId": 57791753421144,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "147779 Mega Evolution Pitch Black Booster Box 36 Booster Packs (English)",
+        "productId": 15892606484824,
+        "variantId": 57791899861336,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
+        "productId": 15641318490456,
+        "variantId": 56849267589464,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
