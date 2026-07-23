@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-23T16:12:24.507Z",
+  "generatedAt": "2026-07-23T17:51:45.899Z",
   "summary": {
-    "totalUnfulfilled": 82,
+    "totalUnfulfilled": 83,
     "canFulfill": 22,
-    "blocked": 60
+    "blocked": 61
   },
   "fulfillableOrders": [
     {
@@ -1295,6 +1295,21 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12488327463256,
+      "name": "#4050",
+      "customerName": "Filip Janík",
+      "createdAt": "2026-07-23T19:37:33+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "147773 Mega Evolution Pitch Black Elite Trainer Box 9 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
         }
       ]
     }
@@ -2620,6 +2635,14 @@
         "onHand": 0,
         "committed": 2,
         "demand": 2
+      },
+      {
+        "product": "147773 Mega Evolution Pitch Black Elite Trainer Box 9 Booster Packs (English)",
+        "productId": 15892538556760,
+        "variantId": 57791753421144,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3027,6 +3050,16 @@
         "product": "119441 Blastoise ex - Scarlet & Violet 151 184/165 NM (English) — 184/165, Near-Mint / Ultra Rare",
         "productId": 15641507037528,
         "variantId": 56849644716376,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "147773 Mega Evolution Pitch Black Elite Trainer Box 9 Booster Packs (English)",
+        "productId": 15892538556760,
+        "variantId": 57791753421144,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
