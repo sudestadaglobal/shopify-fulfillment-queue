@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-24T11:51:48.154Z",
+  "generatedAt": "2026-07-24T13:58:40.810Z",
   "summary": {
-    "totalUnfulfilled": 66,
-    "canFulfill": 5,
+    "totalUnfulfilled": 65,
+    "canFulfill": 4,
     "blocked": 61
   },
   "fulfillableOrders": [
@@ -29,12 +29,6 @@
       "name": "#3951",
       "createdAt": "2026-07-12T20:06:42+02:00",
       "itemCount": 8
-    },
-    {
-      "id": 12488016560472,
-      "name": "#4047",
-      "createdAt": "2026-07-23T16:29:36+02:00",
-      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1238,9 +1232,9 @@
         "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
         "productId": 15771147010392,
         "variantId": 57362036457816,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 2
+        "onHand": 0,
+        "committed": 0,
+        "demand": 1
       },
       {
         "product": "128016 Gol.D.Roger - Carrying on His Will OP13‑003 V2 NM (English) — OP13‑003/V2, Near-Mint / Alternate Art",
