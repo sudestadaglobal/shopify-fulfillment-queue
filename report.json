@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T20:36:55.524Z",
+  "generatedAt": "2026-07-25T21:42:31.710Z",
   "summary": {
     "totalUnfulfilled": 78,
     "canFulfill": 8,
@@ -1363,7 +1363,7 @@
           "needed": 1
         },
         {
-          "product": "148453 Clefable - Jungle 1/64 NM (English) - Holo Rare",
+          "product": "Product #15897592103256",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1375,7 +1375,7 @@
           "needed": 1
         },
         {
-          "product": "148473 Snorlax - Jungle 11/64 NM (English) - Holo Rare",
+          "product": "Product #15897592955224",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2806,7 +2806,7 @@
         "demand": 1
       },
       {
-        "product": "148453 Clefable - Jungle 1/64 NM (English) - Holo Rare",
+        "product": "Product #15897592103256",
         "productId": 15897592103256,
         "variantId": 57806571569496,
         "onHand": 0,
@@ -2822,7 +2822,7 @@
         "demand": 1
       },
       {
-        "product": "148473 Snorlax - Jungle 11/64 NM (English) - Holo Rare",
+        "product": "Product #15897592955224",
         "productId": 15897592955224,
         "variantId": 57806577336664,
         "onHand": 0,
@@ -3370,7 +3370,7 @@
         "shortfall": 1
       },
       {
-        "product": "148473 Snorlax - Jungle 11/64 NM (English) - Holo Rare",
+        "product": "Product #15897592955224",
         "productId": 15897592955224,
         "variantId": 57806577336664,
         "onHand": 0,
