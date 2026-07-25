@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-25T12:49:11.323Z",
+  "generatedAt": "2026-07-25T14:42:37.460Z",
   "summary": {
-    "totalUnfulfilled": 65,
-    "canFulfill": 4,
-    "blocked": 61
+    "totalUnfulfilled": 71,
+    "canFulfill": 6,
+    "blocked": 65
   },
   "fulfillableOrders": [
     {
@@ -29,6 +29,18 @@
       "name": "#3951",
       "createdAt": "2026-07-12T20:06:42+02:00",
       "itemCount": 8
+    },
+    {
+      "id": 12497514889560,
+      "name": "#4054",
+      "createdAt": "2026-07-25T15:34:44+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12497615356248,
+      "name": "#4057",
+      "createdAt": "2026-07-25T16:23:51+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1216,6 +1228,108 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12497507582296,
+      "name": "#4053",
+      "customerName": "Simon Geurden",
+      "createdAt": "2026-07-25T15:31:05+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "116665 Kangaskhan - Scarlet & Violet Destined Rivals 204/182 NM (English) — 204/182, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12497537597784,
+      "name": "#4055",
+      "customerName": "Adrià Cáceres",
+      "createdAt": "2026-07-25T15:47:13+02:00",
+      "itemCount": 7,
+      "reasons": [
+        {
+          "product": "132622 Mega Meganium ex - Mega Evolution Ascended Heroes 272/217 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "144664 Gwynn - MEGA Abyss Eye 111/081 NM (Japanese) - Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "71807 Mega Chandelure ex - MEGA Abyss Eye 113/081 NM (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "71805 Mega Zeraora ex - MEGA Abyss Eye 112/081 NM (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "71811 Morpeko ex - MEGA Abyss Eye 115/081 NM (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "144660 Gladion’s Showdown - MEGA Abyss Eye 109/081 NM Holofoil (Japanese) - Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "144640 Mega Darkrai ex - MEGA Abyss Eye 099/081 NM Holofoil (Japanese) - Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12497607393624,
+      "name": "#4056",
+      "customerName": "Ben Flanagan",
+      "createdAt": "2026-07-25T16:19:54+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "125866 Team Rocket's Mewtwo ex - MEGA Dream ex 237/193 NM (Japanese) — 237/193, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12497633444184,
+      "name": "#4058",
+      "customerName": "sander thijs",
+      "createdAt": "2026-07-25T16:32:53+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "120799 Gengar & Mimikyu GX - Sun & Moon Team Up 164/181 NM (English) — 164/181, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "147791 Mega Evolution Pitch Black Booster Box 18 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2281,8 +2395,8 @@
         "productId": 15889255760216,
         "variantId": 57780450525528,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "Apple iPhone 16e White 128 GB",
@@ -2432,6 +2546,110 @@
         "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
         "productId": 15641318490456,
         "variantId": 56849267589464,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116665 Kangaskhan - Scarlet & Violet Destined Rivals 204/182 NM (English) — 204/182, Near-Mint / Illustration Rare",
+        "productId": 15641538855256,
+        "variantId": 56849692131672,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110168 Scarlet & Violet Stellar Crown Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566609752,
+        "variantId": 56849732403544,
+        "onHand": 8,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132622 Mega Meganium ex - Mega Evolution Ascended Heroes 272/217 NM (English) - Special Illustration Rare",
+        "productId": 15713423655256,
+        "variantId": 57130759323992,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "144664 Gwynn - MEGA Abyss Eye 111/081 NM (Japanese) - Ultra Rare",
+        "productId": 15822595031384,
+        "variantId": 57537676837208,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "71807 Mega Chandelure ex - MEGA Abyss Eye 113/081 NM (Japanese)",
+        "productId": 15822531199320,
+        "variantId": 57537503986008,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "71805 Mega Zeraora ex - MEGA Abyss Eye 112/081 NM (Japanese)",
+        "productId": 15821416530264,
+        "variantId": 57533813653848,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "71811 Morpeko ex - MEGA Abyss Eye 115/081 NM (Japanese)",
+        "productId": 15821418725720,
+        "variantId": 57533817651544,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "144660 Gladion’s Showdown - MEGA Abyss Eye 109/081 NM Holofoil (Japanese) - Ultra Rare",
+        "productId": 15897528271192,
+        "variantId": 57806181564760,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "144640 Mega Darkrai ex - MEGA Abyss Eye 099/081 NM Holofoil (Japanese) - Ultra Rare",
+        "productId": 15897530827096,
+        "variantId": 57806191395160,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "125866 Team Rocket's Mewtwo ex - MEGA Dream ex 237/193 NM (Japanese) — 237/193, Near-Mint / Special Illustration Rare",
+        "productId": 15641388515672,
+        "variantId": 56849459675480,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
+        "productId": 15641336840536,
+        "variantId": 56849295901016,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "120995 Mega Evolution Build & Battle Box (English) — 4 booster pack / Multicolor",
+        "productId": 15641496879448,
+        "variantId": 56849627742552,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "120799 Gengar & Mimikyu GX - Sun & Moon Team Up 164/181 NM (English) — 164/181, Near-Mint / Ultra Rare",
+        "productId": 15641500877144,
+        "variantId": 56849635017048,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -2659,6 +2877,16 @@
         "shortfall": 1
       },
       {
+        "product": "147791 Mega Evolution Pitch Black Booster Box 18 Booster Packs (English) - Multicolor",
+        "productId": 15889255760216,
+        "variantId": 57780450525528,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
+      },
+      {
         "product": "Apple iPhone 16e White 128 GB",
         "productId": 15603000344920,
         "variantId": 56688800039256,
@@ -2792,6 +3020,96 @@
         "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
         "productId": 15641318490456,
         "variantId": 56849267589464,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "116665 Kangaskhan - Scarlet & Violet Destined Rivals 204/182 NM (English) — 204/182, Near-Mint / Illustration Rare",
+        "productId": 15641538855256,
+        "variantId": 56849692131672,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132622 Mega Meganium ex - Mega Evolution Ascended Heroes 272/217 NM (English) - Special Illustration Rare",
+        "productId": 15713423655256,
+        "variantId": 57130759323992,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "144664 Gwynn - MEGA Abyss Eye 111/081 NM (Japanese) - Ultra Rare",
+        "productId": 15822595031384,
+        "variantId": 57537676837208,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "71807 Mega Chandelure ex - MEGA Abyss Eye 113/081 NM (Japanese)",
+        "productId": 15822531199320,
+        "variantId": 57537503986008,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "71805 Mega Zeraora ex - MEGA Abyss Eye 112/081 NM (Japanese)",
+        "productId": 15821416530264,
+        "variantId": 57533813653848,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "71811 Morpeko ex - MEGA Abyss Eye 115/081 NM (Japanese)",
+        "productId": 15821418725720,
+        "variantId": 57533817651544,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "144660 Gladion’s Showdown - MEGA Abyss Eye 109/081 NM Holofoil (Japanese) - Ultra Rare",
+        "productId": 15897528271192,
+        "variantId": 57806181564760,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "144640 Mega Darkrai ex - MEGA Abyss Eye 099/081 NM Holofoil (Japanese) - Ultra Rare",
+        "productId": 15897530827096,
+        "variantId": 57806191395160,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "120799 Gengar & Mimikyu GX - Sun & Moon Team Up 164/181 NM (English) — 164/181, Near-Mint / Ultra Rare",
+        "productId": 15641500877144,
+        "variantId": 56849635017048,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
