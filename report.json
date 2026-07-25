@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-25T14:42:37.460Z",
+  "generatedAt": "2026-07-25T15:51:14.411Z",
   "summary": {
-    "totalUnfulfilled": 71,
-    "canFulfill": 6,
-    "blocked": 65
+    "totalUnfulfilled": 78,
+    "canFulfill": 8,
+    "blocked": 70
   },
   "fulfillableOrders": [
     {
@@ -40,6 +40,18 @@
       "id": 12497615356248,
       "name": "#4057",
       "createdAt": "2026-07-25T16:23:51+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12497705632088,
+      "name": "#4060",
+      "createdAt": "2026-07-25T17:10:33+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12497721622872,
+      "name": "#4062",
+      "createdAt": "2026-07-25T17:18:14+02:00",
       "itemCount": 1
     }
   ],
@@ -1330,6 +1342,129 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12497687544152,
+      "name": "#4059",
+      "customerName": "Adrian Arnesen",
+      "createdAt": "2026-07-25T17:01:21+02:00",
+      "itemCount": 8,
+      "reasons": [
+        {
+          "product": "148461 Kangaskhan - Jungle 5/64 NM (English) - Holo Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "148455 Electrode - Jungle 2/64 NM (English) - Holo Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "148453 Clefable - Jungle 1/64 NM (English) - Holo Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "148483 Wigglytuff - Jungle 16/64 NM (English) - Holo Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "148473 Snorlax - Jungle 11/64 NM (English) - Holo Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "148475 Vaporeon - Jungle 12/64 NM (English) - Holo Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "148459 Jolteon - Jungle 4/64 NM (English) - Holo Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "148457 Flareon - Jungle 3/64 NM (English) - Holo Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12497716347224,
+      "name": "#4061",
+      "customerName": "Samuel Dominguez Carver",
+      "createdAt": "2026-07-25T17:15:09+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "145942 OP16 The Time of Battle Booster Box 24 Booster Packs (Japanese) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12497723490648,
+      "name": "#4063",
+      "customerName": "Niclas Jørgensen",
+      "createdAt": "2026-07-25T17:19:10+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "113612 Scarlet & Violet Prismatic Evolution Sylveon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12497733779800,
+      "name": "#4064",
+      "customerName": "Tobias Eckl",
+      "createdAt": "2026-07-25T17:24:26+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "147791 Mega Evolution Pitch Black Booster Box 18 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "110086 Scarlet & Violet Paldea Evolved Booster Box 36 pack(English) — 36 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12497739022680,
+      "name": "#4065",
+      "customerName": "Danay Smit",
+      "createdAt": "2026-07-25T17:27:15+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1387,8 +1522,8 @@
         "productId": 15641321341272,
         "variantId": 56849271554392,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "116774 Scarlet & Violet Destined Rivals Team Rocket's Mewtwo ex Box 4 Booster Pack (English) — 4 booster pack / Multicolor",
@@ -1531,8 +1666,8 @@
         "productId": 15641560842584,
         "variantId": 56849715429720,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
@@ -2355,8 +2490,8 @@
         "productId": 15641336611160,
         "variantId": 56849295671640,
         "onHand": 5,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "124034 Phantasmal Flames Mega Charizard X ex 65-Sleeves (English) — Standard (66x91mm) / Blue",
@@ -2395,8 +2530,8 @@
         "productId": 15889255760216,
         "variantId": 57780450525528,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "Apple iPhone 16e White 128 GB",
@@ -2653,6 +2788,94 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "148461 Kangaskhan - Jungle 5/64 NM (English) - Holo Rare",
+        "productId": 15897590890840,
+        "variantId": 57806567735640,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "148455 Electrode - Jungle 2/64 NM (English) - Holo Rare",
+        "productId": 15897591677272,
+        "variantId": 57806569570648,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "148453 Clefable - Jungle 1/64 NM (English) - Holo Rare",
+        "productId": 15897592103256,
+        "variantId": 57806571569496,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "148483 Wigglytuff - Jungle 16/64 NM (English) - Holo Rare",
+        "productId": 15897592627544,
+        "variantId": 57806574518616,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "148473 Snorlax - Jungle 11/64 NM (English) - Holo Rare",
+        "productId": 15897592955224,
+        "variantId": 57806577336664,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "148475 Vaporeon - Jungle 12/64 NM (English) - Holo Rare",
+        "productId": 15897593413976,
+        "variantId": 57806579564888,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "148459 Jolteon - Jungle 4/64 NM (English) - Holo Rare",
+        "productId": 15897593643352,
+        "variantId": 57806580646232,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "148457 Flareon - Jungle 3/64 NM (English) - Holo Rare",
+        "productId": 15897594069336,
+        "variantId": 57806582448472,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "145942 OP16 The Time of Battle Booster Box 24 Booster Packs (Japanese) - Multicolor",
+        "productId": 15897601999192,
+        "variantId": 57806706245976,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "113612 Scarlet & Violet Prismatic Evolution Sylveon Tech Sticker Blister 3 Booster Pack (English) — 3 Booster pack / Multicolor",
+        "productId": 15641561203032,
+        "variantId": 56849715790168,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110086 Scarlet & Violet Paldea Evolved Booster Box 36 pack(English) — 36 booster pack / Multicolor",
+        "productId": 15641567035736,
+        "variantId": 56849732862296,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2697,6 +2920,16 @@
         "shortfall": 2
       },
       {
+        "product": "147791 Mega Evolution Pitch Black Booster Box 18 Booster Packs (English) - Multicolor",
+        "productId": 15889255760216,
+        "variantId": 57780450525528,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 1,
+        "available": -3,
+        "shortfall": 2
+      },
+      {
         "product": "119419 Mew ex V3 - Scarlet & Violet 151 205/165 NM (English) — 205/165, Near-Mint / Secret Rare",
         "productId": 15641507660120,
         "variantId": 56849645502808,
@@ -2725,6 +2958,36 @@
         "incoming": 0,
         "available": -2,
         "shortfall": 2
+      },
+      {
+        "product": "148457 Flareon - Jungle 3/64 NM (English) - Holo Rare",
+        "productId": 15897594069336,
+        "variantId": 57806582448472,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "145942 OP16 The Time of Battle Booster Box 24 Booster Packs (Japanese) - Multicolor",
+        "productId": 15897601999192,
+        "variantId": 57806706245976,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
+        "productId": 15641560842584,
+        "variantId": 56849715429720,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
       },
       {
         "product": "119479 Wartortle - Scarlet & Violet 151 171/165 NM (English) — 171/165, Near-Mint / Illustration Rare",
@@ -2874,16 +3137,6 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "147791 Mega Evolution Pitch Black Booster Box 18 Booster Packs (English) - Multicolor",
-        "productId": 15889255760216,
-        "variantId": 57780450525528,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
         "shortfall": 1
       },
       {
@@ -3110,6 +3363,16 @@
         "product": "120799 Gengar & Mimikyu GX - Sun & Moon Team Up 164/181 NM (English) — 164/181, Near-Mint / Ultra Rare",
         "productId": 15641500877144,
         "variantId": 56849635017048,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "148473 Snorlax - Jungle 11/64 NM (English) - Holo Rare",
+        "productId": 15897592955224,
+        "variantId": 57806577336664,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
