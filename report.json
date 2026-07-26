@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-26T15:44:29.044Z",
+  "generatedAt": "2026-07-26T16:41:16.038Z",
   "summary": {
-    "totalUnfulfilled": 79,
+    "totalUnfulfilled": 81,
     "canFulfill": 8,
-    "blocked": 71
+    "blocked": 73
   },
   "fulfillableOrders": [
     {
@@ -1480,6 +1480,42 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12499450954072,
+      "name": "#4067",
+      "customerName": "Joshua Hammerich",
+      "createdAt": "2026-07-26T17:43:42+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "126601 The Glory of Team Rocket Attaché Case Set (JP)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12499460817240,
+      "name": "#4068",
+      "customerName": "danny nijman",
+      "createdAt": "2026-07-26T17:49:22+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "148475 Vaporeon - Jungle 12/64 NM (English) - Holo Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "148453 Clefable - Jungle 1/64 NM (English) - Holo Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2825,8 +2861,8 @@
         "productId": 15897592103256,
         "variantId": 57806571569496,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "148483 Wigglytuff - Jungle 16/64 NM (English) - Holo Rare",
@@ -2849,8 +2885,8 @@
         "productId": 15897593413976,
         "variantId": 57806579564888,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "148459 Jolteon - Jungle 4/64 NM (English) - Holo Rare",
@@ -2905,6 +2941,14 @@
         "productId": 15770791018840,
         "variantId": 57361382703448,
         "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "126601 The Glory of Team Rocket Attaché Case Set (JP)",
+        "productId": 15556789993816,
+        "variantId": 56513303118168,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
@@ -3301,6 +3345,16 @@
         "shortfall": 1
       },
       {
+        "product": "148453 Clefable - Jungle 1/64 NM (English) - Holo Rare",
+        "productId": 15897592103256,
+        "variantId": 57806571569496,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
+      },
+      {
         "product": "148473 Snorlax - Jungle 11/64 NM (English) - Holo Rare",
         "productId": 15897592955224,
         "variantId": 57806577336664,
@@ -3308,6 +3362,16 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "148475 Vaporeon - Jungle 12/64 NM (English) - Holo Rare",
+        "productId": 15897593413976,
+        "variantId": 57806579564888,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 2,
+        "available": -3,
         "shortfall": 1
       }
     ]
