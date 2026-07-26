@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-26T14:22:01.167Z",
+  "generatedAt": "2026-07-26T15:44:29.044Z",
   "summary": {
-    "totalUnfulfilled": 78,
+    "totalUnfulfilled": 79,
     "canFulfill": 8,
-    "blocked": 70
+    "blocked": 71
   },
   "fulfillableOrders": [
     {
@@ -1465,6 +1465,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12499412681048,
+      "name": "#4066",
+      "customerName": "Lukas Schönwetter",
+      "createdAt": "2026-07-26T17:21:51+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "147773 Mega Evolution Pitch Black Elite Trainer Box 9 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2666,8 +2681,8 @@
         "productId": 15892538556760,
         "variantId": 57791753421144,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "147779 Mega Evolution Pitch Black Booster Box 36 Booster Packs (English)",
@@ -2876,6 +2891,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "121675 Mega Inferno X Booster Box 30 Booster Pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641489310040,
+        "variantId": 56849616175448,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "142949 Mega Evolution Chaos Rising Elite Trainer Box 9 Booster Packs (English) - Multicolor",
+        "productId": 15770791018840,
+        "variantId": 57361382703448,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2897,16 +2928,6 @@
         "committed": 4,
         "incoming": 0,
         "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
-        "productId": 15641503891800,
-        "variantId": 56849639604568,
-        "onHand": 0,
-        "committed": 5,
-        "incoming": 3,
-        "available": -5,
         "shortfall": 2
       },
       {
@@ -2960,6 +2981,16 @@
         "shortfall": 2
       },
       {
+        "product": "147773 Mega Evolution Pitch Black Elite Trainer Box 9 Booster Packs (English)",
+        "productId": 15892538556760,
+        "variantId": 57791753421144,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
         "product": "148457 Flareon - Jungle 3/64 NM (English) - Holo Rare",
         "productId": 15897594069336,
         "variantId": 57806582448472,
@@ -2978,16 +3009,6 @@
         "incoming": 0,
         "available": -2,
         "shortfall": 2
-      },
-      {
-        "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
-        "productId": 15641560842584,
-        "variantId": 56849715429720,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
       },
       {
         "product": "119479 Wartortle - Scarlet & Violet 151 171/165 NM (English) — 171/165, Near-Mint / Illustration Rare",
@@ -3040,6 +3061,16 @@
         "shortfall": 1
       },
       {
+        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641503891800,
+        "variantId": 56849639604568,
+        "onHand": 0,
+        "committed": 5,
+        "incoming": 4,
+        "available": -5,
+        "shortfall": 1
+      },
+      {
         "product": "132688 Team Rocket’s Dugtrio - Mega Evolution Ascended Heroes 239/217 NM (English) — 239/217, Near-Mint / Illustration Rare",
         "productId": 15641319309656,
         "variantId": 56849268408664,
@@ -3070,26 +3101,6 @@
         "shortfall": 1
       },
       {
-        "product": "132690 Team Rocket’s Mimikyu - Mega Evolution Ascended Heroes 238/217 NM (English) — 238/217, Near-Mint / Illustration Rare",
-        "productId": 15641319244120,
-        "variantId": 56849268343128,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132670 Drakloak - Mega Evolution Ascended Heroes 248/217 NM (English) — 248/217, Near-Mint / Illustration Rare",
-        "productId": 15641319801176,
-        "variantId": 56849268900184,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566052696,
         "variantId": 56849731354968,
@@ -3100,39 +3111,9 @@
         "shortfall": 1
       },
       {
-        "product": "141863 MEGA Ninja Spinner Booster Pack (Japanese)",
-        "productId": 15720120385880,
-        "variantId": 57151497830744,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "124034 Phantasmal Flames Mega Charizard X ex 65-Sleeves (English) — Standard (66x91mm) / Blue",
-        "productId": 15641487638872,
-        "variantId": 56849614373208,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "145284 Marill - Scarlet & Violet Paldea Evolved 204/193 NM Holofoil (English) - Illustration Rare",
         "productId": 15889012883800,
         "variantId": 57780146078040,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "120849 Eevee & Snorlax GX - Sun & Moon Team Up 120/181 NM (English) — 120/181, Near-Mint / Ultra Rare",
-        "productId": 15641500025176,
-        "variantId": 56849634099544,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -3250,39 +3231,9 @@
         "shortfall": 1
       },
       {
-        "product": "147773 Mega Evolution Pitch Black Elite Trainer Box 9 Booster Packs (English)",
-        "productId": 15892538556760,
-        "variantId": 57791753421144,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "147779 Mega Evolution Pitch Black Booster Box 36 Booster Packs (English)",
         "productId": 15892606484824,
         "variantId": 57791899861336,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
-        "productId": 15641318490456,
-        "variantId": 56849267589464,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "116665 Kangaskhan - Scarlet & Violet Destined Rivals 204/182 NM (English) — 204/182, Near-Mint / Illustration Rare",
-        "productId": 15641538855256,
-        "variantId": 56849692131672,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -3323,26 +3274,6 @@
         "product": "71805 Mega Zeraora ex - MEGA Abyss Eye 112/081 NM (Japanese)",
         "productId": 15821416530264,
         "variantId": 57533813653848,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "71811 Morpeko ex - MEGA Abyss Eye 115/081 NM (Japanese)",
-        "productId": 15821418725720,
-        "variantId": 57533817651544,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "144660 Gladion’s Showdown - MEGA Abyss Eye 109/081 NM Holofoil (Japanese) - Ultra Rare",
-        "productId": 15897528271192,
-        "variantId": 57806181564760,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
