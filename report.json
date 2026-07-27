@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-27T12:33:17.286Z",
+  "generatedAt": "2026-07-27T15:30:09.608Z",
   "summary": {
-    "totalUnfulfilled": 96,
-    "canFulfill": 11,
-    "blocked": 85
+    "totalUnfulfilled": 103,
+    "canFulfill": 15,
+    "blocked": 88
   },
   "fulfillableOrders": [
     {
@@ -55,21 +55,45 @@
       "itemCount": 1
     },
     {
-      "id": 12500529545560,
-      "name": "#AG-WELCOME-001",
-      "createdAt": "2026-07-27T10:50:51+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12500534296920,
+      "id": 12501024342360,
       "name": "#AG-WELCOME-003",
-      "createdAt": "2026-07-27T10:53:54+02:00",
+      "createdAt": "2026-07-27T14:52:29+02:00",
       "itemCount": 1
     },
     {
-      "id": 12500534329688,
+      "id": 12501024375128,
       "name": "#AG-WELCOME-002",
-      "createdAt": "2026-07-27T10:53:54+02:00",
+      "createdAt": "2026-07-27T14:52:29+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12501024440664,
+      "name": "#AG-WELCOME-005",
+      "createdAt": "2026-07-27T14:52:31+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12501089517912,
+      "name": "#4098",
+      "createdAt": "2026-07-27T15:24:45+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12501095907672,
+      "name": "#4099",
+      "createdAt": "2026-07-27T15:28:05+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12501104918872,
+      "name": "#4100",
+      "createdAt": "2026-07-27T15:32:23+02:00",
+      "itemCount": 6
+    },
+    {
+      "id": 12501121991000,
+      "name": "#4101",
+      "createdAt": "2026-07-27T15:40:22+02:00",
       "itemCount": 1
     }
   ],
@@ -1530,156 +1554,6 @@
       ]
     },
     {
-      "id": 12500534395224,
-      "name": "#AG-WELCOME-004",
-      "customerName": "Ramazan Gungormez",
-      "createdAt": "2026-07-27T10:53:55+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "AG Welcome Pack — L",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 9,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12500534427992,
-      "name": "#AG-WELCOME-005",
-      "customerName": "Andre Felipe da Cunha Garcia",
-      "createdAt": "2026-07-27T10:53:55+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "AG Welcome Pack — L",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 9,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12500534493528,
-      "name": "#AG-WELCOME-006",
-      "customerName": "August Hardange",
-      "createdAt": "2026-07-27T10:53:56+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "AG Welcome Pack — L",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 9,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12500534526296,
-      "name": "#AG-WELCOME-007",
-      "customerName": "Shlok Anil Acharee",
-      "createdAt": "2026-07-27T10:53:57+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "AG Welcome Pack — L",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 9,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12500534559064,
-      "name": "#AG-WELCOME-008",
-      "customerName": "Kepler Miranda Pereira",
-      "createdAt": "2026-07-27T10:53:58+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "AG Welcome Pack — L",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 9,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12500534591832,
-      "name": "#AG-WELCOME-009",
-      "customerName": "Yagiz Urkanlar",
-      "createdAt": "2026-07-27T10:53:58+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "AG Welcome Pack — L",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 9,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12500534624600,
-      "name": "#AG-WELCOME-011",
-      "customerName": "Domagoj Vukovic",
-      "createdAt": "2026-07-27T10:53:59+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "AG Welcome Pack — L",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 9,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12500534690136,
-      "name": "#AG-WELCOME-010",
-      "customerName": "Fernanda Serra e Silva",
-      "createdAt": "2026-07-27T10:53:59+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "AG Welcome Pack — L",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 9,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12500534755672,
-      "name": "#AG-WELCOME-012",
-      "customerName": "Marcos Gabriel Giordano",
-      "createdAt": "2026-07-27T10:54:00+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "AG Welcome Pack — L",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 9,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12500534788440,
-      "name": "#AG-WELCOME-013",
-      "customerName": "Tea Puljic",
-      "createdAt": "2026-07-27T10:54:00+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "AG Welcome Pack — L",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 9,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12500848836952,
       "name": "#4082",
       "customerName": "Adrià Cáceres",
@@ -1733,6 +1607,201 @@
       "reasons": [
         {
           "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12501007827288,
+      "name": "#4084",
+      "customerName": "Kenan Yilmaz",
+      "createdAt": "2026-07-27T14:43:36+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "120865 Hoopa GX - Sun & Moon Team Up 166/181 NM (English) — 166/181, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12501024506200,
+      "name": "#AG-WELCOME-004",
+      "customerName": "Ramazan Gungormez",
+      "createdAt": "2026-07-27T14:52:31+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AG Welcome Pack — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12501024571736,
+      "name": "#AG-WELCOME-006",
+      "customerName": "August Hardange",
+      "createdAt": "2026-07-27T14:52:32+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AG Welcome Pack — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12501024604504,
+      "name": "#AG-WELCOME-007",
+      "customerName": "Shlok Anil Acharee",
+      "createdAt": "2026-07-27T14:52:33+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AG Welcome Pack — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12501024637272,
+      "name": "#AG-WELCOME-008",
+      "customerName": "Kepler Miranda Pereira",
+      "createdAt": "2026-07-27T14:52:34+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AG Welcome Pack — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12501024702808,
+      "name": "#AG-WELCOME-009",
+      "customerName": "Yagiz Urkanlar",
+      "createdAt": "2026-07-27T14:52:35+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AG Welcome Pack — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12501024833880,
+      "name": "#AG-WELCOME-010",
+      "customerName": "Fernanda Serra e Silva",
+      "createdAt": "2026-07-27T14:52:37+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AG Welcome Pack — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12501024899416,
+      "name": "#AG-WELCOME-011",
+      "customerName": "Domagoj Vukovic",
+      "createdAt": "2026-07-27T14:52:37+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AG Welcome Pack — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12501024932184,
+      "name": "#AG-WELCOME-012",
+      "customerName": "Marcos Gabriel Giordano",
+      "createdAt": "2026-07-27T14:52:38+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AG Welcome Pack — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12501024964952,
+      "name": "#AG-WELCOME-013",
+      "customerName": "Tea Puljic",
+      "createdAt": "2026-07-27T14:52:38+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AG Welcome Pack — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12501024997720,
+      "name": "#AG-WELCOME-001",
+      "customerName": "Radoslav Georgiev",
+      "createdAt": "2026-07-27T14:52:40+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AG Welcome Pack — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12501384724824,
+      "name": "#4102",
+      "customerName": "Mario Heine",
+      "createdAt": "2026-07-27T17:05:45+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "35325 One Piece TCG: Monkey.D.Luffy Starter Deck",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12501404123480,
+      "name": "#4103",
+      "customerName": "Taaf Stroo",
+      "createdAt": "2026-07-27T17:16:10+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "120825 Pikachu & Zekrom GX - Sun & Moon Team Up 033/181 NM (English) — 33/181, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1923,8 +1992,8 @@
         "productId": 15641336676696,
         "variantId": 56849295737176,
         "onHand": 2,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "134034 Mega Evolution Perfect Order Elite Trainer Box 9 Booster Packs (English) Pre-order",
@@ -1995,8 +2064,8 @@
         "productId": 15641506120024,
         "variantId": 56849643503960,
         "onHand": 5,
-        "committed": 6,
-        "demand": 6
+        "committed": 7,
+        "demand": 7
       },
       {
         "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
@@ -2755,8 +2824,8 @@
         "productId": 15641336775000,
         "variantId": 56849295835480,
         "onHand": 4,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131924 Mega Evolution Ascended Heroes Mega Emboar‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -3043,8 +3112,8 @@
         "productId": 15641336840536,
         "variantId": 56849295901016,
         "onHand": 3,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "120995 Mega Evolution Build & Battle Box (English) — 4 booster pack / Multicolor",
@@ -3229,6 +3298,62 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "120865 Hoopa GX - Sun & Moon Team Up 166/181 NM (English) — 166/181, Near-Mint / Ultra Rare",
+        "productId": 15641499664728,
+        "variantId": 56849633739096,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110281 Sword & Shield Shining Fates Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641564512600,
+        "variantId": 56849721033048,
+        "onHand": 8,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131480 Kingdoms of Intrigue One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641344672088,
+        "variantId": 56849304715608,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "124024 Phantasmal Flames Mega Evolution Blaziken Premium Checklane 1 Booster Pack Blister (English) — 1 Booster Pack / Multicolor",
+        "productId": 15641488064856,
+        "variantId": 56849614831960,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131566 ST15‑ST20 Release Event One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641341460824,
+        "variantId": 56849301209432,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "35325 One Piece TCG: Monkey.D.Luffy Starter Deck",
+        "productId": 15828214382936,
+        "variantId": 57554286608728,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "120825 Pikachu & Zekrom GX - Sun & Moon Team Up 033/181 NM (English) — 33/181, Near-Mint / Ultra Rare",
+        "productId": 15641500451160,
+        "variantId": 56849634558296,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3331,6 +3456,16 @@
         "incoming": 0,
         "available": -2,
         "shortfall": 2
+      },
+      {
+        "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
+        "productId": 15641506120024,
+        "variantId": 56849643503960,
+        "onHand": 5,
+        "committed": 7,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
       },
       {
         "product": "119479 Wartortle - Scarlet & Violet 151 171/165 NM (English) — 171/165, Near-Mint / Illustration Rare",
@@ -3706,6 +3841,26 @@
         "product": "132618 \tMega Feraligatr ex - Mega Evolution Ascended Heroes 274/217 NM Holofoil (English) - Special Illustration Rare",
         "productId": 15899438776664,
         "variantId": 57813726626136,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "35325 One Piece TCG: Monkey.D.Luffy Starter Deck",
+        "productId": 15828214382936,
+        "variantId": 57554286608728,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "120825 Pikachu & Zekrom GX - Sun & Moon Team Up 033/181 NM (English) — 33/181, Near-Mint / Ultra Rare",
+        "productId": 15641500451160,
+        "variantId": 56849634558296,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
