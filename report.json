@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-27T08:59:08.617Z",
+  "generatedAt": "2026-07-27T12:33:17.286Z",
   "summary": {
-    "totalUnfulfilled": 94,
+    "totalUnfulfilled": 96,
     "canFulfill": 11,
-    "blocked": 83
+    "blocked": 85
   },
   "fulfillableOrders": [
     {
@@ -1678,6 +1678,66 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12500848836952,
+      "name": "#4082",
+      "customerName": "Adrià Cáceres",
+      "createdAt": "2026-07-27T13:29:24+02:00",
+      "itemCount": 7,
+      "reasons": [
+        {
+          "product": "71801 Rust Syndicate Grunt - MEGA Abyss Eye 110/081 NM (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132730 Erika’s Tangela - Mega Evolution Ascended Heroes 218/217 NM (English) — 218/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "144632 Wailord ex - MEGA Abyss Eye 095/081 NM Holofoil (Japanese) - Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132864 Mega Dragonite ex - Mega Evolution Ascended Heroes 271/217 NM (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132602 Mega Diancie ex - Mega Evolution Ascended Heroes 282/217 NM (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132618 \tMega Feraligatr ex - Mega Evolution Ascended Heroes 274/217 NM Holofoil (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12500978565464,
+      "name": "#4083",
+      "customerName": "sander thijs",
+      "createdAt": "2026-07-27T14:28:25+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1695,8 +1755,8 @@
         "productId": 15771147010392,
         "variantId": 57362036457816,
         "onHand": 0,
-        "committed": 0,
-        "demand": 1
+        "committed": 1,
+        "demand": 2
       },
       {
         "product": "128016 Gol.D.Roger - Carrying on His Will OP13‑003 V2 NM (English) — OP13‑003/V2, Near-Mint / Alternate Art",
@@ -3113,6 +3173,62 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "71801 Rust Syndicate Grunt - MEGA Abyss Eye 110/081 NM (Japanese)",
+        "productId": 15821413515608,
+        "variantId": 57533809983832,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132730 Erika’s Tangela - Mega Evolution Ascended Heroes 218/217 NM (English) — 218/217, Near-Mint / Illustration Rare",
+        "productId": 15641317933400,
+        "variantId": 56849266049368,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "144632 Wailord ex - MEGA Abyss Eye 095/081 NM Holofoil (Japanese) - Ultra Rare",
+        "productId": 15899437990232,
+        "variantId": 57813722169688,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132864 Mega Dragonite ex - Mega Evolution Ascended Heroes 271/217 NM (English)",
+        "productId": 15630201356632,
+        "variantId": 56804521410904,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132602 Mega Diancie ex - Mega Evolution Ascended Heroes 282/217 NM (English)",
+        "productId": 15713422770520,
+        "variantId": 57130752344408,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132620 Mega Emboar ex - Mega Evolution Ascended Heroes 273/217 NM (English) — Special Illustration Rare / Size 273/217",
+        "productId": 15653254889816,
+        "variantId": 56897702330712,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132618 \tMega Feraligatr ex - Mega Evolution Ascended Heroes 274/217 NM Holofoil (English) - Special Illustration Rare",
+        "productId": 15899438776664,
+        "variantId": 57813726626136,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3534,6 +3650,66 @@
         "committed": 3,
         "incoming": 2,
         "available": -3,
+        "shortfall": 1
+      },
+      {
+        "product": "71801 Rust Syndicate Grunt - MEGA Abyss Eye 110/081 NM (Japanese)",
+        "productId": 15821413515608,
+        "variantId": 57533809983832,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132730 Erika’s Tangela - Mega Evolution Ascended Heroes 218/217 NM (English) — 218/217, Near-Mint / Illustration Rare",
+        "productId": 15641317933400,
+        "variantId": 56849266049368,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "144632 Wailord ex - MEGA Abyss Eye 095/081 NM Holofoil (Japanese) - Ultra Rare",
+        "productId": 15899437990232,
+        "variantId": 57813722169688,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132864 Mega Dragonite ex - Mega Evolution Ascended Heroes 271/217 NM (English)",
+        "productId": 15630201356632,
+        "variantId": 56804521410904,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132602 Mega Diancie ex - Mega Evolution Ascended Heroes 282/217 NM (English)",
+        "productId": 15713422770520,
+        "variantId": 57130752344408,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132618 \tMega Feraligatr ex - Mega Evolution Ascended Heroes 274/217 NM Holofoil (English) - Special Illustration Rare",
+        "productId": 15899438776664,
+        "variantId": 57813726626136,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
         "shortfall": 1
       }
     ]
