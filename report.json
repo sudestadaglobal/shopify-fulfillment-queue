@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-27T05:29:14.946Z",
+  "generatedAt": "2026-07-27T08:59:08.617Z",
   "summary": {
-    "totalUnfulfilled": 81,
-    "canFulfill": 8,
-    "blocked": 73
+    "totalUnfulfilled": 94,
+    "canFulfill": 11,
+    "blocked": 83
   },
   "fulfillableOrders": [
     {
@@ -52,6 +52,24 @@
       "id": 12497721622872,
       "name": "#4062",
       "createdAt": "2026-07-25T17:18:14+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12500529545560,
+      "name": "#AG-WELCOME-001",
+      "createdAt": "2026-07-27T10:50:51+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12500534296920,
+      "name": "#AG-WELCOME-003",
+      "createdAt": "2026-07-27T10:53:54+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12500534329688,
+      "name": "#AG-WELCOME-002",
+      "createdAt": "2026-07-27T10:53:54+02:00",
       "itemCount": 1
     }
   ],
@@ -863,12 +881,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "136123 Start Deck 100 Deck (Japanese) — 60 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -1513,6 +1525,156 @@
           "product": "148453 Clefable - Jungle 1/64 NM (English) - Holo Rare",
           "reason": "Insufficient stock",
           "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12500534395224,
+      "name": "#AG-WELCOME-004",
+      "customerName": "Ramazan Gungormez",
+      "createdAt": "2026-07-27T10:53:55+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AG Welcome Pack — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12500534427992,
+      "name": "#AG-WELCOME-005",
+      "customerName": "Andre Felipe da Cunha Garcia",
+      "createdAt": "2026-07-27T10:53:55+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AG Welcome Pack — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12500534493528,
+      "name": "#AG-WELCOME-006",
+      "customerName": "August Hardange",
+      "createdAt": "2026-07-27T10:53:56+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AG Welcome Pack — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12500534526296,
+      "name": "#AG-WELCOME-007",
+      "customerName": "Shlok Anil Acharee",
+      "createdAt": "2026-07-27T10:53:57+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AG Welcome Pack — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12500534559064,
+      "name": "#AG-WELCOME-008",
+      "customerName": "Kepler Miranda Pereira",
+      "createdAt": "2026-07-27T10:53:58+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AG Welcome Pack — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12500534591832,
+      "name": "#AG-WELCOME-009",
+      "customerName": "Yagiz Urkanlar",
+      "createdAt": "2026-07-27T10:53:58+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AG Welcome Pack — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12500534624600,
+      "name": "#AG-WELCOME-011",
+      "customerName": "Domagoj Vukovic",
+      "createdAt": "2026-07-27T10:53:59+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AG Welcome Pack — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12500534690136,
+      "name": "#AG-WELCOME-010",
+      "customerName": "Fernanda Serra e Silva",
+      "createdAt": "2026-07-27T10:53:59+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AG Welcome Pack — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12500534755672,
+      "name": "#AG-WELCOME-012",
+      "customerName": "Marcos Gabriel Giordano",
+      "createdAt": "2026-07-27T10:54:00+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AG Welcome Pack — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12500534788440,
+      "name": "#AG-WELCOME-013",
+      "customerName": "Tea Puljic",
+      "createdAt": "2026-07-27T10:54:00+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AG Welcome Pack — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
           "needed": 1
         }
       ]
@@ -2364,7 +2526,7 @@
         "product": "136123 Start Deck 100 Deck (Japanese) — 60 cards / Multicolor",
         "productId": 15641265471832,
         "variantId": 56849189077336,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
