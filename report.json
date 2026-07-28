@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T02:57:22.727Z",
+  "generatedAt": "2026-07-28T05:55:48.034Z",
   "summary": {
     "totalUnfulfilled": 103,
     "canFulfill": 15,
@@ -3461,36 +3461,6 @@
         "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566052696,
         "variantId": 56849731354968,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Apple iPhone 16e White 128 GB",
-        "productId": 15603000344920,
-        "variantId": 56688800039256,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Corsair Vengeance DDR5 CL36 2 x 16GB; 6000MHz",
-        "productId": 15891667091800,
-        "variantId": 57790305370456,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "AMD Ryzen 7 9800X3D",
-        "productId": 15225097027928,
-        "variantId": 55408545464664,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
