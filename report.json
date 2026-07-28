@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-28T13:07:02.447Z",
+  "generatedAt": "2026-07-28T15:39:58.599Z",
   "summary": {
-    "totalUnfulfilled": 106,
-    "canFulfill": 17,
+    "totalUnfulfilled": 107,
+    "canFulfill": 18,
     "blocked": 89
   },
   "fulfillableOrders": [
@@ -29,6 +29,12 @@
       "name": "#3951",
       "createdAt": "2026-07-12T20:06:42+02:00",
       "itemCount": 8
+    },
+    {
+      "id": 12480037781848,
+      "name": "#4010",
+      "createdAt": "2026-07-19T17:47:39+02:00",
+      "itemCount": 1
     },
     {
       "id": 12497514889560,
@@ -734,21 +740,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
-        }
-      ]
-    },
-    {
-      "id": 12480037781848,
-      "name": "#4010",
-      "customerName": "Fabian Moser",
-      "createdAt": "2026-07-19T17:47:39+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131634 Mega Zygarde‑ex - Nihil Zero 117/080 NM (Japanese) — 117/080, Near-Mint / Secret Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -1834,6 +1825,39 @@
           "needed": 9
         }
       ]
+    },
+    {
+      "id": 12503171924312,
+      "name": "#4107",
+      "customerName": "Adrià Cáceres",
+      "createdAt": "2026-07-28T15:33:43+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "71755 Slowbro - MEGA Abyss Eye 087/081 NM (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "63039 Mega Gengar ex - Mega Evolution Ascended Heroes 269/217 NM (English) — Size 269/217 / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132590 Fezandipiti ex - Mega Evolution Ascended Heroes 288/217 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "113485 Sylveon ex - Scarlet & Violet Prismatic Evolution 156/131 NM (English) — 156/131, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2546,7 +2570,7 @@
         "product": "131634 Mega Zygarde‑ex - Nihil Zero 117/080 NM (Japanese) — 117/080, Near-Mint / Secret Rare",
         "productId": 15641340019032,
         "variantId": 56849299538264,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3397,6 +3421,38 @@
         "onHand": 5,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "71755 Slowbro - MEGA Abyss Eye 087/081 NM (Japanese)",
+        "productId": 15821411254616,
+        "variantId": 57533806051672,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "63039 Mega Gengar ex - Mega Evolution Ascended Heroes 269/217 NM (English) — Size 269/217 / Ultra Rare",
+        "productId": 15653351129432,
+        "variantId": 56898072969560,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132590 Fezandipiti ex - Mega Evolution Ascended Heroes 288/217 NM (English) - Special Illustration Rare",
+        "productId": 15864692539736,
+        "variantId": 57658683818328,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113485 Sylveon ex - Scarlet & Violet Prismatic Evolution 156/131 NM (English) — 156/131, Near-Mint / Special Illustration Rare",
+        "productId": 15641563660632,
+        "variantId": 56849719558488,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3614,6 +3670,36 @@
         "product": "120825 Pikachu & Zekrom GX - Sun & Moon Team Up 033/181 NM (English) — 33/181, Near-Mint / Ultra Rare",
         "productId": 15641500451160,
         "variantId": 56849634558296,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "63039 Mega Gengar ex - Mega Evolution Ascended Heroes 269/217 NM (English) — Size 269/217 / Ultra Rare",
+        "productId": 15653351129432,
+        "variantId": 56898072969560,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132590 Fezandipiti ex - Mega Evolution Ascended Heroes 288/217 NM (English) - Special Illustration Rare",
+        "productId": 15864692539736,
+        "variantId": 57658683818328,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "113485 Sylveon ex - Scarlet & Violet Prismatic Evolution 156/131 NM (English) — 156/131, Near-Mint / Special Illustration Rare",
+        "productId": 15641563660632,
+        "variantId": 56849719558488,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
