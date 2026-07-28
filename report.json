@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-28T11:08:14.900Z",
+  "generatedAt": "2026-07-28T13:07:02.447Z",
   "summary": {
-    "totalUnfulfilled": 103,
-    "canFulfill": 15,
-    "blocked": 88
+    "totalUnfulfilled": 106,
+    "canFulfill": 17,
+    "blocked": 89
   },
   "fulfillableOrders": [
     {
@@ -94,6 +94,18 @@
       "id": 12501121991000,
       "name": "#4101",
       "createdAt": "2026-07-27T15:40:22+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12503046586712,
+      "name": "#4104",
+      "createdAt": "2026-07-28T14:25:31+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12503095738712,
+      "name": "#4106",
+      "createdAt": "2026-07-28T14:52:02+02:00",
       "itemCount": 1
     }
   ],
@@ -1807,6 +1819,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12503067722072,
+      "name": "#4105",
+      "customerName": "Joachim Hellstrom",
+      "createdAt": "2026-07-28T14:36:48+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 9
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2592,8 +2619,8 @@
         "productId": 15641523519832,
         "variantId": 56849676435800,
         "onHand": 6,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "Apple AirTag - (4 Pack)",
@@ -3354,9 +3381,35 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
+        "productId": 15641345753432,
+        "variantId": 56849305796952,
+        "onHand": 1,
+        "committed": 9,
+        "demand": 9
+      },
+      {
+        "product": "131910 Mega Evolution Ascended Heroes Larry’s Komala Blister 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641337069912,
+        "variantId": 56849296097624,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
+      {
+        "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
+        "productId": 15641345753432,
+        "variantId": 56849305796952,
+        "onHand": 1,
+        "committed": 9,
+        "incoming": 0,
+        "available": -8,
+        "shortfall": 8
+      },
       {
         "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
         "productId": 15641503859032,
