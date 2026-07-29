@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-29T16:39:02.333Z",
+  "generatedAt": "2026-07-29T18:00:25.862Z",
   "summary": {
-    "totalUnfulfilled": 82,
+    "totalUnfulfilled": 83,
     "canFulfill": 10,
-    "blocked": 72
+    "blocked": 73
   },
   "fulfillableOrders": [
     {
@@ -1561,6 +1561,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12505905299800,
+      "name": "#4116",
+      "customerName": "Ryan Christiaanse",
+      "createdAt": "2026-07-29T18:58:38+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2066,8 +2081,8 @@
         "productId": 15641321570648,
         "variantId": 56849271783768,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131466 The Best Vol.2 One Piece Sleeved Booster Pack (English) — 10 cards / Multicolor",
@@ -3085,6 +3100,16 @@
         "committed": 5,
         "incoming": 4,
         "available": -5,
+        "shortfall": 1
+      },
+      {
+        "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
+        "productId": 15641321570648,
+        "variantId": 56849271783768,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 2,
+        "available": -3,
         "shortfall": 1
       },
       {
