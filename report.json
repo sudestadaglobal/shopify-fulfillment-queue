@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-29T07:36:17.951Z",
+  "generatedAt": "2026-07-29T10:22:51.073Z",
   "summary": {
     "totalUnfulfilled": 110,
-    "canFulfill": 31,
-    "blocked": 79
+    "canFulfill": 32,
+    "blocked": 78
   },
   "fulfillableOrders": [
     {
@@ -118,6 +118,12 @@
       "id": 12480353337688,
       "name": "#4016",
       "createdAt": "2026-07-19T20:57:56+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12480357204312,
+      "name": "#4017",
+      "createdAt": "2026-07-19T21:00:35+02:00",
       "itemCount": 1
     },
     {
@@ -629,21 +635,6 @@
         },
         {
           "product": "99731 Charizard - XY Evolutions 011/108 NM Reverse Holo (English) - Holo Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12480357204312,
-      "name": "#4017",
-      "customerName": "Carl Vestling",
-      "createdAt": "2026-07-19T21:00:35+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "141865 MEGA Ninja Spinner Booster Box 30 Booster Packs (Japanese) - Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2518,7 +2509,7 @@
         "product": "141865 MEGA Ninja Spinner Booster Box 30 Booster Packs (Japanese) - Multicolor",
         "productId": 15720140046680,
         "variantId": 57151562678616,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
