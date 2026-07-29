@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-29T12:35:07.516Z",
+  "generatedAt": "2026-07-29T15:02:21.389Z",
   "summary": {
-    "totalUnfulfilled": 110,
+    "totalUnfulfilled": 109,
     "canFulfill": 32,
-    "blocked": 78
+    "blocked": 77
   },
   "fulfillableOrders": [
     {
@@ -1558,21 +1558,6 @@
       "name": "#AG-WELCOME-011",
       "customerName": "Domagoj Vukovic",
       "createdAt": "2026-07-27T14:52:37+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "AG Welcome Pack — L",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 9,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12501024932184,
-      "name": "#AG-WELCOME-012",
-      "customerName": "Marcos Gabriel Giordano",
-      "createdAt": "2026-07-27T14:52:38+02:00",
       "itemCount": 1,
       "reasons": [
         {
