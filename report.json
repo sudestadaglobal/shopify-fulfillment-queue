@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-29T18:00:25.862Z",
+  "generatedAt": "2026-07-29T19:39:57.009Z",
   "summary": {
-    "totalUnfulfilled": 83,
+    "totalUnfulfilled": 84,
     "canFulfill": 10,
-    "blocked": 73
+    "blocked": 74
   },
   "fulfillableOrders": [
     {
@@ -1576,6 +1576,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12506011533656,
+      "name": "#4117",
+      "customerName": "Enrico Rinaldi",
+      "createdAt": "2026-07-29T20:08:08+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "120825 Pikachu & Zekrom GX - Sun & Moon Team Up 033/181 NM (English) — 33/181, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2873,8 +2888,8 @@
         "productId": 15641500451160,
         "variantId": 56849634558296,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
@@ -3187,9 +3202,9 @@
         "productId": 15641500451160,
         "variantId": 56849634558296,
         "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       },
       {
