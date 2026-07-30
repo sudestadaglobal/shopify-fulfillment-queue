@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-30T14:17:52.476Z",
+  "generatedAt": "2026-07-30T16:04:56.237Z",
   "summary": {
-    "totalUnfulfilled": 86,
+    "totalUnfulfilled": 88,
     "canFulfill": 11,
-    "blocked": 75
+    "blocked": 77
   },
   "fulfillableOrders": [
     {
@@ -1618,6 +1618,36 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12507876295000,
+      "name": "#4120",
+      "customerName": "Luis Brauner",
+      "createdAt": "2026-07-30T17:13:10+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "148505 Snorlax - Jungle 27/64 NM (English) - Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12507964080472,
+      "name": "#4121",
+      "customerName": "sascha schrader",
+      "createdAt": "2026-07-30T18:00:38+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "148645 Dark Charizard - Team Rocket 4/82 NM Holofoil (English) - Holo Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -3043,8 +3073,8 @@
         "productId": 15902936891736,
         "variantId": 57828039033176,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
@@ -3091,6 +3121,14 @@
         "productId": 15641564643672,
         "variantId": 56849721164120,
         "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "148505 Snorlax - Jungle 27/64 NM (English) - Rare",
+        "productId": 15904352338264,
+        "variantId": 57831389692248,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
@@ -3150,6 +3188,16 @@
         "product": "148457 Flareon - Jungle 3/64 NM (English) - Holo Rare",
         "productId": 15897594069336,
         "variantId": 57806582448472,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "148645 Dark Charizard - Team Rocket 4/82 NM Holofoil (English) - Holo Rare",
+        "productId": 15902936891736,
+        "variantId": 57828039033176,
         "onHand": 0,
         "committed": 2,
         "incoming": 0,
@@ -3397,16 +3445,6 @@
         "shortfall": 1
       },
       {
-        "product": "148645 Dark Charizard - Team Rocket 4/82 NM Holofoil (English) - Holo Rare",
-        "productId": 15902936891736,
-        "variantId": 57828039033176,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
         "productId": 15903094800728,
         "variantId": 57828229710168,
@@ -3430,6 +3468,16 @@
         "product": "148571 Pikachu - Jungle 60/64 NM (English) - Common",
         "productId": 15904091996504,
         "variantId": 57830895845720,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "148505 Snorlax - Jungle 27/64 NM (English) - Rare",
+        "productId": 15904352338264,
+        "variantId": 57831389692248,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
