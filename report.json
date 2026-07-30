@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T17:54:05.461Z",
+  "generatedAt": "2026-07-30T19:44:19.610Z",
   "summary": {
     "totalUnfulfilled": 93,
     "canFulfill": 11,
@@ -3256,26 +3256,6 @@
     ],
     "demandExceedsStock": [
       {
-        "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
-        "productId": 15641345753432,
-        "variantId": 56849305796952,
-        "onHand": 1,
-        "committed": 10,
-        "incoming": 0,
-        "available": -9,
-        "shortfall": 9
-      },
-      {
-        "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
-        "productId": 15641503859032,
-        "variantId": 56849639571800,
-        "onHand": 1,
-        "committed": 4,
-        "incoming": 0,
-        "available": -3,
-        "shortfall": 3
-      },
-      {
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
         "productId": 15641506251096,
         "variantId": 56849643602264,
@@ -3296,16 +3276,6 @@
         "shortfall": 2
       },
       {
-        "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
-        "productId": 15641343099224,
-        "variantId": 56849302946136,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 1,
-        "available": -3,
-        "shortfall": 2
-      },
-      {
         "product": "147791 Mega Evolution Pitch Black Booster Box 18 Booster Packs (English) - Multicolor",
         "productId": 15889255760216,
         "variantId": 57780450525528,
@@ -3313,16 +3283,6 @@
         "committed": 3,
         "incoming": 1,
         "available": -3,
-        "shortfall": 2
-      },
-      {
-        "product": "125830 Psyduck - MEGA Dream ex 199/193 NM (Japanese) — 199/193, Near-Mint / Illustration Rare",
-        "productId": 15641389007192,
-        "variantId": 56849460167000,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
         "shortfall": 2
       },
       {
@@ -3334,46 +3294,6 @@
         "incoming": 0,
         "available": -2,
         "shortfall": 2
-      },
-      {
-        "product": "148645 Dark Charizard - Team Rocket 4/82 NM Holofoil (English) - Holo Rare",
-        "productId": 15902936891736,
-        "variantId": 57828039033176,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
-        "productId": 15641506120024,
-        "variantId": 56849643503960,
-        "onHand": 5,
-        "committed": 7,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
-        "productId": 15641503891800,
-        "variantId": 56849639604568,
-        "onHand": 0,
-        "committed": 5,
-        "incoming": 4,
-        "available": -5,
-        "shortfall": 1
-      },
-      {
-        "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
-        "productId": 15641321570648,
-        "variantId": 56849271783768,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 2,
-        "available": -3,
-        "shortfall": 1
       },
       {
         "product": "131466 The Best Vol.2 One Piece Sleeved Booster Pack (English) — 10 cards / Multicolor",
@@ -3406,39 +3326,9 @@
         "shortfall": 1
       },
       {
-        "product": "119447 Wigglytuff ex - Scarlet & Violet 151 187/165 NM (English) — 187/165, Near-Mint / Ultra Rare",
-        "productId": 15641506873688,
-        "variantId": 56849644585304,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132602 Mega Diancie ex - Mega Evolution Ascended Heroes 282/217 NM (English)",
-        "productId": 15713422770520,
-        "variantId": 57130752344408,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "35325 One Piece TCG: Monkey.D.Luffy Starter Deck",
-        "productId": 15828214382936,
-        "variantId": 57554286608728,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "120825 Pikachu & Zekrom GX - Sun & Moon Team Up 033/181 NM (English) — 33/181, Near-Mint / Ultra Rare",
-        "productId": 15641500451160,
-        "variantId": 56849634558296,
+        "product": "125830 Psyduck - MEGA Dream ex 199/193 NM (Japanese) — 199/193, Near-Mint / Illustration Rare",
+        "productId": 15641389007192,
+        "variantId": 56849460167000,
         "onHand": 0,
         "committed": 2,
         "incoming": 1,
@@ -3446,39 +3336,9 @@
         "shortfall": 1
       },
       {
-        "product": "63039 Mega Gengar ex - Mega Evolution Ascended Heroes 269/217 NM (English) — Size 269/217 / Ultra Rare",
-        "productId": 15653351129432,
-        "variantId": 56898072969560,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132590 Fezandipiti ex - Mega Evolution Ascended Heroes 288/217 NM (English) - Special Illustration Rare",
-        "productId": 15864692539736,
-        "variantId": 57658683818328,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "113485 Sylveon ex - Scarlet & Violet Prismatic Evolution 156/131 NM (English) — 156/131, Near-Mint / Special Illustration Rare",
-        "productId": 15641563660632,
-        "variantId": 56849719558488,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119045 Zekrom ex - Scarlet & Violet Black Bolt 172/086 NM (English) — 172/086, Near-Mint / Double Rare",
-        "productId": 15641515786584,
-        "variantId": 56849658675544,
+        "product": "119447 Wigglytuff ex - Scarlet & Violet 151 187/165 NM (English) — 187/165, Near-Mint / Ultra Rare",
+        "productId": 15641506873688,
+        "variantId": 56849644585304,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -3576,13 +3436,13 @@
         "shortfall": 1
       },
       {
-        "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
-        "productId": 15903094800728,
-        "variantId": 57828229710168,
+        "product": "148645 Dark Charizard - Team Rocket 4/82 NM Holofoil (English) - Holo Rare",
+        "productId": 15902936891736,
+        "variantId": 57828039033176,
         "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       },
       {
