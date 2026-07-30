@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-30T16:04:56.237Z",
+  "generatedAt": "2026-07-30T17:54:05.461Z",
   "summary": {
-    "totalUnfulfilled": 88,
+    "totalUnfulfilled": 93,
     "canFulfill": 11,
-    "blocked": 77
+    "blocked": 82
   },
   "fulfillableOrders": [
     {
@@ -1648,6 +1648,87 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12508060385624,
+      "name": "#4122",
+      "customerName": "Adrià Cáceres",
+      "createdAt": "2026-07-30T18:59:16+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132680 Mightyena - Mega Evolution Ascended Heroes 243/217 NM (English) — 243/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12508068315480,
+      "name": "#4123",
+      "customerName": "Anil Gedik",
+      "createdAt": "2026-07-30T19:03:36+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12508079554904,
+      "name": "#4124",
+      "customerName": "Leon Berthold",
+      "createdAt": "2026-07-30T19:10:19+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "149015 Dragonite - Fossil 19/62 NM (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12508096364888,
+      "name": "#4125",
+      "customerName": "Coman Alexandru",
+      "createdAt": "2026-07-30T19:21:09+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "141965 Jewelry Bonney - Adventure on Kamis Island EB04-001 V2 NM Holofoil (English) - Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12508100788568,
+      "name": "#4126",
+      "customerName": "Coman Alexandru",
+      "createdAt": "2026-07-30T19:24:26+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "138043 Psyduck - Scarlet & Violet Pokémon Card 151 175/165 NM Holofoil (Japanese) - Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "125830 Psyduck - MEGA Dream ex 199/193 NM (Japanese) — 199/193, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2137,8 +2218,8 @@
         "productId": 15834588119384,
         "variantId": 57582670676312,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
@@ -2529,8 +2610,8 @@
         "productId": 15641389007192,
         "variantId": 56849460167000,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110215 Play! Pokémon Prize Pack Series Three Booster Pack (English) — 6 cards / Multicolor",
@@ -3131,6 +3212,46 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "132680 Mightyena - Mega Evolution Ascended Heroes 243/217 NM (English) — 243/217, Near-Mint / Illustration Rare",
+        "productId": 15641319473496,
+        "variantId": 56849268572504,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "149015 Dragonite - Fossil 19/62 NM (English)",
+        "productId": 15904561037656,
+        "variantId": 57831814070616,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110060 Scarlet & Violet Night Wanderer Booster Box (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567527256,
+        "variantId": 56849733550424,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "141965 Jewelry Bonney - Adventure on Kamis Island EB04-001 V2 NM Holofoil (English) - Alternate Art",
+        "productId": 15904565723480,
+        "variantId": 57831834616152,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "138043 Psyduck - Scarlet & Violet Pokémon Card 151 175/165 NM Holofoil (Japanese) - Illustration Rare",
+        "productId": 15904566706520,
+        "variantId": 57831838843224,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3165,6 +3286,16 @@
         "shortfall": 2
       },
       {
+        "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
+        "productId": 15834588119384,
+        "variantId": 57582670676312,
+        "onHand": 0,
+        "committed": 4,
+        "incoming": 2,
+        "available": -4,
+        "shortfall": 2
+      },
+      {
         "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641343099224,
         "variantId": 56849302946136,
@@ -3182,6 +3313,16 @@
         "committed": 3,
         "incoming": 1,
         "available": -3,
+        "shortfall": 2
+      },
+      {
+        "product": "125830 Psyduck - MEGA Dream ex 199/193 NM (Japanese) — 199/193, Near-Mint / Illustration Rare",
+        "productId": 15641389007192,
+        "variantId": 56849460167000,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
         "shortfall": 2
       },
       {
@@ -3258,16 +3399,6 @@
         "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566052696,
         "variantId": 56849731354968,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "125830 Psyduck - MEGA Dream ex 199/193 NM (Japanese) — 199/193, Near-Mint / Illustration Rare",
-        "productId": 15641389007192,
-        "variantId": 56849460167000,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -3478,6 +3609,46 @@
         "product": "148505 Snorlax - Jungle 27/64 NM (English) - Rare",
         "productId": 15904352338264,
         "variantId": 57831389692248,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132680 Mightyena - Mega Evolution Ascended Heroes 243/217 NM (English) — 243/217, Near-Mint / Illustration Rare",
+        "productId": 15641319473496,
+        "variantId": 56849268572504,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "149015 Dragonite - Fossil 19/62 NM (English)",
+        "productId": 15904561037656,
+        "variantId": 57831814070616,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "141965 Jewelry Bonney - Adventure on Kamis Island EB04-001 V2 NM Holofoil (English) - Alternate Art",
+        "productId": 15904565723480,
+        "variantId": 57831834616152,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "138043 Psyduck - Scarlet & Violet Pokémon Card 151 175/165 NM Holofoil (Japanese) - Illustration Rare",
+        "productId": 15904566706520,
+        "variantId": 57831838843224,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
