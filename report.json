@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-31T12:32:09.465Z",
+  "generatedAt": "2026-07-31T15:06:52.172Z",
   "summary": {
-    "totalUnfulfilled": 93,
-    "canFulfill": 11,
-    "blocked": 82
+    "totalUnfulfilled": 94,
+    "canFulfill": 30,
+    "blocked": 64
   },
   "fulfillableOrders": [
     {
@@ -25,16 +25,124 @@
       "itemCount": 1
     },
     {
+      "id": 12441910804824,
+      "name": "#3894",
+      "createdAt": "2026-07-03T16:55:42+02:00",
+      "itemCount": 5
+    },
+    {
       "id": 12466619679064,
       "name": "#3951",
       "createdAt": "2026-07-12T20:06:42+02:00",
       "itemCount": 8
     },
     {
+      "id": 12474400178520,
+      "name": "#3983",
+      "createdAt": "2026-07-16T15:56:08+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12474510475608,
+      "name": "#3986",
+      "createdAt": "2026-07-16T16:53:18+02:00",
+      "itemCount": 10
+    },
+    {
+      "id": 12476815311192,
+      "name": "#3996",
+      "createdAt": "2026-07-17T20:49:08+02:00",
+      "itemCount": 4
+    },
+    {
+      "id": 12476821700952,
+      "name": "#3997",
+      "createdAt": "2026-07-17T20:54:41+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12479902712152,
       "name": "#4003",
       "createdAt": "2026-07-19T16:30:22+02:00",
       "itemCount": 12
+    },
+    {
+      "id": 12479976243544,
+      "name": "#4005",
+      "createdAt": "2026-07-19T17:13:41+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12479986893144,
+      "name": "#4006",
+      "createdAt": "2026-07-19T17:18:19+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12480312344920,
+      "name": "#4015",
+      "createdAt": "2026-07-19T20:31:55+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12480670728536,
+      "name": "#4019",
+      "createdAt": "2026-07-20T01:26:12+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12482032861528,
+      "name": "#4021",
+      "createdAt": "2026-07-20T19:39:07+02:00",
+      "itemCount": 5
+    },
+    {
+      "id": 12482106589528,
+      "name": "#4025",
+      "createdAt": "2026-07-20T20:28:26+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12483846308184,
+      "name": "#4028",
+      "createdAt": "2026-07-21T18:06:44+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12485854003544,
+      "name": "#4034",
+      "createdAt": "2026-07-22T17:44:26+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12486123028824,
+      "name": "#4036",
+      "createdAt": "2026-07-22T19:46:55+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12486143476056,
+      "name": "#4037",
+      "createdAt": "2026-07-22T19:56:36+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12487886602584,
+      "name": "#4046",
+      "createdAt": "2026-07-23T16:11:04+02:00",
+      "itemCount": 6
+    },
+    {
+      "id": 12488139276632,
+      "name": "#4049",
+      "createdAt": "2026-07-23T17:39:01+02:00",
+      "itemCount": 10
+    },
+    {
+      "id": 12497507582296,
+      "name": "#4053",
+      "createdAt": "2026-07-25T15:31:05+02:00",
+      "itemCount": 1
     },
     {
       "id": 12501024375128,
@@ -71,6 +179,12 @@
       "name": "#4118",
       "createdAt": "2026-07-30T14:40:18+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12509568008536,
+      "name": "#4127",
+      "createdAt": "2026-07-31T15:32:57+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -83,21 +197,6 @@
       "reasons": [
         {
           "product": "128022 Monkey D. Luffy - Carrying on His Will OP13‑001 V2 NM (English) — OP13‑001/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12441910804824,
-      "name": "#3894",
-      "customerName": "Casper Männys",
-      "createdAt": "2026-07-03T16:55:42+02:00",
-      "itemCount": 5,
-      "reasons": [
-        {
-          "product": "146953 DunBroch Family Tapestry (V.2) - Wilds Unknown #228 NM (English) - Enchanted",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -167,12 +266,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "132609 Iono’s Bellibolt ex - Mega Evolution Ascended Heroes 279/217 NM Holofoil (English) - Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -191,90 +284,6 @@
         },
         {
           "product": "119491 Machoke - Scarlet & Violet 151 177/165 NM (English) — 177/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12474400178520,
-      "name": "#3983",
-      "customerName": "Traeton Isham-Her",
-      "createdAt": "2026-07-16T15:56:08+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "145256 Squirtle - Scarlet & Violet Stellar Crown 148/142 NM Holofoil (English) - Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12474510475608,
-      "name": "#3986",
-      "customerName": "Adrià Cáceres",
-      "createdAt": "2026-07-16T16:53:18+02:00",
-      "itemCount": 10,
-      "reasons": [
-        {
-          "product": "132686 Hitmontop - Mega Evolution Ascended Heroes 240/217 NM (English) — 240/217, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132704 Iono’s Wattrel - Mega Evolution Ascended Heroes 231/217 NM (English) — 231/217, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132596 Mega Scrafty ex - Mega Evolution Ascended Heroes 285/217 NM (English) — Size 285/217 / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132609 Iono’s Bellibolt ex - Mega Evolution Ascended Heroes 279/217 NM Holofoil (English) - Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132668 Larry’s Staraptor - Mega Evolution Ascended Heroes 249/217 NM (English) — 249/217, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132710 Weavile - Mega Evolution Ascended Heroes 228/217 NM (English) — 228/217, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132722 Ethan’s Magcargo - Mega Evolution Ascended Heroes 222/217 NM (English) — 222/217, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132728 Beautifly - Mega Evolution Ascended Heroes 219/217 NM (English) — 219/217, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132672 Dreepy - Mega Evolution Ascended Heroes 247/217 NM (English) — 247/217, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -312,42 +321,6 @@
       ]
     },
     {
-      "id": 12476815311192,
-      "name": "#3996",
-      "customerName": "Christian Fiedler",
-      "createdAt": "2026-07-17T20:49:08+02:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "130734 Portgas D. Ace - The Best Vol.2 PRB02‑018 NM V2 (English) — PRB02‑018/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "130760 Nami - The Best Vol.2 PRB02‑012 NM V2 (English) — PRB02‑012/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12476821700952,
-      "name": "#3997",
-      "customerName": "gijs Meelen",
-      "createdAt": "2026-07-17T20:54:41+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "71876 Charmander - 30th Anniversary Celebration Simplified Chinese 002/30th-P NM (Chinese)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12479835504984,
       "name": "#4001",
       "customerName": "Adrian Arnesen",
@@ -377,48 +350,6 @@
         },
         {
           "product": "119903 Scarlet & Violet 151 9-Pocket Album (English) — 9 Pocket Album / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12479976243544,
-      "name": "#4005",
-      "customerName": "Emile Cnudde",
-      "createdAt": "2026-07-19T17:13:41+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "121025 Ivysaur - Mega Evolution 134/132 NM (English) — 134/132, Near-Mint / Ilustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12479986893144,
-      "name": "#4006",
-      "customerName": "Adrià Cáceres",
-      "createdAt": "2026-07-19T17:18:19+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "132688 Team Rocket’s Dugtrio - Mega Evolution Ascended Heroes 239/217 NM (English) — 239/217, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132716 Scorbunny - Mega Evolution Ascended Heroes 225/217 NM (English) — 225/217, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -489,44 +420,8 @@
         {
           "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 1,
           "needed": 2
-        }
-      ]
-    },
-    {
-      "id": 12480312344920,
-      "name": "#4015",
-      "customerName": "Hugo Pessin",
-      "createdAt": "2026-07-19T20:31:55+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "125798 Glaceon VSTAR - VSTAR Universe 217/172 NM (Japanese) — 217/172, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "99731 Charizard - XY Evolutions 011/108 NM Reverse Holo (English) - Holo Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12480670728536,
-      "name": "#4019",
-      "customerName": "Adrian Arnesen",
-      "createdAt": "2026-07-20T01:26:12+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "110198 Scarlet & Violet Paldean Fates Booster Pack (English) — 10 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 3,
-          "needed": 5
         }
       ]
     },
@@ -539,21 +434,6 @@
       "reasons": [
         {
           "product": "Apple AirTag - (4 Pack)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12482032861528,
-      "name": "#4021",
-      "customerName": "Kyndael Bowen",
-      "createdAt": "2026-07-20T19:39:07+02:00",
-      "itemCount": 5,
-      "reasons": [
-        {
-          "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -582,21 +462,6 @@
       ]
     },
     {
-      "id": 12482106589528,
-      "name": "#4025",
-      "customerName": "Mateo Barro Fernández",
-      "createdAt": "2026-07-20T20:28:26+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "110234 Chinese 2024 Lunar New Year Red Promo Pack (Chinese) — 9 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12482188509528,
       "name": "#4026",
       "customerName": "Jonathan Bergström",
@@ -605,21 +470,6 @@
       "reasons": [
         {
           "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12483846308184,
-      "name": "#4028",
-      "customerName": "Adrian Arnesen",
-      "createdAt": "2026-07-21T18:06:44+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "148029 Mega Darkrai ex - Mega Evolution Pitch Black 116/084 NM Holofoil (English) - Special Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -678,21 +528,6 @@
       ]
     },
     {
-      "id": 12485854003544,
-      "name": "#4034",
-      "customerName": "Niclas Jørgensen",
-      "createdAt": "2026-07-22T17:44:26+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "119391 Scarlet & Violet Black Bolt Reuniclus Tech Sticker Collection (English) — 3 booster pack / Black / Blue",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12486098354520,
       "name": "#4035",
       "customerName": "Matthias Gesell",
@@ -700,43 +535,7 @@
       "itemCount": 3,
       "reasons": [
         {
-          "product": "124034 Phantasmal Flames Mega Charizard X ex 65-Sleeves (English) — Standard (66x91mm) / Blue",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12486123028824,
-      "name": "#4036",
-      "customerName": "fernando queipo de llano de aguilera",
-      "createdAt": "2026-07-22T19:46:55+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "145284 Marill - Scarlet & Violet Paldea Evolved 204/193 NM Holofoil (English) - Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12486143476056,
-      "name": "#4037",
-      "customerName": "Jarret Smith",
-      "createdAt": "2026-07-22T19:56:36+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -831,33 +630,6 @@
       ]
     },
     {
-      "id": 12487886602584,
-      "name": "#4046",
-      "customerName": "luca van der ent",
-      "createdAt": "2026-07-23T16:11:04+02:00",
-      "itemCount": 6,
-      "reasons": [
-        {
-          "product": "132688 Team Rocket’s Dugtrio - Mega Evolution Ascended Heroes 239/217 NM (English) — 239/217, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "116673 Rapidash - Scarlet & Violet Destined Rivals 189/182 NM (English) — 189/182, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "116669 Team Rocket's Raticate - Scarlet & Violet Destined Rivals 202/182 NM (English) — 202/182, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12488118731096,
       "name": "#4048",
       "customerName": "Adrian Arnesen",
@@ -867,77 +639,8 @@
         {
           "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 1,
           "needed": 4
-        }
-      ]
-    },
-    {
-      "id": 12488139276632,
-      "name": "#4049",
-      "customerName": "Adrian Arnesen",
-      "createdAt": "2026-07-23T17:39:01+02:00",
-      "itemCount": 10,
-      "reasons": [
-        {
-          "product": "119445 Ninetales ex - Scarlet & Violet 151 186/165 NM (English) — 186/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119449 Alakazam ex - Scarlet & Violet 151 188/165 NM (English) — 188/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119457 Zapdos ex - Scarlet & Violet 151 192/165 NM (English) — 192/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119447 Wigglytuff ex - Scarlet & Violet 151 187/165 NM (English) — 187/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119441 Blastoise ex - Scarlet & Violet 151 184/165 NM (English) — 184/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119479 Wartortle - Scarlet & Violet 151 171/165 NM (English) — 171/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119419 Mew ex V3 - Scarlet & Violet 151 205/165 NM (English) — 205/165, Near-Mint / Secret Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        },
-        {
-          "product": "119459 Mew ex - Scarlet & Violet 151 193/165 NM (English) — 193/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        },
-        {
-          "product": "119439 Charizard ex - Scarlet & Violet 151 183/165 NM (English) — 183/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
         }
       ]
     },
@@ -968,27 +671,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12497507582296,
-      "name": "#4053",
-      "customerName": "Simon Geurden",
-      "createdAt": "2026-07-25T15:31:05+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "116665 Kangaskhan - Scarlet & Violet Destined Rivals 204/182 NM (English) — 204/182, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -1000,30 +682,6 @@
       "itemCount": 7,
       "reasons": [
         {
-          "product": "132622 Mega Meganium ex - Mega Evolution Ascended Heroes 272/217 NM (English) - Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "144664 Gwynn - MEGA Abyss Eye 111/081 NM (Japanese) - Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "71807 Mega Chandelure ex - MEGA Abyss Eye 113/081 NM (Japanese)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "71805 Mega Zeraora ex - MEGA Abyss Eye 112/081 NM (Japanese)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "71811 Morpeko ex - MEGA Abyss Eye 115/081 NM (Japanese)",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1031,12 +689,6 @@
         },
         {
           "product": "144660 Gladion’s Showdown - MEGA Abyss Eye 109/081 NM Holofoil (Japanese) - Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "144640 Mega Darkrai ex - MEGA Abyss Eye 099/081 NM Holofoil (Japanese) - Ultra Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1717,12 +1369,6 @@
       "itemCount": 2,
       "reasons": [
         {
-          "product": "138043 Psyduck - Scarlet & Violet Pokémon Card 151 175/165 NM Holofoil (Japanese) - Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "125830 Psyduck - MEGA Dream ex 199/193 NM (Japanese) — 199/193, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1785,7 +1431,7 @@
         "product": "146953 DunBroch Family Tapestry (V.2) - Wilds Unknown #228 NM (English) - Enchanted",
         "productId": 15850034561368,
         "variantId": 57626470875480,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1897,7 +1543,7 @@
         "product": "119479 Wartortle - Scarlet & Violet 151 171/165 NM (English) — 171/165, Near-Mint / Illustration Rare",
         "productId": 15641506218328,
         "variantId": 56849643569496,
-        "onHand": 2,
+        "onHand": 3,
         "committed": 3,
         "demand": 3
       },
@@ -1905,7 +1551,7 @@
         "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
         "productId": 15641506283864,
         "variantId": 56849643635032,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 3,
         "demand": 3
       },
@@ -1953,7 +1599,7 @@
         "product": "132609 Iono’s Bellibolt ex - Mega Evolution Ascended Heroes 279/217 NM Holofoil (English) - Special Illustration Rare",
         "productId": 15876501700952,
         "variantId": 57718137979224,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -1993,7 +1639,7 @@
         "product": "145256 Squirtle - Scarlet & Violet Stellar Crown 148/142 NM Holofoil (English) - Illustration Rare",
         "productId": 15878279758168,
         "variantId": 57729712423256,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2001,7 +1647,7 @@
         "product": "132686 Hitmontop - Mega Evolution Ascended Heroes 240/217 NM (English) — 240/217, Near-Mint / Illustration Rare",
         "productId": 15641319375192,
         "variantId": 56849268441432,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2009,7 +1655,7 @@
         "product": "132704 Iono’s Wattrel - Mega Evolution Ascended Heroes 231/217 NM (English) — 231/217, Near-Mint / Illustration Rare",
         "productId": 15641318818136,
         "variantId": 56849267917144,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2017,7 +1663,7 @@
         "product": "132596 Mega Scrafty ex - Mega Evolution Ascended Heroes 285/217 NM (English) — Size 285/217 / Special Illustration Rare",
         "productId": 15653258461528,
         "variantId": 56897717731672,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2033,7 +1679,7 @@
         "product": "132668 Larry’s Staraptor - Mega Evolution Ascended Heroes 249/217 NM (English) — 249/217, Near-Mint / Illustration Rare",
         "productId": 15641319866712,
         "variantId": 56849268932952,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2041,7 +1687,7 @@
         "product": "132710 Weavile - Mega Evolution Ascended Heroes 228/217 NM (English) — 228/217, Near-Mint / Illustration Rare",
         "productId": 15641318621528,
         "variantId": 56849267720536,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2049,7 +1695,7 @@
         "product": "132722 Ethan’s Magcargo - Mega Evolution Ascended Heroes 222/217 NM (English) — 222/217, Near-Mint / Illustration Rare",
         "productId": 15641318195544,
         "variantId": 56849266508120,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2057,7 +1703,7 @@
         "product": "132728 Beautifly - Mega Evolution Ascended Heroes 219/217 NM (English) — 219/217, Near-Mint / Illustration Rare",
         "productId": 15641317998936,
         "variantId": 56849266311512,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2065,7 +1711,7 @@
         "product": "132672 Dreepy - Mega Evolution Ascended Heroes 247/217 NM (English) — 247/217, Near-Mint / Illustration Rare",
         "productId": 15641319735640,
         "variantId": 56849268834648,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2089,7 +1735,7 @@
         "product": "130734 Portgas D. Ace - The Best Vol.2 PRB02‑018 NM V2 (English) — PRB02‑018/V2, Near-Mint / Alternate Art",
         "productId": 15641363546456,
         "variantId": 56849421959512,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2097,7 +1743,7 @@
         "product": "130760 Nami - The Best Vol.2 PRB02‑012 NM V2 (English) — PRB02‑012/V2, Near-Mint / Alternate Art",
         "productId": 15641363087704,
         "variantId": 56849421500760,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2113,7 +1759,7 @@
         "product": "71876 Charmander - 30th Anniversary Celebration Simplified Chinese 002/30th-P NM (Chinese)",
         "productId": 15821409288536,
         "variantId": 57533802873176,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2153,7 +1799,7 @@
         "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
         "productId": 15641503891800,
         "variantId": 56849639604568,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 5,
         "demand": 5
       },
@@ -2185,7 +1831,7 @@
         "product": "121025 Ivysaur - Mega Evolution 134/132 NM (English) — 134/132, Near-Mint / Ilustration Rare",
         "productId": 15641496355160,
         "variantId": 56849626366296,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2193,7 +1839,7 @@
         "product": "132688 Team Rocket’s Dugtrio - Mega Evolution Ascended Heroes 239/217 NM (English) — 239/217, Near-Mint / Illustration Rare",
         "productId": 15641319309656,
         "variantId": 56849268408664,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -2201,7 +1847,7 @@
         "product": "132716 Scorbunny - Mega Evolution Ascended Heroes 225/217 NM (English) — 225/217, Near-Mint / Illustration Rare",
         "productId": 15641318424920,
         "variantId": 56849267523928,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2249,7 +1895,7 @@
         "product": "134030 Legacy of the Master One Piece Booster Pack (English) — 12 Cards / Green",
         "productId": 15641283559768,
         "variantId": 56849220043096,
-        "onHand": 2,
+        "onHand": 3,
         "committed": 3,
         "demand": 3
       },
@@ -2257,7 +1903,7 @@
         "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641343099224,
         "variantId": 56849302946136,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 3,
         "demand": 3
       },
@@ -2265,7 +1911,7 @@
         "product": "125798 Glaceon VSTAR - VSTAR Universe 217/172 NM (Japanese) — 217/172, Near-Mint / Special Illustration Rare",
         "productId": 15641389498712,
         "variantId": 56849460658520,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2273,7 +1919,7 @@
         "product": "99731 Charizard - XY Evolutions 011/108 NM Reverse Holo (English) - Holo Rare",
         "productId": 15874577334616,
         "variantId": 57711765881176,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2281,7 +1927,7 @@
         "product": "110198 Scarlet & Violet Paldean Fates Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641566019928,
         "variantId": 56849731322200,
-        "onHand": 3,
+        "onHand": 5,
         "committed": 5,
         "demand": 5
       },
@@ -2318,14 +1964,6 @@
         "demand": 2
       },
       {
-        "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641344541016,
-        "variantId": 56849304584536,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "132690 Team Rocket’s Mimikyu - Mega Evolution Ascended Heroes 238/217 NM (English) — 238/217, Near-Mint / Illustration Rare",
         "productId": 15641319244120,
         "variantId": 56849268343128,
@@ -2345,7 +1983,7 @@
         "product": "110234 Chinese 2024 Lunar New Year Red Promo Pack (Chinese) — 9 cards / Multicolor",
         "productId": 15641565364568,
         "variantId": 56849722212696,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2385,7 +2023,7 @@
         "product": "148029 Mega Darkrai ex - Mega Evolution Pitch Black 116/084 NM Holofoil (English) - Special Illustration Rare",
         "productId": 15886250967384,
         "variantId": 57765792252248,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2513,7 +2151,7 @@
         "product": "119391 Scarlet & Violet Black Bolt Reuniclus Tech Sticker Collection (English) — 3 booster pack / Black / Blue",
         "productId": 15641508446552,
         "variantId": 56849646584152,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2537,7 +2175,7 @@
         "product": "124034 Phantasmal Flames Mega Charizard X ex 65-Sleeves (English) — Standard (66x91mm) / Blue",
         "productId": 15641487638872,
         "variantId": 56849614373208,
-        "onHand": 0,
+        "onHand": 3,
         "committed": 1,
         "demand": 1
       },
@@ -2553,7 +2191,7 @@
         "product": "145284 Marill - Scarlet & Violet Paldea Evolved 204/193 NM Holofoil (English) - Illustration Rare",
         "productId": 15889012883800,
         "variantId": 57780146078040,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2625,7 +2263,7 @@
         "product": "121049 Vulpix - Mega Evolution 138/132 NM (English) — 138/132, Near-Mint / Ilustration Rare",
         "productId": 15641495863640,
         "variantId": 56849624957272,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       },
@@ -2633,7 +2271,7 @@
         "product": "116673 Rapidash - Scarlet & Violet Destined Rivals 189/182 NM (English) — 189/182, Near-Mint / Illustration Rare",
         "productId": 15641537479000,
         "variantId": 56849690591576,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2641,7 +2279,7 @@
         "product": "116669 Team Rocket's Raticate - Scarlet & Violet Destined Rivals 202/182 NM (English) — 202/182, Near-Mint / Illustration Rare",
         "productId": 15641538167128,
         "variantId": 56849691443544,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2649,7 +2287,7 @@
         "product": "119445 Ninetales ex - Scarlet & Violet 151 186/165 NM (English) — 186/165, Near-Mint / Ultra Rare",
         "productId": 15641506906456,
         "variantId": 56849644618072,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2657,7 +2295,7 @@
         "product": "119449 Alakazam ex - Scarlet & Violet 151 188/165 NM (English) — 188/165, Near-Mint / Ultra Rare",
         "productId": 15641506840920,
         "variantId": 56849644552536,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2665,7 +2303,7 @@
         "product": "119457 Zapdos ex - Scarlet & Violet 151 192/165 NM (English) — 192/165, Near-Mint / Ultra Rare",
         "productId": 15641506709848,
         "variantId": 56849644257624,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2673,7 +2311,7 @@
         "product": "119447 Wigglytuff ex - Scarlet & Violet 151 187/165 NM (English) — 187/165, Near-Mint / Ultra Rare",
         "productId": 15641506873688,
         "variantId": 56849644585304,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2681,7 +2319,7 @@
         "product": "119441 Blastoise ex - Scarlet & Violet 151 184/165 NM (English) — 184/165, Near-Mint / Ultra Rare",
         "productId": 15641507037528,
         "variantId": 56849644716376,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2689,7 +2327,7 @@
         "product": "119419 Mew ex V3 - Scarlet & Violet 151 205/165 NM (English) — 205/165, Near-Mint / Secret Rare",
         "productId": 15641507660120,
         "variantId": 56849645502808,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -2697,7 +2335,7 @@
         "product": "119459 Mew ex - Scarlet & Violet 151 193/165 NM (English) — 193/165, Near-Mint / Ultra Rare",
         "productId": 15641506677080,
         "variantId": 56849644224856,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -2705,7 +2343,7 @@
         "product": "119439 Charizard ex - Scarlet & Violet 151 183/165 NM (English) — 183/165, Near-Mint / Ultra Rare",
         "productId": 15641507070296,
         "variantId": 56849644749144,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -2729,7 +2367,7 @@
         "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
         "productId": 15641318490456,
         "variantId": 56849267589464,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2737,7 +2375,7 @@
         "product": "116665 Kangaskhan - Scarlet & Violet Destined Rivals 204/182 NM (English) — 204/182, Near-Mint / Illustration Rare",
         "productId": 15641538855256,
         "variantId": 56849692131672,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2745,7 +2383,7 @@
         "product": "132622 Mega Meganium ex - Mega Evolution Ascended Heroes 272/217 NM (English) - Special Illustration Rare",
         "productId": 15713423655256,
         "variantId": 57130759323992,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2753,7 +2391,7 @@
         "product": "144664 Gwynn - MEGA Abyss Eye 111/081 NM (Japanese) - Ultra Rare",
         "productId": 15822595031384,
         "variantId": 57537676837208,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2761,7 +2399,7 @@
         "product": "71807 Mega Chandelure ex - MEGA Abyss Eye 113/081 NM (Japanese)",
         "productId": 15822531199320,
         "variantId": 57537503986008,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2769,7 +2407,7 @@
         "product": "71805 Mega Zeraora ex - MEGA Abyss Eye 112/081 NM (Japanese)",
         "productId": 15821416530264,
         "variantId": 57533813653848,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2793,7 +2431,7 @@
         "product": "144640 Mega Darkrai ex - MEGA Abyss Eye 099/081 NM Holofoil (Japanese) - Ultra Rare",
         "productId": 15897530827096,
         "variantId": 57806191395160,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3249,7 +2887,15 @@
         "product": "138043 Psyduck - Scarlet & Violet Pokémon Card 151 175/165 NM Holofoil (Japanese) - Illustration Rare",
         "productId": 15904566706520,
         "variantId": 57831838843224,
-        "onHand": 0,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Apple Airpods 4",
+        "productId": 15579554382168,
+        "variantId": 56602249658712,
+        "onHand": 3,
         "committed": 1,
         "demand": 1
       }
@@ -3333,16 +2979,6 @@
         "committed": 2,
         "incoming": 1,
         "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "119447 Wigglytuff ex - Scarlet & Violet 151 187/165 NM (English) — 187/165, Near-Mint / Ultra Rare",
-        "productId": 15641506873688,
-        "variantId": 56849644585304,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
         "shortfall": 1
       },
       {
@@ -3499,16 +3135,6 @@
         "product": "141965 Jewelry Bonney - Adventure on Kamis Island EB04-001 V2 NM Holofoil (English) - Alternate Art",
         "productId": 15904565723480,
         "variantId": 57831834616152,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "138043 Psyduck - Scarlet & Violet Pokémon Card 151 175/165 NM Holofoil (Japanese) - Illustration Rare",
-        "productId": 15904566706520,
-        "variantId": 57831838843224,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
