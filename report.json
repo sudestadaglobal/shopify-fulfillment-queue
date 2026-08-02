@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-02T16:16:32.749Z",
+  "generatedAt": "2026-08-02T17:29:58.048Z",
   "summary": {
-    "totalUnfulfilled": 70,
-    "canFulfill": 8,
-    "blocked": 62
+    "totalUnfulfilled": 76,
+    "canFulfill": 10,
+    "blocked": 66
   },
   "fulfillableOrders": [
     {
@@ -53,6 +53,18 @@
       "name": "#4134",
       "createdAt": "2026-08-02T15:19:17+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12513441743192,
+      "name": "#4144",
+      "createdAt": "2026-08-02T19:03:25+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12513457439064,
+      "name": "#4145",
+      "createdAt": "2026-08-02T19:12:04+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1291,6 +1303,114 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12513365066072,
+      "name": "#4140",
+      "customerName": "Timo Brandt",
+      "createdAt": "2026-08-02T18:14:13+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12513380630872,
+      "name": "#4141",
+      "customerName": "Filip Janík",
+      "createdAt": "2026-08-02T18:24:46+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "110082 Scarlet & Violet Obsidian Flames Booster Box 36 pack (English) — 36 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "147146 Sword & Shield Brilliant Stars Sleeved Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12513397473624,
+      "name": "#4142",
+      "customerName": "Joachim Hellstrom",
+      "createdAt": "2026-08-02T18:35:03+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12513419493720,
+      "name": "#4143",
+      "customerName": "JAVIER Barragan",
+      "createdAt": "2026-08-02T18:49:28+02:00",
+      "itemCount": 9,
+      "reasons": [
+        {
+          "product": "131416 Paramount War Box Promotion One Piece Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "131452 Winner Pack 2025 Vol.3 One Piece Booster Pack (English) — 1 card / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131438 Promotion Pack 2022 One Piece Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "134660 Sanji - Romance Dawn (Pre‑Errata) OP01‑013 V2 NM (English) — OP01‑013/V2, Near-Mint / Alternate Art",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "131455 Tournament Pack Vol.7 Winner One Piece Booster Pack (English) - Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "145625 Sengoku - One Piece The Time of Battle OP16-060-V2 NM (English) - Leader",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2036,8 +2156,8 @@
         "productId": 15641345753432,
         "variantId": 56849305796952,
         "onHand": 0,
-        "committed": 9,
-        "demand": 9
+        "committed": 10,
+        "demand": 10
       },
       {
         "product": "71755 Slowbro - MEGA Abyss Eye 087/081 NM (Japanese)",
@@ -2196,8 +2316,8 @@
         "productId": 15641564643672,
         "variantId": 56849721164120,
         "onHand": 7,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "148505 Snorlax - Jungle 27/64 NM (English) - Rare",
@@ -2438,6 +2558,118 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
+        "productId": 15641563300184,
+        "variantId": 56849718870360,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110082 Scarlet & Violet Obsidian Flames Booster Box 36 pack (English) — 36 booster pack / Multicolor",
+        "productId": 15641567101272,
+        "variantId": 56849733124440,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "147146 Sword & Shield Brilliant Stars Sleeved Booster Pack (English) - Multicolor",
+        "productId": 15907303162200,
+        "variantId": 57847152214360,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+        "productId": 15641268355416,
+        "variantId": 56849193173336,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131416 Paramount War Box Promotion One Piece Booster Pack (English)",
+        "productId": 15721594913112,
+        "variantId": 57156955210072,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "131434 Sealed Battle Kit Vol.1 One Piece Booster Pack (English) — 2 cards / Black / White",
+        "productId": 15641345392984,
+        "variantId": 56849305436504,
+        "onHand": 4,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "131452 Winner Pack 2025 Vol.3 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641345261912,
+        "variantId": 56849305305432,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131474 Winner Pack 2025 Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641344868696,
+        "variantId": 56849304912216,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
+        "productId": 15667333103960,
+        "variantId": 56960147652952,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131438 Promotion Pack 2022 One Piece Booster Pack (English)",
+        "productId": 15657433923928,
+        "variantId": 56922650935640,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134660 Sanji - Romance Dawn (Pre‑Errata) OP01‑013 V2 NM (English) — OP01‑013/V2, Near-Mint / Alternate Art",
+        "productId": 15641280414040,
+        "variantId": 56849213227352,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "131455 Tournament Pack Vol.7 Winner One Piece Booster Pack (English) - Black / White",
+        "productId": 15907309158744,
+        "variantId": 57847160275288,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "145625 Sengoku - One Piece The Time of Battle OP16-060-V2 NM (English) - Leader",
+        "productId": 15907310567768,
+        "variantId": 57847161880920,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
+        "productId": 15790986723672,
+        "variantId": 57444361929048,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2525,6 +2757,26 @@
         "product": "148571 Pikachu - Jungle 60/64 NM (English) - Common",
         "productId": 15904091996504,
         "variantId": 57830895845720,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "131416 Paramount War Box Promotion One Piece Booster Pack (English)",
+        "productId": 15721594913112,
+        "variantId": 57156955210072,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "134660 Sanji - Romance Dawn (Pre‑Errata) OP01‑013 V2 NM (English) — OP01‑013/V2, Near-Mint / Alternate Art",
+        "productId": 15641280414040,
+        "variantId": 56849213227352,
         "onHand": 0,
         "committed": 2,
         "incoming": 0,
@@ -2865,6 +3117,66 @@
         "product": "146468 UVS Games x Riot Games Riftbound Fiora Champion Deck",
         "productId": 15907267084632,
         "variantId": 57846763749720,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
+        "productId": 15641563300184,
+        "variantId": 56849718870360,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "110082 Scarlet & Violet Obsidian Flames Booster Box 36 pack (English) — 36 booster pack / Multicolor",
+        "productId": 15641567101272,
+        "variantId": 56849733124440,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "147146 Sword & Shield Brilliant Stars Sleeved Booster Pack (English) - Multicolor",
+        "productId": 15907303162200,
+        "variantId": 57847152214360,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+        "productId": 15641268355416,
+        "variantId": 56849193173336,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "131455 Tournament Pack Vol.7 Winner One Piece Booster Pack (English) - Black / White",
+        "productId": 15907309158744,
+        "variantId": 57847160275288,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "145625 Sengoku - One Piece The Time of Battle OP16-060-V2 NM (English) - Leader",
+        "productId": 15907310567768,
+        "variantId": 57847161880920,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
