@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-02T12:08:35.520Z",
+  "generatedAt": "2026-08-02T13:59:49.019Z",
   "summary": {
-    "totalUnfulfilled": 58,
-    "canFulfill": 5,
-    "blocked": 53
+    "totalUnfulfilled": 68,
+    "canFulfill": 8,
+    "blocked": 60
   },
   "fulfillableOrders": [
     {
@@ -35,6 +35,24 @@
       "name": "#AG-WELCOME-008",
       "createdAt": "2026-07-27T14:52:34+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12513002127704,
+      "name": "#4129",
+      "createdAt": "2026-08-02T14:45:07+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12513010516312,
+      "name": "#4131",
+      "createdAt": "2026-08-02T14:49:57+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12513065173336,
+      "name": "#4134",
+      "createdAt": "2026-08-02T15:19:17+02:00",
+      "itemCount": 2
     }
   ],
   "blockedOrders": [
@@ -1036,6 +1054,183 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12512966803800,
+      "name": "#4128",
+      "customerName": "Luis Brauner",
+      "createdAt": "2026-08-02T14:24:20+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "149037 Zapdos - Fossil 30/62 NM (English) - Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "148571 Pikachu - Jungle 60/64 NM (English) - Common",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12513004323160,
+      "name": "#4130",
+      "customerName": "Maximilian Milota",
+      "createdAt": "2026-08-02T14:46:34+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "148643 Dark Blastoise - Team Rocket 3/82 NM Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12513017332056,
+      "name": "#4132",
+      "customerName": "Kevin Koppe",
+      "createdAt": "2026-08-02T14:53:45+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "110084 Scarlet & Violet Ruler of the Black Flame Booster Box 30 packs (Japanese) — 30 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "110071 Scarlet & Violet Wild Force Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12513056522584,
+      "name": "#4133",
+      "customerName": "Mario Heine",
+      "createdAt": "2026-08-02T15:14:13+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "147783 Mega Evolution Pitch Black Binacle 3-Pack Blister 3 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
+        }
+      ]
+    },
+    {
+      "id": 12513069891928,
+      "name": "#4135",
+      "customerName": "Danay Smit",
+      "createdAt": "2026-08-02T15:21:47+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "147156 Sword & Shield Fusion Strike Sleeved Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12513073693016,
+      "name": "#4136",
+      "customerName": "Nathan Jubinville-Savard",
+      "createdAt": "2026-08-02T15:24:07+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12513114358104,
+      "name": "#4137",
+      "customerName": "fernando queipo de llano de aguilera",
+      "createdAt": "2026-08-02T15:48:34+02:00",
+      "itemCount": 10,
+      "reasons": [
+        {
+          "product": "147981 Thievul - Mega Evolution Pitch Black 092/084 NM Holofoil (English) - Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "145286 Marill - Scarlet & Violet Snow Hazard 73/71 NM Holofoil (Japanese) - Secret Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "145248 Mantyke - Scarlet & Violet Paradox Rift 189/182 NM Holofoil (English) - Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "145427 Horsea - Aquapolis 84/147 NM (English) - Common",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "147967 Fomantis - Mega Evolution Pitch Black 085/084 NM Holofoil (English) - Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "147969 \tArmarouge - Mega Evolution Pitch Black 086/084 NM Holofoil (English) - Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "145419 Reuniclus - Scarlet & Violet Temporal Forces 171/162 NM (English) - Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "147987 Silvally - Mega Evolution Pitch Black 095/084 NM Holofoil (English) - Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "147973 Primarina - Mega Evolution Pitch Black 088/084 NM Holofoil (English) - Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "148029 Mega Darkrai ex - Mega Evolution Pitch Black 116/084 NM Holofoil (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1349,8 +1544,8 @@
         "productId": 15642769260888,
         "variantId": 56856313463128,
         "onHand": 5,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "109954 Scarlet & Violet Surging Sparks Booster Pack (English) — 10 cards / Multicolor",
@@ -1885,8 +2080,8 @@
         "productId": 15902931517784,
         "variantId": 57828032545112,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "148647 Dark Dragonite - Team Rocket 5/82 NM Holofoil (English) - Holo Rare",
@@ -1909,8 +2104,8 @@
         "productId": 15903094800728,
         "variantId": 57828229710168,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
@@ -1925,16 +2120,16 @@
         "productId": 15904091996504,
         "variantId": 57830895845720,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "147783 Mega Evolution Pitch Black Binacle 3-Pack Blister 3 Booster Packs (English) - Multicolor",
         "productId": 15904104415576,
         "variantId": 57830910919000,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110277 Sword & Shield Evolving Skies Booster Pack (English) — 10 cards / Multicolor",
@@ -1991,9 +2186,163 @@
         "onHand": 1,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "149037 Zapdos - Fossil 30/62 NM (English) - Rare",
+        "productId": 15907077423448,
+        "variantId": 57843652952408,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Ghosts From the Past: The 2nd Haunting Booster Display",
+        "productId": 15534117323096,
+        "variantId": 56451531374936,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116756 Scarlet & Violet Destined Rivals Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641523454296,
+        "variantId": 56849676370264,
+        "onHand": 3,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "110084 Scarlet & Violet Ruler of the Black Flame Booster Box 30 packs (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567068504,
+        "variantId": 56849732895064,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110071 Scarlet & Violet Wild Force Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567297880,
+        "variantId": 56849733321048,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567560024,
+        "variantId": 56849733583192,
+        "onHand": 0,
+        "committed": 3,
+        "demand": 3
+      },
+      {
+        "product": "119411 Mega Evolution Golduck 3 Booster Pack Blister (English) — 3 booster pack / Multicolor",
+        "productId": 15641507987800,
+        "variantId": 56849645961560,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "147156 Sword & Shield Fusion Strike Sleeved Booster Pack (English) - Multicolor",
+        "productId": 15867913109848,
+        "variantId": 57673193455960,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "147981 Thievul - Mega Evolution Pitch Black 092/084 NM Holofoil (English) - Illustration Rare",
+        "productId": 15907111764312,
+        "variantId": 57843810861400,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "145286 Marill - Scarlet & Violet Snow Hazard 73/71 NM Holofoil (Japanese) - Secret Rare",
+        "productId": 15907111993688,
+        "variantId": 57843811123544,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "145248 Mantyke - Scarlet & Violet Paradox Rift 189/182 NM Holofoil (English) - Illustration Rare",
+        "productId": 15907112124760,
+        "variantId": 57843811254616,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "145427 Horsea - Aquapolis 84/147 NM (English) - Common",
+        "productId": 15907112386904,
+        "variantId": 57843811746136,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "147967 Fomantis - Mega Evolution Pitch Black 085/084 NM Holofoil (English) - Illustration Rare",
+        "productId": 15907116286296,
+        "variantId": 57843941343576,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "147969 \tArmarouge - Mega Evolution Pitch Black 086/084 NM Holofoil (English) - Illustration Rare",
+        "productId": 15907124445528,
+        "variantId": 57844145553752,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "145419 Reuniclus - Scarlet & Violet Temporal Forces 171/162 NM (English) - Illustration Rare",
+        "productId": 15907128344920,
+        "variantId": 57844230127960,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "147987 Silvally - Mega Evolution Pitch Black 095/084 NM Holofoil (English) - Illustration Rare",
+        "productId": 15907131097432,
+        "variantId": 57844308115800,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "147973 Primarina - Mega Evolution Pitch Black 088/084 NM Holofoil (English) - Illustration Rare",
+        "productId": 15907134964056,
+        "variantId": 57844411040088,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "148029 Mega Darkrai ex - Mega Evolution Pitch Black 116/084 NM Holofoil (English) - Special Illustration Rare",
+        "productId": 15886250967384,
+        "variantId": 57765792252248,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
+      {
+        "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567560024,
+        "variantId": 56849733583192,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 0,
+        "available": -3,
+        "shortfall": 3
+      },
       {
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
         "productId": 15641506251096,
@@ -2018,6 +2367,26 @@
         "product": "148457 Flareon - Jungle 3/64 NM (English) - Holo Rare",
         "productId": 15897594069336,
         "variantId": 57806582448472,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "148643 Dark Blastoise - Team Rocket 3/82 NM Holofoil (English)",
+        "productId": 15902931517784,
+        "variantId": 57828032545112,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "148571 Pikachu - Jungle 60/64 NM (English) - Common",
+        "productId": 15904091996504,
+        "variantId": 57830895845720,
         "onHand": 0,
         "committed": 2,
         "incoming": 0,
@@ -2125,16 +2494,6 @@
         "shortfall": 1
       },
       {
-        "product": "148643 Dark Blastoise - Team Rocket 3/82 NM Holofoil (English)",
-        "productId": 15902931517784,
-        "variantId": 57828032545112,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "148647 Dark Dragonite - Team Rocket 5/82 NM Holofoil (English) - Holo Rare",
         "productId": 15902934303064,
         "variantId": 57828036215128,
@@ -2155,13 +2514,23 @@
         "shortfall": 1
       },
       {
-        "product": "148571 Pikachu - Jungle 60/64 NM (English) - Common",
-        "productId": 15904091996504,
-        "variantId": 57830895845720,
+        "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
+        "productId": 15903094800728,
+        "variantId": 57828229710168,
         "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
+      },
+      {
+        "product": "147783 Mega Evolution Pitch Black Binacle 3-Pack Blister 3 Booster Packs (English) - Multicolor",
+        "productId": 15904104415576,
+        "variantId": 57830910919000,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       },
       {
@@ -2188,6 +2557,146 @@
         "product": "141965 Jewelry Bonney - Adventure on Kamis Island EB04-001 V2 NM Holofoil (English) - Alternate Art",
         "productId": 15904565723480,
         "variantId": 57831834616152,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "149037 Zapdos - Fossil 30/62 NM (English) - Rare",
+        "productId": 15907077423448,
+        "variantId": 57843652952408,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "110084 Scarlet & Violet Ruler of the Black Flame Booster Box 30 packs (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567068504,
+        "variantId": 56849732895064,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "110071 Scarlet & Violet Wild Force Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567297880,
+        "variantId": 56849733321048,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "147156 Sword & Shield Fusion Strike Sleeved Booster Pack (English) - Multicolor",
+        "productId": 15867913109848,
+        "variantId": 57673193455960,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "147981 Thievul - Mega Evolution Pitch Black 092/084 NM Holofoil (English) - Illustration Rare",
+        "productId": 15907111764312,
+        "variantId": 57843810861400,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "145286 Marill - Scarlet & Violet Snow Hazard 73/71 NM Holofoil (Japanese) - Secret Rare",
+        "productId": 15907111993688,
+        "variantId": 57843811123544,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "145248 Mantyke - Scarlet & Violet Paradox Rift 189/182 NM Holofoil (English) - Illustration Rare",
+        "productId": 15907112124760,
+        "variantId": 57843811254616,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "145427 Horsea - Aquapolis 84/147 NM (English) - Common",
+        "productId": 15907112386904,
+        "variantId": 57843811746136,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "147967 Fomantis - Mega Evolution Pitch Black 085/084 NM Holofoil (English) - Illustration Rare",
+        "productId": 15907116286296,
+        "variantId": 57843941343576,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "147969 \tArmarouge - Mega Evolution Pitch Black 086/084 NM Holofoil (English) - Illustration Rare",
+        "productId": 15907124445528,
+        "variantId": 57844145553752,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "145419 Reuniclus - Scarlet & Violet Temporal Forces 171/162 NM (English) - Illustration Rare",
+        "productId": 15907128344920,
+        "variantId": 57844230127960,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "147987 Silvally - Mega Evolution Pitch Black 095/084 NM Holofoil (English) - Illustration Rare",
+        "productId": 15907131097432,
+        "variantId": 57844308115800,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "147973 Primarina - Mega Evolution Pitch Black 088/084 NM Holofoil (English) - Illustration Rare",
+        "productId": 15907134964056,
+        "variantId": 57844411040088,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "148029 Mega Darkrai ex - Mega Evolution Pitch Black 116/084 NM Holofoil (English) - Special Illustration Rare",
+        "productId": 15886250967384,
+        "variantId": 57765792252248,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
