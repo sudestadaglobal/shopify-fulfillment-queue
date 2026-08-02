@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-02T13:59:49.019Z",
+  "generatedAt": "2026-08-02T15:12:34.989Z",
   "summary": {
-    "totalUnfulfilled": 68,
+    "totalUnfulfilled": 69,
     "canFulfill": 8,
-    "blocked": 60
+    "blocked": 61
   },
   "fulfillableOrders": [
     {
@@ -1231,6 +1231,51 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12513166754136,
+      "name": "#4138",
+      "customerName": "fernando queipo de llano de aguilera",
+      "createdAt": "2026-08-02T16:17:14+02:00",
+      "itemCount": 6,
+      "reasons": [
+        {
+          "product": "110191 Play! Pokémon Prize Pack Series Four Booster Pack (English) — 6 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 6,
+          "needed": 14
+        },
+        {
+          "product": "110175 Play! Pokémon Prize Pack Series Five Booster Pack (English) — 6 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 2,
+          "needed": 14
+        },
+        {
+          "product": "110215 Play! Pokémon Prize Pack Series Three Booster Pack (English) — 6 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 2,
+          "needed": 14
+        },
+        {
+          "product": "68174 Mega Evolution Perfect Order Pokémon Center Elite Trainer Box 11 Booster Packs (English) — 11 Booster Packs / Green x Gray",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "147773 Mega Evolution Pitch Black Elite Trainer Box 9 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "126601 The Glory of Team Rocket Attaché Case Set (JP)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1696,8 +1741,8 @@
         "productId": 15892538556760,
         "variantId": 57791753421144,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "132622 Mega Meganium ex - Mega Evolution Ascended Heroes 272/217 NM (English) - Special Illustration Rare",
@@ -2330,9 +2375,79 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "110191 Play! Pokémon Prize Pack Series Four Booster Pack (English) — 6 cards / Multicolor",
+        "productId": 15641566085464,
+        "variantId": 56849731420504,
+        "onHand": 6,
+        "committed": 14,
+        "demand": 14
+      },
+      {
+        "product": "110175 Play! Pokémon Prize Pack Series Five Booster Pack (English) — 6 cards / Multicolor",
+        "productId": 15641566478680,
+        "variantId": 56849732272472,
+        "onHand": 2,
+        "committed": 14,
+        "demand": 14
+      },
+      {
+        "product": "110215 Play! Pokémon Prize Pack Series Three Booster Pack (English) — 6 cards / Multicolor",
+        "productId": 15641565659480,
+        "variantId": 56849722769752,
+        "onHand": 2,
+        "committed": 14,
+        "demand": 14
+      },
+      {
+        "product": "68174 Mega Evolution Perfect Order Pokémon Center Elite Trainer Box 11 Booster Packs (English) — 11 Booster Packs / Green x Gray",
+        "productId": 15732283605336,
+        "variantId": 57196109234520,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "126601 The Glory of Team Rocket Attaché Case Set (JP)",
+        "productId": 15556789993816,
+        "variantId": 56513303118168,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
+      {
+        "product": "110175 Play! Pokémon Prize Pack Series Five Booster Pack (English) — 6 cards / Multicolor",
+        "productId": 15641566478680,
+        "variantId": 56849732272472,
+        "onHand": 2,
+        "committed": 14,
+        "incoming": 0,
+        "available": -12,
+        "shortfall": 12
+      },
+      {
+        "product": "110215 Play! Pokémon Prize Pack Series Three Booster Pack (English) — 6 cards / Multicolor",
+        "productId": 15641565659480,
+        "variantId": 56849722769752,
+        "onHand": 2,
+        "committed": 14,
+        "incoming": 0,
+        "available": -12,
+        "shortfall": 12
+      },
+      {
+        "product": "110191 Play! Pokémon Prize Pack Series Four Booster Pack (English) — 6 cards / Multicolor",
+        "productId": 15641566085464,
+        "variantId": 56849731420504,
+        "onHand": 6,
+        "committed": 14,
+        "incoming": 0,
+        "available": -8,
+        "shortfall": 8
+      },
       {
         "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
         "productId": 15641567560024,
@@ -2421,6 +2536,16 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "147773 Mega Evolution Pitch Black Elite Trainer Box 9 Booster Packs (English)",
+        "productId": 15892538556760,
+        "variantId": 57791753421144,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 2,
+        "available": -3,
         "shortfall": 1
       },
       {
@@ -2701,6 +2826,16 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "68174 Mega Evolution Perfect Order Pokémon Center Elite Trainer Box 11 Booster Packs (English) — 11 Booster Packs / Green x Gray",
+        "productId": 15732283605336,
+        "variantId": 57196109234520,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       }
     ]
