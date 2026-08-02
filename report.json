@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-02T15:12:34.989Z",
+  "generatedAt": "2026-08-02T16:16:32.749Z",
   "summary": {
-    "totalUnfulfilled": 69,
+    "totalUnfulfilled": 70,
     "canFulfill": 8,
-    "blocked": 61
+    "blocked": 62
   },
   "fulfillableOrders": [
     {
@@ -1276,6 +1276,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12513289339224,
+      "name": "#4139",
+      "customerName": "Janis Albinus",
+      "createdAt": "2026-08-02T17:27:44+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "146468 UVS Games x Riot Games Riftbound Fiora Champion Deck",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2415,6 +2430,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "146468 UVS Games x Riot Games Riftbound Fiora Champion Deck",
+        "productId": 15907267084632,
+        "variantId": 57846763749720,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2836,6 +2859,16 @@
         "committed": 2,
         "incoming": 1,
         "available": -2,
+        "shortfall": 1
+      },
+      {
+        "product": "146468 UVS Games x Riot Games Riftbound Fiora Champion Deck",
+        "productId": 15907267084632,
+        "variantId": 57846763749720,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
         "shortfall": 1
       }
     ]
