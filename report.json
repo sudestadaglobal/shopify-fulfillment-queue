@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-03T16:44:47.409Z",
+  "generatedAt": "2026-08-03T18:31:28.529Z",
   "summary": {
-    "totalUnfulfilled": 84,
+    "totalUnfulfilled": 86,
     "canFulfill": 7,
-    "blocked": 77
+    "blocked": 79
   },
   "fulfillableOrders": [
     {
@@ -76,13 +76,13 @@
           "product": "119889 Squirtle - Scarlet & Violet 151 007/165 NM (English) — 007/165, Near-Mint / Common",
           "reason": "Insufficient stock",
           "stock": 1,
-          "needed": 2
+          "needed": 3
         },
         {
           "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 2,
-          "needed": 4
+          "needed": 6
         }
       ]
     },
@@ -1570,6 +1570,36 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12522380525912,
+      "name": "#4164",
+      "customerName": "Mario Heine",
+      "createdAt": "2026-08-03T18:41:15+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "142953 Mega Evolution Chaos Rising Charmeleon 3-Pack Blister 3 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12522421158232,
+      "name": "#4165",
+      "customerName": "Alexander Schlykow",
+      "createdAt": "2026-08-03T19:06:29+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1644,7 +1674,7 @@
         "variantId": 56849640194392,
         "onHand": 1,
         "committed": 2,
-        "demand": 2
+        "demand": 3
       },
       {
         "product": "119893 Eevee Poké Post Pop-up Exclusive Promo - Scarlet & Violet 151 133/165 NM (English) — 133/165, Near-Mint / Common",
@@ -1692,7 +1722,7 @@
         "variantId": 56849643602264,
         "onHand": 2,
         "committed": 4,
-        "demand": 4
+        "demand": 6
       },
       {
         "product": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
@@ -2211,8 +2241,8 @@
         "productId": 15641560842584,
         "variantId": 56849715429720,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "121675 Mega Inferno X Booster Box 30 Booster Pack (Japanese) — 30 booster pack / Multicolor",
@@ -2909,6 +2939,14 @@
         "onHand": 4,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "142953 Mega Evolution Chaos Rising Charmeleon 3-Pack Blister 3 Booster Packs (English) - Multicolor",
+        "productId": 15781209211224,
+        "variantId": 57396928414040,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2928,9 +2966,9 @@
         "variantId": 56849722769752,
         "onHand": 2,
         "committed": 14,
-        "incoming": 0,
+        "incoming": 1,
         "available": -12,
-        "shortfall": 12
+        "shortfall": 11
       },
       {
         "product": "110191 Play! Pokémon Prize Pack Series Four Booster Pack (English) — 6 cards / Multicolor",
@@ -2993,16 +3031,6 @@
         "shortfall": 2
       },
       {
-        "product": "147791 Mega Evolution Pitch Black Booster Box 18 Booster Packs (English) - Multicolor",
-        "productId": 15889255760216,
-        "variantId": 57780450525528,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 1,
-        "available": -3,
-        "shortfall": 2
-      },
-      {
         "product": "148457 Flareon - Jungle 3/64 NM (English) - Holo Rare",
         "productId": 15897594069336,
         "variantId": 57806582448472,
@@ -3013,23 +3041,13 @@
         "shortfall": 2
       },
       {
-        "product": "148571 Pikachu - Jungle 60/64 NM (English) - Common",
-        "productId": 15904091996504,
-        "variantId": 57830895845720,
+        "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
+        "productId": 15641560842584,
+        "variantId": 56849715429720,
         "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "146468 UVS Games x Riot Games Riftbound Fiora Champion Deck",
-        "productId": 15907267084632,
-        "variantId": 57846763749720,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
+        "committed": 3,
+        "incoming": 1,
+        "available": -3,
         "shortfall": 2
       },
       {
@@ -3083,16 +3101,6 @@
         "shortfall": 1
       },
       {
-        "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
-        "productId": 15641560842584,
-        "variantId": 56849715429720,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
         "product": "Nintendo Switch 2 - Mario Kart World Bundle",
         "productId": 15120406643032,
         "variantId": 55021154959704,
@@ -3143,43 +3151,13 @@
         "shortfall": 1
       },
       {
-        "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
-        "productId": 15903094800728,
-        "variantId": 57828229710168,
+        "product": "148571 Pikachu - Jungle 60/64 NM (English) - Common",
+        "productId": 15904091996504,
+        "variantId": 57830895845720,
         "onHand": 0,
         "committed": 2,
         "incoming": 1,
         "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "147783 Mega Evolution Pitch Black Binacle 3-Pack Blister 3 Booster Packs (English) - Multicolor",
-        "productId": 15904104415576,
-        "variantId": 57830910919000,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "148505 Snorlax - Jungle 27/64 NM (English) - Rare",
-        "productId": 15904352338264,
-        "variantId": 57831389692248,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "149015 Dragonite - Fossil 19/62 NM (English)",
-        "productId": 15904561037656,
-        "variantId": 57831814070616,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
         "shortfall": 1
       },
       {
@@ -3206,16 +3184,6 @@
         "product": "110084 Scarlet & Violet Ruler of the Black Flame Booster Box 30 packs (Japanese) — 30 booster pack / Multicolor",
         "productId": 15641567068504,
         "variantId": 56849732895064,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "110071 Scarlet & Violet Wild Force Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
-        "productId": 15641567297880,
-        "variantId": 56849733321048,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -3323,19 +3291,9 @@
         "shortfall": 1
       },
       {
-        "product": "148029 Mega Darkrai ex - Mega Evolution Pitch Black 116/084 NM Holofoil (English) - Special Illustration Rare",
-        "productId": 15886250967384,
-        "variantId": 57765792252248,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "68174 Mega Evolution Perfect Order Pokémon Center Elite Trainer Box 11 Booster Packs (English) — 11 Booster Packs / Green x Gray",
-        "productId": 15732283605336,
-        "variantId": 57196109234520,
+        "product": "146468 UVS Games x Riot Games Riftbound Fiora Champion Deck",
+        "productId": 15907267084632,
+        "variantId": 57846763749720,
         "onHand": 0,
         "committed": 2,
         "incoming": 1,
@@ -3366,16 +3324,6 @@
         "product": "147146 Sword & Shield Brilliant Stars Sleeved Booster Pack (English) - Multicolor",
         "productId": 15907303162200,
         "variantId": 57847152214360,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
-        "productId": 15641268355416,
-        "variantId": 56849193173336,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -3423,9 +3371,9 @@
         "shortfall": 1
       },
       {
-        "product": "75074 - \tDisney Lorcana Trading Card Game Attack of the Vine! Box 6 Booster Packs (English)",
-        "productId": 15911040516440,
-        "variantId": 57854335353176,
+        "product": "110326 Charizard VMAX - Sword & Shield Champion's Path 074/073 NM（English） — 074/073, Near-Mint / Rainbow Rare",
+        "productId": 15641563857240,
+        "variantId": 56849719755096,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -3433,9 +3381,9 @@
         "shortfall": 1
       },
       {
-        "product": "110326 Charizard VMAX - Sword & Shield Champion's Path 074/073 NM（English） — 074/073, Near-Mint / Rainbow Rare",
-        "productId": 15641563857240,
-        "variantId": 56849719755096,
+        "product": "142953 Mega Evolution Chaos Rising Charmeleon 3-Pack Blister 3 Booster Packs (English) - Multicolor",
+        "productId": 15781209211224,
+        "variantId": 57396928414040,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
