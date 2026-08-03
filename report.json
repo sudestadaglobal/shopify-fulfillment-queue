@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T07:51:11.209Z",
+  "generatedAt": "2026-08-03T11:34:05.887Z",
   "summary": {
     "totalUnfulfilled": 82,
     "canFulfill": 11,
@@ -3358,16 +3358,6 @@
         "product": "51293 - Magic: The Gathering - Edge of Eternities World Shaper Deck Protector 100x Sleeves",
         "productId": 15907594273112,
         "variantId": 57847864492376,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Logitech Astro A50 Lightspeed Wireless Gaming Headset",
-        "productId": 15907622748504,
-        "variantId": 57847944216920,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
