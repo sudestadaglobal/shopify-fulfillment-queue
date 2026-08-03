@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-03T11:34:05.887Z",
+  "generatedAt": "2026-08-03T14:05:44.604Z",
   "summary": {
-    "totalUnfulfilled": 82,
-    "canFulfill": 11,
-    "blocked": 71
+    "totalUnfulfilled": 81,
+    "canFulfill": 8,
+    "blocked": 73
   },
   "fulfillableOrders": [
     {
@@ -16,24 +16,6 @@
       "id": 12369867669848,
       "name": "#3713",
       "createdAt": "2026-06-07T19:38:15+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12501024375128,
-      "name": "#AG-WELCOME-002",
-      "createdAt": "2026-07-27T14:52:29+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12501024440664,
-      "name": "#AG-WELCOME-005",
-      "createdAt": "2026-07-27T14:52:31+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12501024637272,
-      "name": "#AG-WELCOME-008",
-      "createdAt": "2026-07-27T14:52:34+02:00",
       "itemCount": 1
     },
     {
@@ -718,21 +700,6 @@
           "product": "120865 Hoopa GX - Sun & Moon Team Up 166/181 NM (English) — 166/181, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
           "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12501024833880,
-      "name": "#AG-WELCOME-010",
-      "customerName": "Fernanda Serra e Silva",
-      "createdAt": "2026-07-27T14:52:37+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "AG Welcome Pack — L",
-          "reason": "Per-product limit reached (max 3 orders per run)",
-          "stock": 9,
           "needed": 1
         }
       ]
@@ -1504,6 +1471,51 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12520035123544,
+      "name": "#4152",
+      "customerName": "Kevin Enseling/Engelhard",
+      "createdAt": "2026-08-03T13:48:52+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "146468 UVS Games x Riot Games Riftbound Fiora Champion Deck",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12520065106264,
+      "name": "#4153",
+      "customerName": "Stefan Lautmann",
+      "createdAt": "2026-08-03T13:51:47+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12521047916888,
+      "name": "#4154",
+      "customerName": "Alexander Schlykow",
+      "createdAt": "2026-08-03T15:17:25+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1697,8 +1709,8 @@
         "productId": 15834588119384,
         "variantId": 57582670676312,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
@@ -2649,8 +2661,8 @@
         "productId": 15907267084632,
         "variantId": 57846763749720,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
@@ -2811,6 +2823,30 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131422 Memorial Collection One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641345556824,
+        "variantId": 56849305600344,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
+        "productId": 15641523421528,
+        "variantId": 56849676173656,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
+        "productId": 15641488556376,
+        "variantId": 56849615421784,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2925,6 +2961,16 @@
         "shortfall": 2
       },
       {
+        "product": "146468 UVS Games x Riot Games Riftbound Fiora Champion Deck",
+        "productId": 15907267084632,
+        "variantId": 57846763749720,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
         "product": "131416 Paramount War Box Promotion One Piece Booster Pack (English)",
         "productId": 15721594913112,
         "variantId": 57156955210072,
@@ -2935,14 +2981,14 @@
         "shortfall": 2
       },
       {
-        "product": "134660 Sanji - Romance Dawn (Pre‑Errata) OP01‑013 V2 NM (English) — OP01‑013/V2, Near-Mint / Alternate Art",
-        "productId": 15641280414040,
-        "variantId": 56849213227352,
+        "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
+        "productId": 15834588119384,
+        "variantId": 57582670676312,
         "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
+        "committed": 3,
+        "incoming": 2,
+        "available": -3,
+        "shortfall": 1
       },
       {
         "product": "131466 The Best Vol.2 One Piece Sleeved Booster Pack (English) — 10 cards / Multicolor",
@@ -3265,16 +3311,6 @@
         "shortfall": 1
       },
       {
-        "product": "146468 UVS Games x Riot Games Riftbound Fiora Champion Deck",
-        "productId": 15907267084632,
-        "variantId": 57846763749720,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
         "productId": 15641563300184,
         "variantId": 56849718870360,
@@ -3325,16 +3361,6 @@
         "shortfall": 1
       },
       {
-        "product": "145625 Sengoku - One Piece The Time of Battle OP16-060-V2 NM (English) - Leader",
-        "productId": 15907310567768,
-        "variantId": 57847161880920,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "74818 - Mega Evolution Pitch Black Luxray Premium Checklane Blister 1 Booster Pack (English)",
         "productId": 15907563143512,
         "variantId": 57847774216536,
@@ -3345,9 +3371,9 @@
         "shortfall": 1
       },
       {
-        "product": "51307 - Magic: The Gathering - Edge of Eternities Solar System 9-Pocket PRO Album",
-        "productId": 15907585884504,
-        "variantId": 57847816061272,
+        "product": "51293 - Magic: The Gathering - Edge of Eternities World Shaper Deck Protector 100x Sleeves",
+        "productId": 15907594273112,
+        "variantId": 57847864492376,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -3355,9 +3381,9 @@
         "shortfall": 1
       },
       {
-        "product": "51293 - Magic: The Gathering - Edge of Eternities World Shaper Deck Protector 100x Sleeves",
-        "productId": 15907594273112,
-        "variantId": 57847864492376,
+        "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
+        "productId": 15641523421528,
+        "variantId": 56849676173656,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
