@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-03T14:05:44.604Z",
+  "generatedAt": "2026-08-03T16:44:47.409Z",
   "summary": {
-    "totalUnfulfilled": 81,
-    "canFulfill": 8,
-    "blocked": 73
+    "totalUnfulfilled": 84,
+    "canFulfill": 7,
+    "blocked": 77
   },
   "fulfillableOrders": [
     {
@@ -19,39 +19,33 @@
       "itemCount": 1
     },
     {
-      "id": 12513002127704,
-      "name": "#4129",
-      "createdAt": "2026-08-02T14:45:07+02:00",
+      "id": 12521844506968,
+      "name": "#4155",
+      "createdAt": "2026-08-03T16:29:46+02:00",
       "itemCount": 1
     },
     {
-      "id": 12513010516312,
-      "name": "#4131",
-      "createdAt": "2026-08-02T14:49:57+02:00",
+      "id": 12522068705624,
+      "name": "#4158",
+      "createdAt": "2026-08-03T16:49:49+02:00",
       "itemCount": 1
     },
     {
-      "id": 12513065173336,
-      "name": "#4134",
-      "createdAt": "2026-08-02T15:19:17+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12513441743192,
-      "name": "#4144",
-      "createdAt": "2026-08-02T19:03:25+02:00",
+      "id": 12522241687896,
+      "name": "#4160",
+      "createdAt": "2026-08-03T17:36:59+02:00",
       "itemCount": 1
     },
     {
-      "id": 12513457439064,
-      "name": "#4145",
-      "createdAt": "2026-08-02T19:12:04+02:00",
+      "id": 12522254893400,
+      "name": "#4162",
+      "createdAt": "2026-08-03T17:44:38+02:00",
       "itemCount": 1
     },
     {
-      "id": 12514935963992,
-      "name": "#4149",
-      "createdAt": "2026-08-03T00:45:28+02:00",
+      "id": 12522258792792,
+      "name": "#4163",
+      "createdAt": "2026-08-03T17:46:44+02:00",
       "itemCount": 1
     }
   ],
@@ -1516,6 +1510,66 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12521938321752,
+      "name": "#4156",
+      "customerName": "Casper Männys",
+      "createdAt": "2026-08-03T16:38:01+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "75074 - \tDisney Lorcana Trading Card Game Attack of the Vine! Box 6 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12522017161560,
+      "name": "#4157",
+      "customerName": "mario stevens",
+      "createdAt": "2026-08-03T16:45:09+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "110326 Charizard VMAX - Sword & Shield Champion's Path 074/073 NM（English） — 074/073, Near-Mint / Rainbow Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12522230219096,
+      "name": "#4159",
+      "customerName": "Maxim Leitsch",
+      "createdAt": "2026-08-03T17:30:39+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131602 A Fist of Divine Speed One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
+        }
+      ]
+    },
+    {
+      "id": 12522248733016,
+      "name": "#4161",
+      "customerName": "tibo braekeveld",
+      "createdAt": "2026-08-03T17:41:06+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1828,9 +1882,9 @@
         "product": "134044 Mega Evolution Perfect Order Chikorita Blister 3 Booster Packs (English) Pre‑order",
         "productId": 15642769260888,
         "variantId": 56856313463128,
-        "onHand": 5,
-        "committed": 2,
-        "demand": 2
+        "onHand": 4,
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "109954 Scarlet & Violet Surging Sparks Booster Pack (English) — 10 cards / Multicolor",
@@ -2157,8 +2211,8 @@
         "productId": 15641560842584,
         "variantId": 56849715429720,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "121675 Mega Inferno X Booster Box 30 Booster Pack (Japanese) — 30 booster pack / Multicolor",
@@ -2481,22 +2535,6 @@
         "demand": 1
       },
       {
-        "product": "Ghosts From the Past: The 2nd Haunting Booster Display",
-        "productId": 15534117323096,
-        "variantId": 56451531374936,
-        "onHand": 3,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "116756 Scarlet & Violet Destined Rivals Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641523454296,
-        "variantId": 56849676370264,
-        "onHand": 3,
-        "committed": 2,
-        "demand": 2
-      },
-      {
         "product": "110084 Scarlet & Violet Ruler of the Black Flame Booster Box 30 packs (Japanese) — 30 booster pack / Multicolor",
         "productId": 15641567068504,
         "variantId": 56849732895064,
@@ -2519,14 +2557,6 @@
         "onHand": 0,
         "committed": 3,
         "demand": 3
-      },
-      {
-        "product": "119411 Mega Evolution Golduck 3 Booster Pack Blister (English) — 3 booster pack / Multicolor",
-        "productId": 15641507987800,
-        "variantId": 56849645961560,
-        "onHand": 6,
-        "committed": 1,
-        "demand": 1
       },
       {
         "product": "147156 Sword & Shield Fusion Strike Sleeved Booster Pack (English) - Multicolor",
@@ -2769,14 +2799,6 @@
         "demand": 1
       },
       {
-        "product": "144770 30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1 - Promo",
-        "productId": 15790986723672,
-        "variantId": 57444361929048,
-        "onHand": 4,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "74818 - Mega Evolution Pitch Black Luxray Premium Checklane Blister 1 Booster Pack (English)",
         "productId": 15907563143512,
         "variantId": 57847774216536,
@@ -2791,14 +2813,6 @@
         "onHand": 0,
         "committed": 3,
         "demand": 3
-      },
-      {
-        "product": "120045 Magic: The Gathering – Edge of Eternities Collector Booster (EN) — Edge of Eternities 1 Booster",
-        "productId": 15650758754648,
-        "variantId": 56886287368536,
-        "onHand": 9,
-        "committed": 1,
-        "demand": 1
       },
       {
         "product": "51307 - Magic: The Gathering - Edge of Eternities Solar System 9-Pocket PRO Album",
@@ -2844,6 +2858,54 @@
         "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
         "productId": 15641488556376,
         "variantId": 56849615421784,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+        "productId": 15641321406808,
+        "variantId": 56849271619928,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "75074 - \tDisney Lorcana Trading Card Game Attack of the Vine! Box 6 Booster Packs (English)",
+        "productId": 15911040516440,
+        "variantId": 57854335353176,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110326 Charizard VMAX - Sword & Shield Champion's Path 074/073 NM（English） — 074/073, Near-Mint / Rainbow Rare",
+        "productId": 15641563857240,
+        "variantId": 56849719755096,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "120045 Magic: The Gathering – Edge of Eternities Collector Booster (EN) — Edge of Eternities 1 Booster",
+        "productId": 15650758754648,
+        "variantId": 56886287368536,
+        "onHand": 8,
+        "committed": 3,
+        "demand": 3
+      },
+      {
+        "product": "131602 A Fist of Divine Speed One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
+        "productId": 15641340346712,
+        "variantId": 56849299865944,
+        "onHand": 0,
+        "committed": 3,
+        "demand": 3
+      },
+      {
+        "product": "131910 Mega Evolution Ascended Heroes Larry’s Komala Blister 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641337069912,
+        "variantId": 56849296097624,
         "onHand": 4,
         "committed": 1,
         "demand": 1
@@ -2911,6 +2973,16 @@
         "shortfall": 3
       },
       {
+        "product": "131602 A Fist of Divine Speed One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
+        "productId": 15641340346712,
+        "variantId": 56849299865944,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 0,
+        "available": -3,
+        "shortfall": 3
+      },
+      {
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
         "productId": 15641506251096,
         "variantId": 56849643602264,
@@ -2934,16 +3006,6 @@
         "product": "148457 Flareon - Jungle 3/64 NM (English) - Holo Rare",
         "productId": 15897594069336,
         "variantId": 57806582448472,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "148643 Dark Blastoise - Team Rocket 3/82 NM Holofoil (English)",
-        "productId": 15902931517784,
-        "variantId": 57828032545112,
         "onHand": 0,
         "committed": 2,
         "incoming": 0,
@@ -3021,6 +3083,16 @@
         "shortfall": 1
       },
       {
+        "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
+        "productId": 15641560842584,
+        "variantId": 56849715429720,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
+      },
+      {
         "product": "Nintendo Switch 2 - Mario Kart World Bundle",
         "productId": 15120406643032,
         "variantId": 55021154959704,
@@ -3051,53 +3123,13 @@
         "shortfall": 1
       },
       {
-        "product": "148653 Dark Gyarados - Team Rocket 8/82 NM Holofoil (English) - Holo Rare",
-        "productId": 15902918705496,
-        "variantId": 57828018946392,
+        "product": "148643 Dark Blastoise - Team Rocket 3/82 NM Holofoil (English)",
+        "productId": 15902931517784,
+        "variantId": 57828032545112,
         "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "148649 Dark Dugtrio - Team Rocket 6/82 NM Holofoil (English) - Holo Rare",
-        "productId": 15902922899800,
-        "variantId": 57828023370072,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "148803 Dark Raichu - Team Rocket 83/82 NM (English) - Rare Secret",
-        "productId": 15902926537048,
-        "variantId": 57828027105624,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "148639 Dark Alakazam - Team Rocket 1/82 NM Holofoil (English)",
-        "productId": 15902929289560,
-        "variantId": 57828030284120,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "148647 Dark Dragonite - Team Rocket 5/82 NM Holofoil (English) - Holo Rare",
-        "productId": 15902934303064,
-        "variantId": 57828036215128,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       },
       {
@@ -3384,6 +3416,26 @@
         "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
         "productId": 15641523421528,
         "variantId": 56849676173656,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "75074 - \tDisney Lorcana Trading Card Game Attack of the Vine! Box 6 Booster Packs (English)",
+        "productId": 15911040516440,
+        "variantId": 57854335353176,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "110326 Charizard VMAX - Sword & Shield Champion's Path 074/073 NM（English） — 074/073, Near-Mint / Rainbow Rare",
+        "productId": 15641563857240,
+        "variantId": 56849719755096,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
