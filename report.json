@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-04T05:58:23.760Z",
+  "generatedAt": "2026-08-04T08:49:24.987Z",
   "summary": {
-    "totalUnfulfilled": 86,
-    "canFulfill": 7,
+    "totalUnfulfilled": 81,
+    "canFulfill": 2,
     "blocked": 79
   },
   "fulfillableOrders": [
@@ -16,36 +16,6 @@
       "id": 12369867669848,
       "name": "#3713",
       "createdAt": "2026-06-07T19:38:15+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12521844506968,
-      "name": "#4155",
-      "createdAt": "2026-08-03T16:29:46+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12522068705624,
-      "name": "#4158",
-      "createdAt": "2026-08-03T16:49:49+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12522241687896,
-      "name": "#4160",
-      "createdAt": "2026-08-03T17:36:59+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12522254893400,
-      "name": "#4162",
-      "createdAt": "2026-08-03T17:44:38+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12522258792792,
-      "name": "#4163",
-      "createdAt": "2026-08-03T17:46:44+02:00",
       "itemCount": 1
     }
   ],
@@ -1616,7 +1586,7 @@
         "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
         "productId": 15771147010392,
         "variantId": 57362036457816,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 0,
         "demand": 1
       },
@@ -1912,9 +1882,9 @@
         "product": "134044 Mega Evolution Perfect Order Chikorita Blister 3 Booster Packs (English) Pre‑order",
         "productId": 15642769260888,
         "variantId": 56856313463128,
-        "onHand": 4,
-        "committed": 3,
-        "demand": 3
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "109954 Scarlet & Violet Surging Sparks Booster Pack (English) — 10 cards / Multicolor",
@@ -2893,14 +2863,6 @@
         "demand": 1
       },
       {
-        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-        "productId": 15641321406808,
-        "variantId": 56849271619928,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "75074 - \tDisney Lorcana Trading Card Game Attack of the Vine! Box 6 Booster Packs (English)",
         "productId": 15911040516440,
         "variantId": 57854335353176,
@@ -2917,28 +2879,12 @@
         "demand": 1
       },
       {
-        "product": "120045 Magic: The Gathering – Edge of Eternities Collector Booster (EN) — Edge of Eternities 1 Booster",
-        "productId": 15650758754648,
-        "variantId": 56886287368536,
-        "onHand": 8,
-        "committed": 3,
-        "demand": 3
-      },
-      {
         "product": "131602 A Fist of Divine Speed One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
         "productId": 15641340346712,
         "variantId": 56849299865944,
         "onHand": 0,
         "committed": 3,
         "demand": 3
-      },
-      {
-        "product": "131910 Mega Evolution Ascended Heroes Larry’s Komala Blister 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
-        "productId": 15641337069912,
-        "variantId": 56849296097624,
-        "onHand": 4,
-        "committed": 1,
-        "demand": 1
       },
       {
         "product": "142953 Mega Evolution Chaos Rising Charmeleon 3-Pack Blister 3 Booster Packs (English) - Multicolor",
