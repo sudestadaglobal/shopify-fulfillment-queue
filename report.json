@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-04T11:31:44.416Z",
+  "generatedAt": "2026-08-04T13:20:41.093Z",
   "summary": {
-    "totalUnfulfilled": 81,
+    "totalUnfulfilled": 85,
     "canFulfill": 2,
-    "blocked": 79
+    "blocked": 83
   },
   "fulfillableOrders": [
     {
@@ -1570,6 +1570,72 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12523754455384,
+      "name": "#4166",
+      "customerName": "Alexander Schlykow",
+      "createdAt": "2026-08-04T14:11:58+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12523784667480,
+      "name": "#4167",
+      "customerName": "Quentin Dubourg",
+      "createdAt": "2026-08-04T14:26:09+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "57352 - Riftbound Spiritforged Booster Display - (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12523796496728,
+      "name": "#4168",
+      "customerName": "Niclas Jørgensen",
+      "createdAt": "2026-08-04T14:32:27+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "74808 - Mega Evolution Pitch Black Booster Bundle 6 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119391 Scarlet & Violet Black Bolt Reuniclus Tech Sticker Collection (English) — 3 booster pack / Black / Blue",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12523813175640,
+      "name": "#4169",
+      "customerName": "Enrico Rinaldi",
+      "createdAt": "2026-08-04T14:40:31+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "74808 - Mega Evolution Pitch Black Booster Bundle 6 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2893,6 +2959,46 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
+        "productId": 15641569788248,
+        "variantId": 56849737253208,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "49389 Sword & Shield Champions Path Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
+        "productId": 15641569755480,
+        "variantId": 56849737220440,
+        "onHand": 8,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "57352 - Riftbound Spiritforged Booster Display - (English)",
+        "productId": 15912291762520,
+        "variantId": 57860153835864,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "74808 - Mega Evolution Pitch Black Booster Bundle 6 Booster Packs (English)",
+        "productId": 15912294908248,
+        "variantId": 57860168712536,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "119391 Scarlet & Violet Black Bolt Reuniclus Tech Sticker Collection (English) — 3 booster pack / Black / Blue",
+        "productId": 15641508446552,
+        "variantId": 56849646584152,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2987,19 +3093,19 @@
         "shortfall": 2
       },
       {
-        "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
-        "productId": 15641560842584,
-        "variantId": 56849715429720,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 1,
-        "available": -3,
-        "shortfall": 2
-      },
-      {
         "product": "131416 Paramount War Box Promotion One Piece Booster Pack (English)",
         "productId": 15721594913112,
         "variantId": 57156955210072,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "74808 - Mega Evolution Pitch Black Booster Bundle 6 Booster Packs (English)",
+        "productId": 15912294908248,
+        "variantId": 57860168712536,
         "onHand": 0,
         "committed": 2,
         "incoming": 0,
@@ -3044,6 +3150,16 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
+        "productId": 15641560842584,
+        "variantId": 56849715429720,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 2,
+        "available": -3,
         "shortfall": 1
       },
       {
@@ -3330,6 +3446,36 @@
         "product": "142953 Mega Evolution Chaos Rising Charmeleon 3-Pack Blister 3 Booster Packs (English) - Multicolor",
         "productId": 15781209211224,
         "variantId": 57396928414040,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "49377 Shining Fates Elite Trainer Box 10 pack (English) — 10 booster pack / Multicolor",
+        "productId": 15641569788248,
+        "variantId": 56849737253208,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "57352 - Riftbound Spiritforged Booster Display - (English)",
+        "productId": 15912291762520,
+        "variantId": 57860153835864,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "119391 Scarlet & Violet Black Bolt Reuniclus Tech Sticker Collection (English) — 3 booster pack / Black / Blue",
+        "productId": 15641508446552,
+        "variantId": 56849646584152,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
