@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-04T13:20:41.093Z",
+  "generatedAt": "2026-08-04T16:00:15.584Z",
   "summary": {
-    "totalUnfulfilled": 85,
+    "totalUnfulfilled": 86,
     "canFulfill": 2,
-    "blocked": 83
+    "blocked": 84
   },
   "fulfillableOrders": [
     {
@@ -1636,6 +1636,27 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12524100813144,
+      "name": "#4170",
+      "customerName": "Enrico Rinaldi",
+      "createdAt": "2026-08-04T17:13:57+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "72322 - Blastoise & Piplup GX - Sun & Moon Cosmic Eclipse 215/236 NM Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "75712 - Dark Charizard - Team Rocket 21/82 NM (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2999,6 +3020,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "72322 - Blastoise & Piplup GX - Sun & Moon Cosmic Eclipse 215/236 NM Holofoil (English)",
+        "productId": 15912629141848,
+        "variantId": 57861614141784,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "75712 - Dark Charizard - Team Rocket 21/82 NM (English)",
+        "productId": 15912630550872,
+        "variantId": 57861621809496,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3476,6 +3513,26 @@
         "product": "119391 Scarlet & Violet Black Bolt Reuniclus Tech Sticker Collection (English) — 3 booster pack / Black / Blue",
         "productId": 15641508446552,
         "variantId": 56849646584152,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "72322 - Blastoise & Piplup GX - Sun & Moon Cosmic Eclipse 215/236 NM Holofoil (English)",
+        "productId": 15912629141848,
+        "variantId": 57861614141784,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "75712 - Dark Charizard - Team Rocket 21/82 NM (English)",
+        "productId": 15912630550872,
+        "variantId": 57861621809496,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
