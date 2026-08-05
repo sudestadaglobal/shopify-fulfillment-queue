@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-05T12:21:27.890Z",
+  "generatedAt": "2026-08-05T15:00:21.391Z",
   "summary": {
-    "totalUnfulfilled": 89,
-    "canFulfill": 2,
-    "blocked": 87
+    "totalUnfulfilled": 92,
+    "canFulfill": 3,
+    "blocked": 89
   },
   "fulfillableOrders": [
     {
@@ -16,6 +16,12 @@
       "id": 12524260852056,
       "name": "#4173",
       "createdAt": "2026-08-04T18:46:03+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12527433711960,
+      "name": "#4177",
+      "createdAt": "2026-08-05T15:51:36+02:00",
       "itemCount": 1
     }
   ],
@@ -1888,6 +1894,48 @@
           "needed": 2
         }
       ]
+    },
+    {
+      "id": 12527373943128,
+      "name": "#4175",
+      "customerName": "Andy Shi",
+      "createdAt": "2026-08-05T15:20:27+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12527414509912,
+      "name": "#4176",
+      "customerName": "Adrian Arnesen",
+      "createdAt": "2026-08-05T15:42:01+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "76040 - Raichu - Fossil 14/62 NM Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "76020 - Dragonite - Fossil 4/62 NM Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "76022 - Gengar - Fossil 5/62 NM Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2065,8 +2113,8 @@
         "productId": 15732280426840,
         "variantId": 57196101075288,
         "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
@@ -3515,6 +3563,38 @@
         "onHand": 1,
         "committed": 2,
         "demand": 2
+      },
+      {
+        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+        "productId": 15641321406808,
+        "variantId": 56849271619928,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "76040 - Raichu - Fossil 14/62 NM Holofoil (English)",
+        "productId": 15914102161752,
+        "variantId": 57867890327896,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "76020 - Dragonite - Fossil 4/62 NM Holofoil (English)",
+        "productId": 15914103079256,
+        "variantId": 57867891966296,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "76022 - Gengar - Fossil 5/62 NM Holofoil (English)",
+        "productId": 15914103570776,
+        "variantId": 57867892785496,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3539,16 +3619,6 @@
         "shortfall": 11
       },
       {
-        "product": "110191 Play! Pokémon Prize Pack Series Four Booster Pack (English) — 6 cards / Multicolor",
-        "productId": 15641566085464,
-        "variantId": 56849731420504,
-        "onHand": 6,
-        "committed": 14,
-        "incoming": 0,
-        "available": -8,
-        "shortfall": 8
-      },
-      {
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
         "productId": 15641506251096,
         "variantId": 56849643602264,
@@ -3566,46 +3636,6 @@
         "committed": 4,
         "incoming": 1,
         "available": -4,
-        "shortfall": 3
-      },
-      {
-        "product": "147773 Mega Evolution Pitch Black Elite Trainer Box 9 Booster Packs (English)",
-        "productId": 15892538556760,
-        "variantId": 57791753421144,
-        "onHand": 0,
-        "committed": 5,
-        "incoming": 2,
-        "available": -5,
-        "shortfall": 3
-      },
-      {
-        "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
-        "productId": 15641567560024,
-        "variantId": 56849733583192,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 0,
-        "available": -3,
-        "shortfall": 3
-      },
-      {
-        "product": "74814 - Mega Evolution Pitch Black Sleeved Booster Pack (English)",
-        "productId": 15907563766104,
-        "variantId": 57847777001816,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 0,
-        "available": -3,
-        "shortfall": 3
-      },
-      {
-        "product": "131602 A Fist of Divine Speed One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
-        "productId": 15641340346712,
-        "variantId": 56849299865944,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 0,
-        "available": -3,
         "shortfall": 3
       },
       {
@@ -3629,33 +3659,23 @@
         "shortfall": 2
       },
       {
-        "product": "148457 Flareon - Jungle 3/64 NM (English) - Holo Rare",
-        "productId": 15897594069336,
-        "variantId": 57806582448472,
+        "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567560024,
+        "variantId": 56849733583192,
         "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
+        "committed": 3,
+        "incoming": 1,
+        "available": -3,
         "shortfall": 2
       },
       {
-        "product": "131416 Paramount War Box Promotion One Piece Booster Pack (English)",
-        "productId": 15721594913112,
-        "variantId": 57156955210072,
+        "product": "74814 - Mega Evolution Pitch Black Sleeved Booster Pack (English)",
+        "productId": 15907563766104,
+        "variantId": 57847777001816,
         "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "74808 - Mega Evolution Pitch Black Booster Bundle 6 Booster Packs (English)",
-        "productId": 15912294908248,
-        "variantId": 57860168712536,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
+        "committed": 3,
+        "incoming": 1,
+        "available": -3,
         "shortfall": 2
       },
       {
@@ -3779,13 +3799,13 @@
         "shortfall": 1
       },
       {
-        "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
-        "productId": 15834588119384,
-        "variantId": 57582670676312,
-        "onHand": 0,
+        "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+        "productId": 15732280426840,
+        "variantId": 57196101075288,
+        "onHand": 1,
         "committed": 3,
-        "incoming": 2,
-        "available": -3,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       },
       {
@@ -3816,16 +3836,6 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
-        "productId": 15641560842584,
-        "variantId": 56849715429720,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 2,
-        "available": -3,
         "shortfall": 1
       },
       {
@@ -3879,26 +3889,6 @@
         "shortfall": 1
       },
       {
-        "product": "148571 Pikachu - Jungle 60/64 NM (English) - Common",
-        "productId": 15904091996504,
-        "variantId": 57830895845720,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "141965 Jewelry Bonney - Adventure on Kamis Island EB04-001 V2 NM Holofoil (English) - Alternate Art",
-        "productId": 15904565723480,
-        "variantId": 57831834616152,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "149037 Zapdos - Fossil 30/62 NM (English) - Rare",
         "productId": 15907077423448,
         "variantId": 57843652952408,
@@ -3939,29 +3929,9 @@
         "shortfall": 1
       },
       {
-        "product": "145286 Marill - Scarlet & Violet Snow Hazard 73/71 NM Holofoil (Japanese) - Secret Rare",
-        "productId": 15907111993688,
-        "variantId": 57843811123544,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "145248 Mantyke - Scarlet & Violet Paradox Rift 189/182 NM Holofoil (English) - Illustration Rare",
         "productId": 15907112124760,
         "variantId": 57843811254616,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "145427 Horsea - Aquapolis 84/147 NM (English) - Common",
-        "productId": 15907112386904,
-        "variantId": 57843811746136,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -4049,29 +4019,9 @@
         "shortfall": 1
       },
       {
-        "product": "147146 Sword & Shield Brilliant Stars Sleeved Booster Pack (English) - Multicolor",
-        "productId": 15907303162200,
-        "variantId": 57847152214360,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "131455 Tournament Pack Vol.7 Winner One Piece Booster Pack (English) - Black / White",
         "productId": 15907309158744,
         "variantId": 57847160275288,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "74818 - Mega Evolution Pitch Black Luxray Premium Checklane Blister 1 Booster Pack (English)",
-        "productId": 15907563143512,
-        "variantId": 57847774216536,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -4394,6 +4344,46 @@
         "variantId": 56849645142360,
         "onHand": 1,
         "committed": 2,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+        "productId": 15641321406808,
+        "variantId": 56849271619928,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "76040 - Raichu - Fossil 14/62 NM Holofoil (English)",
+        "productId": 15914102161752,
+        "variantId": 57867890327896,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "76020 - Dragonite - Fossil 4/62 NM Holofoil (English)",
+        "productId": 15914103079256,
+        "variantId": 57867891966296,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "76022 - Gengar - Fossil 5/62 NM Holofoil (English)",
+        "productId": 15914103570776,
+        "variantId": 57867892785496,
+        "onHand": 0,
+        "committed": 1,
         "incoming": 0,
         "available": -1,
         "shortfall": 1
