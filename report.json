@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T01:12:23.501Z",
+  "generatedAt": "2026-08-05T04:33:56.989Z",
   "summary": {
     "totalUnfulfilled": 89,
     "canFulfill": 2,
@@ -1305,12 +1305,6 @@
       "createdAt": "2026-08-02T18:49:28+02:00",
       "itemCount": 9,
       "reasons": [
-        {
-          "product": "131416 Paramount War Box Promotion One Piece Booster Pack (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        },
         {
           "product": "131452 Winner Pack 2025 Vol.3 One Piece Booster Pack (English) — 1 card / Black / White",
           "reason": "Insufficient stock",
@@ -3045,14 +3039,6 @@
         "demand": 1
       },
       {
-        "product": "131416 Paramount War Box Promotion One Piece Booster Pack (English)",
-        "productId": 15721594913112,
-        "variantId": 57156955210072,
-        "onHand": 0,
-        "committed": 2,
-        "demand": 2
-      },
-      {
         "product": "131434 Sealed Battle Kit Vol.1 One Piece Booster Pack (English) — 2 cards / Black / White",
         "productId": 15641345392984,
         "variantId": 56849305436504,
@@ -3632,16 +3618,6 @@
         "product": "148457 Flareon - Jungle 3/64 NM (English) - Holo Rare",
         "productId": 15897594069336,
         "variantId": 57806582448472,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "131416 Paramount War Box Promotion One Piece Booster Pack (English)",
-        "productId": 15721594913112,
-        "variantId": 57156955210072,
         "onHand": 0,
         "committed": 2,
         "incoming": 0,
