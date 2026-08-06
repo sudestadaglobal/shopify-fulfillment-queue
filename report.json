@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-06T12:24:51.454Z",
+  "generatedAt": "2026-08-06T14:59:03.460Z",
   "summary": {
-    "totalUnfulfilled": 92,
-    "canFulfill": 12,
-    "blocked": 80
+    "totalUnfulfilled": 95,
+    "canFulfill": 13,
+    "blocked": 82
   },
   "fulfillableOrders": [
     {
@@ -76,6 +76,12 @@
       "id": 12527433711960,
       "name": "#4177",
       "createdAt": "2026-08-05T15:51:36+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12529274749272,
+      "name": "#4180",
+      "createdAt": "2026-08-06T15:54:19+02:00",
       "itemCount": 1
     }
   ],
@@ -1819,6 +1825,36 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12529103241560,
+      "name": "#4178",
+      "customerName": "Sjoerd van Witzenburg",
+      "createdAt": "2026-08-06T14:23:24+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Gigabyte GeForce RTX 5070 Ti 16GB Gaming OC",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12529252335960,
+      "name": "#4179",
+      "customerName": "Moses Tappert",
+      "createdAt": "2026-08-06T15:41:56+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119045 Zekrom ex - Scarlet & Violet Black Bolt 172/086 NM (English) — 172/086, Near-Mint / Double Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2596,8 +2632,8 @@
         "productId": 15641515786584,
         "variantId": 56849658675544,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "Nintendo Switch 2 - Mario Kart World Bundle",
@@ -3470,6 +3506,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Gigabyte GeForce RTX 5070 Ti 16GB Gaming OC",
+        "productId": 15915496014168,
+        "variantId": 57876719010136,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116770 Scarlet & Violet Destined Rivals Skeledirge Premium Checklane 1 Booster Pack Blister (English) — 1 Booster pack, 3 cards / Multicolor",
+        "productId": 15641523224920,
+        "variantId": 56849675977048,
+        "onHand": 4,
+        "committed": 2,
+        "demand": 2
       }
     ],
     "demandExceedsStock": [
@@ -3591,6 +3643,16 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "119045 Zekrom ex - Scarlet & Violet Black Bolt 172/086 NM (English) — 172/086, Near-Mint / Double Rare",
+        "productId": 15641515786584,
+        "variantId": 56849658675544,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       },
       {
@@ -3781,6 +3843,16 @@
         "committed": 2,
         "incoming": 1,
         "available": -2,
+        "shortfall": 1
+      },
+      {
+        "product": "Gigabyte GeForce RTX 5070 Ti 16GB Gaming OC",
+        "productId": 15915496014168,
+        "variantId": 57876719010136,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
         "shortfall": 1
       }
     ]
