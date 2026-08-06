@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T07:30:57.209Z",
+  "generatedAt": "2026-08-06T10:16:24.333Z",
   "summary": {
     "totalUnfulfilled": 92,
     "canFulfill": 12,
@@ -3694,49 +3694,9 @@
         "shortfall": 1
       },
       {
-        "product": "Apple AirTag - (4 Pack)",
-        "productId": 15119366914392,
-        "variantId": 55016772567384,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
         "productId": 15641566052696,
         "variantId": 56849731354968,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Nintendo Switch 2 - Mario Kart World Bundle",
-        "productId": 15120406643032,
-        "variantId": 55021154959704,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "AMD Ryzen 7 7800X3D",
-        "productId": 15902014210392,
-        "variantId": 57824433504600,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Asus ROG Strix X870-A GAMING WIFI AM5 Motherboard",
-        "productId": 15476052853080,
-        "variantId": 56290808791384,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
