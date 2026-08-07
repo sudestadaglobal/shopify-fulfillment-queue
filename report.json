@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T16:05:06.243Z",
+  "generatedAt": "2026-08-07T17:12:26.226Z",
   "summary": {
-    "totalUnfulfilled": 69,
+    "totalUnfulfilled": 72,
     "canFulfill": 5,
-    "blocked": 64
+    "blocked": 67
   },
   "fulfillableOrders": [
     {
@@ -1477,6 +1477,51 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12531319603544,
+      "name": "#4184",
+      "customerName": "JAVIER Barragan",
+      "createdAt": "2026-08-07T18:06:58+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "72804 - Portgas.D.Ace - One Piece The Time of Battle OP16-001-V2 NM (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12531326681432,
+      "name": "#4185",
+      "customerName": "Timo Brandt",
+      "createdAt": "2026-08-07T18:10:57+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "147783 Mega Evolution Pitch Black Binacle 3-Pack Blister 3 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12531337527640,
+      "name": "#4186",
+      "customerName": "Sem Jansonius",
+      "createdAt": "2026-08-07T18:18:13+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "145433 Starmie V - Sword & Shield Astral Radiance TG13/TG30 NM (English) - Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2030,8 +2075,8 @@
         "productId": 15904104415576,
         "variantId": 57830910919000,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "110277 Sword & Shield Evolving Skies Booster Pack (English) — 10 cards / Multicolor",
@@ -2888,6 +2933,30 @@
         "onHand": 3,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "72804 - Portgas.D.Ace - One Piece The Time of Battle OP16-001-V2 NM (English)",
+        "productId": 15919387607384,
+        "variantId": 57909349843288,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131910 Mega Evolution Ascended Heroes Larry’s Komala Blister 2 Booster Packs (English) — 2 Booster Packs / Multicolor",
+        "productId": 15641337069912,
+        "variantId": 56849296097624,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "145433 Starmie V - Sword & Shield Astral Radiance TG13/TG30 NM (English) - Special Illustration Rare",
+        "productId": 15836339306840,
+        "variantId": 57589267464536,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3255,6 +3324,26 @@
         "product": "75072 - Lilo & Stitch - Fun-Loving Friends - Attack of the Vine 244/207 NM V2 (English)",
         "productId": 15916736938328,
         "variantId": 57883175354712,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "72804 - Portgas.D.Ace - One Piece The Time of Battle OP16-001-V2 NM (English)",
+        "productId": 15919387607384,
+        "variantId": 57909349843288,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "145433 Starmie V - Sword & Shield Astral Radiance TG13/TG30 NM (English) - Special Illustration Rare",
+        "productId": 15836339306840,
+        "variantId": 57589267464536,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
