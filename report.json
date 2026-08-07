@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T12:33:27.192Z",
+  "generatedAt": "2026-08-07T13:58:05.955Z",
   "summary": {
     "totalUnfulfilled": 97,
-    "canFulfill": 30,
-    "blocked": 67
+    "canFulfill": 29,
+    "blocked": 68
   },
   "fulfillableOrders": [
     {
@@ -133,22 +133,10 @@
       "itemCount": 1
     },
     {
-      "id": 12503442817368,
-      "name": "#4108",
-      "createdAt": "2026-07-28T18:03:08+02:00",
-      "itemCount": 1
-    },
-    {
       "id": 12505798377816,
       "name": "#4113",
       "createdAt": "2026-07-29T17:53:27+02:00",
       "itemCount": 7
-    },
-    {
-      "id": 12505855197528,
-      "name": "#4114",
-      "createdAt": "2026-07-29T18:26:39+02:00",
-      "itemCount": 1
     },
     {
       "id": 12508060385624,
@@ -160,6 +148,12 @@
       "id": 12508079554904,
       "name": "#4124",
       "createdAt": "2026-07-30T19:10:19+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12508100788568,
+      "name": "#4126",
+      "createdAt": "2026-07-30T19:24:26+02:00",
       "itemCount": 2
     },
     {
@@ -516,6 +510,21 @@
       ]
     },
     {
+      "id": 12503442817368,
+      "name": "#4108",
+      "customerName": "Frédéric Pépin-Toulouse",
+      "createdAt": "2026-07-28T18:03:08+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119045 Zekrom ex - Scarlet & Violet Black Bolt 172/086 NM (English) — 172/086, Near-Mint / Double Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
       "id": 12503574118744,
       "name": "#4109",
       "customerName": "Michel Biemolt",
@@ -545,6 +554,21 @@
         },
         {
           "product": "Asus ROG Strix X870-A GAMING WIFI AM5 Motherboard",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12505855197528,
+      "name": "#4114",
+      "customerName": "Nathan Jubinville-Savard",
+      "createdAt": "2026-07-29T18:26:39+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -641,21 +665,6 @@
       "reasons": [
         {
           "product": "141965 Jewelry Bonney - Adventure on Kamis Island EB04-001 V2 NM Holofoil (English) - Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12508100788568,
-      "name": "#4126",
-      "customerName": "Coman Alexandru",
-      "createdAt": "2026-07-30T19:24:26+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "125830 Psyduck - MEGA Dream ex 199/193 NM (Japanese) — 199/193, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2070,7 +2079,7 @@
         "product": "125830 Psyduck - MEGA Dream ex 199/193 NM (Japanese) — 199/193, Near-Mint / Illustration Rare",
         "productId": 15641389007192,
         "variantId": 56849460167000,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -2398,8 +2407,8 @@
         "product": "119045 Zekrom ex - Scarlet & Violet Black Bolt 172/086 NM (English) — 172/086, Near-Mint / Double Rare",
         "productId": 15641515786584,
         "variantId": 56849658675544,
-        "onHand": 1,
-        "committed": 2,
+        "onHand": 0,
+        "committed": 1,
         "demand": 2
       },
       {
@@ -2486,8 +2495,8 @@
         "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
         "productId": 15903094800728,
         "variantId": 57828229710168,
-        "onHand": 1,
-        "committed": 6,
+        "onHand": 0,
+        "committed": 5,
         "demand": 6
       },
       {
@@ -3356,8 +3365,8 @@
         "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
         "productId": 15903094800728,
         "variantId": 57828229710168,
-        "onHand": 1,
-        "committed": 6,
+        "onHand": 0,
+        "committed": 5,
         "incoming": 1,
         "available": -5,
         "shortfall": 4
@@ -3476,8 +3485,8 @@
         "product": "119045 Zekrom ex - Scarlet & Violet Black Bolt 172/086 NM (English) — 172/086, Near-Mint / Double Rare",
         "productId": 15641515786584,
         "variantId": 56849658675544,
-        "onHand": 1,
-        "committed": 2,
+        "onHand": 0,
+        "committed": 1,
         "incoming": 0,
         "available": -1,
         "shortfall": 1
