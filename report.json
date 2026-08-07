@@ -1,17 +1,11 @@
 {
-  "generatedAt": "2026-08-06T14:59:03.460Z",
+  "generatedAt": "2026-08-07T00:29:44.451Z",
   "summary": {
-    "totalUnfulfilled": 95,
-    "canFulfill": 13,
-    "blocked": 82
+    "totalUnfulfilled": 97,
+    "canFulfill": 12,
+    "blocked": 85
   },
   "fulfillableOrders": [
-    {
-      "id": 12369867669848,
-      "name": "#3713",
-      "createdAt": "2026-06-07T19:38:15+02:00",
-      "itemCount": 1
-    },
     {
       "id": 12486280380760,
       "name": "#4041",
@@ -1855,18 +1849,67 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12529431806296,
+      "name": "#4181",
+      "customerName": "Lum Krasniqi",
+      "createdAt": "2026-08-06T17:18:33+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 4
+        }
+      ]
+    },
+    {
+      "id": 12529458053464,
+      "name": "#4182",
+      "customerName": "Lum Krasniqi",
+      "createdAt": "2026-08-06T17:33:51+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "75104 - Peter Pan & Tinker Bell - Fast Friends - Attack of the Vine 240/207 NM V2 Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "75082 - Belle & Beast - Certain as the Sun - Attack of the Vine 245/207 NM V2 Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "75072 - Lilo & Stitch - Fun-Loving Friends - Attack of the Vine 244/207 NM V2 (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12529466376536,
+      "name": "#4183",
+      "customerName": "Damian van Veen",
+      "createdAt": "2026-08-06T17:38:34+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "131455 Tournament Pack Vol.7 Winner One Piece Booster Pack (English) - Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
     "lowStock": [
-      {
-        "product": "142947 Mega Evolution Chaos Rising Booster Box 36 Booster Packs (English) - Multicolor",
-        "productId": 15771147010392,
-        "variantId": 57362036457816,
-        "onHand": 1,
-        "committed": 0,
-        "demand": 1
-      },
       {
         "product": "128016 Gol.D.Roger - Carrying on His Will OP13‑003 V2 NM (English) — OP13‑003/V2, Near-Mint / Alternate Art",
         "productId": 15641374196056,
@@ -2720,8 +2763,8 @@
         "productId": 15903094800728,
         "variantId": 57828229710168,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
@@ -3064,8 +3107,8 @@
         "productId": 15907309158744,
         "variantId": 57847160275288,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "145625 Sengoku - One Piece The Time of Battle OP16-060-V2 NM (English) - Leader",
@@ -3522,6 +3565,46 @@
         "onHand": 4,
         "committed": 2,
         "demand": 2
+      },
+      {
+        "product": "75104 - Peter Pan & Tinker Bell - Fast Friends - Attack of the Vine 240/207 NM V2 Holofoil (English)",
+        "productId": 15916735201624,
+        "variantId": 57883171357016,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "75082 - Belle & Beast - Certain as the Sun - Attack of the Vine 245/207 NM V2 Holofoil (English)",
+        "productId": 15916735856984,
+        "variantId": 57883172798808,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "75072 - Lilo & Stitch - Fun-Loving Friends - Attack of the Vine 244/207 NM V2 (English)",
+        "productId": 15916736938328,
+        "variantId": 57883175354712,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "61882 Store Championship 2023 Participation Pack Vol.2 One Piece Booster Pack (English) — Black / White / 1 card",
+        "productId": 15643974566232,
+        "variantId": 56859014168920,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131468 Winner Pack 2025 Vol.4 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641345098072,
+        "variantId": 56849305141592,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3544,6 +3627,16 @@
         "incoming": 1,
         "available": -12,
         "shortfall": 11
+      },
+      {
+        "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
+        "productId": 15903094800728,
+        "variantId": 57828229710168,
+        "onHand": 0,
+        "committed": 6,
+        "incoming": 2,
+        "available": -6,
+        "shortfall": 4
       },
       {
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
@@ -3583,6 +3676,16 @@
         "committed": 3,
         "incoming": 1,
         "available": -3,
+        "shortfall": 2
+      },
+      {
+        "product": "131455 Tournament Pack Vol.7 Winner One Piece Booster Pack (English) - Black / White",
+        "productId": 15907309158744,
+        "variantId": 57847160275288,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
         "shortfall": 2
       },
       {
@@ -3679,16 +3782,6 @@
         "product": "110082 Scarlet & Violet Obsidian Flames Booster Box 36 pack (English) — 36 booster pack / Multicolor",
         "productId": 15641567101272,
         "variantId": 56849733124440,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "131455 Tournament Pack Vol.7 Winner One Piece Booster Pack (English) - Black / White",
-        "productId": 15907309158744,
-        "variantId": 57847160275288,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -3849,6 +3942,36 @@
         "product": "Gigabyte GeForce RTX 5070 Ti 16GB Gaming OC",
         "productId": 15915496014168,
         "variantId": 57876719010136,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "75104 - Peter Pan & Tinker Bell - Fast Friends - Attack of the Vine 240/207 NM V2 Holofoil (English)",
+        "productId": 15916735201624,
+        "variantId": 57883171357016,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "75082 - Belle & Beast - Certain as the Sun - Attack of the Vine 245/207 NM V2 Holofoil (English)",
+        "productId": 15916735856984,
+        "variantId": 57883172798808,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "75072 - Lilo & Stitch - Fun-Loving Friends - Attack of the Vine 244/207 NM V2 (English)",
+        "productId": 15916736938328,
+        "variantId": 57883175354712,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
