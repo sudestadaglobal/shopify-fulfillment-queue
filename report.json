@@ -1,15 +1,21 @@
 {
-  "generatedAt": "2026-08-07T05:28:14.159Z",
+  "generatedAt": "2026-08-07T06:52:52.509Z",
   "summary": {
     "totalUnfulfilled": 97,
-    "canFulfill": 12,
-    "blocked": 85
+    "canFulfill": 14,
+    "blocked": 83
   },
   "fulfillableOrders": [
     {
       "id": 12486280380760,
       "name": "#4041",
       "createdAt": "2026-07-22T21:00:04+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12487875789144,
+      "name": "#4044",
+      "createdAt": "2026-07-23T16:06:20+02:00",
       "itemCount": 1
     },
     {
@@ -55,10 +61,16 @@
       "itemCount": 1
     },
     {
-      "id": 12507964080472,
-      "name": "#4121",
-      "createdAt": "2026-07-30T18:00:38+02:00",
+      "id": 12503442817368,
+      "name": "#4108",
+      "createdAt": "2026-07-28T18:03:08+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12505798377816,
+      "name": "#4113",
+      "createdAt": "2026-07-29T17:53:27+02:00",
+      "itemCount": 7
     },
     {
       "id": 12513397473624,
@@ -405,21 +417,6 @@
       ]
     },
     {
-      "id": 12487875789144,
-      "name": "#4044",
-      "customerName": "David Annen",
-      "createdAt": "2026-07-23T16:06:20+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "125830 Psyduck - MEGA Dream ex 199/193 NM (Japanese) — 199/193, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12488118731096,
       "name": "#4048",
       "customerName": "Adrian Arnesen",
@@ -669,21 +666,6 @@
       ]
     },
     {
-      "id": 12503442817368,
-      "name": "#4108",
-      "customerName": "Frédéric Pépin-Toulouse",
-      "createdAt": "2026-07-28T18:03:08+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "119045 Zekrom ex - Scarlet & Violet Black Bolt 172/086 NM (English) — 172/086, Near-Mint / Double Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12503574118744,
       "name": "#4109",
       "customerName": "Michel Biemolt",
@@ -713,51 +695,6 @@
         },
         {
           "product": "Asus ROG Strix X870-A GAMING WIFI AM5 Motherboard",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12505798377816,
-      "name": "#4113",
-      "customerName": "Adrian Arnesen",
-      "createdAt": "2026-07-29T17:53:27+02:00",
-      "itemCount": 7,
-      "reasons": [
-        {
-          "product": "148653 Dark Gyarados - Team Rocket 8/82 NM Holofoil (English) - Holo Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "148649 Dark Dugtrio - Team Rocket 6/82 NM Holofoil (English) - Holo Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "148803 Dark Raichu - Team Rocket 83/82 NM (English) - Rare Secret",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "148639 Dark Alakazam - Team Rocket 1/82 NM Holofoil (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "148643 Dark Blastoise - Team Rocket 3/82 NM Holofoil (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "148647 Dark Dragonite - Team Rocket 5/82 NM Holofoil (English) - Holo Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -839,6 +776,21 @@
       "reasons": [
         {
           "product": "148505 Snorlax - Jungle 27/64 NM (English) - Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12507964080472,
+      "name": "#4121",
+      "customerName": "sascha schrader",
+      "createdAt": "2026-07-30T18:00:38+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "148645 Dark Charizard - Team Rocket 4/82 NM Holofoil (English) - Holo Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -978,7 +930,7 @@
         {
           "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 1,
           "needed": 3
         }
       ]
@@ -1281,12 +1233,6 @@
       "createdAt": "2026-08-03T00:48:54+02:00",
       "itemCount": 2,
       "reasons": [
-        {
-          "product": "51307 - Magic: The Gathering - Edge of Eternities Solar System 9-Pocket PRO Album",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
         {
           "product": "51293 - Magic: The Gathering - Edge of Eternities World Shaper Deck Protector 100x Sleeves",
           "reason": "Insufficient stock",
@@ -2346,7 +2292,7 @@
         "product": "125830 Psyduck - MEGA Dream ex 199/193 NM (Japanese) — 199/193, Near-Mint / Illustration Rare",
         "productId": 15641389007192,
         "variantId": 56849460167000,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2674,7 +2620,7 @@
         "product": "119045 Zekrom ex - Scarlet & Violet Black Bolt 172/086 NM (English) — 172/086, Near-Mint / Double Rare",
         "productId": 15641515786584,
         "variantId": 56849658675544,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2706,7 +2652,7 @@
         "product": "148653 Dark Gyarados - Team Rocket 8/82 NM Holofoil (English) - Holo Rare",
         "productId": 15902918705496,
         "variantId": 57828018946392,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2714,7 +2660,7 @@
         "product": "148649 Dark Dugtrio - Team Rocket 6/82 NM Holofoil (English) - Holo Rare",
         "productId": 15902922899800,
         "variantId": 57828023370072,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2722,7 +2668,7 @@
         "product": "148803 Dark Raichu - Team Rocket 83/82 NM (English) - Rare Secret",
         "productId": 15902926537048,
         "variantId": 57828027105624,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2730,7 +2676,7 @@
         "product": "148639 Dark Alakazam - Team Rocket 1/82 NM Holofoil (English)",
         "productId": 15902929289560,
         "variantId": 57828030284120,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2738,7 +2684,7 @@
         "product": "148643 Dark Blastoise - Team Rocket 3/82 NM Holofoil (English)",
         "productId": 15902931517784,
         "variantId": 57828032545112,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2746,7 +2692,7 @@
         "product": "148647 Dark Dragonite - Team Rocket 5/82 NM Holofoil (English) - Holo Rare",
         "productId": 15902934303064,
         "variantId": 57828036215128,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2842,7 +2788,7 @@
         "product": "138043 Psyduck - Scarlet & Violet Pokémon Card 151 175/165 NM Holofoil (Japanese) - Illustration Rare",
         "productId": 15904566706520,
         "variantId": 57831838843224,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       },
@@ -2874,7 +2820,7 @@
         "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
         "productId": 15641567560024,
         "variantId": 56849733583192,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 3,
         "demand": 3
       },
@@ -3138,7 +3084,7 @@
         "product": "51307 - Magic: The Gathering - Edge of Eternities Solar System 9-Pocket PRO Album",
         "productId": 15907585884504,
         "variantId": 57847816061272,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3672,10 +3618,10 @@
         "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
         "productId": 15641567560024,
         "variantId": 56849733583192,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 3,
-        "incoming": 1,
-        "available": -3,
+        "incoming": 0,
+        "available": -2,
         "shortfall": 2
       },
       {
@@ -3752,10 +3698,10 @@
         "product": "119045 Zekrom ex - Scarlet & Violet Black Bolt 172/086 NM (English) — 172/086, Near-Mint / Double Rare",
         "productId": 15641515786584,
         "variantId": 56849658675544,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
-        "incoming": 1,
-        "available": -2,
+        "incoming": 0,
+        "available": -1,
         "shortfall": 1
       },
       {
