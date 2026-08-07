@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T18:06:51.551Z",
+  "generatedAt": "2026-08-07T19:20:15.995Z",
   "summary": {
-    "totalUnfulfilled": 72,
+    "totalUnfulfilled": 73,
     "canFulfill": 5,
-    "blocked": 67
+    "blocked": 68
   },
   "fulfillableOrders": [
     {
@@ -1522,6 +1522,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12531524272472,
+      "name": "#4187",
+      "customerName": "Hugo Kikkine",
+      "createdAt": "2026-08-07T20:32:33+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "124054 Mega Charizard X ex - Phantasmal Flames 125/094 NM (English) — 125/094, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2957,6 +2972,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "124054 Mega Charizard X ex - Phantasmal Flames 125/094 NM (English) — 125/094, Near-Mint / Special Illustration Rare",
+        "productId": 15641486950744,
+        "variantId": 56849613652312,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3344,6 +3367,16 @@
         "product": "145433 Starmie V - Sword & Shield Astral Radiance TG13/TG30 NM (English) - Special Illustration Rare",
         "productId": 15836339306840,
         "variantId": 57589267464536,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "124054 Mega Charizard X ex - Phantasmal Flames 125/094 NM (English) — 125/094, Near-Mint / Special Illustration Rare",
+        "productId": 15641486950744,
+        "variantId": 56849613652312,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
