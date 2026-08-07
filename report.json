@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-07T09:37:53.910Z",
+  "generatedAt": "2026-08-07T10:39:43.542Z",
   "summary": {
     "totalUnfulfilled": 97,
-    "canFulfill": 23,
-    "blocked": 74
+    "canFulfill": 30,
+    "blocked": 67
   },
   "fulfillableOrders": [
+    {
+      "id": 12481849721176,
+      "name": "#4020",
+      "createdAt": "2026-07-20T17:44:18+02:00",
+      "itemCount": 1
+    },
     {
       "id": 12482083979608,
       "name": "#4023",
@@ -49,10 +55,40 @@
       "itemCount": 1
     },
     {
+      "id": 12497537597784,
+      "name": "#4055",
+      "createdAt": "2026-07-25T15:47:13+02:00",
+      "itemCount": 7
+    },
+    {
+      "id": 12497607393624,
+      "name": "#4056",
+      "createdAt": "2026-07-25T16:19:54+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12497633444184,
+      "name": "#4058",
+      "createdAt": "2026-07-25T16:32:53+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12497705632088,
+      "name": "#4060",
+      "createdAt": "2026-07-25T17:10:33+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12497723490648,
       "name": "#4063",
       "createdAt": "2026-07-25T17:19:10+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12497733779800,
+      "name": "#4064",
+      "createdAt": "2026-07-25T17:24:26+02:00",
+      "itemCount": 2
     },
     {
       "id": 12497739022680,
@@ -130,6 +166,12 @@
       "id": 12513397473624,
       "name": "#4142",
       "createdAt": "2026-08-02T18:35:03+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12515622748504,
+      "name": "#4151",
+      "createdAt": "2026-08-03T01:42:20+02:00",
       "itemCount": 1
     },
     {
@@ -333,21 +375,6 @@
       ]
     },
     {
-      "id": 12481849721176,
-      "name": "#4020",
-      "customerName": "Eddie Heikkinen",
-      "createdAt": "2026-07-20T17:44:18+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Apple AirTag - (4 Pack)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12482188509528,
       "name": "#4026",
       "customerName": "Jonathan Bergström",
@@ -420,57 +447,6 @@
       ]
     },
     {
-      "id": 12497537597784,
-      "name": "#4055",
-      "customerName": "Adrià Cáceres",
-      "createdAt": "2026-07-25T15:47:13+02:00",
-      "itemCount": 7,
-      "reasons": [
-        {
-          "product": "71811 Morpeko ex - MEGA Abyss Eye 115/081 NM (Japanese)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "144660 Gladion’s Showdown - MEGA Abyss Eye 109/081 NM Holofoil (Japanese) - Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12497607393624,
-      "name": "#4056",
-      "customerName": "Ben Flanagan",
-      "createdAt": "2026-07-25T16:19:54+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "125866 Team Rocket's Mewtwo ex - MEGA Dream ex 237/193 NM (Japanese) — 237/193, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12497633444184,
-      "name": "#4058",
-      "customerName": "sander thijs",
-      "createdAt": "2026-07-25T16:32:53+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "147791 Mega Evolution Pitch Black Booster Box 18 Booster Packs (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12497687544152,
       "name": "#4059",
       "customerName": "Adrian Arnesen",
@@ -506,36 +482,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
-        }
-      ]
-    },
-    {
-      "id": 12497705632088,
-      "name": "#4060",
-      "customerName": "patrick gill",
-      "createdAt": "2026-07-25T17:10:33+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12497733779800,
-      "name": "#4064",
-      "customerName": "Tobias Eckl",
-      "createdAt": "2026-07-25T17:24:26+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "147791 Mega Evolution Pitch Black Booster Box 18 Booster Packs (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -1082,21 +1028,6 @@
       "reasons": [
         {
           "product": "51293 - Magic: The Gathering - Edge of Eternities World Shaper Deck Protector 100x Sleeves",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12515622748504,
-      "name": "#4151",
-      "customerName": "Lukas Schönwetter",
-      "createdAt": "2026-08-03T01:42:20+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Logitech Astro A50 Lightspeed Wireless Gaming Headset",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1923,7 +1854,7 @@
         "product": "Apple AirTag - (4 Pack)",
         "productId": 15119366914392,
         "variantId": 55016772567384,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       },
@@ -2107,7 +2038,7 @@
         "product": "147791 Mega Evolution Pitch Black Booster Box 18 Booster Packs (English) - Multicolor",
         "productId": 15889255760216,
         "variantId": 57780450525528,
-        "onHand": 1,
+        "onHand": 3,
         "committed": 3,
         "demand": 3
       },
@@ -2195,7 +2126,7 @@
         "product": "71811 Morpeko ex - MEGA Abyss Eye 115/081 NM (Japanese)",
         "productId": 15821418725720,
         "variantId": 57533817651544,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2203,7 +2134,7 @@
         "product": "144660 Gladion’s Showdown - MEGA Abyss Eye 109/081 NM Holofoil (Japanese) - Ultra Rare",
         "productId": 15897528271192,
         "variantId": 57806181564760,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2219,7 +2150,7 @@
         "product": "125866 Team Rocket's Mewtwo ex - MEGA Dream ex 237/193 NM (Japanese) — 237/193, Near-Mint / Special Illustration Rare",
         "productId": 15641388515672,
         "variantId": 56849459675480,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2307,7 +2238,7 @@
         "product": "132539 Nihil Zero Booster Box - 30 Booster Packs (Japanese) — 30 Booster Packs / Multicolor",
         "productId": 15641321341272,
         "variantId": 56849271554392,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2947,7 +2878,7 @@
         "product": "Logitech Astro A50 Lightspeed Wireless Gaming Headset",
         "productId": 15907622748504,
         "variantId": 57847944216920,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
