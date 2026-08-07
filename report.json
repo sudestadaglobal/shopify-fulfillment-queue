@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-08-07T06:52:52.509Z",
+  "generatedAt": "2026-08-07T08:21:20.142Z",
   "summary": {
     "totalUnfulfilled": 97,
-    "canFulfill": 14,
-    "blocked": 83
+    "canFulfill": 23,
+    "blocked": 74
   },
   "fulfillableOrders": [
+    {
+      "id": 12482083979608,
+      "name": "#4023",
+      "createdAt": "2026-07-20T20:12:39+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12486196494680,
+      "name": "#4038",
+      "createdAt": "2026-07-22T20:21:01+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12486225985880,
+      "name": "#4039",
+      "createdAt": "2026-07-22T20:34:37+02:00",
+      "itemCount": 1
+    },
     {
       "id": 12486280380760,
       "name": "#4041",
@@ -16,6 +34,12 @@
       "id": 12487875789144,
       "name": "#4044",
       "createdAt": "2026-07-23T16:06:20+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12488118731096,
+      "name": "#4048",
+      "createdAt": "2026-07-23T17:26:54+02:00",
       "itemCount": 1
     },
     {
@@ -41,6 +65,18 @@
       "name": "#4066",
       "createdAt": "2026-07-26T17:21:51+02:00",
       "itemCount": 3
+    },
+    {
+      "id": 12499460817240,
+      "name": "#4068",
+      "createdAt": "2026-07-26T17:49:22+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12500848836952,
+      "name": "#4082",
+      "createdAt": "2026-07-27T13:29:24+02:00",
+      "itemCount": 7
     },
     {
       "id": 12501384724824,
@@ -71,6 +107,24 @@
       "name": "#4113",
       "createdAt": "2026-07-29T17:53:27+02:00",
       "itemCount": 7
+    },
+    {
+      "id": 12505855197528,
+      "name": "#4114",
+      "createdAt": "2026-07-29T18:26:39+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12508060385624,
+      "name": "#4122",
+      "createdAt": "2026-07-30T18:59:16+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12508079554904,
+      "name": "#4124",
+      "createdAt": "2026-07-30T19:10:19+02:00",
+      "itemCount": 2
     },
     {
       "id": 12513397473624,
@@ -117,7 +171,7 @@
         {
           "product": "119889 Squirtle - Scarlet & Violet 151 007/165 NM (English) — 007/165, Near-Mint / Common",
           "reason": "Insufficient stock",
-          "stock": 1,
+          "stock": 2,
           "needed": 3
         },
         {
@@ -294,27 +348,6 @@
       ]
     },
     {
-      "id": 12482083979608,
-      "name": "#4023",
-      "customerName": "Adrià Cáceres",
-      "createdAt": "2026-07-20T20:12:39+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "132690 Team Rocket’s Mimikyu - Mega Evolution Ascended Heroes 238/217 NM (English) — 238/217, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132670 Drakloak - Mega Evolution Ascended Heroes 248/217 NM (English) — 248/217, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12482188509528,
       "name": "#4026",
       "customerName": "Jonathan Bergström",
@@ -360,36 +393,6 @@
       ]
     },
     {
-      "id": 12486196494680,
-      "name": "#4038",
-      "customerName": "Enrico Rinaldi",
-      "createdAt": "2026-07-22T20:21:01+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "120849 Eevee & Snorlax GX - Sun & Moon Team Up 120/181 NM (English) — 120/181, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12486225985880,
-      "name": "#4039",
-      "customerName": "Dylan FRitz",
-      "createdAt": "2026-07-22T20:34:37+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "133714 Portgas D. Ace - Legacy of the Master ST13‑011 NM (English) — ST13‑011, Near-Mint / Special Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12487803994456,
       "name": "#4042",
       "customerName": "Tommy Magne Bøe",
@@ -413,21 +416,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12488118731096,
-      "name": "#4048",
-      "customerName": "Adrian Arnesen",
-      "createdAt": "2026-07-23T17:26:54+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 3,
-          "needed": 4
         }
       ]
     },
@@ -475,12 +463,6 @@
       "itemCount": 2,
       "reasons": [
         {
-          "product": "120799 Gengar & Mimikyu GX - Sun & Moon Team Up 164/181 NM (English) — 164/181, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "147791 Mega Evolution Pitch Black Booster Box 18 Booster Packs (English) - Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -508,19 +490,7 @@
           "needed": 1
         },
         {
-          "product": "148453 Clefable - Jungle 1/64 NM (English) - Holo Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "148483 Wigglytuff - Jungle 16/64 NM (English) - Holo Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "148473 Snorlax - Jungle 11/64 NM (English) - Holo Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -528,17 +498,11 @@
         {
           "product": "148475 Vaporeon - Jungle 12/64 NM (English) - Holo Rare",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 1,
           "needed": 2
         },
         {
           "product": "148459 Jolteon - Jungle 4/64 NM (English) - Holo Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        },
-        {
-          "product": "148457 Flareon - Jungle 3/64 NM (English) - Holo Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
@@ -576,60 +540,6 @@
       ]
     },
     {
-      "id": 12499460817240,
-      "name": "#4068",
-      "customerName": "danny nijman",
-      "createdAt": "2026-07-26T17:49:22+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "148475 Vaporeon - Jungle 12/64 NM (English) - Holo Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "148453 Clefable - Jungle 1/64 NM (English) - Holo Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12500848836952,
-      "name": "#4082",
-      "customerName": "Adrià Cáceres",
-      "createdAt": "2026-07-27T13:29:24+02:00",
-      "itemCount": 7,
-      "reasons": [
-        {
-          "product": "144632 Wailord ex - MEGA Abyss Eye 095/081 NM Holofoil (Japanese) - Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132864 Mega Dragonite ex - Mega Evolution Ascended Heroes 271/217 NM (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132602 Mega Diancie ex - Mega Evolution Ascended Heroes 282/217 NM (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "132618 \tMega Feraligatr ex - Mega Evolution Ascended Heroes 274/217 NM Holofoil (English) - Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12501007827288,
       "name": "#4084",
       "customerName": "Kenan Yilmaz",
@@ -653,12 +563,6 @@
       "reasons": [
         {
           "product": "71755 Slowbro - MEGA Abyss Eye 087/081 NM (Japanese)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "63039 Mega Gengar ex - Mega Evolution Ascended Heroes 269/217 NM (English) — Size 269/217 / Ultra Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -695,21 +599,6 @@
         },
         {
           "product": "Asus ROG Strix X870-A GAMING WIFI AM5 Motherboard",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12505855197528,
-      "name": "#4114",
-      "customerName": "Nathan Jubinville-Savard",
-      "createdAt": "2026-07-29T18:26:39+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -791,36 +680,6 @@
       "reasons": [
         {
           "product": "148645 Dark Charizard - Team Rocket 4/82 NM Holofoil (English) - Holo Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12508060385624,
-      "name": "#4122",
-      "customerName": "Adrià Cáceres",
-      "createdAt": "2026-07-30T18:59:16+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "132680 Mightyena - Mega Evolution Ascended Heroes 243/217 NM (English) — 243/217, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12508079554904,
-      "name": "#4124",
-      "customerName": "Leon Berthold",
-      "createdAt": "2026-07-30T19:10:19+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "149015 Dragonite - Fossil 19/62 NM (English)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1148,18 +1007,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
-        },
-        {
-          "product": "131452 Winner Pack 2025 Vol.3 One Piece Booster Pack (English) — 1 card / Black / White",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         },
         {
           "product": "131438 Promotion Pack 2022 One Piece Booster Pack (English)",
@@ -1908,7 +1755,7 @@
         "product": "119889 Squirtle - Scarlet & Violet 151 007/165 NM (English) — 007/165, Near-Mint / Common",
         "productId": 15641504055640,
         "variantId": 56849640194392,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 2,
         "demand": 3
       },
@@ -2084,7 +1931,7 @@
         "product": "132690 Team Rocket’s Mimikyu - Mega Evolution Ascended Heroes 238/217 NM (English) — 238/217, Near-Mint / Illustration Rare",
         "productId": 15641319244120,
         "variantId": 56849268343128,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2092,7 +1939,7 @@
         "product": "132670 Drakloak - Mega Evolution Ascended Heroes 248/217 NM (English) — 248/217, Near-Mint / Illustration Rare",
         "productId": 15641319801176,
         "variantId": 56849268900184,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2244,7 +2091,7 @@
         "product": "120849 Eevee & Snorlax GX - Sun & Moon Team Up 120/181 NM (English) — 120/181, Near-Mint / Ultra Rare",
         "productId": 15641500025176,
         "variantId": 56849634099544,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2252,7 +2099,7 @@
         "product": "133714 Portgas D. Ace - Legacy of the Master ST13‑011 NM (English) — ST13‑011, Near-Mint / Special Rare",
         "productId": 15641299976536,
         "variantId": 56849240818008,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2300,7 +2147,7 @@
         "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
         "productId": 15641503891800,
         "variantId": 56849639604568,
-        "onHand": 3,
+        "onHand": 4,
         "committed": 4,
         "demand": 4
       },
@@ -2388,7 +2235,7 @@
         "product": "120799 Gengar & Mimikyu GX - Sun & Moon Team Up 164/181 NM (English) — 164/181, Near-Mint / Ultra Rare",
         "productId": 15641500877144,
         "variantId": 56849635017048,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2412,7 +2259,7 @@
         "product": "148453 Clefable - Jungle 1/64 NM (English) - Holo Rare",
         "productId": 15897592103256,
         "variantId": 57806571569496,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2428,7 +2275,7 @@
         "product": "148473 Snorlax - Jungle 11/64 NM (English) - Holo Rare",
         "productId": 15897592955224,
         "variantId": 57806577336664,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2436,7 +2283,7 @@
         "product": "148475 Vaporeon - Jungle 12/64 NM (English) - Holo Rare",
         "productId": 15897593413976,
         "variantId": 57806579564888,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 3,
         "demand": 3
       },
@@ -2452,7 +2299,7 @@
         "product": "148457 Flareon - Jungle 3/64 NM (English) - Holo Rare",
         "productId": 15897594069336,
         "variantId": 57806582448472,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -2524,7 +2371,7 @@
         "product": "144632 Wailord ex - MEGA Abyss Eye 095/081 NM Holofoil (Japanese) - Ultra Rare",
         "productId": 15899437990232,
         "variantId": 57813722169688,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2532,7 +2379,7 @@
         "product": "132864 Mega Dragonite ex - Mega Evolution Ascended Heroes 271/217 NM (English)",
         "productId": 15630201356632,
         "variantId": 56804521410904,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2540,7 +2387,7 @@
         "product": "132602 Mega Diancie ex - Mega Evolution Ascended Heroes 282/217 NM (English)",
         "productId": 15713422770520,
         "variantId": 57130752344408,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2556,7 +2403,7 @@
         "product": "132618 \tMega Feraligatr ex - Mega Evolution Ascended Heroes 274/217 NM Holofoil (English) - Special Illustration Rare",
         "productId": 15899438776664,
         "variantId": 57813726626136,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2596,7 +2443,7 @@
         "product": "63039 Mega Gengar ex - Mega Evolution Ascended Heroes 269/217 NM (English) — Size 269/217 / Ultra Rare",
         "productId": 15653351129432,
         "variantId": 56898072969560,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2708,7 +2555,7 @@
         "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
         "productId": 15903094800728,
         "variantId": 57828229710168,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 6,
         "demand": 6
       },
@@ -2756,7 +2603,7 @@
         "product": "132680 Mightyena - Mega Evolution Ascended Heroes 243/217 NM (English) — 243/217, Near-Mint / Illustration Rare",
         "productId": 15641319473496,
         "variantId": 56849268572504,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2764,7 +2611,7 @@
         "product": "149015 Dragonite - Fossil 19/62 NM (English)",
         "productId": 15904561037656,
         "variantId": 57831814070616,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3012,7 +2859,7 @@
         "product": "131452 Winner Pack 2025 Vol.3 One Piece Booster Pack (English) — 1 card / Black / White",
         "productId": 15641345261912,
         "variantId": 56849305305432,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3028,7 +2875,7 @@
         "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
         "productId": 15667333103960,
         "variantId": 56960147652952,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3578,10 +3425,10 @@
         "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
         "productId": 15903094800728,
         "variantId": 57828229710168,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 6,
-        "incoming": 2,
-        "available": -6,
+        "incoming": 1,
+        "available": -5,
         "shortfall": 4
       },
       {
