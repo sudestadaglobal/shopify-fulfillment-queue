@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T21:51:15.589Z",
+  "generatedAt": "2026-08-08T22:37:37.124Z",
   "summary": {
     "totalUnfulfilled": 73,
     "canFulfill": 5,
@@ -3034,16 +3034,6 @@
         "shortfall": 2
       },
       {
-        "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
-        "productId": 15641567560024,
-        "variantId": 56849733583192,
-        "onHand": 1,
-        "committed": 3,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
         "product": "131455 Tournament Pack Vol.7 Winner One Piece Booster Pack (English) - Black / White",
         "productId": 15907309158744,
         "variantId": 57847160275288,
@@ -3357,16 +3347,6 @@
         "product": "72804 - Portgas.D.Ace - One Piece The Time of Battle OP16-001-V2 NM (English)",
         "productId": 15919387607384,
         "variantId": 57909349843288,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "145433 Starmie V - Sword & Shield Astral Radiance TG13/TG30 NM (English) - Special Illustration Rare",
-        "productId": 15836339306840,
-        "variantId": 57589267464536,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
