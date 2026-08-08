@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-08T22:37:37.124Z",
+  "generatedAt": "2026-08-08T23:11:06.709Z",
   "summary": {
-    "totalUnfulfilled": 73,
-    "canFulfill": 5,
-    "blocked": 68
+    "totalUnfulfilled": 78,
+    "canFulfill": 7,
+    "blocked": 71
   },
   "fulfillableOrders": [
     {
@@ -35,6 +35,18 @@
       "name": "#4180",
       "createdAt": "2026-08-06T15:54:19+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12533947105624,
+      "name": "#4188",
+      "createdAt": "2026-08-09T00:38:12+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12533952643416,
+      "name": "#4190",
+      "createdAt": "2026-08-09T00:47:35+02:00",
+      "itemCount": 3
     }
   ],
   "blockedOrders": [
@@ -1537,6 +1549,57 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12533949366616,
+      "name": "#4189",
+      "customerName": "Ricards Sandris Megi",
+      "createdAt": "2026-08-09T00:42:43+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "74199 - Scarlet & Violet Twilight Masquerade Sleeved Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12533954412888,
+      "name": "#4191",
+      "customerName": "Mateo Barro Fernández",
+      "createdAt": "2026-08-09T00:50:32+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "136101 MEGA Start Deck 100 Battle Collection (Japanese) — 60 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12533956837720,
+      "name": "#4192",
+      "customerName": "Adrian Arnesen",
+      "createdAt": "2026-08-09T00:55:04+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119469 Bulbasaur - Scarlet & Violet 151 166/165 NM (English) — 166/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1818,8 +1881,8 @@
         "productId": 15641565987160,
         "variantId": 56849731289432,
         "onHand": 8,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "125758 Scarlet & Violet Snow Hazard Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -2146,8 +2209,8 @@
         "productId": 15641567560024,
         "variantId": 56849733583192,
         "onHand": 1,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "147156 Sword & Shield Fusion Strike Sleeved Booster Pack (English) - Multicolor",
@@ -2746,8 +2809,8 @@
         "productId": 15641506480472,
         "variantId": 56849644028248,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
@@ -2786,8 +2849,8 @@
         "productId": 15641507365208,
         "variantId": 56849645207896,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119205 Audino - Scarlet & Violet Black Bolt 151/086 NM (English) — 151/086, Near-Mint / Illustration Rare",
@@ -2980,6 +3043,30 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "74199 - Scarlet & Violet Twilight Masquerade Sleeved Booster Pack (English)",
+        "productId": 15921497178456,
+        "variantId": 57926749389144,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110265 Sword & Shield Pokémon GO Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565036888,
+        "variantId": 56849721852248,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "136101 MEGA Start Deck 100 Battle Collection (Japanese) — 60 cards / Multicolor",
+        "productId": 15641266127192,
+        "variantId": 56849190027608,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3111,6 +3198,16 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567560024,
+        "variantId": 56849733583192,
+        "onHand": 1,
+        "committed": 4,
+        "incoming": 2,
+        "available": -3,
         "shortfall": 1
       },
       {
@@ -3274,6 +3371,26 @@
         "shortfall": 1
       },
       {
+        "product": "119469 Bulbasaur - Scarlet & Violet 151 166/165 NM (English) — 166/165, Near-Mint / Illustration Rare",
+        "productId": 15641506480472,
+        "variantId": 56849644028248,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
+      },
+      {
+        "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
+        "productId": 15641507365208,
+        "variantId": 56849645207896,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
+      },
+      {
         "product": "119453 Kangaskhan ex - Scarlet & Violet 151 190/165 NM (English) — 190/165, Near-Mint / Ultra Rare",
         "productId": 15641506775384,
         "variantId": 56849644487000,
@@ -3357,6 +3474,26 @@
         "product": "124054 Mega Charizard X ex - Phantasmal Flames 125/094 NM (English) — 125/094, Near-Mint / Special Illustration Rare",
         "productId": 15641486950744,
         "variantId": 56849613652312,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "74199 - Scarlet & Violet Twilight Masquerade Sleeved Booster Pack (English)",
+        "productId": 15921497178456,
+        "variantId": 57926749389144,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "136101 MEGA Start Deck 100 Battle Collection (Japanese) — 60 cards / Multicolor",
+        "productId": 15641266127192,
+        "variantId": 56849190027608,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
