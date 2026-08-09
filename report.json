@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T22:08:57.742Z",
+  "generatedAt": "2026-08-09T22:55:00.146Z",
   "summary": {
     "totalUnfulfilled": 78,
     "canFulfill": 7,
@@ -386,7 +386,7 @@
     {
       "id": 12503618912600,
       "name": "#4110",
-      "customerName": "Oliver M��nsson",
+      "customerName": "Oliver Månsson",
       "createdAt": "2026-07-28T19:55:09+02:00",
       "itemCount": 2,
       "reasons": [
