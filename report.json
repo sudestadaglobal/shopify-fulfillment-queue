@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-10T16:13:28.581Z",
+  "generatedAt": "2026-08-10T17:13:42.059Z",
   "summary": {
-    "totalUnfulfilled": 77,
+    "totalUnfulfilled": 78,
     "canFulfill": 7,
-    "blocked": 70
+    "blocked": 71
   },
   "fulfillableOrders": [
     {
@@ -1466,6 +1466,21 @@
       "reasons": [
         {
           "product": "76184 - Storm Emeralda Booster Box - Scarlet & Violet Storm Emeralda (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12537057345880,
+      "name": "#4198",
+      "customerName": "Ludwig Holmberg",
+      "createdAt": "2026-08-10T18:48:38+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "Airpods Max with Smart Case — Midnight",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2954,6 +2969,22 @@
         "onHand": 0,
         "committed": 2,
         "demand": 2
+      },
+      {
+        "product": "Airpods Max with Smart Case — Midnight",
+        "productId": 14860932972888,
+        "variantId": 54100373897560,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Apple AirPods Pro 3",
+        "productId": 15338563338584,
+        "variantId": 55853592019288,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3421,6 +3452,16 @@
         "product": "68190 - Meowth ex - Mega Evolution Perfect Order 121/088 NM Holofoil (English)",
         "productId": 15925441003864,
         "variantId": 57933838418264,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Airpods Max with Smart Case — Midnight",
+        "productId": 14860932972888,
+        "variantId": 54100373897560,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
