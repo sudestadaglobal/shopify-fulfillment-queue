@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-08-10T13:49:20.502Z",
+  "generatedAt": "2026-08-10T15:06:49.938Z",
   "summary": {
-    "totalUnfulfilled": 78,
+    "totalUnfulfilled": 75,
     "canFulfill": 7,
-    "blocked": 71
+    "blocked": 68
   },
   "fulfillableOrders": [
+    {
+      "id": 12470611575128,
+      "name": "#3965",
+      "createdAt": "2026-07-14T16:57:08+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12470626320728,
+      "name": "#3966",
+      "createdAt": "2026-07-14T17:04:51+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12472539808088,
+      "name": "#3973",
+      "createdAt": "2026-07-15T16:47:09+02:00",
+      "itemCount": 4
+    },
+    {
+      "id": 12474926924120,
+      "name": "#3990",
+      "createdAt": "2026-07-16T19:56:43+02:00",
+      "itemCount": 1
+    },
     {
       "id": 12497733779800,
       "name": "#4064",
@@ -13,40 +37,16 @@
       "itemCount": 2
     },
     {
-      "id": 12503067722072,
-      "name": "#4105",
-      "createdAt": "2026-07-28T14:36:48+02:00",
-      "itemCount": 1
+      "id": 12533956837720,
+      "name": "#4192",
+      "createdAt": "2026-08-09T00:55:04+02:00",
+      "itemCount": 2
     },
     {
-      "id": 12513004323160,
-      "name": "#4130",
-      "createdAt": "2026-08-02T14:46:34+02:00",
+      "id": 12536828133720,
+      "name": "#4193",
+      "createdAt": "2026-08-10T16:44:53+02:00",
       "itemCount": 1
-    },
-    {
-      "id": 12513397473624,
-      "name": "#4142",
-      "createdAt": "2026-08-02T18:35:03+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12529274749272,
-      "name": "#4180",
-      "createdAt": "2026-08-06T15:54:19+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12533947105624,
-      "name": "#4188",
-      "createdAt": "2026-08-09T00:38:12+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12533952643416,
-      "name": "#4190",
-      "createdAt": "2026-08-09T00:47:35+02:00",
-      "itemCount": 3
     }
   ],
   "blockedOrders": [
@@ -59,84 +59,6 @@
       "reasons": [
         {
           "product": "128022 Monkey D. Luffy - Carrying on His Will OP13‑001 V2 NM (English) — OP13‑001/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12470611575128,
-      "name": "#3965",
-      "customerName": "ignaz gschwentner",
-      "createdAt": "2026-07-14T16:57:08+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12470626320728,
-      "name": "#3966",
-      "customerName": "Daniel Csucs Aron Csucs Aron",
-      "createdAt": "2026-07-14T17:04:51+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12472539808088,
-      "name": "#3973",
-      "customerName": "Emile Cnudde",
-      "createdAt": "2026-07-15T16:47:09+02:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "119485 Nidoking - Scarlet & Violet 151 174/165 NM (English) — 174/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119491 Machoke - Scarlet & Violet 151 177/165 NM (English) — 177/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12474926924120,
-      "name": "#3990",
-      "customerName": "Jonathan Van Praet",
-      "createdAt": "2026-07-16T19:56:43+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -412,6 +334,12 @@
       "itemCount": 7,
       "reasons": [
         {
+          "product": "148643 Dark Blastoise - Team Rocket 3/82 NM Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
           "product": "148645 Dark Charizard - Team Rocket 4/82 NM Holofoil (English) - Holo Rare",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -558,7 +486,7 @@
         {
           "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 1,
+          "stock": 0,
           "needed": 3
         }
       ]
@@ -650,12 +578,6 @@
         },
         {
           "product": "147973 Primarina - Mega Evolution Pitch Black 088/084 NM Holofoil (English) - Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "148029 Mega Darkrai ex - Mega Evolution Pitch Black 116/084 NM Holofoil (English) - Special Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1132,24 +1054,6 @@
       "itemCount": 39,
       "reasons": [
         {
-          "product": "119443 Arbok ex - Scarlet & Violet 151 185/165 NM (English) — 185/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119465 Erika’s Invitation - Scarlet & Violet 151 196/165 NM (English) — 196/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119451 Golem ex - Scarlet & Violet 151 189/165 NM (English) — 189/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "119447 Wigglytuff ex - Scarlet & Violet 151 187/165 NM (English) — 187/165, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1163,12 +1067,6 @@
         },
         {
           "product": "119449 Alakazam ex - Scarlet & Violet 151 188/165 NM (English) — 188/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119495 Mr. Mime - Scarlet & Violet 151 179/165 NM (English) — 179/165, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1222,24 +1120,6 @@
           "needed": 1
         },
         {
-          "product": "119439 Charizard ex - Scarlet & Violet 151 183/165 NM (English) — 183/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119489 Poliwhirl - Scarlet & Violet 151 176/165 NM (English) — 176/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119499 Dragonair - Scarlet & Violet 151 181/165 NM (English) — 181/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "113508 Palafin ex - Scarlet & Violet Prismatic Evolution 151/131 NM (English) — 151/131, Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1247,24 +1127,6 @@
         },
         {
           "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119471 Ivysaur - Scarlet & Violet 151 167/165 NM (English) — 167/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119479 Wartortle - Scarlet & Violet 151 171/165 NM (English) — 171/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119469 Bulbasaur - Scarlet & Violet 151 166/165 NM (English) — 166/165, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1278,49 +1140,19 @@
         {
           "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
-          "stock": -2,
+          "stock": -1,
           "needed": 1
         },
         {
-          "product": "119473 Charmander - Scarlet & Violet 151 168/165 NM (English) — 168/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119425 Venusaur ex - Scarlet & Violet 151 198/165 NM (English) — 198/165, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119205 Audino - Scarlet & Violet Black Bolt 151/086 NM (English) — 151/086, Near-Mint / Illustration Rare",
+          "product": "119453 Kangaskhan ex - Scarlet & Violet 151 190/165 NM (English) — 190/165, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
           "stock": 1,
           "needed": 2
         },
         {
-          "product": "119453 Kangaskhan ex - Scarlet & Violet 151 190/165 NM (English) — 190/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        },
-        {
           "product": "119455 Jynx ex - Scarlet & Violet 151 191/165 NM (English) — 191/165, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 1,
           "needed": 2
         },
         {
@@ -1338,7 +1170,7 @@
         {
           "product": "119441 Blastoise ex - Scarlet & Violet 151 184/165 NM (English) — 184/165, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 1,
           "needed": 3
         },
         {
@@ -1349,12 +1181,6 @@
         },
         {
           "product": "119481 Caterpie - Scarlet & Violet 151 172/165 NM (English) — 172/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        },
-        {
-          "product": "119429 Alakazam ex - Scarlet & Violet 151 201/165 NM (English) — 201/165, Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 1,
           "needed": 2
@@ -1581,20 +1407,29 @@
       ]
     },
     {
-      "id": 12533956837720,
-      "name": "#4192",
-      "customerName": "Adrian Arnesen",
-      "createdAt": "2026-08-09T00:55:04+02:00",
-      "itemCount": 2,
+      "id": 12536833311064,
+      "name": "#4194",
+      "customerName": "Benjamin Gagliardi",
+      "createdAt": "2026-08-10T16:47:19+02:00",
+      "itemCount": 1,
       "reasons": [
         {
-          "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
+          "product": "110071 Scarlet & Violet Wild Force Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
+        }
+      ]
+    },
+    {
+      "id": 12536844255576,
+      "name": "#4195",
+      "customerName": "Enrico Rinaldi",
+      "createdAt": "2026-08-10T16:52:35+02:00",
+      "itemCount": 1,
+      "reasons": [
         {
-          "product": "119469 Bulbasaur - Scarlet & Violet 151 166/165 NM (English) — 166/165, Near-Mint / Illustration Rare",
+          "product": "120833 Celebi & Venusaur GX - Sun & Moon Team Up 001/181 NM (English) — 1/181, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1640,7 +1475,7 @@
         "product": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
         "productId": 14834629312856,
         "variantId": 54023479296344,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -1648,7 +1483,7 @@
         "product": "119485 Nidoking - Scarlet & Violet 151 174/165 NM (English) — 174/165, Near-Mint / Illustration Rare",
         "productId": 15641506087256,
         "variantId": 56849643471192,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 4,
         "demand": 4
       },
@@ -1656,7 +1491,7 @@
         "product": "119491 Machoke - Scarlet & Violet 151 177/165 NM (English) — 177/165, Near-Mint / Illustration Rare",
         "productId": 15641505923416,
         "variantId": 56849643274584,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -1664,7 +1499,7 @@
         "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
         "productId": 15641506283864,
         "variantId": 56849643635032,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -1672,7 +1507,7 @@
         "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
         "productId": 15641506120024,
         "variantId": 56849643503960,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -1680,7 +1515,7 @@
         "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
         "productId": 15742390337880,
         "variantId": 57232830890328,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1880,9 +1715,9 @@
         "product": "110200 Scarlet & Violet Shiny Treasure ex Booster Pack (Japanese) — 10 cards / Multicolor",
         "productId": 15641565987160,
         "variantId": 56849731289432,
-        "onHand": 8,
-        "committed": 2,
-        "demand": 2
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "125758 Scarlet & Violet Snow Hazard Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -2104,9 +1939,9 @@
         "product": "148643 Dark Blastoise - Team Rocket 3/82 NM Holofoil (English)",
         "productId": 15902931517784,
         "variantId": 57828032545112,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "148647 Dark Dragonite - Team Rocket 5/82 NM Holofoil (English) - Holo Rare",
@@ -2201,16 +2036,16 @@
         "productId": 15641567297880,
         "variantId": 56849733321048,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
         "productId": 15641567560024,
         "variantId": 56849733583192,
-        "onHand": 1,
-        "committed": 4,
-        "demand": 4
+        "onHand": 0,
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "147156 Sword & Shield Fusion Strike Sleeved Booster Pack (English) - Multicolor",
@@ -2304,7 +2139,7 @@
         "product": "148029 Mega Darkrai ex - Mega Evolution Pitch Black 116/084 NM Holofoil (English) - Special Illustration Rare",
         "productId": 15886250967384,
         "variantId": 57765792252248,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2640,7 +2475,7 @@
         "product": "119443 Arbok ex - Scarlet & Violet 151 185/165 NM (English) — 185/165, Near-Mint / Ultra Rare",
         "productId": 15641506939224,
         "variantId": 56849644650840,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2648,7 +2483,7 @@
         "product": "119465 Erika’s Invitation - Scarlet & Violet 151 196/165 NM (English) — 196/165, Near-Mint / Ultra Rare",
         "productId": 15641506578776,
         "variantId": 56849644126552,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2656,7 +2491,7 @@
         "product": "119451 Golem ex - Scarlet & Violet 151 189/165 NM (English) — 189/165, Near-Mint / Ultra Rare",
         "productId": 15641506808152,
         "variantId": 56849644519768,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2688,7 +2523,7 @@
         "product": "119495 Mr. Mime - Scarlet & Violet 151 179/165 NM (English) — 179/165, Near-Mint / Illustration Rare",
         "productId": 15641505857880,
         "variantId": 56849643209048,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2752,7 +2587,7 @@
         "product": "119439 Charizard ex - Scarlet & Violet 151 183/165 NM (English) — 183/165, Near-Mint / Ultra Rare",
         "productId": 15641507070296,
         "variantId": 56849644749144,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2760,7 +2595,7 @@
         "product": "119489 Poliwhirl - Scarlet & Violet 151 176/165 NM (English) — 176/165, Near-Mint / Illustration Rare",
         "productId": 15641505988952,
         "variantId": 56849643372888,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2768,7 +2603,7 @@
         "product": "119499 Dragonair - Scarlet & Violet 151 181/165 NM (English) — 181/165, Near-Mint / Illustration Rare",
         "productId": 15641505792344,
         "variantId": 56849642717528,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2784,7 +2619,7 @@
         "product": "119471 Ivysaur - Scarlet & Violet 151 167/165 NM (English) — 167/165, Near-Mint / Illustration Rare",
         "productId": 15641506414936,
         "variantId": 56849643798872,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2792,7 +2627,7 @@
         "product": "119479 Wartortle - Scarlet & Violet 151 171/165 NM (English) — 171/165, Near-Mint / Illustration Rare",
         "productId": 15641506218328,
         "variantId": 56849643569496,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2800,7 +2635,7 @@
         "product": "119487 Psyduck - Scarlet & Violet 151 175/165 NM (English) — 175/165, Near-Mint / Illustration Rare",
         "productId": 15641506021720,
         "variantId": 56849643405656,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       },
@@ -2808,7 +2643,7 @@
         "product": "119469 Bulbasaur - Scarlet & Violet 151 166/165 NM (English) — 166/165, Near-Mint / Illustration Rare",
         "productId": 15641506480472,
         "variantId": 56849644028248,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2816,7 +2651,7 @@
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
         "productId": 15641506251096,
         "variantId": 56849643602264,
-        "onHand": -2,
+        "onHand": -1,
         "committed": 1,
         "demand": 1
       },
@@ -2824,7 +2659,7 @@
         "product": "119473 Charmander - Scarlet & Violet 151 168/165 NM (English) — 168/165, Near-Mint / Illustration Rare",
         "productId": 15641506349400,
         "variantId": 56849643733336,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2832,7 +2667,7 @@
         "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507266904,
         "variantId": 56849645109592,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2840,7 +2675,7 @@
         "product": "119425 Venusaur ex - Scarlet & Violet 151 198/165 NM (English) — 198/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507430744,
         "variantId": 56849645273432,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2848,7 +2683,7 @@
         "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507365208,
         "variantId": 56849645207896,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2856,7 +2691,7 @@
         "product": "119205 Audino - Scarlet & Violet Black Bolt 151/086 NM (English) — 151/086, Near-Mint / Illustration Rare",
         "productId": 15641512542552,
         "variantId": 56849653596504,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -2864,7 +2699,7 @@
         "product": "119453 Kangaskhan ex - Scarlet & Violet 151 190/165 NM (English) — 190/165, Near-Mint / Ultra Rare",
         "productId": 15641506775384,
         "variantId": 56849644487000,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2872,7 +2707,7 @@
         "product": "119455 Jynx ex - Scarlet & Violet 151 191/165 NM (English) — 191/165, Near-Mint / Ultra Rare",
         "productId": 15641506742616,
         "variantId": 56849644454232,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2896,7 +2731,7 @@
         "product": "119441 Blastoise ex - Scarlet & Violet 151 184/165 NM (English) — 184/165, Near-Mint / Ultra Rare",
         "productId": 15641507037528,
         "variantId": 56849644716376,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 3,
         "demand": 3
       },
@@ -2904,7 +2739,7 @@
         "product": "119481 Caterpie - Scarlet & Violet 151 172/165 NM (English) — 172/165, Near-Mint / Illustration Rare",
         "productId": 15641506152792,
         "variantId": 56849643536728,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2912,7 +2747,7 @@
         "product": "119429 Alakazam ex - Scarlet & Violet 151 201/165 NM (English) — 201/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507299672,
         "variantId": 56849645142360,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -2963,14 +2798,6 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "116770 Scarlet & Violet Destined Rivals Skeledirge Premium Checklane 1 Booster Pack Blister (English) — 1 Booster pack, 3 cards / Multicolor",
-        "productId": 15641523224920,
-        "variantId": 56849675977048,
-        "onHand": 4,
-        "committed": 2,
-        "demand": 2
       },
       {
         "product": "75104 - Peter Pan & Tinker Bell - Fast Friends - Attack of the Vine 240/207 NM V2 Holofoil (English)",
@@ -3053,17 +2880,25 @@
         "demand": 1
       },
       {
-        "product": "110265 Sword & Shield Pokémon GO Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641565036888,
-        "variantId": 56849721852248,
+        "product": "136101 MEGA Start Deck 100 Battle Collection (Japanese) — 60 cards / Multicolor",
+        "productId": 15641266127192,
+        "variantId": 56849190027608,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110228 Sword & Shield Crown Zenith Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565462872,
+        "variantId": 56849722311000,
         "onHand": 4,
         "committed": 1,
         "demand": 1
       },
       {
-        "product": "136101 MEGA Start Deck 100 Battle Collection (Japanese) — 60 cards / Multicolor",
-        "productId": 15641266127192,
-        "variantId": 56849190027608,
+        "product": "120833 Celebi & Venusaur GX - Sun & Moon Team Up 001/181 NM (English) — 1/181, Near-Mint / Ultra Rare",
+        "productId": 15641500320088,
+        "variantId": 56849634394456,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -3104,10 +2939,10 @@
         "product": "119485 Nidoking - Scarlet & Violet 151 174/165 NM (English) — 174/165, Near-Mint / Illustration Rare",
         "productId": 15641506087256,
         "variantId": 56849643471192,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 4,
-        "incoming": 2,
-        "available": -4,
+        "incoming": 1,
+        "available": -3,
         "shortfall": 2
       },
       {
@@ -3144,10 +2979,10 @@
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
         "productId": 15641506251096,
         "variantId": 56849643602264,
-        "onHand": -2,
+        "onHand": -1,
         "committed": 1,
-        "incoming": 1,
-        "available": -3,
+        "incoming": 0,
+        "available": -2,
         "shortfall": 2
       },
       {
@@ -3174,10 +3009,10 @@
         "product": "119441 Blastoise ex - Scarlet & Violet 151 184/165 NM (English) — 184/165, Near-Mint / Ultra Rare",
         "productId": 15641507037528,
         "variantId": 56849644716376,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 3,
-        "incoming": 1,
-        "available": -3,
+        "incoming": 0,
+        "available": -2,
         "shortfall": 2
       },
       {
@@ -3201,11 +3036,21 @@
         "shortfall": 1
       },
       {
+        "product": "110071 Scarlet & Violet Wild Force Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641567297880,
+        "variantId": 56849733321048,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
+      },
+      {
         "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
         "productId": 15641567560024,
         "variantId": 56849733583192,
-        "onHand": 1,
-        "committed": 4,
+        "onHand": 0,
+        "committed": 3,
         "incoming": 2,
         "available": -3,
         "shortfall": 1
@@ -3374,40 +3219,40 @@
         "product": "119469 Bulbasaur - Scarlet & Violet 151 166/165 NM (English) — 166/165, Near-Mint / Illustration Rare",
         "productId": 15641506480472,
         "variantId": 56849644028248,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
-        "incoming": 1,
-        "available": -2,
+        "incoming": 0,
+        "available": -1,
         "shortfall": 1
       },
       {
         "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507365208,
         "variantId": 56849645207896,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
-        "incoming": 1,
-        "available": -2,
+        "incoming": 0,
+        "available": -1,
         "shortfall": 1
       },
       {
         "product": "119453 Kangaskhan ex - Scarlet & Violet 151 190/165 NM (English) — 190/165, Near-Mint / Ultra Rare",
         "productId": 15641506775384,
         "variantId": 56849644487000,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
-        "incoming": 1,
-        "available": -2,
+        "incoming": 0,
+        "available": -1,
         "shortfall": 1
       },
       {
         "product": "119455 Jynx ex - Scarlet & Violet 151 191/165 NM (English) — 191/165, Near-Mint / Ultra Rare",
         "productId": 15641506742616,
         "variantId": 56849644454232,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
-        "incoming": 1,
-        "available": -2,
+        "incoming": 0,
+        "available": -1,
         "shortfall": 1
       },
       {
@@ -3494,6 +3339,16 @@
         "product": "136101 MEGA Start Deck 100 Battle Collection (Japanese) — 60 cards / Multicolor",
         "productId": 15641266127192,
         "variantId": 56849190027608,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "120833 Celebi & Venusaur GX - Sun & Moon Team Up 001/181 NM (English) — 1/181, Near-Mint / Ultra Rare",
+        "productId": 15641500320088,
+        "variantId": 56849634394456,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
