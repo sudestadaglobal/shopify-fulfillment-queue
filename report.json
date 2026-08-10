@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-10T15:06:49.938Z",
+  "generatedAt": "2026-08-10T16:13:28.581Z",
   "summary": {
-    "totalUnfulfilled": 75,
+    "totalUnfulfilled": 77,
     "canFulfill": 7,
-    "blocked": 68
+    "blocked": 70
   },
   "fulfillableOrders": [
     {
@@ -1430,6 +1430,42 @@
       "reasons": [
         {
           "product": "120833 Celebi & Venusaur GX - Sun & Moon Team Up 001/181 NM (English) — 1/181, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12536870338904,
+      "name": "#4196",
+      "customerName": "Chen Matteo",
+      "createdAt": "2026-08-10T17:05:35+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "68190 - Meowth ex - Mega Evolution Perfect Order 121/088 NM Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "76184 - Storm Emeralda Booster Box - Scarlet & Violet Storm Emeralda (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12536889606488,
+      "name": "#4197",
+      "customerName": "Maximilian Milota",
+      "createdAt": "2026-08-10T17:15:24+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "76184 - Storm Emeralda Booster Box - Scarlet & Violet Storm Emeralda (Japanese)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2902,6 +2938,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "68190 - Meowth ex - Mega Evolution Perfect Order 121/088 NM Holofoil (English)",
+        "productId": 15925441003864,
+        "variantId": 57933838418264,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "76184 - Storm Emeralda Booster Box - Scarlet & Violet Storm Emeralda (Japanese)",
+        "productId": 15925445394776,
+        "variantId": 57933857620312,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
       }
     ],
     "demandExceedsStock": [
@@ -3011,6 +3063,16 @@
         "variantId": 56849644716376,
         "onHand": 1,
         "committed": 3,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "76184 - Storm Emeralda Booster Box - Scarlet & Violet Storm Emeralda (Japanese)",
+        "productId": 15925445394776,
+        "variantId": 57933857620312,
+        "onHand": 0,
+        "committed": 2,
         "incoming": 0,
         "available": -2,
         "shortfall": 2
@@ -3349,6 +3411,16 @@
         "product": "120833 Celebi & Venusaur GX - Sun & Moon Team Up 001/181 NM (English) — 1/181, Near-Mint / Ultra Rare",
         "productId": 15641500320088,
         "variantId": 56849634394456,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "68190 - Meowth ex - Mega Evolution Perfect Order 121/088 NM Holofoil (English)",
+        "productId": 15925441003864,
+        "variantId": 57933838418264,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
