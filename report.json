@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T15:44:44.264Z",
+  "generatedAt": "2026-08-11T16:42:09.308Z",
   "summary": {
     "totalUnfulfilled": 75,
     "canFulfill": 4,
@@ -2995,16 +2995,6 @@
         "shortfall": 2
       },
       {
-        "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
-        "productId": 15641503859032,
-        "variantId": 56849639571800,
-        "onHand": 1,
-        "committed": 6,
-        "incoming": 3,
-        "available": -5,
-        "shortfall": 2
-      },
-      {
         "product": "131455 Tournament Pack Vol.7 Winner One Piece Booster Pack (English) - Black / White",
         "productId": 15907309158744,
         "variantId": 57847160275288,
@@ -3155,26 +3145,6 @@
         "shortfall": 1
       },
       {
-        "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
-        "productId": 15641523421528,
-        "variantId": 56849676173656,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119391 Scarlet & Violet Black Bolt Reuniclus Tech Sticker Collection (English) — 3 booster pack / Black / Blue",
-        "productId": 15641508446552,
-        "variantId": 56849646584152,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "72322 - Blastoise & Piplup GX - Sun & Moon Cosmic Eclipse 215/236 NM Holofoil (English)",
         "productId": 15912629141848,
         "variantId": 57861614141784,
@@ -3275,26 +3245,6 @@
         "shortfall": 1
       },
       {
-        "product": "119469 Bulbasaur - Scarlet & Violet 151 166/165 NM (English) — 166/165, Near-Mint / Illustration Rare",
-        "productId": 15641506480472,
-        "variantId": 56849644028248,
-        "onHand": 1,
-        "committed": 2,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
-        "productId": 15641507365208,
-        "variantId": 56849645207896,
-        "onHand": 1,
-        "committed": 2,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "119453 Kangaskhan ex - Scarlet & Violet 151 190/165 NM (English) — 190/165, Near-Mint / Ultra Rare",
         "productId": 15641506775384,
         "variantId": 56849644487000,
@@ -3355,16 +3305,6 @@
         "shortfall": 1
       },
       {
-        "product": "72804 - Portgas.D.Ace - One Piece The Time of Battle OP16-001-V2 NM (English)",
-        "productId": 15919387607384,
-        "variantId": 57909349843288,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "124054 Mega Charizard X ex - Phantasmal Flames 125/094 NM (English) — 125/094, Near-Mint / Special Illustration Rare",
         "productId": 15641486950744,
         "variantId": 56849613652312,
@@ -3385,29 +3325,9 @@
         "shortfall": 1
       },
       {
-        "product": "136101 MEGA Start Deck 100 Battle Collection (Japanese) — 60 cards / Multicolor",
-        "productId": 15641266127192,
-        "variantId": 56849190027608,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "120833 Celebi & Venusaur GX - Sun & Moon Team Up 001/181 NM (English) — 1/181, Near-Mint / Ultra Rare",
         "productId": 15641500320088,
         "variantId": 56849634394456,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "68190 - Meowth ex - Mega Evolution Perfect Order 121/088 NM Holofoil (English)",
-        "productId": 15925441003864,
-        "variantId": 57933838418264,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
