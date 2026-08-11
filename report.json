@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T12:01:40.089Z",
+  "generatedAt": "2026-08-11T13:27:40.009Z",
   "summary": {
     "totalUnfulfilled": 75,
     "canFulfill": 4,
@@ -3315,16 +3315,6 @@
         "shortfall": 1
       },
       {
-        "product": "Gigabyte GeForce RTX 5070 Ti 16GB Gaming OC",
-        "productId": 15915496014168,
-        "variantId": 57876719010136,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "119045 Zekrom ex - Scarlet & Violet Black Bolt 172/086 NM (English) — 172/086, Near-Mint / Double Rare",
         "productId": 15641515786584,
         "variantId": 56849658675544,
@@ -3418,16 +3408,6 @@
         "product": "68190 - Meowth ex - Mega Evolution Perfect Order 121/088 NM Holofoil (English)",
         "productId": 15925441003864,
         "variantId": 57933838418264,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Airpods Max with Smart Case — Midnight",
-        "productId": 14860932972888,
-        "variantId": 54100373897560,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
