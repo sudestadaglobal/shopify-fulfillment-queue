@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T22:07:35.709Z",
+  "generatedAt": "2026-08-12T23:06:26.492Z",
   "summary": {
     "totalUnfulfilled": 86,
     "canFulfill": 34,
@@ -2876,16 +2876,6 @@
         "shortfall": 2
       },
       {
-        "product": "76184 - Storm Emeralda Booster Box - Scarlet & Violet Storm Emeralda (Japanese)",
-        "productId": 15925445394776,
-        "variantId": 57933857620312,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
         "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
         "productId": 15641561432408,
         "variantId": 56849716019544,
@@ -3129,16 +3119,6 @@
         "product": "120833 Celebi & Venusaur GX - Sun & Moon Team Up 001/181 NM (English) — 1/181, Near-Mint / Ultra Rare",
         "productId": 15641500320088,
         "variantId": 56849634394456,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "131582 Romance Dawn One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
-        "productId": 15641341034840,
-        "variantId": 56849300652376,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
