@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-12T16:13:48.589Z",
+  "generatedAt": "2026-08-12T17:17:16.664Z",
   "summary": {
     "totalUnfulfilled": 79,
-    "canFulfill": 23,
-    "blocked": 56
+    "canFulfill": 31,
+    "blocked": 48
   },
   "fulfillableOrders": [
     {
@@ -19,10 +19,40 @@
       "itemCount": 3
     },
     {
+      "id": 12485313823064,
+      "name": "#4032",
+      "createdAt": "2026-07-22T14:39:11+02:00",
+      "itemCount": 20
+    },
+    {
       "id": 12497733779800,
       "name": "#4064",
       "createdAt": "2026-07-25T17:24:26+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12501007827288,
+      "name": "#4084",
+      "createdAt": "2026-07-27T14:43:36+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12505862963544,
+      "name": "#4115",
+      "createdAt": "2026-07-29T18:31:07+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12506011533656,
+      "name": "#4117",
+      "createdAt": "2026-07-29T20:08:08+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12507651801432,
+      "name": "#4119",
+      "createdAt": "2026-07-30T15:20:02+02:00",
+      "itemCount": 3
     },
     {
       "id": 12513017332056,
@@ -41,6 +71,12 @@
       "name": "#4139",
       "createdAt": "2026-08-02T17:27:44+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12514662613336,
+      "name": "#4146",
+      "createdAt": "2026-08-03T00:23:23+02:00",
+      "itemCount": 2
     },
     {
       "id": 12514745680216,
@@ -109,10 +145,22 @@
       "itemCount": 1
     },
     {
+      "id": 12523813175640,
+      "name": "#4169",
+      "createdAt": "2026-08-04T14:40:31+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12527373943128,
       "name": "#4175",
       "createdAt": "2026-08-05T15:20:27+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12531326681432,
+      "name": "#4185",
+      "createdAt": "2026-08-07T18:10:57+02:00",
+      "itemCount": 2
     },
     {
       "id": 12533956837720,
@@ -218,12 +266,6 @@
           "reason": "Insufficient stock",
           "stock": 2,
           "needed": 3
-        },
-        {
-          "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
         }
       ]
     },
@@ -236,21 +278,6 @@
       "reasons": [
         {
           "product": "118668 Scarlet & Violet White Flare Gothitelle Tech Sticker Collection (English) — 3 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12485313823064,
-      "name": "#4032",
-      "customerName": "Jonathan Bergström",
-      "createdAt": "2026-07-22T14:39:11+02:00",
-      "itemCount": 20,
-      "reasons": [
-        {
-          "product": "141863 MEGA Ninja Spinner Booster Pack (Japanese)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -299,21 +326,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
-        }
-      ]
-    },
-    {
-      "id": 12501007827288,
-      "name": "#4084",
-      "customerName": "Kenan Yilmaz",
-      "createdAt": "2026-07-27T14:43:36+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "120865 Hoopa GX - Sun & Moon Team Up 166/181 NM (English) — 166/181, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -390,57 +402,6 @@
       ]
     },
     {
-      "id": 12505862963544,
-      "name": "#4115",
-      "customerName": "Jan Niklas Gieschen",
-      "createdAt": "2026-07-29T18:31:07+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12506011533656,
-      "name": "#4117",
-      "customerName": "Enrico Rinaldi",
-      "createdAt": "2026-07-29T20:08:08+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "120825 Pikachu & Zekrom GX - Sun & Moon Team Up 033/181 NM (English) — 33/181, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12507651801432,
-      "name": "#4119",
-      "customerName": "Ricards Sandris Megi",
-      "createdAt": "2026-07-30T15:20:02+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "148571 Pikachu - Jungle 60/64 NM (English) - Common",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "147783 Mega Evolution Pitch Black Binacle 3-Pack Blister 3 Booster Packs (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12507876295000,
       "name": "#4120",
       "customerName": "Luis Brauner",
@@ -498,12 +459,6 @@
       "createdAt": "2026-08-02T15:14:13+02:00",
       "itemCount": 2,
       "reasons": [
-        {
-          "product": "147783 Mega Evolution Pitch Black Binacle 3-Pack Blister 3 Booster Packs (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
         {
           "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
           "reason": "Insufficient stock",
@@ -590,12 +545,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -617,27 +566,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12514662613336,
-      "name": "#4146",
-      "customerName": "Ricards Sandris Megi",
-      "createdAt": "2026-08-03T00:23:23+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "74818 - Mega Evolution Pitch Black Luxray Premium Checklane Blister 1 Booster Pack (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "74814 - Mega Evolution Pitch Black Sleeved Booster Pack (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 3
         }
       ]
     },
@@ -694,28 +622,7 @@
       "itemCount": 2,
       "reasons": [
         {
-          "product": "74808 - Mega Evolution Pitch Black Booster Bundle 6 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "119391 Scarlet & Violet Black Bolt Reuniclus Tech Sticker Collection (English) — 3 booster pack / Black / Blue",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12523813175640,
-      "name": "#4169",
-      "customerName": "Enrico Rinaldi",
-      "createdAt": "2026-08-04T14:40:31+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "74808 - Mega Evolution Pitch Black Booster Bundle 6 Booster Packs (English)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -808,12 +715,6 @@
           "needed": 1
         },
         {
-          "product": "119497 Omanyte - Scarlet & Violet 151 180/165 NM (English) — 180/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "109990 Tangela - Scarlet & Violet 151 178/165 (English) — 178/165, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -844,12 +745,6 @@
           "needed": 1
         },
         {
-          "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": -1,
@@ -872,12 +767,6 @@
           "reason": "Insufficient stock",
           "stock": 2,
           "needed": 3
-        },
-        {
-          "product": "119481 Caterpie - Scarlet & Violet 151 172/165 NM (English) — 172/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 1,
-          "needed": 2
         }
       ]
     },
@@ -992,21 +881,6 @@
       "reasons": [
         {
           "product": "72804 - Portgas.D.Ace - One Piece The Time of Battle OP16-001-V2 NM (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12531326681432,
-      "name": "#4185",
-      "customerName": "Timo Brandt",
-      "createdAt": "2026-08-07T18:10:57+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "147783 Mega Evolution Pitch Black Binacle 3-Pack Blister 3 Booster Packs (English) - Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1277,7 +1151,7 @@
         "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
         "productId": 15641506120024,
         "variantId": 56849643503960,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -1342,14 +1216,6 @@
         "productId": 15641283559768,
         "variantId": 56849220043096,
         "onHand": 2,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "131526 500 Years into the Future One Piece Booster Pack (English) — 12 cards / Multicolor",
-        "productId": 15641343099224,
-        "variantId": 56849302946136,
-        "onHand": 0,
         "committed": 2,
         "demand": 2
       },
@@ -1469,7 +1335,7 @@
         "product": "141863 MEGA Ninja Spinner Booster Pack (Japanese)",
         "productId": 15720120385880,
         "variantId": 57151497830744,
-        "onHand": 0,
+        "onHand": 5,
         "committed": 1,
         "demand": 1
       },
@@ -1581,7 +1447,7 @@
         "product": "120865 Hoopa GX - Sun & Moon Team Up 166/181 NM (English) — 166/181, Near-Mint / Ultra Rare",
         "productId": 15641499664728,
         "variantId": 56849633739096,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1701,7 +1567,7 @@
         "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
         "productId": 15796633665880,
         "variantId": 57468100968792,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1709,7 +1575,7 @@
         "product": "120825 Pikachu & Zekrom GX - Sun & Moon Team Up 033/181 NM (English) — 33/181, Near-Mint / Ultra Rare",
         "productId": 15641500451160,
         "variantId": 56849634558296,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1717,7 +1583,7 @@
         "product": "148571 Pikachu - Jungle 60/64 NM (English) - Common",
         "productId": 15904091996504,
         "variantId": 57830895845720,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -1725,7 +1591,7 @@
         "product": "147783 Mega Evolution Pitch Black Binacle 3-Pack Blister 3 Booster Packs (English) - Multicolor",
         "productId": 15904104415576,
         "variantId": 57830910919000,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 3,
         "demand": 3
       },
@@ -1949,7 +1815,7 @@
         "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
         "productId": 15641268355416,
         "variantId": 56849193173336,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2029,7 +1895,7 @@
         "product": "74818 - Mega Evolution Pitch Black Luxray Premium Checklane Blister 1 Booster Pack (English)",
         "productId": 15907563143512,
         "variantId": 57847774216536,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2037,7 +1903,7 @@
         "product": "74814 - Mega Evolution Pitch Black Sleeved Booster Pack (English)",
         "productId": 15907563766104,
         "variantId": 57847777001816,
-        "onHand": 0,
+        "onHand": 3,
         "committed": 3,
         "demand": 3
       },
@@ -2149,7 +2015,7 @@
         "product": "74808 - Mega Evolution Pitch Black Booster Bundle 6 Booster Packs (English)",
         "productId": 15912294908248,
         "variantId": 57860168712536,
-        "onHand": 0,
+        "onHand": 5,
         "committed": 2,
         "demand": 2
       },
@@ -2269,7 +2135,7 @@
         "product": "119497 Omanyte - Scarlet & Violet 151 180/165 NM (English) — 180/165, Near-Mint / Illustration Rare",
         "productId": 15641505825112,
         "variantId": 56849642750296,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2461,7 +2327,7 @@
         "product": "119481 Caterpie - Scarlet & Violet 151 172/165 NM (English) — 172/165, Near-Mint / Illustration Rare",
         "productId": 15641506152792,
         "variantId": 56849643536728,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -2723,16 +2589,6 @@
       }
     ],
     "demandExceedsStock": [
-      {
-        "product": "74814 - Mega Evolution Pitch Black Sleeved Booster Pack (English)",
-        "productId": 15907563766104,
-        "variantId": 57847777001816,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 1,
-        "available": -3,
-        "shortfall": 2
-      },
       {
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
         "productId": 15641506251096,
