@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-12T20:14:41.347Z",
+  "generatedAt": "2026-08-12T21:08:12.094Z",
   "summary": {
-    "totalUnfulfilled": 79,
-    "canFulfill": 31,
-    "blocked": 48
+    "totalUnfulfilled": 85,
+    "canFulfill": 34,
+    "blocked": 51
   },
   "fulfillableOrders": [
     {
@@ -191,6 +191,24 @@
       "name": "#4202",
       "createdAt": "2026-08-11T20:22:16+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12546696151384,
+      "name": "#4204",
+      "createdAt": "2026-08-12T22:33:16+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12546715320664,
+      "name": "#4207",
+      "createdAt": "2026-08-12T22:49:51+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12546718630232,
+      "name": "#4208",
+      "createdAt": "2026-08-12T22:53:08+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -259,7 +277,7 @@
       "name": "#4012",
       "customerName": "Kyndael Bowen",
       "createdAt": "2026-07-19T20:09:59+02:00",
-      "itemCount": 3,
+      "itemCount": 4,
       "reasons": [
         {
           "product": "131466 The Best Vol.2 One Piece Sleeved Booster Pack (English) — 10 cards / Multicolor",
@@ -1087,6 +1105,57 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12546700935512,
+      "name": "#4205",
+      "customerName": "M.N. Ton",
+      "createdAt": "2026-08-12T22:37:24+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "147779 Mega Evolution Pitch Black Booster Box 36 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12546709061976,
+      "name": "#4206",
+      "customerName": "Casper Männys",
+      "createdAt": "2026-08-12T22:44:11+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "75076 - Attack of the Vine! Illumineer's Trove 8 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "76414 - The First Chapter Booster (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12546728460632,
+      "name": "#4209",
+      "customerName": "Adrian Arnesen",
+      "createdAt": "2026-08-12T23:01:45+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1192,8 +1261,8 @@
         "productId": 15641340051800,
         "variantId": 56849299571032,
         "onHand": 2,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
@@ -1208,7 +1277,7 @@
         "productId": 15641345130840,
         "variantId": 56849305174360,
         "onHand": 2,
-        "committed": 3,
+        "committed": 2,
         "demand": 3
       },
       {
@@ -1218,6 +1287,14 @@
         "onHand": 2,
         "committed": 2,
         "demand": 2
+      },
+      {
+        "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641344541016,
+        "variantId": 56849304584536,
+        "onHand": 9,
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -2552,8 +2629,8 @@
         "productId": 15641561432408,
         "variantId": 56849716019544,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
@@ -2584,6 +2661,46 @@
         "productId": 15641563595096,
         "variantId": 56849719492952,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110212 Scarlet & Violet Obsidian Flames Sleeved Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565725016,
+        "variantId": 56849722835288,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "147779 Mega Evolution Pitch Black Booster Box 36 Booster Packs (English)",
+        "productId": 15892606484824,
+        "variantId": 57791899861336,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "75076 - Attack of the Vine! Illumineer's Trove 8 Booster Packs (English)",
+        "productId": 15931095581016,
+        "variantId": 57949781000536,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "76414 - The First Chapter Booster (English)",
+        "productId": 15931095712088,
+        "variantId": 57949782507864,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110190 Scarlet & Violet Temporal Forces (English) — 10 cards / Multicolor",
+        "productId": 15641566151000,
+        "variantId": 56849731453272,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       }
@@ -2620,6 +2737,16 @@
         "shortfall": 2
       },
       {
+        "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
+        "productId": 15641561432408,
+        "variantId": 56849716019544,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
         "product": "113480 Umbreon ex - Scarlet & Violet Prismatic Evolution 161/131 NM (English) — 161/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563758936,
         "variantId": 56849719656792,
@@ -2630,9 +2757,9 @@
         "shortfall": 1
       },
       {
-        "product": "131466 The Best Vol.2 One Piece Sleeved Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641345130840,
-        "variantId": 56849305174360,
+        "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
+        "productId": 15641340051800,
+        "variantId": 56849299571032,
         "onHand": 2,
         "committed": 3,
         "incoming": 0,
@@ -2730,16 +2857,6 @@
         "shortfall": 1
       },
       {
-        "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
-        "productId": 15641561432408,
-        "variantId": 56849716019544,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563627864,
         "variantId": 56849719525720,
@@ -2773,6 +2890,36 @@
         "product": "113488 Leafeon ex - Scarlet & Violet Prismatic Evolution 144/131 NM (English) — 144/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563595096,
         "variantId": 56849719492952,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "147779 Mega Evolution Pitch Black Booster Box 36 Booster Packs (English)",
+        "productId": 15892606484824,
+        "variantId": 57791899861336,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "75076 - Attack of the Vine! Illumineer's Trove 8 Booster Packs (English)",
+        "productId": 15931095581016,
+        "variantId": 57949781000536,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "76414 - The First Chapter Booster (English)",
+        "productId": 15931095712088,
+        "variantId": 57949782507864,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
