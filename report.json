@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-12T13:52:36.994Z",
+  "generatedAt": "2026-08-12T15:05:34.081Z",
   "summary": {
     "totalUnfulfilled": 80,
-    "canFulfill": 6,
-    "blocked": 74
+    "canFulfill": 11,
+    "blocked": 69
   },
   "fulfillableOrders": [
     {
@@ -13,10 +13,34 @@
       "itemCount": 4
     },
     {
+      "id": 12487803994456,
+      "name": "#4042",
+      "createdAt": "2026-07-23T15:23:38+02:00",
+      "itemCount": 3
+    },
+    {
       "id": 12497733779800,
       "name": "#4064",
       "createdAt": "2026-07-25T17:24:26+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12513289339224,
+      "name": "#4139",
+      "createdAt": "2026-08-02T17:27:44+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12520065106264,
+      "name": "#4153",
+      "createdAt": "2026-08-03T13:51:47+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12522248733016,
+      "name": "#4161",
+      "createdAt": "2026-08-03T17:41:06+02:00",
+      "itemCount": 1
     },
     {
       "id": 12533956837720,
@@ -28,6 +52,12 @@
       "id": 12536828133720,
       "name": "#4193",
       "createdAt": "2026-08-10T16:44:53+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12539635761496,
+      "name": "#4199",
+      "createdAt": "2026-08-11T19:48:03+02:00",
       "itemCount": 1
     },
     {
@@ -103,12 +133,6 @@
           "needed": 2
         },
         {
-          "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        },
-        {
           "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
           "reason": "Insufficient stock",
           "stock": 1,
@@ -176,33 +200,6 @@
       "reasons": [
         {
           "product": "141863 MEGA Ninja Spinner Booster Pack (Japanese)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12487803994456,
-      "name": "#4042",
-      "customerName": "Tommy Magne Bøe",
-      "createdAt": "2026-07-23T15:23:38+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "Apple iPhone 16e White 128 GB",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "Corsair Vengeance DDR5 CL36 2 x 16GB; 6000MHz",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "AMD Ryzen 7 9800X3D",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -624,21 +621,6 @@
       ]
     },
     {
-      "id": 12513289339224,
-      "name": "#4139",
-      "customerName": "Janis Albinus",
-      "createdAt": "2026-08-02T17:27:44+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "146468 UVS Games x Riot Games Riftbound Fiora Champion Deck",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12513365066072,
       "name": "#4140",
       "customerName": "Timo Brandt",
@@ -692,12 +674,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
-        },
-        {
-          "product": "131438 Promotion Pack 2022 One Piece Booster Pack (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         },
         {
           "product": "131455 Tournament Pack Vol.7 Winner One Piece Booster Pack (English) - Black / White",
@@ -789,21 +765,6 @@
       ]
     },
     {
-      "id": 12520065106264,
-      "name": "#4153",
-      "customerName": "Stefan Lautmann",
-      "createdAt": "2026-08-03T13:51:47+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12521047916888,
       "name": "#4154",
       "customerName": "Alexander Schlykow",
@@ -860,21 +821,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 3
-        }
-      ]
-    },
-    {
-      "id": 12522248733016,
-      "name": "#4161",
-      "customerName": "tibo braekeveld",
-      "createdAt": "2026-08-03T17:41:06+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -1280,18 +1226,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "75082 - Belle & Beast - Certain as the Sun - Attack of the Vine 245/207 NM V2 Holofoil (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "75072 - Lilo & Stitch - Fun-Loving Friends - Attack of the Vine 244/207 NM V2 (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -1482,21 +1416,6 @@
       ]
     },
     {
-      "id": 12539635761496,
-      "name": "#4199",
-      "customerName": "JAVIER Barragan",
-      "createdAt": "2026-08-11T19:48:03+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131438 Promotion Pack 2022 One Piece Booster Pack (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12539814740312,
       "name": "#4201",
       "customerName": "Anil Gedik",
@@ -1651,7 +1570,7 @@
         "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
         "productId": 15834588119384,
         "variantId": 57582670676312,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 3,
         "demand": 3
       },
@@ -1843,7 +1762,7 @@
         "product": "Apple iPhone 16e White 128 GB",
         "productId": 15603000344920,
         "variantId": 56688800039256,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1851,7 +1770,7 @@
         "product": "Corsair Vengeance DDR5 CL36 2 x 16GB; 6000MHz",
         "productId": 15891667091800,
         "variantId": 57790305370456,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1859,7 +1778,7 @@
         "product": "AMD Ryzen 7 9800X3D",
         "productId": 15225097027928,
         "variantId": 55408545464664,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2299,7 +2218,7 @@
         "product": "146468 UVS Games x Riot Games Riftbound Fiora Champion Deck",
         "productId": 15907267084632,
         "variantId": 57846763749720,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2379,7 +2298,7 @@
         "product": "131438 Promotion Pack 2022 One Piece Booster Pack (English)",
         "productId": 15657433923928,
         "variantId": 56922650935640,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2491,7 +2410,7 @@
         "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
         "productId": 15641560842584,
         "variantId": 56849715429720,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2915,7 +2834,7 @@
         "product": "75082 - Belle & Beast - Certain as the Sun - Attack of the Vine 245/207 NM V2 Holofoil (English)",
         "productId": 15916735856984,
         "variantId": 57883172798808,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2923,7 +2842,7 @@
         "product": "75072 - Lilo & Stitch - Fun-Loving Friends - Attack of the Vine 244/207 NM V2 (English)",
         "productId": 15916736938328,
         "variantId": 57883175354712,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
