@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-13T16:29:43.973Z",
+  "generatedAt": "2026-08-13T17:34:30.977Z",
   "summary": {
-    "totalUnfulfilled": 86,
-    "canFulfill": 35,
-    "blocked": 51
+    "totalUnfulfilled": 88,
+    "canFulfill": 36,
+    "blocked": 52
   },
   "fulfillableOrders": [
     {
@@ -214,6 +214,12 @@
       "id": 12548095902040,
       "name": "#4212",
       "createdAt": "2026-08-13T18:23:23+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12548143350104,
+      "name": "#4213",
+      "createdAt": "2026-08-13T18:52:59+02:00",
       "itemCount": 1
     }
   ],
@@ -1240,6 +1246,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12548196630872,
+      "name": "#4214",
+      "customerName": "james paul",
+      "createdAt": "2026-08-13T19:26:32+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1377,8 +1398,8 @@
         "productId": 15641344541016,
         "variantId": 56849304584536,
         "onHand": 7,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110182 Scarlet & Violet Night Wanderer Booster Pack (Japanese) — 5 cards / Multicolor",
@@ -2803,6 +2824,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641343951192,
+        "variantId": 56849303994712,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3220,6 +3249,16 @@
         "product": "57491 - Ditto - Fossil 18/62 NM Holofoil 1st Edition (English)",
         "productId": 15936020218200,
         "variantId": 57958965018968,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641343951192,
+        "variantId": 56849303994712,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
