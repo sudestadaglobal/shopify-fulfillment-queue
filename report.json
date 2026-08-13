@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-13T17:34:30.977Z",
+  "generatedAt": "2026-08-13T18:42:13.758Z",
   "summary": {
-    "totalUnfulfilled": 88,
+    "totalUnfulfilled": 89,
     "canFulfill": 36,
-    "blocked": 52
+    "blocked": 53
   },
   "fulfillableOrders": [
     {
@@ -1259,6 +1259,21 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12548243915096,
+      "name": "#4215",
+      "customerName": "Lars Hollemans",
+      "createdAt": "2026-08-13T19:57:51+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "76184 - Storm Emeralda Booster Box - Scarlet & Violet Storm Emeralda (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
         }
       ]
     }
@@ -2678,8 +2693,8 @@
         "productId": 15925445394776,
         "variantId": 57933857620312,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "Airpods Max with Smart Case — Midnight",
@@ -2843,6 +2858,16 @@
         "committed": 3,
         "incoming": 0,
         "available": -3,
+        "shortfall": 3
+      },
+      {
+        "product": "76184 - Storm Emeralda Booster Box - Scarlet & Violet Storm Emeralda (Japanese)",
+        "productId": 15925445394776,
+        "variantId": 57933857620312,
+        "onHand": 0,
+        "committed": 5,
+        "incoming": 2,
+        "available": -5,
         "shortfall": 3
       },
       {
