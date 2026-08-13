@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-13T15:19:44.924Z",
+  "generatedAt": "2026-08-13T16:29:43.973Z",
   "summary": {
-    "totalUnfulfilled": 84,
-    "canFulfill": 34,
-    "blocked": 50
+    "totalUnfulfilled": 86,
+    "canFulfill": 35,
+    "blocked": 51
   },
   "fulfillableOrders": [
     {
@@ -208,6 +208,12 @@
       "id": 12546718630232,
       "name": "#4208",
       "createdAt": "2026-08-12T22:53:08+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12548095902040,
+      "name": "#4212",
+      "createdAt": "2026-08-13T18:23:23+02:00",
       "itemCount": 1
     }
   ],
@@ -1217,6 +1223,21 @@
           "reason": "Insufficient stock",
           "stock": 1,
           "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12548047405400,
+      "name": "#4211",
+      "customerName": "Luis Brauner",
+      "createdAt": "2026-08-13T17:55:59+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "57491 - Ditto - Fossil 18/62 NM Holofoil 1st Edition (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
         }
       ]
     }
@@ -2316,8 +2337,8 @@
         "productId": 15641505792344,
         "variantId": 56849642717528,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "113508 Palafin ex - Scarlet & Violet Prismatic Evolution 151/131 NM (English) — 151/131, Near-Mint / Special Illustration Rare",
@@ -2774,6 +2795,14 @@
         "onHand": 1,
         "committed": 2,
         "demand": 2
+      },
+      {
+        "product": "57491 - Ditto - Fossil 18/62 NM Holofoil 1st Edition (English)",
+        "productId": 15936020218200,
+        "variantId": 57958965018968,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2998,6 +3027,16 @@
         "shortfall": 1
       },
       {
+        "product": "119499 Dragonair - Scarlet & Violet 151 181/165 NM (English) — 181/165, Near-Mint / Illustration Rare",
+        "productId": 15641505792344,
+        "variantId": 56849642717528,
+        "onHand": 1,
+        "committed": 2,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
         "product": "113508 Palafin ex - Scarlet & Violet Prismatic Evolution 151/131 NM (English) — 151/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563169112,
         "variantId": 56849718739288,
@@ -3173,6 +3212,16 @@
         "variantId": 56849643241816,
         "onHand": 1,
         "committed": 2,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "57491 - Ditto - Fossil 18/62 NM Holofoil 1st Edition (English)",
+        "productId": 15936020218200,
+        "variantId": 57958965018968,
+        "onHand": 0,
+        "committed": 1,
         "incoming": 0,
         "available": -1,
         "shortfall": 1
