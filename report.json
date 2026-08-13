@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-13T14:12:09.083Z",
+  "generatedAt": "2026-08-13T15:19:44.924Z",
   "summary": {
-    "totalUnfulfilled": 86,
+    "totalUnfulfilled": 84,
     "canFulfill": 34,
-    "blocked": 52
+    "blocked": 50
   },
   "fulfillableOrders": [
     {
@@ -61,15 +61,21 @@
       "itemCount": 2
     },
     {
-      "id": 12513073693016,
-      "name": "#4136",
-      "createdAt": "2026-08-02T15:24:07+02:00",
+      "id": 12513069891928,
+      "name": "#4135",
+      "createdAt": "2026-08-02T15:21:47+02:00",
       "itemCount": 1
     },
     {
       "id": 12513289339224,
       "name": "#4139",
       "createdAt": "2026-08-02T17:27:44+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12513365066072,
+      "name": "#4140",
+      "createdAt": "2026-08-02T18:14:13+02:00",
       "itemCount": 1
     },
     {
@@ -197,12 +203,6 @@
       "name": "#4204",
       "createdAt": "2026-08-12T22:33:16+02:00",
       "itemCount": 1
-    },
-    {
-      "id": 12546715320664,
-      "name": "#4207",
-      "createdAt": "2026-08-12T22:49:51+02:00",
-      "itemCount": 2
     },
     {
       "id": 12546718630232,
@@ -486,21 +486,6 @@
       ]
     },
     {
-      "id": 12513069891928,
-      "name": "#4135",
-      "customerName": "Danay Smit",
-      "createdAt": "2026-08-02T15:21:47+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "147156 Sword & Shield Fusion Strike Sleeved Booster Pack (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12513114358104,
       "name": "#4137",
       "customerName": "fernando queipo de llano de aguilera",
@@ -533,21 +518,6 @@
           "reason": "Insufficient stock",
           "stock": 6,
           "needed": 14
-        }
-      ]
-    },
-    {
-      "id": 12513365066072,
-      "name": "#4140",
-      "customerName": "Timo Brandt",
-      "createdAt": "2026-08-02T18:14:13+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -1385,15 +1355,7 @@
         "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641344541016,
         "variantId": 56849304584536,
-        "onHand": 9,
-        "committed": 3,
-        "demand": 3
-      },
-      {
-        "product": "110195 Scarlet & Violet Wild Force Booster Pack (Japanese) — 5 cards / Multicolor",
-        "productId": 15641566052696,
-        "variantId": 56849731354968,
-        "onHand": 5,
+        "onHand": 7,
         "committed": 1,
         "demand": 1
       },
@@ -1825,17 +1787,9 @@
         "product": "147156 Sword & Shield Fusion Strike Sleeved Booster Pack (English) - Multicolor",
         "productId": 15867913109848,
         "variantId": 57673193455960,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
-        "productId": 15903094800728,
-        "variantId": 57828229710168,
-        "onHand": 1,
-        "committed": 5,
-        "demand": 5
       },
       {
         "product": "147981 Thievul - Mega Evolution Pitch Black 092/084 NM Holofoil (English) - Illustration Rare",
@@ -1961,7 +1915,7 @@
         "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
         "productId": 15641563300184,
         "variantId": 56849718870360,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2556,6 +2510,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
+        "productId": 15903094800728,
+        "variantId": 57828229710168,
+        "onHand": 0,
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "75104 - Peter Pan & Tinker Bell - Fast Friends - Attack of the Vine 240/207 NM V2 Holofoil (English)",
