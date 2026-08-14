@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-14T15:37:12.680Z",
+  "generatedAt": "2026-08-14T16:36:55.984Z",
   "summary": {
-    "totalUnfulfilled": 59,
-    "canFulfill": 5,
-    "blocked": 54
+    "totalUnfulfilled": 61,
+    "canFulfill": 6,
+    "blocked": 55
   },
   "fulfillableOrders": [
     {
@@ -34,6 +34,12 @@
       "id": 12548143350104,
       "name": "#4213",
       "createdAt": "2026-08-13T18:52:59+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12549832147288,
+      "name": "#4218",
+      "createdAt": "2026-08-14T18:09:49+02:00",
       "itemCount": 1
     }
   ],
@@ -1123,6 +1129,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12549778211160,
+      "name": "#4217",
+      "customerName": "Filip Janík",
+      "createdAt": "2026-08-14T17:39:36+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "147787 Mega Evolution Pitch Black Pokémon Center Elite Trainer Box 11 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1580,7 +1601,7 @@
         "productId": 15907131097432,
         "variantId": 57844308115800,
         "onHand": 1,
-        "committed": 1,
+        "committed": 2,
         "demand": 1
       },
       {
@@ -1676,8 +1697,8 @@
         "productId": 15641345392984,
         "variantId": 56849305436504,
         "onHand": 4,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "131452 Winner Pack 2025 Vol.3 One Piece Booster Pack (English) — 1 card / Black / White",
@@ -2374,6 +2395,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "147787 Mega Evolution Pitch Black Pokémon Center Elite Trainer Box 11 Booster Packs (English) - Multicolor",
+        "productId": 15891925336408,
+        "variantId": 57790683742552,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2495,6 +2524,16 @@
         "committed": 3,
         "incoming": 2,
         "available": -3,
+        "shortfall": 1
+      },
+      {
+        "product": "147987 Silvally - Mega Evolution Pitch Black 095/084 NM Holofoil (English) - Illustration Rare",
+        "productId": 15907131097432,
+        "variantId": 57844308115800,
+        "onHand": 1,
+        "committed": 2,
+        "incoming": 0,
+        "available": -1,
         "shortfall": 1
       },
       {
@@ -2771,6 +2810,16 @@
         "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641343951192,
         "variantId": 56849303994712,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "147787 Mega Evolution Pitch Black Pokémon Center Elite Trainer Box 11 Booster Packs (English) - Multicolor",
+        "productId": 15891925336408,
+        "variantId": 57790683742552,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
