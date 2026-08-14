@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T02:24:16.242Z",
+  "generatedAt": "2026-08-14T04:26:28.863Z",
   "summary": {
     "totalUnfulfilled": 58,
     "canFulfill": 5,
@@ -2383,16 +2383,6 @@
         "shortfall": 3
       },
       {
-        "product": "113480 Umbreon ex - Scarlet & Violet Prismatic Evolution 161/131 NM (English) — 161/131, Near-Mint / Special Illustration Rare",
-        "productId": 15641563758936,
-        "variantId": 56849719656792,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 1,
-        "available": -3,
-        "shortfall": 2
-      },
-      {
         "product": "119465 Erika’s Invitation - Scarlet & Violet 151 196/165 NM (English) — 196/165, Near-Mint / Ultra Rare",
         "productId": 15641506578776,
         "variantId": 56849644126552,
@@ -2433,16 +2423,6 @@
         "shortfall": 2
       },
       {
-        "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
-        "productId": 15641561432408,
-        "variantId": 56849716019544,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
         "product": "119491 Machoke - Scarlet & Violet 151 177/165 NM (English) — 177/165, Near-Mint / Illustration Rare",
         "productId": 15641505923416,
         "variantId": 56849643274584,
@@ -2460,6 +2440,16 @@
         "committed": 3,
         "incoming": 1,
         "available": -2,
+        "shortfall": 1
+      },
+      {
+        "product": "113480 Umbreon ex - Scarlet & Violet Prismatic Evolution 161/131 NM (English) — 161/131, Near-Mint / Special Illustration Rare",
+        "productId": 15641563758936,
+        "variantId": 56849719656792,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 2,
+        "available": -3,
         "shortfall": 1
       },
       {
@@ -2683,16 +2673,6 @@
         "shortfall": 1
       },
       {
-        "product": "120833 Celebi & Venusaur GX - Sun & Moon Team Up 001/181 NM (English) — 1/181, Near-Mint / Ultra Rare",
-        "productId": 15641500320088,
-        "variantId": 56849634394456,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563627864,
         "variantId": 56849719525720,
@@ -2703,29 +2683,9 @@
         "shortfall": 1
       },
       {
-        "product": "113493 Vaporeon ex - Scarlet & Violet Prismatic Evolution 149/131 NM (English) — 149/131, Near-Mint / Special Illustration Rare",
-        "productId": 15641563464024,
-        "variantId": 56849719034200,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "113481 Espeon ex - Scarlet & Violet Prismatic Evolution 155/131 NM (English) — 155/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563726168,
         "variantId": 56849719624024,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "113488 Leafeon ex - Scarlet & Violet Prismatic Evolution 144/131 NM (English) — 144/131, Near-Mint / Special Illustration Rare",
-        "productId": 15641563595096,
-        "variantId": 56849719492952,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
