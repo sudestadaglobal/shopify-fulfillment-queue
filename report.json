@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-14T16:36:55.984Z",
+  "generatedAt": "2026-08-14T17:42:39.924Z",
   "summary": {
-    "totalUnfulfilled": 61,
-    "canFulfill": 6,
-    "blocked": 55
+    "totalUnfulfilled": 67,
+    "canFulfill": 8,
+    "blocked": 59
   },
   "fulfillableOrders": [
     {
@@ -41,6 +41,18 @@
       "name": "#4218",
       "createdAt": "2026-08-14T18:09:49+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12550359056728,
+      "name": "#4222",
+      "createdAt": "2026-08-14T19:17:34+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12550670319960,
+      "name": "#4224",
+      "createdAt": "2026-08-14T19:36:53+02:00",
+      "itemCount": 4
     }
   ],
   "blockedOrders": [
@@ -1144,6 +1156,78 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12549871960408,
+      "name": "#4219",
+      "customerName": "Simon Ayrton Ammersdorfer",
+      "createdAt": "2026-08-14T18:35:31+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "118768 Woobat - Scarlet & Violet White Flare 119/086 NM (English) — 119/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132724 Budew - Mega Evolution Ascended Heroes 221/217 NM (English) — 221/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132678 Cynthia’s Spiritomb - Mega Evolution Ascended Heroes 244/217 NM (English) — 244/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12549884838232,
+      "name": "#4220",
+      "customerName": "Luca Maxim Limmroth",
+      "createdAt": "2026-08-14T18:44:10+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "110190 Scarlet & Violet Temporal Forces (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 4
+        }
+      ]
+    },
+    {
+      "id": 12549951553880,
+      "name": "#4221",
+      "customerName": "Lars Hollemans",
+      "createdAt": "2026-08-14T18:52:25+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "76184 - Storm Emeralda Booster Box - Scarlet & Violet Storm Emeralda (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12550581485912,
+      "name": "#4223",
+      "customerName": "james paul",
+      "createdAt": "2026-08-14T19:31:22+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1281,8 +1365,8 @@
         "productId": 15641344541016,
         "variantId": 56849304584536,
         "onHand": 7,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "118668 Scarlet & Violet White Flare Gothitelle Tech Sticker Collection (English) — 3 booster pack / Multicolor",
@@ -1602,7 +1686,7 @@
         "variantId": 57844308115800,
         "onHand": 1,
         "committed": 2,
-        "demand": 1
+        "demand": 2
       },
       {
         "product": "147973 Primarina - Mega Evolution Pitch Black 088/084 NM Holofoil (English) - Illustration Rare",
@@ -2273,8 +2357,8 @@
         "productId": 15925445394776,
         "variantId": 57933857620312,
         "onHand": 0,
-        "committed": 6,
-        "demand": 6
+        "committed": 8,
+        "demand": 8
       },
       {
         "product": "Airpods Max with Smart Case — Midnight",
@@ -2393,14 +2477,62 @@
         "productId": 15641343951192,
         "variantId": 56849303994712,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "147787 Mega Evolution Pitch Black Pokémon Center Elite Trainer Box 11 Booster Packs (English) - Multicolor",
         "productId": 15891925336408,
         "variantId": 57790683742552,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "118768 Woobat - Scarlet & Violet White Flare 119/086 NM (English) — 119/086, Near-Mint / Illustration Rare",
+        "productId": 15641520898392,
+        "variantId": 56849666900312,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132724 Budew - Mega Evolution Ascended Heroes 221/217 NM (English) — 221/217, Near-Mint / Illustration Rare",
+        "productId": 15641318130008,
+        "variantId": 56849266442584,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132678 Cynthia’s Spiritomb - Mega Evolution Ascended Heroes 244/217 NM (English) — 244/217, Near-Mint / Illustration Rare",
+        "productId": 15641319539032,
+        "variantId": 56849268638040,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110190 Scarlet & Violet Temporal Forces (English) — 10 cards / Multicolor",
+        "productId": 15641566151000,
+        "variantId": 56849731453272,
+        "onHand": 0,
+        "committed": 4,
+        "demand": 4
+      },
+      {
+        "product": "110178 Scarlet & Violet Shrouded Fable Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566445912,
+        "variantId": 56849732239704,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110168 Scarlet & Violet Stellar Crown Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566609752,
+        "variantId": 56849732403544,
+        "onHand": 7,
         "committed": 1,
         "demand": 1
       }
@@ -2411,15 +2543,35 @@
         "productId": 15925445394776,
         "variantId": 57933857620312,
         "onHand": 0,
-        "committed": 6,
+        "committed": 8,
         "incoming": 2,
-        "available": -6,
+        "available": -8,
+        "shortfall": 6
+      },
+      {
+        "product": "110190 Scarlet & Violet Temporal Forces (English) — 10 cards / Multicolor",
+        "productId": 15641566151000,
+        "variantId": 56849731453272,
+        "onHand": 0,
+        "committed": 4,
+        "incoming": 0,
+        "available": -4,
         "shortfall": 4
       },
       {
         "product": "119437 Venusaur ex - Scarlet & Violet 151 182/165 NM (English) — 182/165, Near-Mint / Ultra Rare",
         "productId": 15641507103064,
         "variantId": 56849644781912,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 0,
+        "available": -3,
+        "shortfall": 3
+      },
+      {
+        "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641343951192,
+        "variantId": 56849303994712,
         "onHand": 0,
         "committed": 3,
         "incoming": 0,
@@ -2807,9 +2959,9 @@
         "shortfall": 1
       },
       {
-        "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
-        "productId": 15641343951192,
-        "variantId": 56849303994712,
+        "product": "147787 Mega Evolution Pitch Black Pokémon Center Elite Trainer Box 11 Booster Packs (English) - Multicolor",
+        "productId": 15891925336408,
+        "variantId": 57790683742552,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -2817,9 +2969,19 @@
         "shortfall": 1
       },
       {
-        "product": "147787 Mega Evolution Pitch Black Pokémon Center Elite Trainer Box 11 Booster Packs (English) - Multicolor",
-        "productId": 15891925336408,
-        "variantId": 57790683742552,
+        "product": "118768 Woobat - Scarlet & Violet White Flare 119/086 NM (English) — 119/086, Near-Mint / Illustration Rare",
+        "productId": 15641520898392,
+        "variantId": 56849666900312,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132724 Budew - Mega Evolution Ascended Heroes 221/217 NM (English) — 221/217, Near-Mint / Illustration Rare",
+        "productId": 15641318130008,
+        "variantId": 56849266442584,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
