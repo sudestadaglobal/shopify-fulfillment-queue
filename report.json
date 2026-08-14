@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-14T14:34:47.661Z",
+  "generatedAt": "2026-08-14T15:37:12.680Z",
   "summary": {
-    "totalUnfulfilled": 58,
+    "totalUnfulfilled": 59,
     "canFulfill": 5,
-    "blocked": 53
+    "blocked": 54
   },
   "fulfillableOrders": [
     {
@@ -1106,6 +1106,21 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 3
+        }
+      ]
+    },
+    {
+      "id": 12549761892696,
+      "name": "#4216",
+      "customerName": "Ryan Christiaanse",
+      "createdAt": "2026-08-14T17:30:23+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "76184 - Storm Emeralda Booster Box - Scarlet & Violet Storm Emeralda (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
         }
       ]
     }
@@ -2237,8 +2252,8 @@
         "productId": 15925445394776,
         "variantId": 57933857620312,
         "onHand": 0,
-        "committed": 5,
-        "demand": 5
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "Airpods Max with Smart Case — Midnight",
@@ -2363,6 +2378,16 @@
     ],
     "demandExceedsStock": [
       {
+        "product": "76184 - Storm Emeralda Booster Box - Scarlet & Violet Storm Emeralda (Japanese)",
+        "productId": 15925445394776,
+        "variantId": 57933857620312,
+        "onHand": 0,
+        "committed": 6,
+        "incoming": 2,
+        "available": -6,
+        "shortfall": 4
+      },
+      {
         "product": "119437 Venusaur ex - Scarlet & Violet 151 182/165 NM (English) — 182/165, Near-Mint / Ultra Rare",
         "productId": 15641507103064,
         "variantId": 56849644781912,
@@ -2370,16 +2395,6 @@
         "committed": 3,
         "incoming": 0,
         "available": -3,
-        "shortfall": 3
-      },
-      {
-        "product": "76184 - Storm Emeralda Booster Box - Scarlet & Violet Storm Emeralda (Japanese)",
-        "productId": 15925445394776,
-        "variantId": 57933857620312,
-        "onHand": 0,
-        "committed": 5,
-        "incoming": 2,
-        "available": -5,
         "shortfall": 3
       },
       {
