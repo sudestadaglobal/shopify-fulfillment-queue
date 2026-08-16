@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-16T18:00:40.677Z",
+  "generatedAt": "2026-08-16T18:42:59.296Z",
   "summary": {
-    "totalUnfulfilled": 70,
+    "totalUnfulfilled": 71,
     "canFulfill": 9,
-    "blocked": 61
+    "blocked": 62
   },
   "fulfillableOrders": [
     {
@@ -1252,6 +1252,81 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12554307699032,
+      "name": "#4228",
+      "customerName": "Labique Sethi",
+      "createdAt": "2026-08-16T20:33:00+02:00",
+      "itemCount": 11,
+      "reasons": [
+        {
+          "product": "74199 - Scarlet & Violet Twilight Masquerade Sleeved Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "74814 - Mega Evolution Pitch Black Sleeved Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "150005 - McDonald's Collection 25th Anniversary Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "150201 - Temporal Forces Sleeved Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "150157 - \tAstral Radiance Sleeved Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "147158 - Scarlet & Violet Journey Together Sleeved Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "147162 - Scarlet & Violet Paradox Rift Sleeved Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "134046 - Mega Evolution Perfect Order Makuhita Blister Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "150125 - Terastal Gathering Booster Pack (S-Chinese) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "150295 - Dark Crystal Blaze Jumbo Booster Pack (S-Chinese) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "147777 - Mega Evolution Pitch Black Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2341,8 +2416,8 @@
         "productId": 15921497178456,
         "variantId": 57926749389144,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "136101 MEGA Start Deck 100 Battle Collection (Japanese) — 60 cards / Multicolor",
@@ -2735,6 +2810,86 @@
         "onHand": 3,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "74814 - Mega Evolution Pitch Black Sleeved Booster Pack (English)",
+        "productId": 15907563766104,
+        "variantId": 57847777001816,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "150005 - McDonald's Collection 25th Anniversary Booster Pack (English) - Multicolor",
+        "productId": 15942784975192,
+        "variantId": 57983490195800,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "150201 - Temporal Forces Sleeved Booster Pack (English) - Multicolor",
+        "productId": 15942785040728,
+        "variantId": 57983490294104,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "150157 - \tAstral Radiance Sleeved Booster Pack (English) - Multicolor",
+        "productId": 15942785302872,
+        "variantId": 57983490818392,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "147158 - Scarlet & Violet Journey Together Sleeved Booster Pack (English) - Multicolor",
+        "productId": 15942785433944,
+        "variantId": 57983490982232,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "147162 - Scarlet & Violet Paradox Rift Sleeved Booster Pack (English)",
+        "productId": 15942787432792,
+        "variantId": 57983499403608,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "134046 - Mega Evolution Perfect Order Makuhita Blister Booster Pack (English) - Multicolor",
+        "productId": 15942787563864,
+        "variantId": 57983499698520,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "150125 - Terastal Gathering Booster Pack (S-Chinese) - Multicolor",
+        "productId": 15942787826008,
+        "variantId": 57983500419416,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "150295 - Dark Crystal Blaze Jumbo Booster Pack (S-Chinese) - Multicolor",
+        "productId": 15942788776280,
+        "variantId": 57983501893976,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "147777 - Mega Evolution Pitch Black Booster Pack (English)",
+        "productId": 15942789071192,
+        "variantId": 57983502713176,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2816,6 +2971,16 @@
         "committed": 5,
         "incoming": 2,
         "available": -4,
+        "shortfall": 2
+      },
+      {
+        "product": "74199 - Scarlet & Violet Twilight Masquerade Sleeved Booster Pack (English)",
+        "productId": 15921497178456,
+        "variantId": 57926749389144,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
         "shortfall": 2
       },
       {
@@ -3039,16 +3204,6 @@
         "shortfall": 1
       },
       {
-        "product": "74199 - Scarlet & Violet Twilight Masquerade Sleeved Booster Pack (English)",
-        "productId": 15921497178456,
-        "variantId": 57926749389144,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "110071 Scarlet & Violet Wild Force Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
         "productId": 15641567297880,
         "variantId": 56849733321048,
@@ -3212,6 +3367,106 @@
         "product": "119189 Bisharp - Scarlet & Violet Black Bolt 143/086 NM (English) — 143/086, Near-Mint / Illustration Rare",
         "productId": 15641512903000,
         "variantId": 56849654120792,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "74814 - Mega Evolution Pitch Black Sleeved Booster Pack (English)",
+        "productId": 15907563766104,
+        "variantId": 57847777001816,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "150005 - McDonald's Collection 25th Anniversary Booster Pack (English) - Multicolor",
+        "productId": 15942784975192,
+        "variantId": 57983490195800,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "150201 - Temporal Forces Sleeved Booster Pack (English) - Multicolor",
+        "productId": 15942785040728,
+        "variantId": 57983490294104,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "150157 - \tAstral Radiance Sleeved Booster Pack (English) - Multicolor",
+        "productId": 15942785302872,
+        "variantId": 57983490818392,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "147158 - Scarlet & Violet Journey Together Sleeved Booster Pack (English) - Multicolor",
+        "productId": 15942785433944,
+        "variantId": 57983490982232,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "147162 - Scarlet & Violet Paradox Rift Sleeved Booster Pack (English)",
+        "productId": 15942787432792,
+        "variantId": 57983499403608,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "134046 - Mega Evolution Perfect Order Makuhita Blister Booster Pack (English) - Multicolor",
+        "productId": 15942787563864,
+        "variantId": 57983499698520,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "150125 - Terastal Gathering Booster Pack (S-Chinese) - Multicolor",
+        "productId": 15942787826008,
+        "variantId": 57983500419416,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "150295 - Dark Crystal Blaze Jumbo Booster Pack (S-Chinese) - Multicolor",
+        "productId": 15942788776280,
+        "variantId": 57983501893976,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "147777 - Mega Evolution Pitch Black Booster Pack (English)",
+        "productId": 15942789071192,
+        "variantId": 57983502713176,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
