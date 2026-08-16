@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T15:39:56.159Z",
+  "generatedAt": "2026-08-16T16:01:50.524Z",
   "summary": {
     "totalUnfulfilled": 67,
     "canFulfill": 8,
@@ -571,12 +571,6 @@
           "needed": 1
         },
         {
-          "product": "119491 Machoke - Scarlet & Violet 151 177/165 NM (English) — 177/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "119419 Mew ex V3 - Scarlet & Violet 151 205/165 NM (English) — 205/165, Near-Mint / Secret Rare",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -584,12 +578,6 @@
         },
         {
           "product": "119459 Mew ex - Scarlet & Violet 151 193/165 NM (English) — 193/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -610,12 +598,6 @@
           "product": "119441 Blastoise ex - Scarlet & Violet 151 184/165 NM (English) — 184/165, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
           "stock": 1,
-          "needed": 3
-        },
-        {
-          "product": "119485 Nidoking - Scarlet & Violet 151 174/165 NM (English) — 174/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 2,
           "needed": 3
         }
       ]
@@ -1003,12 +985,6 @@
           "needed": 1
         },
         {
-          "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "119457 Zapdos ex - Scarlet & Violet 151 192/165 NM (English) — 192/165, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1028,12 +1004,6 @@
         },
         {
           "product": "119419 Mew ex V3 - Scarlet & Violet 151 205/165 NM (English) — 205/165, Near-Mint / Secret Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119491 Machoke - Scarlet & Violet 151 177/165 NM (English) — 177/165, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1269,7 +1239,7 @@
         "productId": 15641506087256,
         "variantId": 56849643471192,
         "onHand": 3,
-        "committed": 4,
+        "committed": 3,
         "demand": 4
       },
       {
@@ -1277,7 +1247,7 @@
         "productId": 15641505923416,
         "variantId": 56849643274584,
         "onHand": 1,
-        "committed": 3,
+        "committed": 2,
         "demand": 3
       },
       {
@@ -1285,7 +1255,7 @@
         "productId": 15641506283864,
         "variantId": 56849643635032,
         "onHand": 1,
-        "committed": 3,
+        "committed": 2,
         "demand": 3
       },
       {
@@ -2617,26 +2587,6 @@
         "incoming": 2,
         "available": -4,
         "shortfall": 2
-      },
-      {
-        "product": "119491 Machoke - Scarlet & Violet 151 177/165 NM (English) — 177/165, Near-Mint / Illustration Rare",
-        "productId": 15641505923416,
-        "variantId": 56849643274584,
-        "onHand": 1,
-        "committed": 3,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
-        "productId": 15641506283864,
-        "variantId": 56849643635032,
-        "onHand": 1,
-        "committed": 3,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
       },
       {
         "product": "113480 Umbreon ex - Scarlet & Violet Prismatic Evolution 161/131 NM (English) — 161/131, Near-Mint / Special Illustration Rare",
