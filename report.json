@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-16T16:39:00.362Z",
+  "generatedAt": "2026-08-16T17:05:21.625Z",
   "summary": {
-    "totalUnfulfilled": 69,
-    "canFulfill": 8,
+    "totalUnfulfilled": 70,
+    "canFulfill": 9,
     "blocked": 61
   },
   "fulfillableOrders": [
@@ -53,6 +53,12 @@
       "name": "#4224",
       "createdAt": "2026-08-14T19:36:53+02:00",
       "itemCount": 4
+    },
+    {
+      "id": 12554120626520,
+      "name": "#4227",
+      "createdAt": "2026-08-16T18:43:18+02:00",
+      "itemCount": 27
     }
   ],
   "blockedOrders": [
@@ -2551,8 +2557,8 @@
         "productId": 15641566609752,
         "variantId": 56849732403544,
         "onHand": 7,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "148001 - Morpeko ex - Mega Evolution Pitch Black 102/084 NM Holofoil (English) - Ultra Rare",
@@ -2591,6 +2597,142 @@
         "productId": 15641512903000,
         "variantId": 56849654120792,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "124018 Phantasmal Flames Mega Evolution Whimsicott 1 Booster Pack Blister (English) — 1 Booster Pack / Multicolor",
+        "productId": 15641488261464,
+        "variantId": 56849615028568,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "124020 Phantasmal Flames Mega Evolution Cottonee 1 Booster Pack Blister (English) — 1 Booster Pack / Multicolor",
+        "productId": 15641488195928,
+        "variantId": 56849614963032,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116770 Scarlet & Violet Destined Rivals Skeledirge Premium Checklane 1 Booster Pack Blister (English) — 1 Booster pack, 3 cards / Multicolor",
+        "productId": 15641523224920,
+        "variantId": 56849675977048,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
+        "productId": 15777314439512,
+        "variantId": 57381528895832,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110169 Scarlet & Violet Stellar Crown Sleeved Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566576984,
+        "variantId": 56849732370776,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110267 Sword & Shield Astral Radiance Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641564938584,
+        "variantId": 56849721688408,
+        "onHand": 9,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110212 Scarlet & Violet Obsidian Flames Sleeved Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565725016,
+        "variantId": 56849722835288,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110223 Scarlet & Violet Sleeved Booster Pack (English) — Multicolor / 10 cards",
+        "productId": 15643186921816,
+        "variantId": 56857168576856,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119405 Mega Evolution Sleeved Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641508118872,
+        "variantId": 56849646256472,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110279 Sword & Shield Chilling Reign Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641564545368,
+        "variantId": 56849721065816,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "109954 Scarlet & Violet Surging Sparks Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641569493336,
+        "variantId": 56849736925528,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110213 Scarlet & Violet Obsidian Flames Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565692248,
+        "variantId": 56849722802520,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "116756 Scarlet & Violet Destined Rivals Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641523454296,
+        "variantId": 56849676370264,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110265 Sword & Shield Pokémon GO Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565036888,
+        "variantId": 56849721852248,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "142955 Mega Evolution Chaos Rising Booster Pack (English) - Multicolor",
+        "productId": 15770729218392,
+        "variantId": 57361267196248,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110285 Sword & Shield Darkness Ablaze Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641564447064,
+        "variantId": 56849720967512,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110269 Sword & Shield Brilliant Stars Booster (English) — 10 cards / Multicolor",
+        "productId": 15641564840280,
+        "variantId": 56849721360728,
+        "onHand": 3,
         "committed": 1,
         "demand": 1
       }
