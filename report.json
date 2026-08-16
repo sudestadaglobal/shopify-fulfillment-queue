@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-16T20:35:10.597Z",
+  "generatedAt": "2026-08-16T21:03:15.247Z",
   "summary": {
-    "totalUnfulfilled": 75,
+    "totalUnfulfilled": 76,
     "canFulfill": 9,
-    "blocked": 66
+    "blocked": 67
   },
   "fulfillableOrders": [
     {
@@ -1411,6 +1411,39 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12554513219928,
+      "name": "#4233",
+      "customerName": "Samuel Dominguez Carver",
+      "createdAt": "2026-08-16T22:33:17+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "147779 Mega Evolution Pitch Black Booster Box 36 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "76184 - Storm Emeralda Booster Box - Scarlet & Violet Storm Emeralda (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "150409 - The Glory of Team Rocket Booster Box 30 Booster Packs (Japanese) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "150395 - White Flare JP Booster Box 20 Booster Packs (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1909,7 +1942,7 @@
         "variantId": 57791753421144,
         "onHand": 1,
         "committed": 2,
-        "demand": 1
+        "demand": 2
       },
       {
         "product": "126601 The Glory of Team Rocket Attaché Case Set (JP)",
@@ -2541,7 +2574,7 @@
         "variantId": 57933857620312,
         "onHand": 0,
         "committed": 9,
-        "demand": 8
+        "demand": 9
       },
       {
         "product": "Airpods Max with Smart Case — Midnight",
@@ -2613,7 +2646,7 @@
         "variantId": 57791899861336,
         "onHand": 0,
         "committed": 2,
-        "demand": 1
+        "demand": 2
       },
       {
         "product": "75076 - Attack of the Vine! Illumineer's Trove 8 Booster Packs (English)",
@@ -3027,6 +3060,22 @@
         "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
         "productId": 15796633665880,
         "variantId": 57468100968792,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "150409 - The Glory of Team Rocket Booster Box 30 Booster Packs (Japanese) - Multicolor",
+        "productId": 15942830686552,
+        "variantId": 57983919030616,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "150395 - White Flare JP Booster Box 20 Booster Packs (Japanese)",
+        "productId": 15942830915928,
+        "variantId": 57983919653208,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -3747,6 +3796,26 @@
         "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
         "productId": 15796633665880,
         "variantId": 57468100968792,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "150409 - The Glory of Team Rocket Booster Box 30 Booster Packs (Japanese) - Multicolor",
+        "productId": 15942830686552,
+        "variantId": 57983919030616,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "150395 - White Flare JP Booster Box 20 Booster Packs (Japanese)",
+        "productId": 15942830915928,
+        "variantId": 57983919653208,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
