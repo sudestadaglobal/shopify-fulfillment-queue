@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-16T21:03:15.247Z",
+  "generatedAt": "2026-08-16T21:33:39.719Z",
   "summary": {
-    "totalUnfulfilled": 76,
-    "canFulfill": 9,
+    "totalUnfulfilled": 77,
+    "canFulfill": 10,
     "blocked": 67
   },
   "fulfillableOrders": [
@@ -59,6 +59,12 @@
       "name": "#4227",
       "createdAt": "2026-08-16T18:43:18+02:00",
       "itemCount": 27
+    },
+    {
+      "id": 12554582524248,
+      "name": "#4234",
+      "createdAt": "2026-08-16T23:22:38+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1501,8 +1507,8 @@
         "productId": 15641506283864,
         "variantId": 56849643635032,
         "onHand": 1,
-        "committed": 3,
-        "demand": 4
+        "committed": 4,
+        "demand": 5
       },
       {
         "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
@@ -3133,6 +3139,16 @@
         "shortfall": 3
       },
       {
+        "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
+        "productId": 15641506283864,
+        "variantId": 56849643635032,
+        "onHand": 1,
+        "committed": 4,
+        "incoming": 1,
+        "available": -3,
+        "shortfall": 2
+      },
+      {
         "product": "119443 Arbok ex - Scarlet & Violet 151 185/165 NM (English) — 185/165, Near-Mint / Ultra Rare",
         "productId": 15641506939224,
         "variantId": 56849644650840,
@@ -3241,16 +3257,6 @@
         "incoming": 0,
         "available": -2,
         "shortfall": 2
-      },
-      {
-        "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
-        "productId": 15641506283864,
-        "variantId": 56849643635032,
-        "onHand": 1,
-        "committed": 3,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
       },
       {
         "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
