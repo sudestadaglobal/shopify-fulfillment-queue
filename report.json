@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-16T21:33:39.719Z",
+  "generatedAt": "2026-08-16T21:54:12.209Z",
   "summary": {
-    "totalUnfulfilled": 77,
-    "canFulfill": 10,
+    "totalUnfulfilled": 79,
+    "canFulfill": 12,
     "blocked": 67
   },
   "fulfillableOrders": [
@@ -65,6 +65,18 @@
       "name": "#4234",
       "createdAt": "2026-08-16T23:22:38+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12554602676568,
+      "name": "#4235",
+      "createdAt": "2026-08-16T23:41:32+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12554610049368,
+      "name": "#4236",
+      "createdAt": "2026-08-16T23:48:18+02:00",
+      "itemCount": 2
     }
   ],
   "blockedOrders": [
@@ -1547,8 +1559,8 @@
         "productId": 15834588119384,
         "variantId": 57582670676312,
         "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "committed": 4,
+        "demand": 3
       },
       {
         "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
@@ -1563,7 +1575,7 @@
         "productId": 15641321570648,
         "variantId": 56849271783768,
         "onHand": 2,
-        "committed": 2,
+        "committed": 3,
         "demand": 2
       },
       {
@@ -3085,6 +3097,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131478 3rd Anniversary Tournament 3 Brothers One Piece Booster Pack (English) — 2 cards / Black / White",
+        "productId": 15641344737624,
+        "variantId": 56849304781144,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3142,6 +3162,16 @@
         "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
         "productId": 15641506283864,
         "variantId": 56849643635032,
+        "onHand": 1,
+        "committed": 4,
+        "incoming": 1,
+        "available": -3,
+        "shortfall": 2
+      },
+      {
+        "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
+        "productId": 15834588119384,
+        "variantId": 57582670676312,
         "onHand": 1,
         "committed": 4,
         "incoming": 1,
@@ -3282,6 +3312,16 @@
         "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
         "productId": 15641340051800,
         "variantId": 56849299571032,
+        "onHand": 2,
+        "committed": 3,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
+        "productId": 15641321570648,
+        "variantId": 56849271783768,
         "onHand": 2,
         "committed": 3,
         "incoming": 0,
