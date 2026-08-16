@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-16T16:01:50.524Z",
+  "generatedAt": "2026-08-16T16:39:00.362Z",
   "summary": {
-    "totalUnfulfilled": 67,
+    "totalUnfulfilled": 69,
     "canFulfill": 8,
-    "blocked": 59
+    "blocked": 61
   },
   "fulfillableOrders": [
     {
@@ -1196,6 +1196,54 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12554049814872,
+      "name": "#4225",
+      "customerName": "Devienne Marie",
+      "createdAt": "2026-08-16T18:02:03+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "148001 - Morpeko ex - Mega Evolution Pitch Black 102/084 NM Holofoil (English) - Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "147985 - Toucannon - Mega Evolution Pitch Black 094/084 NM Holofoil (English) - Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "139788 - Spinning Axe - Spiritforged 186/221 NM (Chinese) - Epic",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12554085269848,
+      "name": "#4226",
+      "customerName": "João Joaquim",
+      "createdAt": "2026-08-16T18:21:25+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119189 Bisharp - Scarlet & Violet Black Bolt 143/086 NM (English) — 143/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
         }
       ]
     }
@@ -2505,6 +2553,46 @@
         "onHand": 7,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "148001 - Morpeko ex - Mega Evolution Pitch Black 102/084 NM Holofoil (English) - Ultra Rare",
+        "productId": 15942736609624,
+        "variantId": 57983178899800,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "147985 - Toucannon - Mega Evolution Pitch Black 094/084 NM Holofoil (English) - Illustration Rare",
+        "productId": 15942737527128,
+        "variantId": 57983184732504,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "139788 - Spinning Axe - Spiritforged 186/221 NM (Chinese) - Epic",
+        "productId": 15942741623128,
+        "variantId": 57983190794584,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
+        "productId": 15641508512088,
+        "variantId": 56849646649688,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119189 Bisharp - Scarlet & Violet Black Bolt 143/086 NM (English) — 143/086, Near-Mint / Illustration Rare",
+        "productId": 15641512903000,
+        "variantId": 56849654120792,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2932,6 +3020,56 @@
         "product": "132724 Budew - Mega Evolution Ascended Heroes 221/217 NM (English) — 221/217, Near-Mint / Illustration Rare",
         "productId": 15641318130008,
         "variantId": 56849266442584,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "148001 - Morpeko ex - Mega Evolution Pitch Black 102/084 NM Holofoil (English) - Ultra Rare",
+        "productId": 15942736609624,
+        "variantId": 57983178899800,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "147985 - Toucannon - Mega Evolution Pitch Black 094/084 NM Holofoil (English) - Illustration Rare",
+        "productId": 15942737527128,
+        "variantId": 57983184732504,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "139788 - Spinning Axe - Spiritforged 186/221 NM (Chinese) - Epic",
+        "productId": 15942741623128,
+        "variantId": 57983190794584,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
+        "productId": 15641508512088,
+        "variantId": 56849646649688,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "119189 Bisharp - Scarlet & Violet Black Bolt 143/086 NM (English) — 143/086, Near-Mint / Illustration Rare",
+        "productId": 15641512903000,
+        "variantId": 56849654120792,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
