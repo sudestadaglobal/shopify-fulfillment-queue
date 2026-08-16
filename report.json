@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-16T19:07:40.437Z",
+  "generatedAt": "2026-08-16T19:38:45.568Z",
   "summary": {
-    "totalUnfulfilled": 71,
+    "totalUnfulfilled": 72,
     "canFulfill": 9,
-    "blocked": 62
+    "blocked": 63
   },
   "fulfillableOrders": [
     {
@@ -1322,6 +1322,21 @@
         },
         {
           "product": "147777 - Mega Evolution Pitch Black Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12554401481048,
+      "name": "#4229",
+      "customerName": "Felix Mälarström",
+      "createdAt": "2026-08-16T21:27:38+02:00",
+      "itemCount": 6,
+      "reasons": [
+        {
+          "product": "110270 Sword & Shield Fusion Strike Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2696,8 +2711,8 @@
         "productId": 15641523224920,
         "variantId": 56849675977048,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "142957 Mega Evolution Chaos Rising Sleeved Booster Pack (English) - Multicolor",
@@ -2744,8 +2759,8 @@
         "productId": 15641508118872,
         "variantId": 56849646256472,
         "onHand": 7,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110279 Sword & Shield Chilling Reign Booster Pack (English) — 10 cards / Multicolor",
@@ -2890,6 +2905,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "110270 Sword & Shield Fusion Strike Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641564774744,
+        "variantId": 56849721295192,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110244 Sword & Shield Lost Origin Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565167960,
+        "variantId": 56849722016088,
+        "onHand": 5,
+        "committed": 2,
+        "demand": 2
       }
     ],
     "demandExceedsStock": [
@@ -3467,6 +3498,16 @@
         "product": "147777 - Mega Evolution Pitch Black Booster Pack (English)",
         "productId": 15942789071192,
         "variantId": 57983502713176,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "110270 Sword & Shield Fusion Strike Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641564774744,
+        "variantId": 56849721295192,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
