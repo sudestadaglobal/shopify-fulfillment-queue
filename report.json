@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-16T20:00:36.310Z",
+  "generatedAt": "2026-08-16T20:35:10.597Z",
   "summary": {
-    "totalUnfulfilled": 74,
+    "totalUnfulfilled": 75,
     "canFulfill": 9,
-    "blocked": 65
+    "blocked": 66
   },
   "fulfillableOrders": [
     {
@@ -1396,6 +1396,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12554500243800,
+      "name": "#4232",
+      "customerName": "Lars van Hal",
+      "createdAt": "2026-08-16T22:25:09+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1893,7 +1908,7 @@
         "productId": 15892538556760,
         "variantId": 57791753421144,
         "onHand": 1,
-        "committed": 1,
+        "committed": 2,
         "demand": 1
       },
       {
@@ -2525,7 +2540,7 @@
         "productId": 15925445394776,
         "variantId": 57933857620312,
         "onHand": 0,
-        "committed": 8,
+        "committed": 9,
         "demand": 8
       },
       {
@@ -2597,7 +2612,7 @@
         "productId": 15892606484824,
         "variantId": 57791899861336,
         "onHand": 0,
-        "committed": 1,
+        "committed": 2,
         "demand": 1
       },
       {
@@ -3007,6 +3022,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
+        "productId": 15796633665880,
+        "variantId": 57468100968792,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3015,10 +3038,10 @@
         "productId": 15925445394776,
         "variantId": 57933857620312,
         "onHand": 0,
-        "committed": 8,
+        "committed": 9,
         "incoming": 2,
-        "available": -8,
-        "shortfall": 6
+        "available": -9,
+        "shortfall": 7
       },
       {
         "product": "110190 Scarlet & Violet Temporal Forces (English) — 10 cards / Multicolor",
@@ -3161,6 +3184,16 @@
         "shortfall": 2
       },
       {
+        "product": "147779 Mega Evolution Pitch Black Booster Box 36 Booster Packs (English)",
+        "productId": 15892606484824,
+        "variantId": 57791899861336,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
         "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
         "productId": 15641506283864,
         "variantId": 56849643635032,
@@ -3224,6 +3257,16 @@
         "product": "147987 Silvally - Mega Evolution Pitch Black 095/084 NM Holofoil (English) - Illustration Rare",
         "productId": 15907131097432,
         "variantId": 57844308115800,
+        "onHand": 1,
+        "committed": 2,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "147773 Mega Evolution Pitch Black Elite Trainer Box 9 Booster Packs (English)",
+        "productId": 15892538556760,
+        "variantId": 57791753421144,
         "onHand": 1,
         "committed": 2,
         "incoming": 0,
@@ -3414,16 +3457,6 @@
         "product": "113481 Espeon ex - Scarlet & Violet Prismatic Evolution 155/131 NM (English) — 155/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563726168,
         "variantId": 56849719624024,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "147779 Mega Evolution Pitch Black Booster Box 36 Booster Packs (English)",
-        "productId": 15892606484824,
-        "variantId": 57791899861336,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -3704,6 +3737,16 @@
         "product": "138021 - Exeggcute - Scarlet & Violet Surging Sparks 192/191 NM Holofoil (English) - Illustration Rare",
         "productId": 15942816170328,
         "variantId": 57983760105816,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
+        "productId": 15796633665880,
+        "variantId": 57468100968792,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
