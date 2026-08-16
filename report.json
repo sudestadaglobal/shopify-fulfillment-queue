@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-16T21:54:12.209Z",
+  "generatedAt": "2026-08-16T22:30:29.839Z",
   "summary": {
-    "totalUnfulfilled": 79,
-    "canFulfill": 12,
-    "blocked": 67
+    "totalUnfulfilled": 85,
+    "canFulfill": 14,
+    "blocked": 71
   },
   "fulfillableOrders": [
     {
@@ -76,6 +76,18 @@
       "id": 12554610049368,
       "name": "#4236",
       "createdAt": "2026-08-16T23:48:18+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12554636460376,
+      "name": "#4239",
+      "createdAt": "2026-08-17T00:12:35+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12554641768792,
+      "name": "#4241",
+      "createdAt": "2026-08-17T00:19:36+02:00",
       "itemCount": 2
     }
   ],
@@ -1462,6 +1474,72 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12554614210904,
+      "name": "#4237",
+      "customerName": "M.N. Ton",
+      "createdAt": "2026-08-16T23:51:59+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12554625646936,
+      "name": "#4238",
+      "customerName": "Sem Jansonius",
+      "createdAt": "2026-08-17T00:03:08+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "120841 Hoopa GX - Sun & Moon Team Up 187/181 NM (English) — 187/181, Near-Mint / Rainbow Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "118756 Vanilluxe - Scarlet & Violet White Flare 113/086 NM (English) — 113/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12554639999320,
+      "name": "#4240",
+      "customerName": "Wilhelmus soeter",
+      "createdAt": "2026-08-17T00:16:56+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "147979 - Dhelmise - Mega Evolution Pitch Black 091/084 NM Holofoil (English) - Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12554644226392,
+      "name": "#4242",
+      "customerName": "Timo Brandt",
+      "createdAt": "2026-08-17T00:22:47+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "125812 Pokémon TCG: Holiday Calendar 2025 Box 6 Booster Packs (English) — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1560,7 +1638,7 @@
         "variantId": 57582670676312,
         "onHand": 1,
         "committed": 4,
-        "demand": 3
+        "demand": 4
       },
       {
         "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
@@ -1576,7 +1654,7 @@
         "variantId": 56849271783768,
         "onHand": 2,
         "committed": 3,
-        "demand": 2
+        "demand": 3
       },
       {
         "product": "131466 The Best Vol.2 One Piece Sleeved Booster Pack (English) — 10 cards / Multicolor",
@@ -1999,8 +2077,8 @@
         "productId": 15641268355416,
         "variantId": 56849193173336,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131416 Paramount War Box Promotion One Piece Booster Pack (English)",
@@ -2767,8 +2845,8 @@
         "productId": 15641566609752,
         "variantId": 56849732403544,
         "onHand": 7,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "148001 - Morpeko ex - Mega Evolution Pitch Black 102/084 NM Holofoil (English) - Ultra Rare",
@@ -3105,6 +3183,46 @@
         "onHand": 5,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "120841 Hoopa GX - Sun & Moon Team Up 187/181 NM (English) — 187/181, Near-Mint / Rainbow Rare",
+        "productId": 15641500156248,
+        "variantId": 56849634230616,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "118756 Vanilluxe - Scarlet & Violet White Flare 113/086 NM (English) — 113/086, Near-Mint / Illustration Rare",
+        "productId": 15641521095000,
+        "variantId": 56849667129688,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "124028 Phantasmal Flames Mega Evolution Ultra Pro 9-Pocket Binder (English) — 9 Pocket Album / Multicolor",
+        "productId": 15641487835480,
+        "variantId": 56849614602584,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "147979 - Dhelmise - Mega Evolution Pitch Black 091/084 NM Holofoil (English) - Illustration Rare",
+        "productId": 15942860833112,
+        "variantId": 57984092111192,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "125812 Pokémon TCG: Holiday Calendar 2025 Box 6 Booster Packs (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641389236568,
+        "variantId": 56849460396376,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3362,6 +3480,16 @@
         "product": "147773 Mega Evolution Pitch Black Elite Trainer Box 9 Booster Packs (English)",
         "productId": 15892538556760,
         "variantId": 57791753421144,
+        "onHand": 1,
+        "committed": 2,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+        "productId": 15641268355416,
+        "variantId": 56849193173336,
         "onHand": 1,
         "committed": 2,
         "incoming": 0,
@@ -3862,6 +3990,46 @@
         "product": "150395 - White Flare JP Booster Box 20 Booster Packs (Japanese)",
         "productId": 15942830915928,
         "variantId": 57983919653208,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "120841 Hoopa GX - Sun & Moon Team Up 187/181 NM (English) — 187/181, Near-Mint / Rainbow Rare",
+        "productId": 15641500156248,
+        "variantId": 56849634230616,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "118756 Vanilluxe - Scarlet & Violet White Flare 113/086 NM (English) — 113/086, Near-Mint / Illustration Rare",
+        "productId": 15641521095000,
+        "variantId": 56849667129688,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "147979 - Dhelmise - Mega Evolution Pitch Black 091/084 NM Holofoil (English) - Illustration Rare",
+        "productId": 15942860833112,
+        "variantId": 57984092111192,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "125812 Pokémon TCG: Holiday Calendar 2025 Box 6 Booster Packs (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641389236568,
+        "variantId": 56849460396376,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
