@@ -1,16 +1,46 @@
 {
-  "generatedAt": "2026-08-17T14:35:57.741Z",
+  "generatedAt": "2026-08-17T15:06:25.231Z",
   "summary": {
     "totalUnfulfilled": 69,
-    "canFulfill": 2,
-    "blocked": 67
+    "canFulfill": 7,
+    "blocked": 62
   },
   "fulfillableOrders": [
+    {
+      "id": 12429905789272,
+      "name": "#3865",
+      "createdAt": "2026-06-29T15:04:49+02:00",
+      "itemCount": 4
+    },
     {
       "id": 12497733779800,
       "name": "#4064",
       "createdAt": "2026-07-25T17:24:26+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12512966803800,
+      "name": "#4128",
+      "createdAt": "2026-08-02T14:24:20+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12522380525912,
+      "name": "#4164",
+      "createdAt": "2026-08-03T18:41:15+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12524100813144,
+      "name": "#4170",
+      "createdAt": "2026-08-04T17:13:57+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12529466376536,
+      "name": "#4183",
+      "createdAt": "2026-08-06T17:38:34+02:00",
+      "itemCount": 3
     },
     {
       "id": 12554120626520,
@@ -20,21 +50,6 @@
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12429905789272,
-      "name": "#3865",
-      "customerName": "Maximilian Grossmann",
-      "createdAt": "2026-06-29T15:04:49+02:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "128022 Monkey D. Luffy - Carrying on His Will OP13‑001 V2 NM (English) — OP13‑001/V2, Near-Mint / Alternate Art",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
     {
       "id": 12476808003928,
       "name": "#3995",
@@ -243,27 +258,6 @@
       ]
     },
     {
-      "id": 12512966803800,
-      "name": "#4128",
-      "customerName": "Luis Brauner",
-      "createdAt": "2026-08-02T14:24:20+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "149037 Zapdos - Fossil 30/62 NM (English) - Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "148571 Pikachu - Jungle 60/64 NM (English) - Common",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12513056522584,
       "name": "#4133",
       "customerName": "Mario Heine",
@@ -338,12 +332,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "131455 Tournament Pack Vol.7 Winner One Piece Booster Pack (English) - Black / White",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -378,21 +366,6 @@
       ]
     },
     {
-      "id": 12522380525912,
-      "name": "#4164",
-      "customerName": "Mario Heine",
-      "createdAt": "2026-08-03T18:41:15+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "142953 Mega Evolution Chaos Rising Charmeleon 3-Pack Blister 3 Booster Packs (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12523796496728,
       "name": "#4168",
       "customerName": "Niclas Jørgensen",
@@ -401,21 +374,6 @@
       "reasons": [
         {
           "product": "119391 Scarlet & Violet Black Bolt Reuniclus Tech Sticker Collection (English) — 3 booster pack / Black / Blue",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12524100813144,
-      "name": "#4170",
-      "customerName": "Enrico Rinaldi",
-      "createdAt": "2026-08-04T17:13:57+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "72322 - Blastoise & Piplup GX - Sun & Moon Cosmic Eclipse 215/236 NM Holofoil (English)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -459,24 +417,6 @@
       "createdAt": "2026-08-04T18:58:04+02:00",
       "itemCount": 39,
       "reasons": [
-        {
-          "product": "119447 Wigglytuff ex - Scarlet & Violet 151 187/165 NM (English) — 187/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119457 Zapdos ex - Scarlet & Violet 151 192/165 NM (English) — 192/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119449 Alakazam ex - Scarlet & Violet 151 188/165 NM (English) — 188/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
         {
           "product": "109990 Tangela - Scarlet & Violet 151 178/165 (English) — 178/165, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
@@ -581,21 +521,6 @@
       "reasons": [
         {
           "product": "75104 - Peter Pan & Tinker Bell - Fast Friends - Attack of the Vine 240/207 NM V2 Holofoil (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12529466376536,
-      "name": "#4183",
-      "customerName": "Damian van Veen",
-      "createdAt": "2026-08-06T17:38:34+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "131455 Tournament Pack Vol.7 Winner One Piece Booster Pack (English) - Black / White",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -889,12 +814,6 @@
           "needed": 1
         },
         {
-          "product": "119457 Zapdos ex - Scarlet & Violet 151 192/165 NM (English) — 192/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "119893 Eevee Poké Post Pop-up Exclusive Promo - Scarlet & Violet 151 133/165 NM (English) — 133/165, Near-Mint / Common",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -908,12 +827,6 @@
         },
         {
           "product": "119419 Mew ex V3 - Scarlet & Violet 151 205/165 NM (English) — 205/165, Near-Mint / Secret Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119449 Alakazam ex - Scarlet & Violet 151 188/165 NM (English) — 188/165, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -945,7 +858,7 @@
         {
           "product": "119447 Wigglytuff ex - Scarlet & Violet 151 187/165 NM (English) — 187/165, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 1,
           "needed": 2
         },
         {
@@ -1276,12 +1189,6 @@
           "needed": 1
         },
         {
-          "product": "119447 Wigglytuff ex - Scarlet & Violet 151 187/165 NM (English) — 187/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1444,7 +1351,7 @@
         "product": "128022 Monkey D. Luffy - Carrying on His Will OP13‑001 V2 NM (English) — OP13‑001/V2, Near-Mint / Alternate Art",
         "productId": 15641374097752,
         "variantId": 56849439785304,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1700,7 +1607,7 @@
         "product": "149037 Zapdos - Fossil 30/62 NM (English) - Rare",
         "productId": 15907077423448,
         "variantId": 57843652952408,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1708,7 +1615,7 @@
         "product": "148571 Pikachu - Jungle 60/64 NM (English) - Common",
         "productId": 15904091996504,
         "variantId": 57830895845720,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1900,7 +1807,7 @@
         "product": "131455 Tournament Pack Vol.7 Winner One Piece Booster Pack (English) - Black / White",
         "productId": 15907309158744,
         "variantId": 57847160275288,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -1940,7 +1847,7 @@
         "product": "142953 Mega Evolution Chaos Rising Charmeleon 3-Pack Blister 3 Booster Packs (English) - Multicolor",
         "productId": 15781209211224,
         "variantId": 57396928414040,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1964,7 +1871,7 @@
         "product": "72322 - Blastoise & Piplup GX - Sun & Moon Cosmic Eclipse 215/236 NM Holofoil (English)",
         "productId": 15912629141848,
         "variantId": 57861614141784,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2020,7 +1927,7 @@
         "product": "119447 Wigglytuff ex - Scarlet & Violet 151 187/165 NM (English) — 187/165, Near-Mint / Ultra Rare",
         "productId": 15641506873688,
         "variantId": 56849644585304,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 4,
         "demand": 4
       },
@@ -2028,7 +1935,7 @@
         "product": "119457 Zapdos ex - Scarlet & Violet 151 192/165 NM (English) — 192/165, Near-Mint / Ultra Rare",
         "productId": 15641506709848,
         "variantId": 56849644257624,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2036,7 +1943,7 @@
         "product": "119449 Alakazam ex - Scarlet & Violet 151 188/165 NM (English) — 188/165, Near-Mint / Ultra Rare",
         "productId": 15641506840920,
         "variantId": 56849644552536,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -3162,10 +3069,10 @@
         "product": "131455 Tournament Pack Vol.7 Winner One Piece Booster Pack (English) - Black / White",
         "productId": 15907309158744,
         "variantId": 57847160275288,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
-        "incoming": 1,
-        "available": -2,
+        "incoming": 0,
+        "available": -1,
         "shortfall": 1
       },
       {
@@ -3182,30 +3089,30 @@
         "product": "119447 Wigglytuff ex - Scarlet & Violet 151 187/165 NM (English) — 187/165, Near-Mint / Ultra Rare",
         "productId": 15641506873688,
         "variantId": 56849644585304,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 4,
-        "incoming": 3,
-        "available": -4,
+        "incoming": 2,
+        "available": -3,
         "shortfall": 1
       },
       {
         "product": "119457 Zapdos ex - Scarlet & Violet 151 192/165 NM (English) — 192/165, Near-Mint / Ultra Rare",
         "productId": 15641506709848,
         "variantId": 56849644257624,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
-        "incoming": 1,
-        "available": -2,
+        "incoming": 0,
+        "available": -1,
         "shortfall": 1
       },
       {
         "product": "119449 Alakazam ex - Scarlet & Violet 151 188/165 NM (English) — 188/165, Near-Mint / Ultra Rare",
         "productId": 15641506840920,
         "variantId": 56849644552536,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
-        "incoming": 1,
-        "available": -2,
+        "incoming": 0,
+        "available": -1,
         "shortfall": 1
       },
       {
