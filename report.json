@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-17T06:24:54.042Z",
+  "generatedAt": "2026-08-17T07:37:54.752Z",
   "summary": {
-    "totalUnfulfilled": 85,
-    "canFulfill": 14,
-    "blocked": 71
+    "totalUnfulfilled": 82,
+    "canFulfill": 15,
+    "blocked": 67
   },
   "fulfillableOrders": [
     {
@@ -19,6 +19,30 @@
       "itemCount": 2
     },
     {
+      "id": 12505798377816,
+      "name": "#4113",
+      "createdAt": "2026-07-29T17:53:27+02:00",
+      "itemCount": 7
+    },
+    {
+      "id": 12513380630872,
+      "name": "#4141",
+      "createdAt": "2026-08-02T18:24:46+02:00",
+      "itemCount": 4
+    },
+    {
+      "id": 12524253380952,
+      "name": "#4171",
+      "createdAt": "2026-08-04T18:41:39+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12527414509912,
+      "name": "#4176",
+      "createdAt": "2026-08-05T15:42:01+02:00",
+      "itemCount": 3
+    },
+    {
       "id": 12533956837720,
       "name": "#4192",
       "createdAt": "2026-08-09T00:55:04+02:00",
@@ -31,22 +55,10 @@
       "itemCount": 1
     },
     {
-      "id": 12548143350104,
-      "name": "#4213",
-      "createdAt": "2026-08-13T18:52:59+02:00",
-      "itemCount": 1
-    },
-    {
       "id": 12549832147288,
       "name": "#4218",
       "createdAt": "2026-08-14T18:09:49+02:00",
       "itemCount": 1
-    },
-    {
-      "id": 12550359056728,
-      "name": "#4222",
-      "createdAt": "2026-08-14T19:17:34+02:00",
-      "itemCount": 2
     },
     {
       "id": 12550670319960,
@@ -59,12 +71,6 @@
       "name": "#4227",
       "createdAt": "2026-08-16T18:43:18+02:00",
       "itemCount": 27
-    },
-    {
-      "id": 12554582524248,
-      "name": "#4234",
-      "createdAt": "2026-08-16T23:22:38+02:00",
-      "itemCount": 1
     },
     {
       "id": 12554602676568,
@@ -132,7 +138,7 @@
         {
           "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 1,
+          "stock": 3,
           "needed": 4
         }
       ]
@@ -285,27 +291,6 @@
       ]
     },
     {
-      "id": 12505798377816,
-      "name": "#4113",
-      "customerName": "Adrian Arnesen",
-      "createdAt": "2026-07-29T17:53:27+02:00",
-      "itemCount": 7,
-      "reasons": [
-        {
-          "product": "148643 Dark Blastoise - Team Rocket 3/82 NM Holofoil (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "148645 Dark Charizard - Team Rocket 4/82 NM Holofoil (English) - Holo Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12507876295000,
       "name": "#4120",
       "customerName": "Luis Brauner",
@@ -414,21 +399,6 @@
       ]
     },
     {
-      "id": 12513380630872,
-      "name": "#4141",
-      "customerName": "Filip Janík",
-      "createdAt": "2026-08-02T18:24:46+02:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "110082 Scarlet & Violet Obsidian Flames Booster Box 36 pack (English) — 36 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12513419493720,
       "name": "#4143",
       "customerName": "JAVIER Barragan",
@@ -531,21 +501,6 @@
       ]
     },
     {
-      "id": 12524253380952,
-      "name": "#4171",
-      "customerName": "Adrian Arnesen",
-      "createdAt": "2026-08-04T18:41:39+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 1,
-          "needed": 2
-        }
-      ]
-    },
-    {
       "id": 12524258099544,
       "name": "#4172",
       "customerName": "Timo Brandt",
@@ -619,6 +574,12 @@
           "needed": 1
         },
         {
+          "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
           "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": -1,
@@ -635,33 +596,6 @@
           "reason": "Insufficient stock",
           "stock": 1,
           "needed": 3
-        }
-      ]
-    },
-    {
-      "id": 12527414509912,
-      "name": "#4176",
-      "customerName": "Adrian Arnesen",
-      "createdAt": "2026-08-05T15:42:01+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "76040 - Raichu - Fossil 14/62 NM Holofoil (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "76020 - Dragonite - Fossil 4/62 NM Holofoil (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "76022 - Gengar - Fossil 5/62 NM Holofoil (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -1021,6 +955,12 @@
           "needed": 1
         },
         {
+          "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
           "product": "119457 Zapdos ex - Scarlet & Violet 151 192/165 NM (English) — 192/165, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1065,7 +1005,7 @@
         {
           "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 1,
           "needed": 2
         },
         {
@@ -1414,6 +1354,12 @@
           "needed": 1
         },
         {
+          "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
           "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1534,6 +1480,12 @@
       "itemCount": 2,
       "reasons": [
         {
+          "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
           "product": "125812 Pokémon TCG: Holiday Calendar 2025 Box 6 Booster Packs (English) — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -1596,9 +1548,9 @@
         "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
         "productId": 15641506283864,
         "variantId": 56849643635032,
-        "onHand": 1,
-        "committed": 4,
-        "demand": 5
+        "onHand": 0,
+        "committed": 3,
+        "demand": 4
       },
       {
         "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
@@ -1620,7 +1572,7 @@
         "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
         "productId": 15641503859032,
         "variantId": 56849639571800,
-        "onHand": 1,
+        "onHand": 3,
         "committed": 6,
         "demand": 6
       },
@@ -1676,9 +1628,9 @@
         "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641344541016,
         "variantId": 56849304584536,
-        "onHand": 7,
-        "committed": 3,
-        "demand": 3
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "118668 Scarlet & Violet White Flare Gothitelle Tech Sticker Collection (English) — 3 booster pack / Multicolor",
@@ -1868,7 +1820,7 @@
         "product": "148643 Dark Blastoise - Team Rocket 3/82 NM Holofoil (English)",
         "productId": 15902931517784,
         "variantId": 57828032545112,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1884,7 +1836,7 @@
         "product": "148645 Dark Charizard - Team Rocket 4/82 NM Holofoil (English) - Holo Rare",
         "productId": 15902936891736,
         "variantId": 57828039033176,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2052,7 +2004,7 @@
         "product": "110082 Scarlet & Violet Obsidian Flames Booster Box 36 pack (English) — 36 booster pack / Multicolor",
         "productId": 15641567101272,
         "variantId": 56849733124440,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2404,7 +2356,7 @@
         "product": "119469 Bulbasaur - Scarlet & Violet 151 166/165 NM (English) — 166/165, Near-Mint / Illustration Rare",
         "productId": 15641506480472,
         "variantId": 56849644028248,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -2444,7 +2396,7 @@
         "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507365208,
         "variantId": 56849645207896,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 4,
         "demand": 4
       },
@@ -2516,7 +2468,7 @@
         "product": "76040 - Raichu - Fossil 14/62 NM Holofoil (English)",
         "productId": 15914102161752,
         "variantId": 57867890327896,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2524,7 +2476,7 @@
         "product": "76020 - Dragonite - Fossil 4/62 NM Holofoil (English)",
         "productId": 15914103079256,
         "variantId": 57867891966296,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2532,7 +2484,7 @@
         "product": "76022 - Gengar - Fossil 5/62 NM Holofoil (English)",
         "productId": 15914103570776,
         "variantId": 57867892785496,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -3270,8 +3222,8 @@
         "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
         "productId": 15641506283864,
         "variantId": 56849643635032,
-        "onHand": 1,
-        "committed": 4,
+        "onHand": 0,
+        "committed": 3,
         "incoming": 1,
         "available": -3,
         "shortfall": 2
@@ -3330,10 +3282,10 @@
         "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507365208,
         "variantId": 56849645207896,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 4,
-        "incoming": 1,
-        "available": -3,
+        "incoming": 0,
+        "available": -2,
         "shortfall": 2
       },
       {
