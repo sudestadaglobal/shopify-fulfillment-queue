@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T12:05:18.815Z",
+  "generatedAt": "2026-08-17T13:10:59.228Z",
   "summary": {
     "totalUnfulfilled": 69,
     "canFulfill": 2,
@@ -3304,16 +3304,6 @@
         "variantId": 56849645044056,
         "onHand": 2,
         "committed": 3,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "75104 - Peter Pan & Tinker Bell - Fast Friends - Attack of the Vine 240/207 NM V2 Holofoil (English)",
-        "productId": 15916735201624,
-        "variantId": 57883171357016,
-        "onHand": 0,
-        "committed": 1,
         "incoming": 0,
         "available": -1,
         "shortfall": 1
