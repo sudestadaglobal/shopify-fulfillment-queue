@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T13:12:37.361Z",
+  "generatedAt": "2026-08-18T14:01:52.794Z",
   "summary": {
-    "totalUnfulfilled": 69,
-    "canFulfill": 15,
-    "blocked": 54
+    "totalUnfulfilled": 72,
+    "canFulfill": 16,
+    "blocked": 56
   },
   "fulfillableOrders": [
     {
@@ -94,6 +94,12 @@
       "id": 12531319603544,
       "name": "#4184",
       "createdAt": "2026-08-07T18:06:58+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12557574701400,
+      "name": "#4246",
+      "createdAt": "2026-08-18T15:38:13+02:00",
       "itemCount": 1
     }
   ],
@@ -1273,6 +1279,36 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12557561102680,
+      "name": "#4245",
+      "customerName": "Damon Lall",
+      "createdAt": "2026-08-18T15:30:45+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "118678 Reshiram ex - Scarlet & Violet White Flare 166/086 NM (English) — 166/086, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12557599408472,
+      "name": "#4247",
+      "customerName": "Younes El Ghalbzouri",
+      "createdAt": "2026-08-18T15:51:06+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "116774 Scarlet & Violet Destined Rivals Team Rocket's Mewtwo ex Box 4 Booster Pack (English) — 4 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1354,8 +1390,8 @@
         "productId": 15641321570648,
         "variantId": 56849271783768,
         "onHand": 2,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "131466 The Best Vol.2 One Piece Sleeved Booster Pack (English) — 10 cards / Multicolor",
@@ -2058,16 +2094,16 @@
         "productId": 15641507266904,
         "variantId": 56849645109592,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119425 Venusaur ex - Scarlet & Violet 151 198/165 NM (English) — 198/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507430744,
         "variantId": 56849645273432,
         "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
@@ -2764,6 +2800,30 @@
         "onHand": 3,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "118678 Reshiram ex - Scarlet & Violet White Flare 166/086 NM (English) — 166/086, Near-Mint / Special Illustration Rare",
+        "productId": 15641522667864,
+        "variantId": 56849669095768,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113562 Janine's Secret Art - Scarlet & Violet Prismatic Evolution 173/131 NM (English) — 173/131, Near-Mint / Special Illustration Rare",
+        "productId": 15641562087768,
+        "variantId": 56849717002584,
+        "onHand": 0,
+        "committed": 0,
+        "demand": 1
+      },
+      {
+        "product": "116774 Scarlet & Violet Destined Rivals Team Rocket's Mewtwo ex Box 4 Booster Pack (English) — 4 booster pack / Multicolor",
+        "productId": 15641523126616,
+        "variantId": 56849669620056,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2818,6 +2878,16 @@
         "shortfall": 2
       },
       {
+        "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
+        "productId": 15641321570648,
+        "variantId": 56849271783768,
+        "onHand": 2,
+        "committed": 4,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
         "product": "119465 Erika’s Invitation - Scarlet & Violet 151 196/165 NM (English) — 196/165, Near-Mint / Ultra Rare",
         "productId": 15641506578776,
         "variantId": 56849644126552,
@@ -2868,6 +2938,16 @@
         "shortfall": 2
       },
       {
+        "product": "119425 Venusaur ex - Scarlet & Violet 151 198/165 NM (English) — 198/165, Near-Mint / Special Illustration Rare",
+        "productId": 15641507430744,
+        "variantId": 56849645273432,
+        "onHand": 1,
+        "committed": 3,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
         "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507365208,
         "variantId": 56849645207896,
@@ -2901,16 +2981,6 @@
         "product": "131610 Royal Blood One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Purple",
         "productId": 15641340051800,
         "variantId": 56849299571032,
-        "onHand": 2,
-        "committed": 3,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
-        "productId": 15641321570648,
-        "variantId": 56849271783768,
         "onHand": 2,
         "committed": 3,
         "incoming": 0,
@@ -3078,9 +3148,9 @@
         "shortfall": 1
       },
       {
-        "product": "119425 Venusaur ex - Scarlet & Violet 151 198/165 NM (English) — 198/165, Near-Mint / Special Illustration Rare",
-        "productId": 15641507430744,
-        "variantId": 56849645273432,
+        "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
+        "productId": 15641507266904,
+        "variantId": 56849645109592,
         "onHand": 1,
         "committed": 2,
         "incoming": 0,
@@ -3521,6 +3591,26 @@
         "product": "110198 Scarlet & Violet Paldean Fates Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641566019928,
         "variantId": 56849731322200,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "118678 Reshiram ex - Scarlet & Violet White Flare 166/086 NM (English) — 166/086, Near-Mint / Special Illustration Rare",
+        "productId": 15641522667864,
+        "variantId": 56849669095768,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "116774 Scarlet & Violet Destined Rivals Team Rocket's Mewtwo ex Box 4 Booster Pack (English) — 4 booster pack / Multicolor",
+        "productId": 15641523126616,
+        "variantId": 56849669620056,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
