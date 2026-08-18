@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T12:06:38.050Z",
+  "generatedAt": "2026-08-18T13:12:37.361Z",
   "summary": {
-    "totalUnfulfilled": 68,
+    "totalUnfulfilled": 69,
     "canFulfill": 15,
-    "blocked": 53
+    "blocked": 54
   },
   "fulfillableOrders": [
     {
@@ -1241,6 +1241,33 @@
         },
         {
           "product": "125812 Pokémon TCG: Holiday Calendar 2025 Box 6 Booster Packs (English) — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12557493469528,
+      "name": "#4243",
+      "customerName": "Tobias Weinold",
+      "createdAt": "2026-08-18T14:58:20+02:00",
+      "itemCount": 11,
+      "reasons": [
+        {
+          "product": "110215 Play! Pokémon Prize Pack Series Three Booster Pack (English) — 6 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 2,
+          "needed": 3
+        },
+        {
+          "product": "99730 Charizard - XY Evolutions 011/108 NM (English) — 010/108, Near-Mint / Holo Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "110198 Scarlet & Violet Paldean Fates Booster Pack (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2665,6 +2692,78 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "99730 Charizard - XY Evolutions 011/108 NM (English) — 010/108, Near-Mint / Holo Rare",
+        "productId": 15641569591640,
+        "variantId": 56849737023832,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110169 Scarlet & Violet Stellar Crown Sleeved Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566576984,
+        "variantId": 56849732370776,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110231 Sword & Shield VSTAR Universe Booster Pack (Japanese) — 10 cards / Multicolor",
+        "productId": 15641565397336,
+        "variantId": 56849722245464,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110198 Scarlet & Violet Paldean Fates Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566019928,
+        "variantId": 56849731322200,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110168 Scarlet & Violet Stellar Crown Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566609752,
+        "variantId": 56849732403544,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110178 Scarlet & Violet Shrouded Fable Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566445912,
+        "variantId": 56849732239704,
+        "onHand": 3,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "110184 Scarlet & Violet Twilight Masquerade (English) — 10 cards / Multicolor",
+        "productId": 15641566249304,
+        "variantId": 56849732043096,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110213 Scarlet & Violet Obsidian Flames Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565692248,
+        "variantId": 56849722802520,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110240 Sword & Shield Silver Tempest Sleeved Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565233496,
+        "variantId": 56849722081624,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2834,6 +2933,16 @@
         "variantId": 57844308115800,
         "onHand": 1,
         "committed": 2,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "110215 Play! Pokémon Prize Pack Series Three Booster Pack (English) — 6 cards / Multicolor",
+        "productId": 15641565659480,
+        "variantId": 56849722769752,
+        "onHand": 16,
+        "committed": 17,
         "incoming": 0,
         "available": -1,
         "shortfall": 1
@@ -3392,6 +3501,26 @@
         "product": "125812 Pokémon TCG: Holiday Calendar 2025 Box 6 Booster Packs (English) — 6 Booster Packs / Multicolor",
         "productId": 15641389236568,
         "variantId": 56849460396376,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "99730 Charizard - XY Evolutions 011/108 NM (English) — 010/108, Near-Mint / Holo Rare",
+        "productId": 15641569591640,
+        "variantId": 56849737023832,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "110198 Scarlet & Violet Paldean Fates Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566019928,
+        "variantId": 56849731322200,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
