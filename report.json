@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-18T19:45:13.248Z",
+  "generatedAt": "2026-08-18T20:03:47.413Z",
   "summary": {
-    "totalUnfulfilled": 75,
-    "canFulfill": 19,
+    "totalUnfulfilled": 77,
+    "canFulfill": 21,
     "blocked": 56
   },
   "fulfillableOrders": [
@@ -118,6 +118,18 @@
       "id": 12557628637528,
       "name": "#4249",
       "createdAt": "2026-08-18T16:05:38+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12558405337432,
+      "name": "#4251",
+      "createdAt": "2026-08-18T21:49:22+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12558414250328,
+      "name": "#4252",
+      "createdAt": "2026-08-18T21:55:29+02:00",
       "itemCount": 1
     }
   ],
@@ -1414,8 +1426,8 @@
         "productId": 15732280426840,
         "variantId": 57196101075288,
         "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
@@ -2936,6 +2948,14 @@
         "onHand": 0,
         "committed": 2,
         "demand": 2
+      },
+      {
+        "product": "134044 Mega Evolution Perfect Order Chikorita Blister 3 Booster Packs (English) Pre‑order",
+        "productId": 15642769260888,
+        "variantId": 56856313463128,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3057,6 +3077,16 @@
         "committed": 4,
         "incoming": 3,
         "available": -4,
+        "shortfall": 1
+      },
+      {
+        "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+        "productId": 15732280426840,
+        "variantId": 57196101075288,
+        "onHand": 1,
+        "committed": 3,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       },
       {
