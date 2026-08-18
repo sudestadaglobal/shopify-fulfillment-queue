@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T14:01:52.794Z",
+  "generatedAt": "2026-08-18T14:47:05.735Z",
   "summary": {
-    "totalUnfulfilled": 72,
-    "canFulfill": 16,
-    "blocked": 56
+    "totalUnfulfilled": 74,
+    "canFulfill": 19,
+    "blocked": 55
   },
   "fulfillableOrders": [
     {
@@ -73,6 +73,12 @@
       "itemCount": 1
     },
     {
+      "id": 12529103241560,
+      "name": "#4178",
+      "createdAt": "2026-08-06T14:23:24+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12529252335960,
       "name": "#4179",
       "createdAt": "2026-08-06T15:41:56+02:00",
@@ -97,9 +103,21 @@
       "itemCount": 1
     },
     {
+      "id": 12537057345880,
+      "name": "#4198",
+      "createdAt": "2026-08-10T18:48:38+02:00",
+      "itemCount": 2
+    },
+    {
       "id": 12557574701400,
       "name": "#4246",
       "createdAt": "2026-08-18T15:38:13+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12557628637528,
+      "name": "#4249",
+      "createdAt": "2026-08-18T16:05:38+02:00",
       "itemCount": 1
     }
   ],
@@ -297,7 +315,7 @@
         {
           "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
           "reason": "Insufficient stock",
-          "stock": 0,
+          "stock": 2,
           "needed": 3
         }
       ]
@@ -382,18 +400,6 @@
           "needed": 1
         },
         {
-          "product": "119419 Mew ex V3 - Scarlet & Violet 151 205/165 NM (English) — 205/165, Near-Mint / Secret Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119459 Mew ex - Scarlet & Violet 151 193/165 NM (English) — 193/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "119499 Dragonair - Scarlet & Violet 151 181/165 NM (English) — 181/165, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -416,27 +422,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
-        },
-        {
-          "product": "119441 Blastoise ex - Scarlet & Violet 151 184/165 NM (English) — 184/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 1,
-          "needed": 3
-        }
-      ]
-    },
-    {
-      "id": 12529103241560,
-      "name": "#4178",
-      "customerName": "Sjoerd van Witzenburg",
-      "createdAt": "2026-08-06T14:23:24+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Gigabyte GeForce RTX 5070 Ti 16GB Gaming OC",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -582,21 +567,6 @@
       ]
     },
     {
-      "id": 12537057345880,
-      "name": "#4198",
-      "customerName": "Ludwig Holmberg",
-      "createdAt": "2026-08-10T18:48:38+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "Airpods Max with Smart Case — Midnight",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12539814740312,
       "name": "#4201",
       "customerName": "Anil Gedik",
@@ -689,12 +659,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "76414 - The First Chapter Booster (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -739,28 +703,10 @@
           "needed": 1
         },
         {
-          "product": "119459 Mew ex - Scarlet & Violet 151 193/165 NM (English) — 193/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119419 Mew ex V3 - Scarlet & Violet 151 205/165 NM (English) — 205/165, Near-Mint / Secret Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "119437 Venusaur ex - Scarlet & Violet 151 182/165 NM (English) — 182/165, Near-Mint / Ultra Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "119441 Blastoise ex - Scarlet & Violet 151 184/165 NM (English) — 184/165, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 1,
-          "needed": 2
         },
         {
           "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
@@ -1309,6 +1255,27 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12557619921240,
+      "name": "#4248",
+      "customerName": "Damian van Veen",
+      "createdAt": "2026-08-18T16:02:14+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "132338 Don!! - The Azure Sea's Seven EB04‑Egghead) V2 NM (English) — EB04-Egghead/V2, Near-Mint / DON!!",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "72724 - Boa Hancock - One Piece The Time of Battle OP16-032-V2 NM Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1613,7 +1580,7 @@
         "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
         "productId": 15641567560024,
         "variantId": 56849733583192,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 3,
         "demand": 3
       },
@@ -1701,7 +1668,7 @@
         "product": "68174 Mega Evolution Perfect Order Pokémon Center Elite Trainer Box 11 Booster Packs (English) — 11 Booster Packs / Green x Gray",
         "productId": 15732283605336,
         "variantId": 57196109234520,
-        "onHand": 2,
+        "onHand": 3,
         "committed": 2,
         "demand": 2
       },
@@ -1981,7 +1948,7 @@
         "product": "119419 Mew ex V3 - Scarlet & Violet 151 205/165 NM (English) — 205/165, Near-Mint / Secret Rare",
         "productId": 15641507660120,
         "variantId": 56849645502808,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -1989,7 +1956,7 @@
         "product": "119459 Mew ex - Scarlet & Violet 151 193/165 NM (English) — 193/165, Near-Mint / Ultra Rare",
         "productId": 15641506677080,
         "variantId": 56849644224856,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2157,7 +2124,7 @@
         "product": "119441 Blastoise ex - Scarlet & Violet 151 184/165 NM (English) — 184/165, Near-Mint / Ultra Rare",
         "productId": 15641507037528,
         "variantId": 56849644716376,
-        "onHand": 1,
+        "onHand": 3,
         "committed": 5,
         "demand": 5
       },
@@ -2181,7 +2148,7 @@
         "product": "119429 Alakazam ex - Scarlet & Violet 151 201/165 NM (English) — 201/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507299672,
         "variantId": 56849645142360,
-        "onHand": 2,
+        "onHand": 3,
         "committed": 2,
         "demand": 2
       },
@@ -2189,7 +2156,7 @@
         "product": "Gigabyte GeForce RTX 5070 Ti 16GB Gaming OC",
         "productId": 15915496014168,
         "variantId": 57876719010136,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2325,7 +2292,7 @@
         "product": "Airpods Max with Smart Case — Midnight",
         "productId": 14860932972888,
         "variantId": 54100373897560,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2333,7 +2300,7 @@
         "product": "Apple AirPods Pro 3",
         "productId": 15338563338584,
         "variantId": 55853592019288,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       },
@@ -2405,7 +2372,7 @@
         "product": "76414 - The First Chapter Booster (English)",
         "productId": 15931095712088,
         "variantId": 57949782507864,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2824,6 +2791,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "132338 Don!! - The Azure Sea's Seven EB04‑Egghead) V2 NM (English) — EB04-Egghead/V2, Near-Mint / DON!!",
+        "productId": 15641321734488,
+        "variantId": 56849271947608,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "72724 - Boa Hancock - One Piece The Time of Battle OP16-032-V2 NM Holofoil (English)",
+        "productId": 15945267249496,
+        "variantId": 57997221593432,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3228,16 +3211,6 @@
         "shortfall": 1
       },
       {
-        "product": "76414 - The First Chapter Booster (English)",
-        "productId": 15931095712088,
-        "variantId": 57949782507864,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "119893 Eevee Poké Post Pop-up Exclusive Promo - Scarlet & Violet 151 133/165 NM (English) — 133/165, Near-Mint / Common",
         "productId": 15641503990104,
         "variantId": 56849640128856,
@@ -3611,6 +3584,26 @@
         "product": "116774 Scarlet & Violet Destined Rivals Team Rocket's Mewtwo ex Box 4 Booster Pack (English) — 4 booster pack / Multicolor",
         "productId": 15641523126616,
         "variantId": 56849669620056,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132338 Don!! - The Azure Sea's Seven EB04‑Egghead) V2 NM (English) — EB04-Egghead/V2, Near-Mint / DON!!",
+        "productId": 15641321734488,
+        "variantId": 56849271947608,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "72724 - Boa Hancock - One Piece The Time of Battle OP16-032-V2 NM Holofoil (English)",
+        "productId": 15945267249496,
+        "variantId": 57997221593432,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
