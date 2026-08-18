@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T19:04:55.446Z",
+  "generatedAt": "2026-08-18T19:45:13.248Z",
   "summary": {
     "totalUnfulfilled": 75,
     "canFulfill": 19,
@@ -2945,9 +2945,9 @@
         "variantId": 57933857620312,
         "onHand": 0,
         "committed": 9,
-        "incoming": 2,
+        "incoming": 3,
         "available": -9,
-        "shortfall": 7
+        "shortfall": 6
       },
       {
         "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
@@ -2970,26 +2970,6 @@
         "shortfall": 4
       },
       {
-        "product": "119205 Audino - Scarlet & Violet Black Bolt 151/086 NM (English) — 151/086, Near-Mint / Illustration Rare",
-        "productId": 15641512542552,
-        "variantId": 56849653596504,
-        "onHand": 3,
-        "committed": 6,
-        "incoming": 0,
-        "available": -3,
-        "shortfall": 3
-      },
-      {
-        "product": "119437 Venusaur ex - Scarlet & Violet 151 182/165 NM (English) — 182/165, Near-Mint / Ultra Rare",
-        "productId": 15641507103064,
-        "variantId": 56849644781912,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 0,
-        "available": -3,
-        "shortfall": 3
-      },
-      {
         "product": "113481 Espeon ex - Scarlet & Violet Prismatic Evolution 155/131 NM (English) — 155/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563726168,
         "variantId": 56849719624024,
@@ -3010,26 +2990,6 @@
         "shortfall": 2
       },
       {
-        "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
-        "productId": 15834588119384,
-        "variantId": 57582670676312,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 1,
-        "available": -3,
-        "shortfall": 2
-      },
-      {
-        "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
-        "productId": 15641321570648,
-        "variantId": 56849271783768,
-        "onHand": 2,
-        "committed": 4,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
         "product": "113485 Sylveon ex - Scarlet & Violet Prismatic Evolution 156/131 NM (English) — 156/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563660632,
         "variantId": 56849719558488,
@@ -3037,36 +2997,6 @@
         "committed": 3,
         "incoming": 0,
         "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "119465 Erika’s Invitation - Scarlet & Violet 151 196/165 NM (English) — 196/165, Near-Mint / Ultra Rare",
-        "productId": 15641506578776,
-        "variantId": 56849644126552,
-        "onHand": 1,
-        "committed": 3,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "119451 Golem ex - Scarlet & Violet 151 189/165 NM (English) — 189/165, Near-Mint / Ultra Rare",
-        "productId": 15641506808152,
-        "variantId": 56849644519768,
-        "onHand": 1,
-        "committed": 3,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
-        "productId": 15641506283864,
-        "variantId": 56849643635032,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 1,
-        "available": -3,
         "shortfall": 2
       },
       {
@@ -3080,53 +3010,13 @@
         "shortfall": 2
       },
       {
-        "product": "119473 Charmander - Scarlet & Violet 151 168/165 NM (English) — 168/165, Near-Mint / Illustration Rare",
-        "productId": 15641506349400,
-        "variantId": 56849643733336,
-        "onHand": 1,
-        "committed": 3,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "119425 Venusaur ex - Scarlet & Violet 151 198/165 NM (English) — 198/165, Near-Mint / Special Illustration Rare",
-        "productId": 15641507430744,
-        "variantId": 56849645273432,
-        "onHand": 1,
-        "committed": 3,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
-        "productId": 15641507365208,
-        "variantId": 56849645207896,
-        "onHand": 1,
-        "committed": 3,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "119453 Kangaskhan ex - Scarlet & Violet 151 190/165 NM (English) — 190/165, Near-Mint / Ultra Rare",
-        "productId": 15641506775384,
-        "variantId": 56849644487000,
-        "onHand": 2,
-        "committed": 4,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "147779 Mega Evolution Pitch Black Booster Box 36 Booster Packs (English)",
-        "productId": 15892606484824,
-        "variantId": 57791899861336,
+        "product": "119437 Venusaur ex - Scarlet & Violet 151 182/165 NM (English) — 182/165, Near-Mint / Ultra Rare",
+        "productId": 15641507103064,
+        "variantId": 56849644781912,
         "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
+        "committed": 3,
+        "incoming": 1,
+        "available": -3,
         "shortfall": 2
       },
       {
@@ -3180,13 +3070,13 @@
         "shortfall": 1
       },
       {
-        "product": "147987 Silvally - Mega Evolution Pitch Black 095/084 NM Holofoil (English) - Illustration Rare",
-        "productId": 15907131097432,
-        "variantId": 57844308115800,
-        "onHand": 1,
-        "committed": 2,
-        "incoming": 0,
-        "available": -1,
+        "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
+        "productId": 15641321570648,
+        "variantId": 56849271783768,
+        "onHand": 2,
+        "committed": 4,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       },
       {
@@ -3210,121 +3100,11 @@
         "shortfall": 1
       },
       {
-        "product": "131455 Tournament Pack Vol.7 Winner One Piece Booster Pack (English) - Black / White",
-        "productId": 15907309158744,
-        "variantId": 57847160275288,
-        "onHand": 1,
-        "committed": 2,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119443 Arbok ex - Scarlet & Violet 151 185/165 NM (English) — 185/165, Near-Mint / Ultra Rare",
-        "productId": 15641506939224,
-        "variantId": 56849644650840,
-        "onHand": 1,
-        "committed": 3,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "119447 Wigglytuff ex - Scarlet & Violet 151 187/165 NM (English) — 187/165, Near-Mint / Ultra Rare",
-        "productId": 15641506873688,
-        "variantId": 56849644585304,
-        "onHand": 1,
-        "committed": 4,
-        "incoming": 2,
-        "available": -3,
-        "shortfall": 1
-      },
-      {
-        "product": "119457 Zapdos ex - Scarlet & Violet 151 192/165 NM (English) — 192/165, Near-Mint / Ultra Rare",
-        "productId": 15641506709848,
-        "variantId": 56849644257624,
-        "onHand": 1,
-        "committed": 2,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119449 Alakazam ex - Scarlet & Violet 151 188/165 NM (English) — 188/165, Near-Mint / Ultra Rare",
-        "productId": 15641506840920,
-        "variantId": 56849644552536,
-        "onHand": 1,
-        "committed": 2,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "109990 Tangela - Scarlet & Violet 151 178/165 (English) — 178/165, Near-Mint / Illustration Rare",
-        "productId": 15641568706904,
-        "variantId": 56849735352664,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119489 Poliwhirl - Scarlet & Violet 151 176/165 NM (English) — 176/165, Near-Mint / Illustration Rare",
-        "productId": 15641505988952,
-        "variantId": 56849643372888,
-        "onHand": 1,
-        "committed": 2,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "119499 Dragonair - Scarlet & Violet 151 181/165 NM (English) — 181/165, Near-Mint / Illustration Rare",
         "productId": 15641505792344,
         "variantId": 56849642717528,
         "onHand": 0,
         "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "113508 Palafin ex - Scarlet & Violet Prismatic Evolution 151/131 NM (English) — 151/131, Near-Mint / Special Illustration Rare",
-        "productId": 15641563169112,
-        "variantId": 56849718739288,
-        "onHand": 1,
-        "committed": 2,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119471 Ivysaur - Scarlet & Violet 151 167/165 NM (English) — 167/165, Near-Mint / Illustration Rare",
-        "productId": 15641506414936,
-        "variantId": 56849643798872,
-        "onHand": 1,
-        "committed": 2,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119479 Wartortle - Scarlet & Violet 151 171/165 NM (English) — 171/165, Near-Mint / Illustration Rare",
-        "productId": 15641506218328,
-        "variantId": 56849643569496,
-        "onHand": 1,
-        "committed": 2,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
-        "productId": 15641506120024,
-        "variantId": 56849643503960,
-        "onHand": 1,
-        "committed": 2,
         "incoming": 0,
         "available": -1,
         "shortfall": 1
@@ -3340,43 +3120,13 @@
         "shortfall": 1
       },
       {
-        "product": "119455 Jynx ex - Scarlet & Violet 151 191/165 NM (English) — 191/165, Near-Mint / Ultra Rare",
-        "productId": 15641506742616,
-        "variantId": 56849644454232,
-        "onHand": 2,
+        "product": "119425 Venusaur ex - Scarlet & Violet 151 198/165 NM (English) — 198/165, Near-Mint / Special Illustration Rare",
+        "productId": 15641507430744,
+        "variantId": 56849645273432,
+        "onHand": 1,
         "committed": 3,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119433 Erika’s Invitation - Scarlet & Violet 151 203/165 NM (English) — 203/165, Near-Mint / Special Illustration Rare",
-        "productId": 15641507201368,
-        "variantId": 56849645044056,
-        "onHand": 2,
-        "committed": 3,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "74199 - Scarlet & Violet Twilight Masquerade Sleeved Booster Pack (English)",
-        "productId": 15921497178456,
-        "variantId": 57926749389144,
-        "onHand": 0,
-        "committed": 2,
         "incoming": 1,
         "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
-        "productId": 15641561432408,
-        "variantId": 56849716019544,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 2,
-        "available": -3,
         "shortfall": 1
       },
       {
@@ -3390,23 +3140,13 @@
         "shortfall": 1
       },
       {
-        "product": "75076 - Attack of the Vine! Illumineer's Trove 8 Booster Packs (English)",
-        "productId": 15931095581016,
-        "variantId": 57949781000536,
+        "product": "147779 Mega Evolution Pitch Black Booster Box 36 Booster Packs (English)",
+        "productId": 15892606484824,
+        "variantId": 57791899861336,
         "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119893 Eevee Poké Post Pop-up Exclusive Promo - Scarlet & Violet 151 133/165 NM (English) — 133/165, Near-Mint / Common",
-        "productId": 15641503990104,
-        "variantId": 56849640128856,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       },
       {
@@ -3420,79 +3160,9 @@
         "shortfall": 1
       },
       {
-        "product": "57491 - Ditto - Fossil 18/62 NM Holofoil 1st Edition (English)",
-        "productId": 15936020218200,
-        "variantId": 57958965018968,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "147787 Mega Evolution Pitch Black Pokémon Center Elite Trainer Box 11 Booster Packs (English) - Multicolor",
         "productId": 15891925336408,
         "variantId": 57790683742552,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "118768 Woobat - Scarlet & Violet White Flare 119/086 NM (English) — 119/086, Near-Mint / Illustration Rare",
-        "productId": 15641520898392,
-        "variantId": 56849666900312,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132724 Budew - Mega Evolution Ascended Heroes 221/217 NM (English) — 221/217, Near-Mint / Illustration Rare",
-        "productId": 15641318130008,
-        "variantId": 56849266442584,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "148001 - Morpeko ex - Mega Evolution Pitch Black 102/084 NM Holofoil (English) - Ultra Rare",
-        "productId": 15942736609624,
-        "variantId": 57983178899800,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "147985 - Toucannon - Mega Evolution Pitch Black 094/084 NM Holofoil (English) - Illustration Rare",
-        "productId": 15942737527128,
-        "variantId": 57983184732504,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "139788 - Spinning Axe - Spiritforged 186/221 NM (Chinese) - Epic",
-        "productId": 15942741623128,
-        "variantId": 57983190794584,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
-        "productId": 15641508512088,
-        "variantId": 56849646649688,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -3560,16 +3230,6 @@
         "shortfall": 1
       },
       {
-        "product": "147162 - Scarlet & Violet Paradox Rift Sleeved Booster Pack (English)",
-        "productId": 15942787432792,
-        "variantId": 57983499403608,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "134046 - Mega Evolution Perfect Order Makuhita Blister Booster Pack (English) - Multicolor",
         "productId": 15942787563864,
         "variantId": 57983499698520,
@@ -3590,16 +3250,6 @@
         "shortfall": 1
       },
       {
-        "product": "150295 - Dark Crystal Blaze Jumbo Booster Pack (S-Chinese) - Multicolor",
-        "productId": 15942788776280,
-        "variantId": 57983501893976,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "147777 - Mega Evolution Pitch Black Booster Pack (English)",
         "productId": 15942789071192,
         "variantId": 57983502713176,
@@ -3610,109 +3260,9 @@
         "shortfall": 1
       },
       {
-        "product": "110270 Sword & Shield Fusion Strike Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641564774744,
-        "variantId": 56849721295192,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "150439 - Surging Sparks Booster Box 36 Booster Packs (English) - Multicolor",
-        "productId": 15942810927448,
-        "variantId": 57983694176600,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "118746 Samurott - Scarlet & Violet White Flare 107/086 NM (English) — 107/086, Near-Mint / Illustration Rare",
         "productId": 15641521258840,
         "variantId": 56849667293528,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119885 Bulbasaur - Scarlet & Violet 151 001/165 NM (English) — 001/165, Near-Mint / Common",
-        "productId": 15641504121176,
-        "variantId": 56849640259928,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "138021 - Exeggcute - Scarlet & Violet Surging Sparks 192/191 NM Holofoil (English) - Illustration Rare",
-        "productId": 15942816170328,
-        "variantId": 57983760105816,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "144440 MEGA Abyss Eye Booster Box 30 Booster Packs (Japanese) - Multicolor",
-        "productId": 15796633665880,
-        "variantId": 57468100968792,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "150409 - The Glory of Team Rocket Booster Box 30 Booster Packs (Japanese) - Multicolor",
-        "productId": 15942830686552,
-        "variantId": 57983919030616,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "150395 - White Flare JP Booster Box 20 Booster Packs (Japanese)",
-        "productId": 15942830915928,
-        "variantId": 57983919653208,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "120841 Hoopa GX - Sun & Moon Team Up 187/181 NM (English) — 187/181, Near-Mint / Rainbow Rare",
-        "productId": 15641500156248,
-        "variantId": 56849634230616,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "118756 Vanilluxe - Scarlet & Violet White Flare 113/086 NM (English) — 113/086, Near-Mint / Illustration Rare",
-        "productId": 15641521095000,
-        "variantId": 56849667129688,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "147979 - Dhelmise - Mega Evolution Pitch Black 091/084 NM Holofoil (English) - Illustration Rare",
-        "productId": 15942860833112,
-        "variantId": 57984092111192,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -3763,16 +3313,6 @@
         "product": "118678 Reshiram ex - Scarlet & Violet White Flare 166/086 NM (English) — 166/086, Near-Mint / Special Illustration Rare",
         "productId": 15641522667864,
         "variantId": 56849669095768,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "116774 Scarlet & Violet Destined Rivals Team Rocket's Mewtwo ex Box 4 Booster Pack (English) — 4 booster pack / Multicolor",
-        "productId": 15641523126616,
-        "variantId": 56849669620056,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
