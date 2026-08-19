@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T06:07:48.117Z",
+  "generatedAt": "2026-08-19T07:10:18.006Z",
   "summary": {
     "totalUnfulfilled": 77,
-    "canFulfill": 21,
-    "blocked": 56
+    "canFulfill": 22,
+    "blocked": 55
   },
   "fulfillableOrders": [
     {
@@ -11,6 +11,12 @@
       "name": "#3865",
       "createdAt": "2026-06-29T15:04:49+02:00",
       "itemCount": 4
+    },
+    {
+      "id": 12476808003928,
+      "name": "#3995",
+      "createdAt": "2026-07-17T20:43:31+02:00",
+      "itemCount": 1
     },
     {
       "id": 12497733779800,
@@ -134,21 +140,6 @@
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12476808003928,
-      "name": "#3995",
-      "customerName": "sascha schrader",
-      "createdAt": "2026-07-17T20:43:31+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "113480 Umbreon ex - Scarlet & Violet Prismatic Evolution 161/131 NM (English) — 161/131, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
     {
       "id": 12479835504984,
       "name": "#4001",
@@ -1409,7 +1400,7 @@
         "product": "113480 Umbreon ex - Scarlet & Violet Prismatic Evolution 161/131 NM (English) — 161/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563758936,
         "variantId": 56849719656792,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 4,
         "demand": 4
       },
@@ -3073,10 +3064,10 @@
         "product": "113480 Umbreon ex - Scarlet & Violet Prismatic Evolution 161/131 NM (English) — 161/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563758936,
         "variantId": 56849719656792,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 4,
-        "incoming": 3,
-        "available": -4,
+        "incoming": 2,
+        "available": -3,
         "shortfall": 1
       },
       {
