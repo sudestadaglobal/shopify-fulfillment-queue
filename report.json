@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T14:01:47.267Z",
+  "generatedAt": "2026-08-19T14:47:10.245Z",
   "summary": {
-    "totalUnfulfilled": 59,
-    "canFulfill": 4,
-    "blocked": 55
+    "totalUnfulfilled": 63,
+    "canFulfill": 6,
+    "blocked": 57
   },
   "fulfillableOrders": [
     {
@@ -28,6 +28,18 @@
       "id": 12558405337432,
       "name": "#4251",
       "createdAt": "2026-08-18T21:49:22+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12559661531480,
+      "name": "#4254",
+      "createdAt": "2026-08-19T16:05:54+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12559702294872,
+      "name": "#4256",
+      "createdAt": "2026-08-19T16:27:13+02:00",
       "itemCount": 1
     }
   ],
@@ -1252,6 +1264,36 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12559655108952,
+      "name": "#4253",
+      "customerName": "sander thijs",
+      "createdAt": "2026-08-19T16:03:09+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "113485 Sylveon ex - Scarlet & Violet Prismatic Evolution 156/131 NM (English) — 156/131, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12559672181080,
+      "name": "#4255",
+      "customerName": "M.N. Ton",
+      "createdAt": "2026-08-19T16:10:49+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "77906 - Vendetta Booster Box (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2101,8 +2143,8 @@
         "productId": 15641563660632,
         "variantId": 56849719558488,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "147779 Mega Evolution Pitch Black Booster Box 36 Booster Packs (English)",
@@ -2631,6 +2673,22 @@
         "onHand": 0,
         "committed": 2,
         "demand": 2
+      },
+      {
+        "product": "110223 Scarlet & Violet Sleeved Booster Pack (English) — Multicolor / 10 cards",
+        "productId": 15643186921816,
+        "variantId": 56857168576856,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "77906 - Vendetta Booster Box (English)",
+        "productId": 15946775560536,
+        "variantId": 58003500630360,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2675,6 +2733,16 @@
         "shortfall": 3
       },
       {
+        "product": "113485 Sylveon ex - Scarlet & Violet Prismatic Evolution 156/131 NM (English) — 156/131, Near-Mint / Special Illustration Rare",
+        "productId": 15641563660632,
+        "variantId": 56849719558488,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 0,
+        "available": -3,
+        "shortfall": 3
+      },
+      {
         "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
         "productId": 15641503859032,
         "variantId": 56849639571800,
@@ -2702,16 +2770,6 @@
         "committed": 3,
         "incoming": 1,
         "available": -3,
-        "shortfall": 2
-      },
-      {
-        "product": "113485 Sylveon ex - Scarlet & Violet Prismatic Evolution 156/131 NM (English) — 156/131, Near-Mint / Special Illustration Rare",
-        "productId": 15641563660632,
-        "variantId": 56849719558488,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
         "shortfall": 2
       },
       {
@@ -3068,6 +3126,16 @@
         "product": "119113 Seismitoad - Scarlet & Violet Black Bolt 105/086 NM (English) — 105/086, Near-Mint / Illustration Rare",
         "productId": 15641514410328,
         "variantId": 56849656447320,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "77906 - Vendetta Booster Box (English)",
+        "productId": 15946775560536,
+        "variantId": 58003500630360,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
