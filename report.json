@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-20T12:06:27.659Z",
+  "generatedAt": "2026-08-20T13:15:15.091Z",
   "summary": {
-    "totalUnfulfilled": 63,
-    "canFulfill": 6,
-    "blocked": 57
+    "totalUnfulfilled": 66,
+    "canFulfill": 7,
+    "blocked": 59
   },
   "fulfillableOrders": [
     {
@@ -41,6 +41,12 @@
       "name": "#4256",
       "createdAt": "2026-08-19T16:27:13+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12561445192024,
+      "name": "#4257",
+      "createdAt": "2026-08-20T14:47:24+02:00",
+      "itemCount": 2
     }
   ],
   "blockedOrders": [
@@ -1289,6 +1295,36 @@
       "reasons": [
         {
           "product": "77906 - Vendetta Booster Box (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12561453678936,
+      "name": "#4258",
+      "customerName": "Witt Bobski",
+      "createdAt": "2026-08-20T14:52:04+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "146992 Wilds Unknown Illumineer's Trove 8 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12561462002008,
+      "name": "#4259",
+      "customerName": "Oliver Nielsen",
+      "createdAt": "2026-08-20T14:56:27+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -2559,8 +2595,8 @@
         "productId": 15641566445912,
         "variantId": 56849732239704,
         "onHand": 3,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "110184 Scarlet & Violet Twilight Masquerade (English) — 10 cards / Multicolor",
@@ -2689,6 +2725,30 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "110200 Scarlet & Violet Shiny Treasure ex Booster Pack (Japanese) — 10 cards / Multicolor",
+        "productId": 15641565987160,
+        "variantId": 56849731289432,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "146992 Wilds Unknown Illumineer's Trove 8 Booster Packs (English) - Multicolor",
+        "productId": 15873086816600,
+        "variantId": 57706386850136,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
+        "productId": 15641563300184,
+        "variantId": 56849718870360,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2698,9 +2758,9 @@
         "variantId": 56849719525720,
         "onHand": 0,
         "committed": 5,
-        "incoming": 0,
+        "incoming": 1,
         "available": -5,
-        "shortfall": 5
+        "shortfall": 4
       },
       {
         "product": "110190 Scarlet & Violet Temporal Forces (English) — 10 cards / Multicolor",
@@ -2711,16 +2771,6 @@
         "incoming": 0,
         "available": -4,
         "shortfall": 4
-      },
-      {
-        "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
-        "productId": 15641503859032,
-        "variantId": 56849639571800,
-        "onHand": 1,
-        "committed": 6,
-        "incoming": 3,
-        "available": -5,
-        "shortfall": 2
       },
       {
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
@@ -2743,16 +2793,6 @@
         "shortfall": 2
       },
       {
-        "product": "113481 Espeon ex - Scarlet & Violet Prismatic Evolution 155/131 NM (English) — 155/131, Near-Mint / Special Illustration Rare",
-        "productId": 15641563726168,
-        "variantId": 56849719624024,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 1,
-        "available": -3,
-        "shortfall": 2
-      },
-      {
         "product": "113480 Umbreon ex - Scarlet & Violet Prismatic Evolution 161/131 NM (English) — 161/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563758936,
         "variantId": 56849719656792,
@@ -2760,6 +2800,16 @@
         "committed": 4,
         "incoming": 2,
         "available": -3,
+        "shortfall": 1
+      },
+      {
+        "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
+        "productId": 15641503859032,
+        "variantId": 56849639571800,
+        "onHand": 1,
+        "committed": 6,
+        "incoming": 4,
+        "available": -5,
         "shortfall": 1
       },
       {
@@ -2790,6 +2840,16 @@
         "committed": 3,
         "incoming": 1,
         "available": -2,
+        "shortfall": 1
+      },
+      {
+        "product": "113481 Espeon ex - Scarlet & Violet Prismatic Evolution 155/131 NM (English) — 155/131, Near-Mint / Special Illustration Rare",
+        "productId": 15641563726168,
+        "variantId": 56849719624024,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 2,
+        "available": -3,
         "shortfall": 1
       },
       {
@@ -2923,16 +2983,6 @@
         "shortfall": 1
       },
       {
-        "product": "147773 Mega Evolution Pitch Black Elite Trainer Box 9 Booster Packs (English)",
-        "productId": 15892538556760,
-        "variantId": 57791753421144,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
         "productId": 15641268355416,
         "variantId": 56849193173336,
@@ -2958,16 +3008,6 @@
         "variantId": 56849722769752,
         "onHand": 2,
         "committed": 3,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "110198 Scarlet & Violet Paldean Fates Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641566019928,
-        "variantId": 56849731322200,
-        "onHand": 0,
-        "committed": 1,
         "incoming": 0,
         "available": -1,
         "shortfall": 1
@@ -3033,9 +3073,19 @@
         "shortfall": 1
       },
       {
-        "product": "77906 - Vendetta Booster Box (English)",
-        "productId": 15946775560536,
-        "variantId": 58003500630360,
+        "product": "146992 Wilds Unknown Illumineer's Trove 8 Booster Packs (English) - Multicolor",
+        "productId": 15873086816600,
+        "variantId": 57706386850136,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
+        "productId": 15641563300184,
+        "variantId": 56849718870360,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
