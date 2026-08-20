@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T10:52:50.362Z",
+  "generatedAt": "2026-08-20T11:34:12.366Z",
   "summary": {
     "totalUnfulfilled": 63,
     "canFulfill": 6,
@@ -929,7 +929,7 @@
     {
       "id": 12554421764440,
       "name": "#4230",
-      "customerName": "Rafa�� Zbrzeźniak",
+      "customerName": "Rafał Zbrzeźniak",
       "createdAt": "2026-08-16T21:39:58+02:00",
       "itemCount": 1,
       "reasons": [
