@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T10:54:04.252Z",
+  "generatedAt": "2026-08-21T11:34:20.509Z",
   "summary": {
     "totalUnfulfilled": 65,
-    "canFulfill": 7,
-    "blocked": 58
+    "canFulfill": 19,
+    "blocked": 46
   },
   "fulfillableOrders": [
     {
@@ -13,10 +13,82 @@
       "itemCount": 1
     },
     {
+      "id": 12483867148632,
+      "name": "#4029",
+      "createdAt": "2026-07-21T18:19:18+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12507876295000,
+      "name": "#4120",
+      "createdAt": "2026-07-30T17:13:10+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12513114358104,
+      "name": "#4137",
+      "createdAt": "2026-08-02T15:48:34+02:00",
+      "itemCount": 10
+    },
+    {
+      "id": 12529458053464,
+      "name": "#4182",
+      "createdAt": "2026-08-06T17:33:51+02:00",
+      "itemCount": 3
+    },
+    {
       "id": 12529466376536,
       "name": "#4183",
       "createdAt": "2026-08-06T17:38:34+02:00",
       "itemCount": 3
+    },
+    {
+      "id": 12531337527640,
+      "name": "#4186",
+      "createdAt": "2026-08-07T18:18:13+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12533954412888,
+      "name": "#4191",
+      "createdAt": "2026-08-09T00:50:32+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12536844255576,
+      "name": "#4195",
+      "createdAt": "2026-08-10T16:52:35+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12536889606488,
+      "name": "#4197",
+      "createdAt": "2026-08-10T17:15:24+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12546700935512,
+      "name": "#4205",
+      "createdAt": "2026-08-12T22:37:24+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12548047405400,
+      "name": "#4211",
+      "createdAt": "2026-08-13T17:55:59+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12548196630872,
+      "name": "#4214",
+      "createdAt": "2026-08-13T19:26:32+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12550581485912,
+      "name": "#4223",
+      "createdAt": "2026-08-14T19:31:22+02:00",
+      "itemCount": 1
     },
     {
       "id": 12557574701400,
@@ -102,21 +174,6 @@
       ]
     },
     {
-      "id": 12483867148632,
-      "name": "#4029",
-      "customerName": "Robert Brauner",
-      "createdAt": "2026-07-21T18:19:18+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "118668 Scarlet & Violet White Flare Gothitelle Tech Sticker Collection (English) — 3 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12497687544152,
       "name": "#4059",
       "customerName": "Adrian Arnesen",
@@ -177,21 +234,6 @@
       ]
     },
     {
-      "id": 12507876295000,
-      "name": "#4120",
-      "customerName": "Luis Brauner",
-      "createdAt": "2026-07-30T17:13:10+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "148505 Snorlax - Jungle 27/64 NM (English) - Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12513056522584,
       "name": "#4133",
       "customerName": "Mario Heine",
@@ -199,37 +241,10 @@
       "itemCount": 2,
       "reasons": [
         {
-          "product": "147783 Mega Evolution Pitch Black Binacle 3-Pack Blister 3 Booster Packs (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "110058 Scarlet & Violet Stellar Miracle Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 2,
           "needed": 3
-        }
-      ]
-    },
-    {
-      "id": 12513114358104,
-      "name": "#4137",
-      "customerName": "fernando queipo de llano de aguilera",
-      "createdAt": "2026-08-02T15:48:34+02:00",
-      "itemCount": 10,
-      "reasons": [
-        {
-          "product": "145286 Marill - Scarlet & Violet Snow Hazard 73/71 NM Holofoil (Japanese) - Secret Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "145427 Horsea - Aquapolis 84/147 NM (English) - Common",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -318,36 +333,6 @@
       ]
     },
     {
-      "id": 12529458053464,
-      "name": "#4182",
-      "customerName": "Lum Krasniqi",
-      "createdAt": "2026-08-06T17:33:51+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "75104 - Peter Pan & Tinker Bell - Fast Friends - Attack of the Vine 240/207 NM V2 Holofoil (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12531337527640,
-      "name": "#4186",
-      "customerName": "Sem Jansonius",
-      "createdAt": "2026-08-07T18:18:13+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "145433 Starmie V - Sword & Shield Astral Radiance TG13/TG30 NM (English) - Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12531524272472,
       "name": "#4187",
       "customerName": "Hugo Kikkine",
@@ -378,21 +363,6 @@
       ]
     },
     {
-      "id": 12533954412888,
-      "name": "#4191",
-      "customerName": "Mateo Barro Fernández",
-      "createdAt": "2026-08-09T00:50:32+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "136101 MEGA Start Deck 100 Battle Collection (Japanese) — 60 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12536833311064,
       "name": "#4194",
       "customerName": "Benjamin Gagliardi",
@@ -408,21 +378,6 @@
       ]
     },
     {
-      "id": 12536844255576,
-      "name": "#4195",
-      "customerName": "Enrico Rinaldi",
-      "createdAt": "2026-08-10T16:52:35+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "120833 Celebi & Venusaur GX - Sun & Moon Team Up 001/181 NM (English) — 1/181, Near-Mint / Ultra Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12536870338904,
       "name": "#4196",
       "customerName": "Chen Matteo",
@@ -431,27 +386,6 @@
       "reasons": [
         {
           "product": "68190 - Meowth ex - Mega Evolution Perfect Order 121/088 NM Holofoil (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "76184 - Storm Emeralda Booster Box - Scarlet & Violet Storm Emeralda (Japanese)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12536889606488,
-      "name": "#4197",
-      "customerName": "Maximilian Milota",
-      "createdAt": "2026-08-10T17:15:24+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "76184 - Storm Emeralda Booster Box - Scarlet & Violet Storm Emeralda (Japanese)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -518,21 +452,6 @@
         },
         {
           "product": "113480 Umbreon ex - Scarlet & Violet Prismatic Evolution 161/131 NM (English) — 161/131, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12546700935512,
-      "name": "#4205",
-      "customerName": "M.N. Ton",
-      "createdAt": "2026-08-12T22:37:24+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "147779 Mega Evolution Pitch Black Booster Box 36 Booster Packs (English)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -627,36 +546,6 @@
       ]
     },
     {
-      "id": 12548047405400,
-      "name": "#4211",
-      "customerName": "Luis Brauner",
-      "createdAt": "2026-08-13T17:55:59+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "57491 - Ditto - Fossil 18/62 NM Holofoil 1st Edition (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12548196630872,
-      "name": "#4214",
-      "customerName": "james paul",
-      "createdAt": "2026-08-13T19:26:32+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12548243915096,
       "name": "#4215",
       "customerName": "Lars Hollemans",
@@ -721,6 +610,12 @@
           "needed": 1
         },
         {
+          "product": "147987 Silvally - Mega Evolution Pitch Black 095/084 NM Holofoil (English) - Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
           "product": "132678 Cynthia’s Spiritomb - Mega Evolution Ascended Heroes 244/217 NM (English) — 244/217, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -752,21 +647,6 @@
       "reasons": [
         {
           "product": "76184 - Storm Emeralda Booster Box - Scarlet & Violet Storm Emeralda (Japanese)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        }
-      ]
-    },
-    {
-      "id": 12550581485912,
-      "name": "#4223",
-      "customerName": "james paul",
-      "createdAt": "2026-08-14T19:31:22+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 2
@@ -1041,12 +921,6 @@
       "createdAt": "2026-08-17T00:03:08+02:00",
       "itemCount": 2,
       "reasons": [
-        {
-          "product": "120841 Hoopa GX - Sun & Moon Team Up 187/181 NM (English) — 187/181, Near-Mint / Rainbow Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
         {
           "product": "118756 Vanilluxe - Scarlet & Violet White Flare 113/086 NM (English) — 113/086, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
@@ -1389,7 +1263,7 @@
         "product": "118668 Scarlet & Violet White Flare Gothitelle Tech Sticker Collection (English) — 3 booster pack / Multicolor",
         "productId": 15641522897240,
         "variantId": 56849669390680,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1485,7 +1359,7 @@
         "product": "148505 Snorlax - Jungle 27/64 NM (English) - Rare",
         "productId": 15904352338264,
         "variantId": 57831389692248,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1493,7 +1367,7 @@
         "product": "147783 Mega Evolution Pitch Black Binacle 3-Pack Blister 3 Booster Packs (English) - Multicolor",
         "productId": 15904104415576,
         "variantId": 57830910919000,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1517,7 +1391,7 @@
         "product": "145286 Marill - Scarlet & Violet Snow Hazard 73/71 NM Holofoil (Japanese) - Secret Rare",
         "productId": 15907111993688,
         "variantId": 57843811123544,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1533,7 +1407,7 @@
         "product": "145427 Horsea - Aquapolis 84/147 NM (English) - Common",
         "productId": 15907112386904,
         "variantId": 57843811746136,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1685,7 +1559,7 @@
         "product": "119443 Arbok ex - Scarlet & Violet 151 185/165 NM (English) — 185/165, Near-Mint / Ultra Rare",
         "productId": 15641506939224,
         "variantId": 56849644650840,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 3,
         "demand": 3
       },
@@ -1789,7 +1663,7 @@
         "product": "119419 Mew ex V3 - Scarlet & Violet 151 205/165 NM (English) — 205/165, Near-Mint / Secret Rare",
         "productId": 15641507660120,
         "variantId": 56849645502808,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -1797,7 +1671,7 @@
         "product": "119459 Mew ex - Scarlet & Violet 151 193/165 NM (English) — 193/165, Near-Mint / Ultra Rare",
         "productId": 15641506677080,
         "variantId": 56849644224856,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -1997,7 +1871,7 @@
         "product": "75104 - Peter Pan & Tinker Bell - Fast Friends - Attack of the Vine 240/207 NM V2 Holofoil (English)",
         "productId": 15916735201624,
         "variantId": 57883171357016,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2037,7 +1911,7 @@
         "product": "145433 Starmie V - Sword & Shield Astral Radiance TG13/TG30 NM (English) - Special Illustration Rare",
         "productId": 15836339306840,
         "variantId": 57589267464536,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2061,7 +1935,7 @@
         "product": "136101 MEGA Start Deck 100 Battle Collection (Japanese) — 60 cards / Multicolor",
         "productId": 15641266127192,
         "variantId": 56849190027608,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2077,7 +1951,7 @@
         "product": "120833 Celebi & Venusaur GX - Sun & Moon Team Up 001/181 NM (English) — 1/181, Near-Mint / Ultra Rare",
         "productId": 15641500320088,
         "variantId": 56849634394456,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2093,7 +1967,7 @@
         "product": "76184 - Storm Emeralda Booster Box - Scarlet & Violet Storm Emeralda (Japanese)",
         "productId": 15925445394776,
         "variantId": 57933857620312,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 9,
         "demand": 9
       },
@@ -2157,7 +2031,7 @@
         "product": "147779 Mega Evolution Pitch Black Booster Box 36 Booster Packs (English)",
         "productId": 15892606484824,
         "variantId": 57791899861336,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -2197,7 +2071,7 @@
         "product": "57491 - Ditto - Fossil 18/62 NM Holofoil 1st Edition (English)",
         "productId": 15936020218200,
         "variantId": 57958965018968,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2205,7 +2079,7 @@
         "product": "131504 A Fist of Divine Speed One Piece Booster Pack (English) — 12 cards / Multicolor",
         "productId": 15641343951192,
         "variantId": 56849303994712,
-        "onHand": 0,
+        "onHand": 8,
         "committed": 3,
         "demand": 3
       },
@@ -2469,7 +2343,7 @@
         "product": "120841 Hoopa GX - Sun & Moon Team Up 187/181 NM (English) — 187/181, Near-Mint / Rainbow Rare",
         "productId": 15641500156248,
         "variantId": 56849634230616,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
