@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T15:40:12.872Z",
+  "generatedAt": "2026-08-21T16:07:11.452Z",
   "summary": {
-    "totalUnfulfilled": 43,
-    "canFulfill": 6,
-    "blocked": 37
+    "totalUnfulfilled": 46,
+    "canFulfill": 7,
+    "blocked": 39
   },
   "fulfillableOrders": [
     {
@@ -40,6 +40,12 @@
       "id": 12558405337432,
       "name": "#4251",
       "createdAt": "2026-08-18T21:49:22+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12564847198552,
+      "name": "#4261",
+      "createdAt": "2026-08-21T17:45:23+02:00",
       "itemCount": 1
     }
   ],
@@ -857,6 +863,36 @@
       "reasons": [
         {
           "product": "HyperX FlipCast - Streaming Dynamic Microphone Pre-Sale",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12564853555544,
+      "name": "#4262",
+      "customerName": "JAVIER Barragan",
+      "createdAt": "2026-08-21T17:49:16+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131430 Tournament Pack Vol.2 Winner One Piece Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12564861944152,
+      "name": "#4263",
+      "customerName": "Damian van Veen",
+      "createdAt": "2026-08-21T17:54:15+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "73085 - Yamato - One Piece The Time of Battle OP16-079-V2 NM (English)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1969,6 +2005,30 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "110223 Scarlet & Violet Sleeved Booster Pack (English) — Multicolor / 10 cards",
+        "productId": 15643186921816,
+        "variantId": 56857168576856,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131430 Tournament Pack Vol.2 Winner One Piece Booster Pack (English)",
+        "productId": 15798656500056,
+        "variantId": 57474322104664,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "73085 - Yamato - One Piece The Time of Battle OP16-079-V2 NM (English)",
+        "productId": 15951868690776,
+        "variantId": 58137502384472,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2226,6 +2286,26 @@
         "product": "HyperX FlipCast - Streaming Dynamic Microphone Pre-Sale",
         "productId": 15606357623128,
         "variantId": 56700916531544,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "131430 Tournament Pack Vol.2 Winner One Piece Booster Pack (English)",
+        "productId": 15798656500056,
+        "variantId": 57474322104664,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "73085 - Yamato - One Piece The Time of Battle OP16-079-V2 NM (English)",
+        "productId": 15951868690776,
+        "variantId": 58137502384472,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
