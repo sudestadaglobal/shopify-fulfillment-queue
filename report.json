@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T12:06:10.730Z",
+  "generatedAt": "2026-08-21T13:15:08.537Z",
   "summary": {
-    "totalUnfulfilled": 65,
-    "canFulfill": 23,
-    "blocked": 42
+    "totalUnfulfilled": 66,
+    "canFulfill": 29,
+    "blocked": 37
   },
   "fulfillableOrders": [
     {
@@ -37,6 +37,12 @@
       "itemCount": 10
     },
     {
+      "id": 12521047916888,
+      "name": "#4154",
+      "createdAt": "2026-08-03T15:17:25+02:00",
+      "itemCount": 2
+    },
+    {
       "id": 12524258099544,
       "name": "#4172",
       "createdAt": "2026-08-04T18:44:28+02:00",
@@ -61,6 +67,18 @@
       "itemCount": 1
     },
     {
+      "id": 12531524272472,
+      "name": "#4187",
+      "createdAt": "2026-08-07T20:32:33+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12533949366616,
+      "name": "#4189",
+      "createdAt": "2026-08-09T00:42:43+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12533954412888,
       "name": "#4191",
       "createdAt": "2026-08-09T00:50:32+02:00",
@@ -79,6 +97,12 @@
       "itemCount": 2
     },
     {
+      "id": 12539814740312,
+      "name": "#4201",
+      "createdAt": "2026-08-11T20:18:38+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12546700935512,
       "name": "#4205",
       "createdAt": "2026-08-12T22:37:24+02:00",
@@ -89,6 +113,12 @@
       "name": "#4206",
       "createdAt": "2026-08-12T22:44:11+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12546728460632,
+      "name": "#4209",
+      "createdAt": "2026-08-12T23:01:45+02:00",
+      "itemCount": 1
     },
     {
       "id": 12548047405400,
@@ -106,6 +136,12 @@
       "id": 12550581485912,
       "name": "#4223",
       "createdAt": "2026-08-14T19:31:22+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12554421764440,
+      "name": "#4230",
+      "createdAt": "2026-08-16T21:39:58+02:00",
       "itemCount": 1
     },
     {
@@ -173,12 +209,6 @@
           "reason": "Insufficient stock",
           "stock": 1,
           "needed": 2
-        },
-        {
-          "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 1,
-          "needed": 2
         }
       ]
     },
@@ -243,21 +273,6 @@
       ]
     },
     {
-      "id": 12521047916888,
-      "name": "#4154",
-      "customerName": "Alexander Schlykow",
-      "createdAt": "2026-08-03T15:17:25+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12524278120792,
       "name": "#4174",
       "customerName": "Adrian Arnesen",
@@ -297,36 +312,6 @@
       ]
     },
     {
-      "id": 12531524272472,
-      "name": "#4187",
-      "customerName": "Hugo Kikkine",
-      "createdAt": "2026-08-07T20:32:33+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "124054 Mega Charizard X ex - Phantasmal Flames 125/094 NM (English) — 125/094, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12533949366616,
-      "name": "#4189",
-      "customerName": "Ricards Sandris Megi",
-      "createdAt": "2026-08-09T00:42:43+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "74199 - Scarlet & Violet Twilight Masquerade Sleeved Booster Pack (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12536833311064,
       "name": "#4194",
       "customerName": "Benjamin Gagliardi",
@@ -357,33 +342,12 @@
       ]
     },
     {
-      "id": 12539814740312,
-      "name": "#4201",
-      "customerName": "Anil Gedik",
-      "createdAt": "2026-08-11T20:18:38+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "131582 Romance Dawn One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12539972747608,
       "name": "#4203",
       "customerName": "Adrian Arnesen",
       "createdAt": "2026-08-11T20:36:35+02:00",
       "itemCount": 7,
       "reasons": [
-        {
-          "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
         {
           "product": "113481 Espeon ex - Scarlet & Violet Prismatic Evolution 155/131 NM (English) — 155/131, Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
@@ -392,21 +356,6 @@
         },
         {
           "product": "113485 Sylveon ex - Scarlet & Violet Prismatic Evolution 156/131 NM (English) — 156/131, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12546728460632,
-      "name": "#4209",
-      "customerName": "Adrian Arnesen",
-      "createdAt": "2026-08-12T23:01:45+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -652,12 +601,6 @@
           "needed": 1
         },
         {
-          "product": "147162 - Scarlet & Violet Paradox Rift Sleeved Booster Pack (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "134046 - Mega Evolution Perfect Order Makuhita Blister Booster Pack (English) - Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -699,21 +642,6 @@
       ]
     },
     {
-      "id": 12554421764440,
-      "name": "#4230",
-      "customerName": "Rafał Zbrzeźniak",
-      "createdAt": "2026-08-16T21:39:58+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "150439 - Surging Sparks Booster Box 36 Booster Packs (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12554444439896,
       "name": "#4231",
       "customerName": "Adrian Arnesen",
@@ -734,12 +662,6 @@
         },
         {
           "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1063,6 +985,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12563605717336,
+      "name": "#4260",
+      "customerName": "Karolis Piščikas",
+      "createdAt": "2026-08-21T14:03:08+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "HyperX FlipCast - Streaming Dynamic Microphone Pre-Sale",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1095,7 +1032,7 @@
         "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
         "productId": 15834588119384,
         "variantId": 57582670676312,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 3,
         "demand": 3
       },
@@ -1399,7 +1336,7 @@
         "product": "131455 Tournament Pack Vol.7 Winner One Piece Booster Pack (English) - Black / White",
         "productId": 15907309158744,
         "variantId": 57847160275288,
-        "onHand": 1,
+        "onHand": 5,
         "committed": 2,
         "demand": 2
       },
@@ -1415,7 +1352,7 @@
         "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
         "productId": 15641523421528,
         "variantId": 56849676173656,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1799,7 +1736,7 @@
         "product": "124054 Mega Charizard X ex - Phantasmal Flames 125/094 NM (English) — 125/094, Near-Mint / Special Illustration Rare",
         "productId": 15641486950744,
         "variantId": 56849613652312,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1807,7 +1744,7 @@
         "product": "74199 - Scarlet & Violet Twilight Masquerade Sleeved Booster Pack (English)",
         "productId": 15921497178456,
         "variantId": 57926749389144,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 2,
         "demand": 2
       },
@@ -1855,7 +1792,7 @@
         "product": "131582 Romance Dawn One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
         "productId": 15641341034840,
         "variantId": 56849300652376,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1863,7 +1800,7 @@
         "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
         "productId": 15641561432408,
         "variantId": 56849716019544,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 3,
         "demand": 3
       },
@@ -2087,7 +2024,7 @@
         "product": "147162 - Scarlet & Violet Paradox Rift Sleeved Booster Pack (English)",
         "productId": 15942787432792,
         "variantId": 57983499403608,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2159,7 +2096,7 @@
         "product": "150439 - Surging Sparks Booster Box 36 Booster Packs (English) - Multicolor",
         "productId": 15942810927448,
         "variantId": 57983694176600,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2471,6 +2408,14 @@
         "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
         "productId": 15641563300184,
         "variantId": 56849718870360,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "HyperX FlipCast - Streaming Dynamic Microphone Pre-Sale",
+        "productId": 15606357623128,
+        "variantId": 56700916531544,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -2811,6 +2756,16 @@
         "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
         "productId": 15641563300184,
         "variantId": 56849718870360,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "HyperX FlipCast - Streaming Dynamic Microphone Pre-Sale",
+        "productId": 15606357623128,
+        "variantId": 56700916531544,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
