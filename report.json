@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T16:07:11.452Z",
+  "generatedAt": "2026-08-21T16:55:02.428Z",
   "summary": {
-    "totalUnfulfilled": 46,
+    "totalUnfulfilled": 47,
     "canFulfill": 7,
-    "blocked": 39
+    "blocked": 40
   },
   "fulfillableOrders": [
     {
@@ -898,6 +898,39 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12564899692888,
+      "name": "#4264",
+      "customerName": "Jonathan Bergström",
+      "createdAt": "2026-08-21T18:16:41+02:00",
+      "itemCount": 8,
+      "reasons": [
+        {
+          "product": "147158 - Scarlet & Violet Journey Together Sleeved Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "74814 - Mega Evolution Pitch Black Sleeved Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "110234 Chinese 2024 Lunar New Year Red Promo Pack (Chinese) — 9 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "77078 - Rebel Clash Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1595,8 +1628,8 @@
         "productId": 15907563766104,
         "variantId": 57847777001816,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "150005 - McDonald's Collection 25th Anniversary Booster Pack (English) - Multicolor",
@@ -1627,8 +1660,8 @@
         "productId": 15942785433944,
         "variantId": 57983490982232,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "147162 - Scarlet & Violet Paradox Rift Sleeved Booster Pack (English)",
@@ -2011,8 +2044,8 @@
         "productId": 15643186921816,
         "variantId": 56857168576856,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131430 Tournament Pack Vol.2 Winner One Piece Booster Pack (English)",
@@ -2026,6 +2059,30 @@
         "product": "73085 - Yamato - One Piece The Time of Battle OP16-079-V2 NM (English)",
         "productId": 15951868690776,
         "variantId": 58137502384472,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110234 Chinese 2024 Lunar New Year Red Promo Pack (Chinese) — 9 cards / Multicolor",
+        "productId": 15641565364568,
+        "variantId": 56849722212696,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "109954 Scarlet & Violet Surging Sparks Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641569493336,
+        "variantId": 56849736925528,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "77078 - Rebel Clash Booster Pack (English)",
+        "productId": 15951885959512,
+        "variantId": 58137558712664,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -2060,6 +2117,26 @@
         "committed": 3,
         "incoming": 1,
         "available": -3,
+        "shortfall": 2
+      },
+      {
+        "product": "74814 - Mega Evolution Pitch Black Sleeved Booster Pack (English)",
+        "productId": 15907563766104,
+        "variantId": 57847777001816,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "147158 - Scarlet & Violet Journey Together Sleeved Booster Pack (English) - Multicolor",
+        "productId": 15942785433944,
+        "variantId": 57983490982232,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
         "shortfall": 2
       },
       {
@@ -2133,16 +2210,6 @@
         "shortfall": 1
       },
       {
-        "product": "74814 - Mega Evolution Pitch Black Sleeved Booster Pack (English)",
-        "productId": 15907563766104,
-        "variantId": 57847777001816,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "150005 - McDonald's Collection 25th Anniversary Booster Pack (English) - Multicolor",
         "productId": 15942784975192,
         "variantId": 57983490195800,
@@ -2166,16 +2233,6 @@
         "product": "150157 - \tAstral Radiance Sleeved Booster Pack (English) - Multicolor",
         "productId": 15942785302872,
         "variantId": 57983490818392,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "147158 - Scarlet & Violet Journey Together Sleeved Booster Pack (English) - Multicolor",
-        "productId": 15942785433944,
-        "variantId": 57983490982232,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -2306,6 +2363,26 @@
         "product": "73085 - Yamato - One Piece The Time of Battle OP16-079-V2 NM (English)",
         "productId": 15951868690776,
         "variantId": 58137502384472,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "110234 Chinese 2024 Lunar New Year Red Promo Pack (Chinese) — 9 cards / Multicolor",
+        "productId": 15641565364568,
+        "variantId": 56849722212696,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "77078 - Rebel Clash Booster Pack (English)",
+        "productId": 15951885959512,
+        "variantId": 58137558712664,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
