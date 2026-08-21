@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T14:49:42.459Z",
+  "generatedAt": "2026-08-21T15:40:12.872Z",
   "summary": {
     "totalUnfulfilled": 43,
     "canFulfill": 6,
@@ -1838,8 +1838,8 @@
         "product": "110213 Scarlet & Violet Obsidian Flames Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641565692248,
         "variantId": 56849722802520,
-        "onHand": 3,
-        "committed": 2,
+        "onHand": 2,
+        "committed": 1,
         "demand": 1
       },
       {
@@ -2003,16 +2003,6 @@
         "shortfall": 2
       },
       {
-        "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
-        "productId": 15641563627864,
-        "variantId": 56849719525720,
-        "onHand": 2,
-        "committed": 5,
-        "incoming": 1,
-        "available": -3,
-        "shortfall": 2
-      },
-      {
         "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
         "productId": 15641503859032,
         "variantId": 56849639571800,
@@ -2033,26 +2023,6 @@
         "shortfall": 1
       },
       {
-        "product": "119431 Zapdos ex - Scarlet & Violet 151 202/165 NM (English) — 202/165, Near-Mint / Special Illustration Rare",
-        "productId": 15641507266904,
-        "variantId": 56849645109592,
-        "onHand": 1,
-        "committed": 2,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119425 Venusaur ex - Scarlet & Violet 151 198/165 NM (English) — 198/165, Near-Mint / Special Illustration Rare",
-        "productId": 15641507430744,
-        "variantId": 56849645273432,
-        "onHand": 1,
-        "committed": 3,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
         "product": "113481 Espeon ex - Scarlet & Violet Prismatic Evolution 155/131 NM (English) — 155/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563726168,
         "variantId": 56849719624024,
@@ -2063,16 +2033,6 @@
         "shortfall": 1
       },
       {
-        "product": "113488 Leafeon ex - Scarlet & Violet Prismatic Evolution 144/131 NM (English) — 144/131, Near-Mint / Special Illustration Rare",
-        "productId": 15641563595096,
-        "variantId": 56849719492952,
-        "onHand": 1,
-        "committed": 2,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "113485 Sylveon ex - Scarlet & Violet Prismatic Evolution 156/131 NM (English) — 156/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563660632,
         "variantId": 56849719558488,
@@ -2080,16 +2040,6 @@
         "committed": 3,
         "incoming": 2,
         "available": -3,
-        "shortfall": 1
-      },
-      {
-        "product": "113480 Umbreon ex - Scarlet & Violet Prismatic Evolution 161/131 NM (English) — 161/131, Near-Mint / Special Illustration Rare",
-        "productId": 15641563758936,
-        "variantId": 56849719656792,
-        "onHand": 1,
-        "committed": 3,
-        "incoming": 1,
-        "available": -2,
         "shortfall": 1
       },
       {
@@ -2233,16 +2183,6 @@
         "shortfall": 1
       },
       {
-        "product": "118678 Reshiram ex - Scarlet & Violet White Flare 166/086 NM (English) — 166/086, Near-Mint / Special Illustration Rare",
-        "productId": 15641522667864,
-        "variantId": 56849669095768,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "132338 Don!! - The Azure Sea's Seven EB04‑Egghead) V2 NM (English) — EB04-Egghead/V2, Near-Mint / DON!!",
         "productId": 15641321734488,
         "variantId": 56849271947608,
@@ -2266,36 +2206,6 @@
         "product": "72328 - Squirtle - Scarlet & Violet Simplified Chinese Promos 099/SV-P NM Holofoil (Chinese)",
         "productId": 15945430335832,
         "variantId": 57997625688408,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119113 Seismitoad - Scarlet & Violet Black Bolt 105/086 NM (English) — 105/086, Near-Mint / Illustration Rare",
-        "productId": 15641514410328,
-        "variantId": 56849656447320,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "113497 Eevee ex - Scarlet & Violet Prismatic Evolution 167/131 NM (English) — 167/131, Near-Mint / Special Illustration Rare",
-        "productId": 15641563365720,
-        "variantId": 56849718935896,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "146992 Wilds Unknown Illumineer's Trove 8 Booster Packs (English) - Multicolor",
-        "productId": 15873086816600,
-        "variantId": 57706386850136,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
