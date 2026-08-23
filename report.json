@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-23T18:43:26.416Z",
+  "generatedAt": "2026-08-23T19:08:09.472Z",
   "summary": {
-    "totalUnfulfilled": 51,
-    "canFulfill": 8,
-    "blocked": 43
+    "totalUnfulfilled": 56,
+    "canFulfill": 10,
+    "blocked": 46
   },
   "fulfillableOrders": [
     {
@@ -52,6 +52,18 @@
       "id": 12564992721240,
       "name": "#4265",
       "createdAt": "2026-08-21T19:15:38+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12569020399960,
+      "name": "#4271",
+      "createdAt": "2026-08-23T20:53:03+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12569026560344,
+      "name": "#4273",
+      "createdAt": "2026-08-23T20:56:40+02:00",
       "itemCount": 1
     }
   ],
@@ -982,6 +994,63 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12569010045272,
+      "name": "#4270",
+      "customerName": "Casper Männys",
+      "createdAt": "2026-08-23T20:47:24+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "76414 - The First Chapter Booster (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12569023906136,
+      "name": "#4272",
+      "customerName": "Nathan Jubinville-Savard",
+      "createdAt": "2026-08-23T20:55:07+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12569034391896,
+      "name": "#4274",
+      "customerName": "Yannik Spies",
+      "createdAt": "2026-08-23T21:01:02+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "110279 Sword & Shield Chilling Reign Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 2,
+          "needed": 6
+        },
+        {
+          "product": "110269 Sword & Shield Brilliant Stars Booster (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 2,
+          "needed": 4
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1359,8 +1428,8 @@
         "productId": 15641506120024,
         "variantId": 56849643503960,
         "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
@@ -2161,6 +2230,46 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "76414 - The First Chapter Booster (English)",
+        "productId": 15931095712088,
+        "variantId": 57949782507864,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
+        "productId": 15903094800728,
+        "variantId": 57828229710168,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "110212 Scarlet & Violet Obsidian Flames Sleeved Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565725016,
+        "variantId": 56849722835288,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110279 Sword & Shield Chilling Reign Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641564545368,
+        "variantId": 56849721065816,
+        "onHand": 2,
+        "committed": 6,
+        "demand": 6
+      },
+      {
+        "product": "110269 Sword & Shield Brilliant Stars Booster (English) — 10 cards / Multicolor",
+        "productId": 15641564840280,
+        "variantId": 56849721360728,
+        "onHand": 2,
+        "committed": 4,
+        "demand": 4
       }
     ],
     "demandExceedsStock": [
@@ -2170,6 +2279,16 @@
         "variantId": 56849731453272,
         "onHand": 0,
         "committed": 4,
+        "incoming": 0,
+        "available": -4,
+        "shortfall": 4
+      },
+      {
+        "product": "110279 Sword & Shield Chilling Reign Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641564545368,
+        "variantId": 56849721065816,
+        "onHand": 2,
+        "committed": 6,
         "incoming": 0,
         "available": -4,
         "shortfall": 4
@@ -2215,6 +2334,26 @@
         "shortfall": 2
       },
       {
+        "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
+        "productId": 15903094800728,
+        "variantId": 57828229710168,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "110269 Sword & Shield Brilliant Stars Booster (English) — 10 cards / Multicolor",
+        "productId": 15641564840280,
+        "variantId": 56849721360728,
+        "onHand": 2,
+        "committed": 4,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
         "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
         "productId": 15641503859032,
         "variantId": 56849639571800,
@@ -2230,6 +2369,16 @@
         "variantId": 56849271783768,
         "onHand": 2,
         "committed": 4,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
+      },
+      {
+        "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
+        "productId": 15641506120024,
+        "variantId": 56849643503960,
+        "onHand": 1,
+        "committed": 3,
         "incoming": 1,
         "available": -2,
         "shortfall": 1
