@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-23T18:00:13.304Z",
+  "generatedAt": "2026-08-23T18:43:26.416Z",
   "summary": {
-    "totalUnfulfilled": 48,
+    "totalUnfulfilled": 51,
     "canFulfill": 8,
-    "blocked": 40
+    "blocked": 43
   },
   "fulfillableOrders": [
     {
@@ -937,6 +937,51 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12568940347736,
+      "name": "#4267",
+      "customerName": "Olivia Singh",
+      "createdAt": "2026-08-23T20:09:25+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "77440 - Gem Pack Vol. 2 Booster Box 15 Booster Packs (S-Chinese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12568956076376,
+      "name": "#4268",
+      "customerName": "Simon Ayrton Ammersdorfer",
+      "createdAt": "2026-08-23T20:17:13+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "109974 Pikachu - Scarlet & Violet Black Star Promos 027/225 NM (English) — 027/225, Near-Mint / Promo",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12568974360920,
+      "name": "#4269",
+      "customerName": "Lars Hollemans",
+      "createdAt": "2026-08-23T20:27:34+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "75604 - Pikachu - Jungle 60/64 NM 1st Edition (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1298,8 +1343,8 @@
         "productId": 15641506021720,
         "variantId": 56849643405656,
         "onHand": 2,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "119469 Bulbasaur - Scarlet & Violet 151 166/165 NM (English) — 166/165, Near-Mint / Illustration Rare",
@@ -2092,6 +2137,30 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "77440 - Gem Pack Vol. 2 Booster Box 15 Booster Packs (S-Chinese)",
+        "productId": 15954415190360,
+        "variantId": 58243229286744,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "109974 Pikachu - Scarlet & Violet Black Star Promos 027/225 NM (English) — 027/225, Near-Mint / Promo",
+        "productId": 15641569001816,
+        "variantId": 56849736368472,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "75604 - Pikachu - Jungle 60/64 NM 1st Edition (English)",
+        "productId": 15954438717784,
+        "variantId": 58243271852376,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2389,6 +2458,36 @@
         "product": "77078 - Rebel Clash Booster Pack (English)",
         "productId": 15951885959512,
         "variantId": 58137558712664,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "77440 - Gem Pack Vol. 2 Booster Box 15 Booster Packs (S-Chinese)",
+        "productId": 15954415190360,
+        "variantId": 58243229286744,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "109974 Pikachu - Scarlet & Violet Black Star Promos 027/225 NM (English) — 027/225, Near-Mint / Promo",
+        "productId": 15641569001816,
+        "variantId": 56849736368472,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "75604 - Pikachu - Jungle 60/64 NM 1st Edition (English)",
+        "productId": 15954438717784,
+        "variantId": 58243271852376,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
