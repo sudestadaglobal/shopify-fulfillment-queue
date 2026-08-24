@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T13:34:15.559Z",
+  "generatedAt": "2026-08-24T14:29:22.747Z",
   "summary": {
     "totalUnfulfilled": 60,
     "canFulfill": 11,
@@ -2381,16 +2381,6 @@
         "shortfall": 4
       },
       {
-        "product": "110279 Sword & Shield Chilling Reign Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641564545368,
-        "variantId": 56849721065816,
-        "onHand": 2,
-        "committed": 6,
-        "incoming": 0,
-        "available": -4,
-        "shortfall": 4
-      },
-      {
         "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
         "productId": 15903094800728,
         "variantId": 57828229710168,
@@ -2441,16 +2431,6 @@
         "shortfall": 2
       },
       {
-        "product": "110269 Sword & Shield Brilliant Stars Booster (English) — 10 cards / Multicolor",
-        "productId": 15641564840280,
-        "variantId": 56849721360728,
-        "onHand": 2,
-        "committed": 4,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
         "product": "75076 - Attack of the Vine! Illumineer's Trove 8 Booster Packs (English)",
         "productId": 15931095581016,
         "variantId": 57949781000536,
@@ -2471,16 +2451,6 @@
         "shortfall": 1
       },
       {
-        "product": "132342 The Azure Sea’s Seven One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Blue",
-        "productId": 15641321570648,
-        "variantId": 56849271783768,
-        "onHand": 2,
-        "committed": 4,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
         "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
         "productId": 15641506120024,
         "variantId": 56849643503960,
@@ -2488,26 +2458,6 @@
         "committed": 3,
         "incoming": 1,
         "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "113481 Espeon ex - Scarlet & Violet Prismatic Evolution 155/131 NM (English) — 155/131, Near-Mint / Special Illustration Rare",
-        "productId": 15641563726168,
-        "variantId": 56849719624024,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 2,
-        "available": -3,
-        "shortfall": 1
-      },
-      {
-        "product": "113485 Sylveon ex - Scarlet & Violet Prismatic Evolution 156/131 NM (English) — 156/131, Near-Mint / Special Illustration Rare",
-        "productId": 15641563660632,
-        "variantId": 56849719558488,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 2,
-        "available": -3,
         "shortfall": 1
       },
       {
@@ -2616,16 +2566,6 @@
         "variantId": 56849460396376,
         "onHand": 0,
         "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "110215 Play! Pokémon Prize Pack Series Three Booster Pack (English) — 6 cards / Multicolor",
-        "productId": 15641565659480,
-        "variantId": 56849722769752,
-        "onHand": 2,
-        "committed": 3,
         "incoming": 0,
         "available": -1,
         "shortfall": 1
@@ -2744,16 +2684,6 @@
         "product": "75604 - Pikachu - Jungle 60/64 NM 1st Edition (English)",
         "productId": 15954438717784,
         "variantId": 58243271852376,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
-        "productId": 15641336906072,
-        "variantId": 56849295966552,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
