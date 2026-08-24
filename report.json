@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-24T11:47:51.172Z",
+  "generatedAt": "2026-08-24T12:19:46.531Z",
   "summary": {
-    "totalUnfulfilled": 57,
-    "canFulfill": 11,
+    "totalUnfulfilled": 58,
+    "canFulfill": 12,
     "blocked": 46
   },
   "fulfillableOrders": [
@@ -71,6 +71,12 @@
       "name": "#4275",
       "createdAt": "2026-08-24T11:37:06+02:00",
       "itemCount": 7
+    },
+    {
+      "id": 12570283671896,
+      "name": "#4276",
+      "createdAt": "2026-08-24T14:13:03+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -2276,6 +2282,14 @@
         "onHand": 2,
         "committed": 4,
         "demand": 4
+      },
+      {
+        "product": "110191 Play! Pokémon Prize Pack Series Four Booster Pack (English) — 6 cards / Multicolor",
+        "productId": 15641566085464,
+        "variantId": 56849731420504,
+        "onHand": 6,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
