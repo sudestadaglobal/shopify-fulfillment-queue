@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-24T12:19:46.531Z",
+  "generatedAt": "2026-08-24T13:34:15.559Z",
   "summary": {
-    "totalUnfulfilled": 58,
-    "canFulfill": 12,
-    "blocked": 46
+    "totalUnfulfilled": 60,
+    "canFulfill": 11,
+    "blocked": 49
   },
   "fulfillableOrders": [
     {
@@ -65,12 +65,6 @@
       "name": "#4273",
       "createdAt": "2026-08-23T20:56:40+02:00",
       "itemCount": 1
-    },
-    {
-      "id": 12569982075224,
-      "name": "#4275",
-      "createdAt": "2026-08-24T11:37:06+02:00",
-      "itemCount": 7
     },
     {
       "id": 12570283671896,
@@ -1061,6 +1055,57 @@
           "reason": "Insufficient stock",
           "stock": 2,
           "needed": 4
+        }
+      ]
+    },
+    {
+      "id": 12570307395928,
+      "name": "#4277",
+      "customerName": "Emile Cnudde",
+      "createdAt": "2026-08-24T14:24:37+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12570362315096,
+      "name": "#4278",
+      "customerName": "Sem Jansonius",
+      "createdAt": "2026-08-24T14:52:20+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "70713 - Froakie - Mega Evolution Chaos Rising 088/086 NM Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12570429981016,
+      "name": "#4279",
+      "customerName": "Blaine Wilhelm",
+      "createdAt": "2026-08-24T15:25:27+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "75076 - Attack of the Vine! Illumineer's Trove 8 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
         }
       ]
     }
@@ -2256,8 +2301,8 @@
         "productId": 15903094800728,
         "variantId": 57828229710168,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "110212 Scarlet & Violet Obsidian Flames Sleeved Booster Pack (English) — 10 cards / Multicolor",
@@ -2290,6 +2335,38 @@
         "onHand": 6,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
+        "productId": 15641336906072,
+        "variantId": 56849295966552,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "147791 Mega Evolution Pitch Black Booster Box 18 Booster Packs (English) - Multicolor",
+        "productId": 15889255760216,
+        "variantId": 57780450525528,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "70713 - Froakie - Mega Evolution Chaos Rising 088/086 NM Holofoil (English)",
+        "productId": 15955973112152,
+        "variantId": 58263529390424,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "75076 - Attack of the Vine! Illumineer's Trove 8 Booster Packs (English)",
+        "productId": 15931095581016,
+        "variantId": 57949781000536,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
       }
     ],
     "demandExceedsStock": [
@@ -2312,6 +2389,16 @@
         "incoming": 0,
         "available": -4,
         "shortfall": 4
+      },
+      {
+        "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
+        "productId": 15903094800728,
+        "variantId": 57828229710168,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 0,
+        "available": -3,
+        "shortfall": 3
       },
       {
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
@@ -2354,21 +2441,21 @@
         "shortfall": 2
       },
       {
-        "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
-        "productId": 15903094800728,
-        "variantId": 57828229710168,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
         "product": "110269 Sword & Shield Brilliant Stars Booster (English) — 10 cards / Multicolor",
         "productId": 15641564840280,
         "variantId": 56849721360728,
         "onHand": 2,
         "committed": 4,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "75076 - Attack of the Vine! Illumineer's Trove 8 Booster Packs (English)",
+        "productId": 15931095581016,
+        "variantId": 57949781000536,
+        "onHand": 0,
+        "committed": 2,
         "incoming": 0,
         "available": -2,
         "shortfall": 2
@@ -2657,6 +2744,26 @@
         "product": "75604 - Pikachu - Jungle 60/64 NM 1st Edition (English)",
         "productId": 15954438717784,
         "variantId": 58243271852376,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
+        "productId": 15641336906072,
+        "variantId": 56849295966552,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "70713 - Froakie - Mega Evolution Chaos Rising 088/086 NM Holofoil (English)",
+        "productId": 15955973112152,
+        "variantId": 58263529390424,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
