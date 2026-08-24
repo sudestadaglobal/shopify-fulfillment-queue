@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-24T18:16:57.332Z",
+  "generatedAt": "2026-08-24T19:06:39.708Z",
   "summary": {
-    "totalUnfulfilled": 60,
-    "canFulfill": 11,
-    "blocked": 49
+    "totalUnfulfilled": 62,
+    "canFulfill": 12,
+    "blocked": 50
   },
   "fulfillableOrders": [
     {
@@ -70,6 +70,12 @@
       "id": 12570283671896,
       "name": "#4276",
       "createdAt": "2026-08-24T14:13:03+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12571411284312,
+      "name": "#4280",
+      "createdAt": "2026-08-24T20:40:30+02:00",
       "itemCount": 1
     }
   ],
@@ -1108,6 +1114,21 @@
           "needed": 2
         }
       ]
+    },
+    {
+      "id": 12571417674072,
+      "name": "#4281",
+      "customerName": "Anxo Troncoso Castro",
+      "createdAt": "2026-08-24T20:44:08+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "77906 - Vendetta Booster Box (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2085,8 +2106,8 @@
         "productId": 15641565692248,
         "variantId": 56849722802520,
         "onHand": 2,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110240 Sword & Shield Silver Tempest Sleeved Booster Pack (English) — 10 cards / Multicolor",
@@ -2189,8 +2210,8 @@
         "productId": 15946775560536,
         "variantId": 58003500630360,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "146992 Wilds Unknown Illumineer's Trove 8 Booster Packs (English) - Multicolor",
@@ -2598,6 +2619,16 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "77906 - Vendetta Booster Box (English)",
+        "productId": 15946775560536,
+        "variantId": 58003500630360,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       },
       {
