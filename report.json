@@ -1,28 +1,16 @@
 {
-  "generatedAt": "2026-08-25T07:12:30.383Z",
+  "generatedAt": "2026-08-25T08:02:26.300Z",
   "summary": {
-    "totalUnfulfilled": 62,
-    "canFulfill": 12,
-    "blocked": 50
+    "totalUnfulfilled": 59,
+    "canFulfill": 10,
+    "blocked": 49
   },
   "fulfillableOrders": [
-    {
-      "id": 12507876295000,
-      "name": "#4120",
-      "createdAt": "2026-07-30T17:13:10+02:00",
-      "itemCount": 1
-    },
     {
       "id": 12546700935512,
       "name": "#4205",
       "createdAt": "2026-08-12T22:37:24+02:00",
       "itemCount": 2
-    },
-    {
-      "id": 12548047405400,
-      "name": "#4211",
-      "createdAt": "2026-08-13T17:55:59+02:00",
-      "itemCount": 1
     },
     {
       "id": 12554614210904,
@@ -107,21 +95,6 @@
           "reason": "Insufficient stock",
           "stock": 1,
           "needed": 2
-        }
-      ]
-    },
-    {
-      "id": 12480275972440,
-      "name": "#4012",
-      "customerName": "Kyndael Bowen",
-      "createdAt": "2026-07-19T20:09:59+02:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "131466 The Best Vol.2 One Piece Sleeved Booster Pack (English) — 10 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 2,
-          "needed": 3
         }
       ]
     },
@@ -1174,30 +1147,6 @@
         "demand": 4
       },
       {
-        "product": "131466 The Best Vol.2 One Piece Sleeved Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641345130840,
-        "variantId": 56849305174360,
-        "onHand": 2,
-        "committed": 2,
-        "demand": 3
-      },
-      {
-        "product": "134030 Legacy of the Master One Piece Booster Pack (English) — 12 Cards / Green",
-        "productId": 15641283559768,
-        "variantId": 56849220043096,
-        "onHand": 2,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "131486 The Best Vol.2 One Piece Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641344541016,
-        "variantId": 56849304584536,
-        "onHand": 5,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "AMD Ryzen 7 7800X3D",
         "productId": 15902014210392,
         "variantId": 57824433504600,
@@ -1210,14 +1159,6 @@
         "productId": 15476052853080,
         "variantId": 56290808791384,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "148505 Snorlax - Jungle 27/64 NM (English) - Rare",
-        "productId": 15904352338264,
-        "variantId": 57831389692248,
-        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1716,14 +1657,6 @@
         "onHand": 1,
         "committed": 2,
         "demand": 2
-      },
-      {
-        "product": "57491 - Ditto - Fossil 18/62 NM Holofoil 1st Edition (English)",
-        "productId": 15936020218200,
-        "variantId": 57958965018968,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
       },
       {
         "product": "147787 Mega Evolution Pitch Black Pokémon Center Elite Trainer Box 11 Booster Packs (English) - Multicolor",
