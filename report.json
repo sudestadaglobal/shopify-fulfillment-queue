@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T19:50:17.084Z",
+  "generatedAt": "2026-08-25T20:37:28.077Z",
   "summary": {
     "totalUnfulfilled": 99,
     "canFulfill": 29,
@@ -2928,26 +2928,6 @@
         "shortfall": 3
       },
       {
-        "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
-        "productId": 15903094800728,
-        "variantId": 57828229710168,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 0,
-        "available": -3,
-        "shortfall": 3
-      },
-      {
-        "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
-        "productId": 15641506120024,
-        "variantId": 56849643503960,
-        "onHand": 1,
-        "committed": 4,
-        "incoming": 1,
-        "available": -3,
-        "shortfall": 2
-      },
-      {
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
         "productId": 15641506251096,
         "variantId": 56849643602264,
@@ -2978,26 +2958,6 @@
         "shortfall": 2
       },
       {
-        "product": "74814 - Mega Evolution Pitch Black Sleeved Booster Pack (English)",
-        "productId": 15907563766104,
-        "variantId": 57847777001816,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "147158 - Scarlet & Violet Journey Together Sleeved Booster Pack (English) - Multicolor",
-        "productId": 15942785433944,
-        "variantId": 57983490982232,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
         "product": "77906 - Vendetta Booster Box (English)",
         "productId": 15946775560536,
         "variantId": 58003500630360,
@@ -3008,13 +2968,13 @@
         "shortfall": 2
       },
       {
-        "product": "75076 - Attack of the Vine! Illumineer's Trove 8 Booster Packs (English)",
-        "productId": 15931095581016,
-        "variantId": 57949781000536,
+        "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
+        "productId": 15903094800728,
+        "variantId": 57828229710168,
         "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
+        "committed": 3,
+        "incoming": 1,
+        "available": -3,
         "shortfall": 2
       },
       {
@@ -3035,6 +2995,16 @@
         "committed": 6,
         "incoming": 4,
         "available": -5,
+        "shortfall": 1
+      },
+      {
+        "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
+        "productId": 15641506120024,
+        "variantId": 56849643503960,
+        "onHand": 1,
+        "committed": 4,
+        "incoming": 2,
+        "available": -3,
         "shortfall": 1
       },
       {
@@ -3078,16 +3048,6 @@
         "shortfall": 1
       },
       {
-        "product": "147787 Mega Evolution Pitch Black Pokémon Center Elite Trainer Box 11 Booster Packs (English) - Multicolor",
-        "productId": 15891925336408,
-        "variantId": 57790683742552,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "119189 Bisharp - Scarlet & Violet Black Bolt 143/086 NM (English) — 143/086, Near-Mint / Illustration Rare",
         "productId": 15641512903000,
         "variantId": 56849654120792,
@@ -3095,6 +3055,16 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "74814 - Mega Evolution Pitch Black Sleeved Booster Pack (English)",
+        "productId": 15907563766104,
+        "variantId": 57847777001816,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       },
       {
@@ -3128,6 +3098,16 @@
         "shortfall": 1
       },
       {
+        "product": "147158 - Scarlet & Violet Journey Together Sleeved Booster Pack (English) - Multicolor",
+        "productId": 15942785433944,
+        "variantId": 57983490982232,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
+      },
+      {
         "product": "134046 - Mega Evolution Perfect Order Makuhita Blister Booster Pack (English) - Multicolor",
         "productId": 15942787563864,
         "variantId": 57983499698520,
@@ -3158,26 +3138,6 @@
         "shortfall": 1
       },
       {
-        "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
-        "productId": 15641268355416,
-        "variantId": 56849193173336,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "125812 Pokémon TCG: Holiday Calendar 2025 Box 6 Booster Packs (English) — 6 Booster Packs / Multicolor",
-        "productId": 15641389236568,
-        "variantId": 56849460396376,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "132338 Don!! - The Azure Sea's Seven EB04‑Egghead) V2 NM (English) — EB04-Egghead/V2, Near-Mint / DON!!",
         "productId": 15641321734488,
         "variantId": 56849271947608,
@@ -3198,89 +3158,9 @@
         "shortfall": 1
       },
       {
-        "product": "72328 - Squirtle - Scarlet & Violet Simplified Chinese Promos 099/SV-P NM Holofoil (Chinese)",
-        "productId": 15945430335832,
-        "variantId": 57997625688408,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "HyperX FlipCast - Streaming Dynamic Microphone Pre-Sale",
         "productId": 15606357623128,
         "variantId": 56700916531544,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "131430 Tournament Pack Vol.2 Winner One Piece Booster Pack (English)",
-        "productId": 15798656500056,
-        "variantId": 57474322104664,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "73085 - Yamato - One Piece The Time of Battle OP16-079-V2 NM (English)",
-        "productId": 15951868690776,
-        "variantId": 58137502384472,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "110234 Chinese 2024 Lunar New Year Red Promo Pack (Chinese) — 9 cards / Multicolor",
-        "productId": 15641565364568,
-        "variantId": 56849722212696,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77078 - Rebel Clash Booster Pack (English)",
-        "productId": 15951885959512,
-        "variantId": 58137558712664,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77440 - Gem Pack Vol. 2 Booster Box 15 Booster Packs (S-Chinese)",
-        "productId": 15954415190360,
-        "variantId": 58243229286744,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "109974 Pikachu - Scarlet & Violet Black Star Promos 027/225 NM (English) — 027/225, Near-Mint / Promo",
-        "productId": 15641569001816,
-        "variantId": 56849736368472,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "75604 - Pikachu - Jungle 60/64 NM 1st Edition (English)",
-        "productId": 15954438717784,
-        "variantId": 58243271852376,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -3321,16 +3201,6 @@
         "product": "139124 - Aphelios, Exalted - Spiritforged 224/221 NM V2 Showcase (English)",
         "productId": 15957758083416,
         "variantId": 58270599905624,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "139090 - Lucian, Purifier - Spiritforged 241/221 NM V2 Showcase (English)",
-        "productId": 15957758509400,
-        "variantId": 58270604263768,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
