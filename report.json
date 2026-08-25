@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-25T18:17:13.528Z",
+  "generatedAt": "2026-08-25T19:05:57.406Z",
   "summary": {
-    "totalUnfulfilled": 96,
+    "totalUnfulfilled": 99,
     "canFulfill": 29,
-    "blocked": 67
+    "blocked": 70
   },
   "fulfillableOrders": [
     {
@@ -1546,6 +1546,57 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12573358260568,
+      "name": "#4325",
+      "customerName": "Younes El Ghalbzouri",
+      "createdAt": "2026-08-25T20:39:09+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "119175 Krokorok - Scarlet & Violet Black Bolt 136/086 NM (English) — 136/086, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12573368385880,
+      "name": "#4326",
+      "customerName": "Gina-Maria Nuara",
+      "createdAt": "2026-08-25T20:44:59+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "125798 Glaceon VSTAR - VSTAR Universe 217/172 NM (Japanese) — 217/172, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12573393518936,
+      "name": "#4327",
+      "customerName": "Fredrik Jansson",
+      "createdAt": "2026-08-25T20:59:27+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "76184 - Storm Emeralda Booster Box - Scarlet & Violet Storm Emeralda (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2019,8 +2070,8 @@
         "productId": 15925445394776,
         "variantId": 57933857620312,
         "onHand": 0,
-        "committed": 8,
-        "demand": 8
+        "committed": 9,
+        "demand": 9
       },
       {
         "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
@@ -2603,8 +2654,8 @@
         "productId": 15641563300184,
         "variantId": 56849718870360,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "HyperX FlipCast - Streaming Dynamic Microphone Pre-Sale",
@@ -2827,13 +2878,29 @@
         "productId": 15641389498712,
         "variantId": 56849460658520,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "77908 - Unleashed Booster Box (English) UVS Games x Riot Games Riftbound",
         "productId": 15957910094168,
         "variantId": 58271194480984,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "109984 Charmander - Scarlet & Violet Black Star Promos 044/225 (NM) — 044/225, Near-Mint / Promo",
+        "productId": 15641568837976,
+        "variantId": 56849736204632,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119175 Krokorok - Scarlet & Violet Black Bolt 136/086 NM (English) — 136/086, Near-Mint / Illustration Rare",
+        "productId": 15641513132376,
+        "variantId": 56849654677848,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -2849,6 +2916,16 @@
         "incoming": 0,
         "available": -6,
         "shortfall": 6
+      },
+      {
+        "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
+        "productId": 15641563300184,
+        "variantId": 56849718870360,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 0,
+        "available": -3,
+        "shortfall": 3
       },
       {
         "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
@@ -2941,6 +3018,16 @@
         "shortfall": 2
       },
       {
+        "product": "125798 Glaceon VSTAR - VSTAR Universe 217/172 NM (Japanese) — 217/172, Near-Mint / Special Illustration Rare",
+        "productId": 15641389498712,
+        "variantId": 56849460658520,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
         "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
         "productId": 15641503859032,
         "variantId": 56849639571800,
@@ -2948,6 +3035,16 @@
         "committed": 6,
         "incoming": 4,
         "available": -5,
+        "shortfall": 1
+      },
+      {
+        "product": "76184 - Storm Emeralda Booster Box - Scarlet & Violet Storm Emeralda (Japanese)",
+        "productId": 15925445394776,
+        "variantId": 57933857620312,
+        "onHand": 0,
+        "committed": 9,
+        "incoming": 8,
+        "available": -9,
         "shortfall": 1
       },
       {
@@ -3111,16 +3208,6 @@
         "shortfall": 1
       },
       {
-        "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
-        "productId": 15641563300184,
-        "variantId": 56849718870360,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "HyperX FlipCast - Streaming Dynamic Microphone Pre-Sale",
         "productId": 15606357623128,
         "variantId": 56700916531544,
@@ -3261,9 +3348,9 @@
         "shortfall": 1
       },
       {
-        "product": "125798 Glaceon VSTAR - VSTAR Universe 217/172 NM (Japanese) — 217/172, Near-Mint / Special Illustration Rare",
-        "productId": 15641389498712,
-        "variantId": 56849460658520,
+        "product": "77908 - Unleashed Booster Box (English) UVS Games x Riot Games Riftbound",
+        "productId": 15957910094168,
+        "variantId": 58271194480984,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -3271,9 +3358,9 @@
         "shortfall": 1
       },
       {
-        "product": "77908 - Unleashed Booster Box (English) UVS Games x Riot Games Riftbound",
-        "productId": 15957910094168,
-        "variantId": 58271194480984,
+        "product": "119175 Krokorok - Scarlet & Violet Black Bolt 136/086 NM (English) — 136/086, Near-Mint / Illustration Rare",
+        "productId": 15641513132376,
+        "variantId": 56849654677848,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
