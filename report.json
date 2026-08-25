@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-25T12:07:08.708Z",
+  "generatedAt": "2026-08-25T13:15:56.094Z",
   "summary": {
-    "totalUnfulfilled": 59,
-    "canFulfill": 10,
-    "blocked": 49
+    "totalUnfulfilled": 93,
+    "canFulfill": 28,
+    "blocked": 65
   },
   "fulfillableOrders": [
     {
@@ -65,6 +65,114 @@
       "name": "#4280",
       "createdAt": "2026-08-24T20:40:30+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12572695036248,
+      "name": "#4291",
+      "createdAt": "2026-08-25T14:41:43+02:00",
+      "itemCount": 3
+    },
+    {
+      "id": 12572701753688,
+      "name": "#4292",
+      "createdAt": "2026-08-25T14:45:01+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12572701819224,
+      "name": "#4293",
+      "createdAt": "2026-08-25T14:45:02+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12572701884760,
+      "name": "#4294",
+      "createdAt": "2026-08-25T14:45:03+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12572701917528,
+      "name": "#4295",
+      "createdAt": "2026-08-25T14:45:04+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12572701983064,
+      "name": "#4296",
+      "createdAt": "2026-08-25T14:45:05+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12572702146904,
+      "name": "#4298",
+      "createdAt": "2026-08-25T14:45:07+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12572702245208,
+      "name": "#4299",
+      "createdAt": "2026-08-25T14:45:08+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12572702277976,
+      "name": "#4300",
+      "createdAt": "2026-08-25T14:45:09+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12572702474584,
+      "name": "#4302",
+      "createdAt": "2026-08-25T14:45:11+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12572702507352,
+      "name": "#4303",
+      "createdAt": "2026-08-25T14:45:13+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12572702540120,
+      "name": "#4304",
+      "createdAt": "2026-08-25T14:45:14+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12572702605656,
+      "name": "#4305",
+      "createdAt": "2026-08-25T14:45:15+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12572702835032,
+      "name": "#4308",
+      "createdAt": "2026-08-25T14:45:18+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12572702867800,
+      "name": "#4309",
+      "createdAt": "2026-08-25T14:45:19+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12572702966104,
+      "name": "#4310",
+      "createdAt": "2026-08-25T14:45:20+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12572703162712,
+      "name": "#4312",
+      "createdAt": "2026-08-25T14:45:22+02:00",
+      "itemCount": 5
+    },
+    {
+      "id": 12572703588696,
+      "name": "#4317",
+      "createdAt": "2026-08-25T14:45:29+02:00",
+      "itemCount": 3
     }
   ],
   "blockedOrders": [
@@ -1102,6 +1210,282 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12572672524632,
+      "name": "#4288",
+      "customerName": "M.N. Ton",
+      "createdAt": "2026-08-25T14:29:52+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12572686909784,
+      "name": "#4289",
+      "customerName": "Luca Maxim Limmroth",
+      "createdAt": "2026-08-25T14:37:29+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "110190 Scarlet & Violet Temporal Forces (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12572693070168,
+      "name": "#4290",
+      "customerName": "Robin Jonsson",
+      "createdAt": "2026-08-25T14:40:50+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "77906 - Vendetta Booster Box (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12572702015832,
+      "name": "#4297",
+      "customerName": "Peter Ochs",
+      "createdAt": "2026-08-25T14:45:06+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "CSGORoll - T-Shirt Medium (10th) — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12572702441816,
+      "name": "#4301",
+      "customerName": "Julien Prioux",
+      "createdAt": "2026-08-25T14:45:10+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "CSGORoll - T-Shirt Medium (10th) — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12572702671192,
+      "name": "#4306",
+      "customerName": "Nikolas Bustos",
+      "createdAt": "2026-08-25T14:45:16+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "CSGORoll - T-Shirt Medium Black — 2XL",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 4,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12572702769496,
+      "name": "#4307",
+      "customerName": "Tristan Lossman",
+      "createdAt": "2026-08-25T14:45:17+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "CSGORoll - T-Shirt Medium (10th) — L",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 9,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12572703031640,
+      "name": "#4311",
+      "customerName": "Liam Heyes",
+      "createdAt": "2026-08-25T14:45:21+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "CSGORoll - T-Shirt Medium (10th) — M",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 15,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12572703228248,
+      "name": "#4313",
+      "customerName": "Jon Magnus Jakobsen",
+      "createdAt": "2026-08-25T14:45:23+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "CSGORoll - Sublimation Sport Towels",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 21,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12572703359320,
+      "name": "#4314",
+      "customerName": "Pelle Mortensen",
+      "createdAt": "2026-08-25T14:45:25+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "CSGORoll - Sublimation Sport Towels",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 21,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12572703490392,
+      "name": "#4315",
+      "customerName": "Puneet Kumar",
+      "createdAt": "2026-08-25T14:45:27+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "CSGORoll - Sublimation Sport Towels",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 21,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12572703555928,
+      "name": "#4316",
+      "customerName": "Leonard Lehtla",
+      "createdAt": "2026-08-25T14:45:28+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "CSGORoll - Sublimation Sport Towels",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 21,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12572703621464,
+      "name": "#4318",
+      "customerName": "Rylan Fricot",
+      "createdAt": "2026-08-25T14:45:30+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "CSGORoll - SproShield Polarized Sport Sunglasses",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 78,
+          "needed": 1
+        },
+        {
+          "product": "CSGORoll - Low Profile Destroyed Cap",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 30,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12572703719768,
+      "name": "#4319",
+      "customerName": "Malte Lambert",
+      "createdAt": "2026-08-25T14:45:31+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "CSGORoll - T-Shirt Medium Black — 2XL",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 4,
+          "needed": 1
+        },
+        {
+          "product": "CSGORoll - SproShield Polarized Sport Sunglasses",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 78,
+          "needed": 1
+        },
+        {
+          "product": "CSGORoll - Low Profile Destroyed Cap",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 30,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12572703818072,
+      "name": "#4320",
+      "customerName": "Oğuzhan Uzun",
+      "createdAt": "2026-08-25T14:45:32+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "CSGORoll - SproShield Polarized Sport Sunglasses",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 78,
+          "needed": 1
+        },
+        {
+          "product": "CSGORoll - Low Profile Destroyed Cap",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 30,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12572722233688,
+      "name": "#4321",
+      "customerName": "Robin Jonsson",
+      "createdAt": "2026-08-25T14:55:06+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "139124 - Aphelios, Exalted - Spiritforged 224/221 NM V2 Showcase (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "139090 - Lucian, Purifier - Spiritforged 241/221 NM V2 Showcase (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1703,8 +2087,8 @@
         "productId": 15641566151000,
         "variantId": 56849731453272,
         "onHand": 0,
-        "committed": 4,
-        "demand": 4
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "148001 - Morpeko ex - Mega Evolution Pitch Black 102/084 NM Holofoil (English) - Ultra Rare",
@@ -2143,8 +2527,8 @@
         "productId": 15946775560536,
         "variantId": 58003500630360,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "146992 Wilds Unknown Illumineer's Trove 8 Booster Packs (English) - Multicolor",
@@ -2321,6 +2705,54 @@
         "onHand": 0,
         "committed": 2,
         "demand": 2
+      },
+      {
+        "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
+        "productId": 15957741863256,
+        "variantId": 58270517461336,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
+        "productId": 15957742616920,
+        "variantId": 58270519165272,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "CSGORoll - T-Shirt Medium Black — M",
+        "productId": 15910915146072,
+        "variantId": 57853694214488,
+        "onHand": 9,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "CSGORoll - T-Shirt Medium Black — 2XL",
+        "productId": 15910915146072,
+        "variantId": 57853694280024,
+        "onHand": 7,
+        "committed": 5,
+        "demand": 5
+      },
+      {
+        "product": "139124 - Aphelios, Exalted - Spiritforged 224/221 NM V2 Showcase (English)",
+        "productId": 15957758083416,
+        "variantId": 58270599905624,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "139090 - Lucian, Purifier - Spiritforged 241/221 NM V2 Showcase (English)",
+        "productId": 15957758509400,
+        "variantId": 58270604263768,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2329,10 +2761,10 @@
         "productId": 15641566151000,
         "variantId": 56849731453272,
         "onHand": 0,
-        "committed": 4,
+        "committed": 6,
         "incoming": 0,
-        "available": -4,
-        "shortfall": 4
+        "available": -6,
+        "shortfall": 6
       },
       {
         "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
@@ -2382,6 +2814,16 @@
         "committed": 2,
         "incoming": 0,
         "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "77906 - Vendetta Booster Box (English)",
+        "productId": 15946775560536,
+        "variantId": 58003500630360,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 1,
+        "available": -3,
         "shortfall": 2
       },
       {
@@ -2555,16 +2997,6 @@
         "shortfall": 1
       },
       {
-        "product": "77906 - Vendetta Booster Box (English)",
-        "productId": 15946775560536,
-        "variantId": 58003500630360,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
         "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
         "productId": 15641563300184,
         "variantId": 56849718870360,
@@ -2658,6 +3090,46 @@
         "product": "70713 - Froakie - Mega Evolution Chaos Rising 088/086 NM Holofoil (English)",
         "productId": 15955973112152,
         "variantId": 58263529390424,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
+        "productId": 15957741863256,
+        "variantId": 58270517461336,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
+        "productId": 15957742616920,
+        "variantId": 58270519165272,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "139124 - Aphelios, Exalted - Spiritforged 224/221 NM V2 Showcase (English)",
+        "productId": 15957758083416,
+        "variantId": 58270599905624,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "139090 - Lucian, Purifier - Spiritforged 241/221 NM V2 Showcase (English)",
+        "productId": 15957758509400,
+        "variantId": 58270604263768,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
