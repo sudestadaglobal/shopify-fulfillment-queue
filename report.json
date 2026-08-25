@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-25T13:15:56.094Z",
+  "generatedAt": "2026-08-25T14:10:49.369Z",
   "summary": {
-    "totalUnfulfilled": 93,
-    "canFulfill": 28,
-    "blocked": 65
+    "totalUnfulfilled": 95,
+    "canFulfill": 29,
+    "blocked": 66
   },
   "fulfillableOrders": [
     {
@@ -173,6 +173,12 @@
       "name": "#4317",
       "createdAt": "2026-08-25T14:45:29+02:00",
       "itemCount": 3
+    },
+    {
+      "id": 12572848193880,
+      "name": "#4323",
+      "createdAt": "2026-08-25T15:57:38+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1486,6 +1492,45 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12572823748952,
+      "name": "#4322",
+      "customerName": "Robin Jonsson",
+      "createdAt": "2026-08-25T15:45:08+02:00",
+      "itemCount": 6,
+      "reasons": [
+        {
+          "product": "110326 Charizard VMAX - Sword & Shield Champion's Path 074/073 NM（English） — 074/073, Near-Mint / Rainbow Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "125798 Glaceon VSTAR - VSTAR Universe 217/172 NM (Japanese) — 217/172, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "113485 Sylveon ex - Scarlet & Violet Prismatic Evolution 156/131 NM (English) — 156/131, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "113488 Leafeon ex - Scarlet & Violet Prismatic Evolution 144/131 NM (English) — 144/131, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1831,8 +1876,8 @@
         "productId": 15641506120024,
         "variantId": 56849643503960,
         "onHand": 1,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
@@ -1983,8 +2028,8 @@
         "productId": 15641563464024,
         "variantId": 56849719034200,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "113481 Espeon ex - Scarlet & Violet Prismatic Evolution 155/131 NM (English) — 155/131, Near-Mint / Special Illustration Rare",
@@ -1999,16 +2044,16 @@
         "productId": 15641563595096,
         "variantId": 56849719492952,
         "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "113485 Sylveon ex - Scarlet & Violet Prismatic Evolution 156/131 NM (English) — 156/131, Near-Mint / Special Illustration Rare",
         "productId": 15641563660632,
         "variantId": 56849719558488,
         "onHand": 0,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "113480 Umbreon ex - Scarlet & Violet Prismatic Evolution 161/131 NM (English) — 161/131, Near-Mint / Special Illustration Rare",
@@ -2753,6 +2798,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "110326 Charizard VMAX - Sword & Shield Champion's Path 074/073 NM（English） — 074/073, Near-Mint / Rainbow Rare",
+        "productId": 15641563857240,
+        "variantId": 56849719755096,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "125798 Glaceon VSTAR - VSTAR Universe 217/172 NM (Japanese) — 217/172, Near-Mint / Special Illustration Rare",
+        "productId": 15641389498712,
+        "variantId": 56849460658520,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2777,6 +2838,16 @@
         "shortfall": 3
       },
       {
+        "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
+        "productId": 15641506120024,
+        "variantId": 56849643503960,
+        "onHand": 1,
+        "committed": 4,
+        "incoming": 1,
+        "available": -3,
+        "shortfall": 2
+      },
+      {
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
         "productId": 15641506251096,
         "variantId": 56849643602264,
@@ -2792,6 +2863,16 @@
         "variantId": 56849644781912,
         "onHand": 0,
         "committed": 3,
+        "incoming": 1,
+        "available": -3,
+        "shortfall": 2
+      },
+      {
+        "product": "113488 Leafeon ex - Scarlet & Violet Prismatic Evolution 144/131 NM (English) — 144/131, Near-Mint / Special Illustration Rare",
+        "productId": 15641563595096,
+        "variantId": 56849719492952,
+        "onHand": 1,
+        "committed": 4,
         "incoming": 1,
         "available": -3,
         "shortfall": 2
@@ -2847,13 +2928,23 @@
         "shortfall": 1
       },
       {
-        "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
-        "productId": 15641506120024,
-        "variantId": 56849643503960,
+        "product": "113493 Vaporeon ex - Scarlet & Violet Prismatic Evolution 149/131 NM (English) — 149/131, Near-Mint / Special Illustration Rare",
+        "productId": 15641563464024,
+        "variantId": 56849719034200,
         "onHand": 1,
-        "committed": 3,
-        "incoming": 1,
-        "available": -2,
+        "committed": 2,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "113485 Sylveon ex - Scarlet & Violet Prismatic Evolution 156/131 NM (English) — 156/131, Near-Mint / Special Illustration Rare",
+        "productId": 15641563660632,
+        "variantId": 56849719558488,
+        "onHand": 0,
+        "committed": 4,
+        "incoming": 3,
+        "available": -4,
         "shortfall": 1
       },
       {
@@ -3130,6 +3221,26 @@
         "product": "139090 - Lucian, Purifier - Spiritforged 241/221 NM V2 Showcase (English)",
         "productId": 15957758509400,
         "variantId": 58270604263768,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "110326 Charizard VMAX - Sword & Shield Champion's Path 074/073 NM（English） — 074/073, Near-Mint / Rainbow Rare",
+        "productId": 15641563857240,
+        "variantId": 56849719755096,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "125798 Glaceon VSTAR - VSTAR Universe 217/172 NM (Japanese) — 217/172, Near-Mint / Special Illustration Rare",
+        "productId": 15641389498712,
+        "variantId": 56849460658520,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
