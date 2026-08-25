@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-25T14:10:49.369Z",
+  "generatedAt": "2026-08-25T15:10:17.418Z",
   "summary": {
-    "totalUnfulfilled": 95,
+    "totalUnfulfilled": 96,
     "canFulfill": 29,
-    "blocked": 66
+    "blocked": 67
   },
   "fulfillableOrders": [
     {
@@ -1531,6 +1531,21 @@
           "needed": 2
         }
       ]
+    },
+    {
+      "id": 12572882633048,
+      "name": "#4324",
+      "customerName": "M.N. Ton",
+      "createdAt": "2026-08-25T16:14:42+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "77908 - Unleashed Booster Box (English) UVS Games x Riot Games Riftbound",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2814,6 +2829,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "77908 - Unleashed Booster Box (English) UVS Games x Riot Games Riftbound",
+        "productId": 15957910094168,
+        "variantId": 58271194480984,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -3241,6 +3264,16 @@
         "product": "125798 Glaceon VSTAR - VSTAR Universe 217/172 NM (Japanese) — 217/172, Near-Mint / Special Illustration Rare",
         "productId": 15641389498712,
         "variantId": 56849460658520,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "77908 - Unleashed Booster Box (English) UVS Games x Riot Games Riftbound",
+        "productId": 15957910094168,
+        "variantId": 58271194480984,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
