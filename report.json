@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-26T16:53:31.123Z",
+  "generatedAt": "2026-08-26T19:09:49.358Z",
   "summary": {
-    "totalUnfulfilled": 72,
+    "totalUnfulfilled": 74,
     "canFulfill": 12,
-    "blocked": 60
+    "blocked": 62
   },
   "fulfillableOrders": [
     {
@@ -1333,6 +1333,42 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12575228068184,
+      "name": "#4332",
+      "customerName": "Anil Gedik",
+      "createdAt": "2026-08-26T19:59:12+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "131438 Promotion Pack 2022 One Piece Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
+        },
+        {
+          "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12575320179032,
+      "name": "#4333",
+      "customerName": "danny nijman",
+      "createdAt": "2026-08-26T20:56:21+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "74826 - Mega Evolution Pitch Black Build & Battle Box 4 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1438,8 +1474,8 @@
         "productId": 15657433923928,
         "variantId": 56922650935640,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "134660 Sanji - Romance Dawn (Pre‑Errata) OP01‑013 V2 NM (English) — OP01‑013/V2, Near-Mint / Alternate Art",
@@ -2470,8 +2506,8 @@
         "productId": 15903094800728,
         "variantId": 57828229710168,
         "onHand": 0,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "110212 Scarlet & Violet Obsidian Flames Sleeved Booster Pack (English) — 10 cards / Multicolor",
@@ -2632,6 +2668,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "74826 - Mega Evolution Pitch Black Build & Battle Box 4 Booster Packs (English)",
+        "productId": 15960033329496,
+        "variantId": 58282609541464,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2666,6 +2710,26 @@
         "shortfall": 3
       },
       {
+        "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
+        "productId": 15903094800728,
+        "variantId": 57828229710168,
+        "onHand": 0,
+        "committed": 4,
+        "incoming": 1,
+        "available": -4,
+        "shortfall": 3
+      },
+      {
+        "product": "131438 Promotion Pack 2022 One Piece Booster Pack (English)",
+        "productId": 15657433923928,
+        "variantId": 56922650935640,
+        "onHand": 0,
+        "committed": 4,
+        "incoming": 2,
+        "available": -4,
+        "shortfall": 2
+      },
+      {
         "product": "119477 Squirtle - Scarlet & Violet 151 170/165 NM (English) — 170/165, Near-Mint / Illustration Rare",
         "productId": 15641506251096,
         "variantId": 56849643602264,
@@ -2691,16 +2755,6 @@
         "variantId": 56849719492952,
         "onHand": 1,
         "committed": 4,
-        "incoming": 1,
-        "available": -3,
-        "shortfall": 2
-      },
-      {
-        "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
-        "productId": 15903094800728,
-        "variantId": 57828229710168,
-        "onHand": 0,
-        "committed": 3,
         "incoming": 1,
         "available": -3,
         "shortfall": 2
@@ -2949,6 +3003,16 @@
         "product": "146989 Wilds Unknown Booster Box 24 Booster Packs (English) - Multicolor",
         "productId": 15880047231320,
         "variantId": 57737306734936,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "74826 - Mega Evolution Pitch Black Build & Battle Box 4 Booster Packs (English)",
+        "productId": 15960033329496,
+        "variantId": 58282609541464,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
