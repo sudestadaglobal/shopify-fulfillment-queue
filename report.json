@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T14:07:46.385Z",
+  "generatedAt": "2026-08-26T15:59:00.750Z",
   "summary": {
     "totalUnfulfilled": 72,
     "canFulfill": 12,
@@ -2651,9 +2651,9 @@
         "variantId": 58003500630360,
         "onHand": 0,
         "committed": 6,
-        "incoming": 1,
+        "incoming": 2,
         "available": -6,
-        "shortfall": 5
+        "shortfall": 4
       },
       {
         "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
@@ -2926,39 +2926,9 @@
         "shortfall": 1
       },
       {
-        "product": "139124 - Aphelios, Exalted - Spiritforged 224/221 NM V2 Showcase (English)",
-        "productId": 15957758083416,
-        "variantId": 58270599905624,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "110326 Charizard VMAX - Sword & Shield Champion's Path 074/073 NM（English） — 074/073, Near-Mint / Rainbow Rare",
         "productId": 15641563857240,
         "variantId": 56849719755096,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77908 - Unleashed Booster Box (English) UVS Games x Riot Games Riftbound",
-        "productId": 15957910094168,
-        "variantId": 58271194480984,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119175 Krokorok - Scarlet & Violet Black Bolt 136/086 NM (English) — 136/086, Near-Mint / Illustration Rare",
-        "productId": 15641513132376,
-        "variantId": 56849654677848,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
