@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-26T11:53:15.280Z",
+  "generatedAt": "2026-08-26T13:04:13.104Z",
   "summary": {
-    "totalUnfulfilled": 68,
-    "canFulfill": 11,
-    "blocked": 57
+    "totalUnfulfilled": 70,
+    "canFulfill": 12,
+    "blocked": 58
   },
   "fulfillableOrders": [
     {
@@ -70,6 +70,12 @@
       "id": 12572848193880,
       "name": "#4323",
       "createdAt": "2026-08-25T15:57:38+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12574632837464,
+      "name": "#4328",
+      "createdAt": "2026-08-26T14:39:06+02:00",
       "itemCount": 1
     }
   ],
@@ -1270,6 +1276,33 @@
           "needed": 2
         }
       ]
+    },
+    {
+      "id": 12574639751512,
+      "name": "#4329",
+      "customerName": "M.N. Ton",
+      "createdAt": "2026-08-26T14:42:16+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "77906 - Vendetta Booster Box (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2295,8 +2328,8 @@
         "productId": 15946775560536,
         "variantId": 58003500630360,
         "onHand": 0,
-        "committed": 3,
-        "demand": 3
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "146992 Wilds Unknown Illumineer's Trove 8 Booster Packs (English) - Multicolor",
@@ -2479,16 +2512,16 @@
         "productId": 15957741863256,
         "variantId": 58270517461336,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
         "productId": 15957742616920,
         "variantId": 58270519165272,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "139124 - Aphelios, Exalted - Spiritforged 224/221 NM V2 Showcase (English)",
@@ -2545,6 +2578,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "134048 Mega Evolution Perfect Order Meganium Premium Checklane Blister Booster Pack (English) Pre‑order — 10 cards / Multicolor",
+        "productId": 15643927413080,
+        "variantId": 56858946273624,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2557,6 +2598,16 @@
         "incoming": 0,
         "available": -6,
         "shortfall": 6
+      },
+      {
+        "product": "77906 - Vendetta Booster Box (English)",
+        "productId": 15946775560536,
+        "variantId": 58003500630360,
+        "onHand": 0,
+        "committed": 6,
+        "incoming": 1,
+        "available": -6,
+        "shortfall": 5
       },
       {
         "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
@@ -2599,16 +2650,6 @@
         "shortfall": 2
       },
       {
-        "product": "77906 - Vendetta Booster Box (English)",
-        "productId": 15946775560536,
-        "variantId": 58003500630360,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 1,
-        "available": -3,
-        "shortfall": 2
-      },
-      {
         "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
         "productId": 15903094800728,
         "variantId": 57828229710168,
@@ -2616,6 +2657,26 @@
         "committed": 3,
         "incoming": 1,
         "available": -3,
+        "shortfall": 2
+      },
+      {
+        "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
+        "productId": 15957741863256,
+        "variantId": 58270517461336,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
+        "productId": 15957742616920,
+        "variantId": 58270519165272,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
         "shortfall": 2
       },
       {
@@ -2812,26 +2873,6 @@
         "product": "70713 - Froakie - Mega Evolution Chaos Rising 088/086 NM Holofoil (English)",
         "productId": 15955973112152,
         "variantId": 58263529390424,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
-        "productId": 15957741863256,
-        "variantId": 58270517461336,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
-        "productId": 15957742616920,
-        "variantId": 58270519165272,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
