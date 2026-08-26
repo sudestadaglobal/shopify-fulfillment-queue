@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-26T13:04:13.104Z",
+  "generatedAt": "2026-08-26T14:07:46.385Z",
   "summary": {
-    "totalUnfulfilled": 70,
+    "totalUnfulfilled": 72,
     "canFulfill": 12,
-    "blocked": 58
+    "blocked": 60
   },
   "fulfillableOrders": [
     {
@@ -1303,6 +1303,36 @@
           "needed": 3
         }
       ]
+    },
+    {
+      "id": 12574704173400,
+      "name": "#4330",
+      "customerName": "Adrià Cáceres",
+      "createdAt": "2026-08-26T15:12:39+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "77404 - Gem Pack Vol. 3 Booster Box 15 Booster Packs (S-Chinese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12574712136024,
+      "name": "#4331",
+      "customerName": "Anil Gedik",
+      "createdAt": "2026-08-26T15:16:57+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "146989 Wilds Unknown Booster Box 24 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2586,6 +2616,22 @@
         "onHand": 3,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "77404 - Gem Pack Vol. 3 Booster Box 15 Booster Packs (S-Chinese)",
+        "productId": 15959747658072,
+        "variantId": 58280734294360,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "146989 Wilds Unknown Booster Box 24 Booster Packs (English) - Multicolor",
+        "productId": 15880047231320,
+        "variantId": 57737306734936,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2913,6 +2959,26 @@
         "product": "119175 Krokorok - Scarlet & Violet Black Bolt 136/086 NM (English) — 136/086, Near-Mint / Illustration Rare",
         "productId": 15641513132376,
         "variantId": 56849654677848,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "77404 - Gem Pack Vol. 3 Booster Box 15 Booster Packs (S-Chinese)",
+        "productId": 15959747658072,
+        "variantId": 58280734294360,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "146989 Wilds Unknown Booster Box 24 Booster Packs (English) - Multicolor",
+        "productId": 15880047231320,
+        "variantId": 57737306734936,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
