@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-26T09:06:40.102Z",
+  "generatedAt": "2026-08-26T10:06:26.319Z",
   "summary": {
-    "totalUnfulfilled": 69,
+    "totalUnfulfilled": 68,
     "canFulfill": 11,
-    "blocked": 58
+    "blocked": 57
   },
   "fulfillableOrders": [
     {
@@ -101,21 +101,6 @@
           "reason": "Insufficient stock",
           "stock": 1,
           "needed": 2
-        }
-      ]
-    },
-    {
-      "id": 12503618912600,
-      "name": "#4110",
-      "customerName": "Oliver Månsson",
-      "createdAt": "2026-07-28T19:55:09+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "Asus ROG Strix X870-A GAMING WIFI AM5 Motherboard",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -1328,22 +1313,6 @@
         "onHand": 2,
         "committed": 4,
         "demand": 4
-      },
-      {
-        "product": "AMD Ryzen 7 7800X3D",
-        "productId": 15902014210392,
-        "variantId": 57824433504600,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "Asus ROG Strix X870-A GAMING WIFI AM5 Motherboard",
-        "productId": 15476052853080,
-        "variantId": 56290808791384,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
       },
       {
         "product": "147783 Mega Evolution Pitch Black Binacle 3-Pack Blister 3 Booster Packs (English) - Multicolor",
