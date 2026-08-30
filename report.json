@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-30T13:16:27.036Z",
+  "generatedAt": "2026-08-30T17:37:36.157Z",
   "summary": {
-    "totalUnfulfilled": 55,
-    "canFulfill": 5,
-    "blocked": 50
+    "totalUnfulfilled": 60,
+    "canFulfill": 7,
+    "blocked": 53
   },
   "fulfillableOrders": [
     {
@@ -35,6 +35,18 @@
       "name": "#4336",
       "createdAt": "2026-08-28T13:41:20+02:00",
       "itemCount": 5
+    },
+    {
+      "id": 12588349358424,
+      "name": "#4341",
+      "createdAt": "2026-08-30T16:37:27+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12588353225048,
+      "name": "#4342",
+      "createdAt": "2026-08-30T16:39:05+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -967,6 +979,51 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12588321046872,
+      "name": "#4339",
+      "customerName": "Oliver Nielsen",
+      "createdAt": "2026-08-30T16:23:26+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12588345491800,
+      "name": "#4340",
+      "customerName": "Luca Maxim Limmroth",
+      "createdAt": "2026-08-30T16:35:34+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "110190 Scarlet & Violet Temporal Forces (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12588357681496,
+      "name": "#4343",
+      "customerName": "Rosa Dominguez",
+      "createdAt": "2026-08-30T16:41:21+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "77906 - Vendetta Booster Box (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1112,8 +1169,8 @@
         "productId": 15641566151000,
         "variantId": 56849731453272,
         "onHand": 0,
-        "committed": 6,
-        "demand": 6
+        "committed": 7,
+        "demand": 7
       },
       {
         "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
@@ -1520,8 +1577,8 @@
         "productId": 15946775560536,
         "variantId": 58003500630360,
         "onHand": 0,
-        "committed": 6,
-        "demand": 6
+        "committed": 7,
+        "demand": 7
       },
       {
         "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
@@ -1818,18 +1875,44 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
+        "productId": 15641523421528,
+        "variantId": 56849676173656,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131474 Winner Pack 2025 Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641344868696,
+        "variantId": 56849304912216,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
+      {
+        "product": "110190 Scarlet & Violet Temporal Forces (English) — 10 cards / Multicolor",
+        "productId": 15641566151000,
+        "variantId": 56849731453272,
+        "onHand": 0,
+        "committed": 7,
+        "incoming": 5,
+        "available": -7,
+        "shortfall": 2
+      },
       {
         "product": "148047 Attack of the Vine! Booster Box 24 Booster Packs (English) - Multicolor",
         "productId": 15903094800728,
         "variantId": 57828229710168,
         "onHand": 0,
         "committed": 4,
-        "incoming": 1,
+        "incoming": 2,
         "available": -4,
-        "shortfall": 3
+        "shortfall": 2
       },
       {
         "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
@@ -1852,16 +1935,6 @@
         "shortfall": 2
       },
       {
-        "product": "110190 Scarlet & Violet Temporal Forces (English) — 10 cards / Multicolor",
-        "productId": 15641566151000,
-        "variantId": 56849731453272,
-        "onHand": 0,
-        "committed": 6,
-        "incoming": 5,
-        "available": -6,
-        "shortfall": 1
-      },
-      {
         "product": "119189 Bisharp - Scarlet & Violet Black Bolt 143/086 NM (English) — 143/086, Near-Mint / Illustration Rare",
         "productId": 15641512903000,
         "variantId": 56849654120792,
@@ -1879,6 +1952,16 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "77906 - Vendetta Booster Box (English)",
+        "productId": 15946775560536,
+        "variantId": 58003500630360,
+        "onHand": 0,
+        "committed": 7,
+        "incoming": 6,
+        "available": -7,
         "shortfall": 1
       },
       {
@@ -1932,26 +2015,6 @@
         "shortfall": 1
       },
       {
-        "product": "146989 Wilds Unknown Booster Box 24 Booster Packs (English) - Multicolor",
-        "productId": 15880047231320,
-        "variantId": 57737306734936,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77422 - Collect 151 Surprises Booster Box 15 Booster Packs (S-Chinese)",
-        "productId": 15964443509080,
-        "variantId": 58300870197592,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "116609 Team Rocket's Mewtwo ex - Scarlet & Violet Destined Rivals 231/182 NM (English) — 231/182, Near-Mint / Illustration Rare",
         "productId": 15641548292440,
         "variantId": 56849701896536,
@@ -1965,6 +2028,16 @@
         "product": "Sony Playstation 5 Slim Digital Edition (EU Plug)",
         "productId": 15721164374360,
         "variantId": 57154641035608,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
+        "productId": 15641523421528,
+        "variantId": 56849676173656,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
