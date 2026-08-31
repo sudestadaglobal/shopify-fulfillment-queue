@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-31T07:07:07.741Z",
+  "generatedAt": "2026-08-31T15:10:04.316Z",
   "summary": {
-    "totalUnfulfilled": 60,
-    "canFulfill": 7,
+    "totalUnfulfilled": 64,
+    "canFulfill": 11,
     "blocked": 53
   },
   "fulfillableOrders": [
@@ -46,6 +46,30 @@
       "id": 12588353225048,
       "name": "#4342",
       "createdAt": "2026-08-30T16:39:05+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12589592772952,
+      "name": "#4344",
+      "createdAt": "2026-08-31T09:37:46+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12589592838488,
+      "name": "#4345",
+      "createdAt": "2026-08-31T09:37:47+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12589592871256,
+      "name": "#4346",
+      "createdAt": "2026-08-31T09:37:48+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12589592904024,
+      "name": "#4347",
+      "createdAt": "2026-08-31T09:37:49+02:00",
       "itemCount": 1
     }
   ],
@@ -1889,6 +1913,14 @@
         "productId": 15641344868696,
         "variantId": 56849304912216,
         "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "CSGORoll - T-Shirt Medium Black — 2XL",
+        "productId": 15910915146072,
+        "variantId": 57853694280024,
+        "onHand": 2,
         "committed": 1,
         "demand": 1
       }
