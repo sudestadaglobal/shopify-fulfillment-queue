@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-01T15:10:14.753Z",
+  "generatedAt": "2026-09-01T18:35:18.845Z",
   "summary": {
-    "totalUnfulfilled": 46,
+    "totalUnfulfilled": 48,
     "canFulfill": 2,
-    "blocked": 44
+    "blocked": 46
   },
   "fulfillableOrders": [
     {
@@ -800,6 +800,54 @@
         },
         {
           "product": "132730 Erika’s Tangela - Mega Evolution Ascended Heroes 218/217 NM (English) — 218/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12595835896152,
+      "name": "#4351",
+      "customerName": "Fotini Tsamoglou",
+      "createdAt": "2026-09-01T17:17:42+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "ASUS GeForce RTX 5080 16 GB OC ROG Astral",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12595929514328,
+      "name": "#4352",
+      "customerName": "Erik Marmander",
+      "createdAt": "2026-09-01T18:05:23+02:00",
+      "itemCount": 4,
+      "reasons": [
+        {
+          "product": "KARACTERMANIA Hello Kitty Kuromi Backpack",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "Pyramid International Hello Kitty Mug with Teddy Bear Cover",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "CYP BRANDS Hello Kitty Kuromi Purse",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "KIDS LICESING Hello Kitty Kuromi Plush Notebook",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1648,6 +1696,46 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "ASUS GeForce RTX 5080 16 GB OC ROG Astral",
+        "productId": 15976139456856,
+        "variantId": 58359038509400,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "KARACTERMANIA Hello Kitty Kuromi Backpack",
+        "productId": 15976222294360,
+        "variantId": 58359648846168,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Pyramid International Hello Kitty Mug with Teddy Bear Cover",
+        "productId": 15976222490968,
+        "variantId": 58359649468760,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "CYP BRANDS Hello Kitty Kuromi Purse",
+        "productId": 15976222720344,
+        "variantId": 58359650320728,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "KIDS LICESING Hello Kitty Kuromi Plush Notebook",
+        "productId": 15976223080792,
+        "variantId": 58359661560152,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -1775,6 +1863,56 @@
         "product": "132730 Erika’s Tangela - Mega Evolution Ascended Heroes 218/217 NM (English) — 218/217, Near-Mint / Illustration Rare",
         "productId": 15641317933400,
         "variantId": 56849266049368,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "ASUS GeForce RTX 5080 16 GB OC ROG Astral",
+        "productId": 15976139456856,
+        "variantId": 58359038509400,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "KARACTERMANIA Hello Kitty Kuromi Backpack",
+        "productId": 15976222294360,
+        "variantId": 58359648846168,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Pyramid International Hello Kitty Mug with Teddy Bear Cover",
+        "productId": 15976222490968,
+        "variantId": 58359649468760,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "CYP BRANDS Hello Kitty Kuromi Purse",
+        "productId": 15976222720344,
+        "variantId": 58359650320728,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "KIDS LICESING Hello Kitty Kuromi Plush Notebook",
+        "productId": 15976223080792,
+        "variantId": 58359661560152,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
