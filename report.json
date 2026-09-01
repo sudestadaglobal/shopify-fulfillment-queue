@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-01T18:35:18.845Z",
+  "generatedAt": "2026-09-01T21:24:31.998Z",
   "summary": {
-    "totalUnfulfilled": 48,
+    "totalUnfulfilled": 50,
     "canFulfill": 2,
-    "blocked": 46
+    "blocked": 48
   },
   "fulfillableOrders": [
     {
@@ -848,6 +848,36 @@
         },
         {
           "product": "KIDS LICESING Hello Kitty Kuromi Plush Notebook",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12596306215256,
+      "name": "#4353",
+      "customerName": "Frédéric Pépin-Toulouse",
+      "createdAt": "2026-09-01T21:10:23+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "77575 - Lost Origin Booster Box 36 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12596338196824,
+      "name": "#4354",
+      "customerName": "Yannik Spies",
+      "createdAt": "2026-09-01T21:24:54+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "79268 - The World's Strongest Warriors Booster Box (English)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1736,6 +1766,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "77575 - Lost Origin Booster Box 36 Booster Packs (English)",
+        "productId": 15976620589400,
+        "variantId": 58362015285592,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "79268 - The World's Strongest Warriors Booster Box (English)",
+        "productId": 15976625897816,
+        "variantId": 58362084458840,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -1913,6 +1959,26 @@
         "product": "KIDS LICESING Hello Kitty Kuromi Plush Notebook",
         "productId": 15976223080792,
         "variantId": 58359661560152,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "77575 - Lost Origin Booster Box 36 Booster Packs (English)",
+        "productId": 15976620589400,
+        "variantId": 58362015285592,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "79268 - The World's Strongest Warriors Booster Box (English)",
+        "productId": 15976625897816,
+        "variantId": 58362084458840,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
