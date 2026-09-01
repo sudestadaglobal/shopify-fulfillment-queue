@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-01T10:30:58.121Z",
+  "generatedAt": "2026-09-01T15:10:14.753Z",
   "summary": {
-    "totalUnfulfilled": 44,
+    "totalUnfulfilled": 46,
     "canFulfill": 2,
-    "blocked": 42
+    "blocked": 44
   },
   "fulfillableOrders": [
     {
@@ -764,6 +764,42 @@
       "reasons": [
         {
           "product": "77906 - Vendetta Booster Box (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12593318166872,
+      "name": "#4349",
+      "customerName": "marcos peña gomez",
+      "createdAt": "2026-09-01T12:55:33+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12595712065880,
+      "name": "#4350",
+      "customerName": "Mathias Jensen",
+      "createdAt": "2026-09-01T16:18:20+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "119465 Erika’s Invitation - Scarlet & Violet 151 196/165 NM (English) — 196/165, Near-Mint / Ultra Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132730 Erika’s Tangela - Mega Evolution Ascended Heroes 218/217 NM (English) — 218/217, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1588,6 +1624,30 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
+        "productId": 15641380454744,
+        "variantId": 56849450369368,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "119465 Erika’s Invitation - Scarlet & Violet 151 196/165 NM (English) — 196/165, Near-Mint / Ultra Rare",
+        "productId": 15641506578776,
+        "variantId": 56849644126552,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132730 Erika’s Tangela - Mega Evolution Ascended Heroes 218/217 NM (English) — 218/217, Near-Mint / Illustration Rare",
+        "productId": 15641317933400,
+        "variantId": 56849266049368,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -1602,14 +1662,14 @@
         "shortfall": 2
       },
       {
-        "product": "119189 Bisharp - Scarlet & Violet Black Bolt 143/086 NM (English) — 143/086, Near-Mint / Illustration Rare",
-        "productId": 15641512903000,
-        "variantId": 56849654120792,
+        "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
+        "productId": 15641380454744,
+        "variantId": 56849450369368,
         "onHand": 0,
-        "committed": 1,
+        "committed": 2,
         "incoming": 0,
-        "available": -1,
-        "shortfall": 1
+        "available": -2,
+        "shortfall": 2
       },
       {
         "product": "150157 - \tAstral Radiance Sleeved Booster Pack (English) - Multicolor",
@@ -1695,6 +1755,26 @@
         "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
         "productId": 15641523421528,
         "variantId": 56849676173656,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "119465 Erika’s Invitation - Scarlet & Violet 151 196/165 NM (English) — 196/165, Near-Mint / Ultra Rare",
+        "productId": 15641506578776,
+        "variantId": 56849644126552,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132730 Erika’s Tangela - Mega Evolution Ascended Heroes 218/217 NM (English) — 218/217, Near-Mint / Illustration Rare",
+        "productId": 15641317933400,
+        "variantId": 56849266049368,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
