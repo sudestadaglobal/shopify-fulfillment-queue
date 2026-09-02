@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-02T06:19:06.338Z",
+  "generatedAt": "2026-09-02T11:38:53.370Z",
   "summary": {
-    "totalUnfulfilled": 50,
-    "canFulfill": 2,
+    "totalUnfulfilled": 52,
+    "canFulfill": 4,
     "blocked": 48
   },
   "fulfillableOrders": [
@@ -16,6 +16,18 @@
       "id": 12589592871256,
       "name": "#4346",
       "createdAt": "2026-08-31T09:37:48+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12597461156184,
+      "name": "#4356",
+      "createdAt": "2026-09-02T11:33:27+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12597461221720,
+      "name": "#4357",
+      "createdAt": "2026-09-02T11:33:28+02:00",
       "itemCount": 1
     }
   ],
@@ -715,7 +727,7 @@
       "name": "#4337",
       "customerName": "Marc Schüller",
       "createdAt": "2026-08-28T13:48:42+02:00",
-      "itemCount": 1,
+      "itemCount": 2,
       "reasons": [
         {
           "product": "116609 Team Rocket's Mewtwo ex - Scarlet & Violet Destined Rivals 231/182 NM (English) — 231/182, Near-Mint / Illustration Rare",
