@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-02T11:38:53.370Z",
+  "generatedAt": "2026-09-02T15:21:06.008Z",
   "summary": {
-    "totalUnfulfilled": 52,
-    "canFulfill": 4,
-    "blocked": 48
+    "totalUnfulfilled": 58,
+    "canFulfill": 7,
+    "blocked": 51
   },
   "fulfillableOrders": [
     {
@@ -28,6 +28,24 @@
       "id": 12597461221720,
       "name": "#4357",
       "createdAt": "2026-09-02T11:33:28+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12597823734104,
+      "name": "#4358",
+      "createdAt": "2026-09-02T14:25:38+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12597840380248,
+      "name": "#4360",
+      "createdAt": "2026-09-02T14:35:08+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12597896446296,
+      "name": "#4363",
+      "createdAt": "2026-09-02T14:58:19+02:00",
       "itemCount": 1
     }
   ],
@@ -895,6 +913,69 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12597827895640,
+      "name": "#4359",
+      "customerName": "Tim Larsson",
+      "createdAt": "2026-09-02T14:28:08+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12597861155160,
+      "name": "#4361",
+      "customerName": "Albin Backman",
+      "createdAt": "2026-09-02T14:44:24+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "69996 Sun & Moon Hidden Fates Elite Trainer Box (English)",
+          "reason": "Insufficient stock",
+          "stock": -4,
+          "needed": 4
+        },
+        {
+          "product": "77412 - White Flare Booster Bundle Display 60 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "77410 - Black Bolt Booster Bundle Display 60 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 1,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12597891105112,
+      "name": "#4362",
+      "customerName": "Lukas Jahn",
+      "createdAt": "2026-09-02T14:56:17+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "77420 - Bonus Round Jumbo Booster Box 6 Jumbo Booster Packs (S-Chinese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -904,8 +985,8 @@
         "productId": 15641503859032,
         "variantId": 56849639571800,
         "onHand": 3,
-        "committed": 6,
-        "demand": 6
+        "committed": 7,
+        "demand": 7
       },
       {
         "product": "147783 Mega Evolution Pitch Black Binacle 3-Pack Blister 3 Booster Packs (English) - Multicolor",
@@ -1176,8 +1257,8 @@
         "productId": 15641561432408,
         "variantId": 56849716019544,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "138021 - Exeggcute - Scarlet & Violet Surging Sparks 192/191 NM Holofoil (English) - Illustration Rare",
@@ -1608,8 +1689,8 @@
         "productId": 15641568837976,
         "variantId": 56849736204632,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119175 Krokorok - Scarlet & Violet Black Bolt 136/086 NM (English) — 136/086, Near-Mint / Illustration Rare",
@@ -1794,9 +1875,85 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "110269 Sword & Shield Brilliant Stars Booster (English) — 10 cards / Multicolor",
+        "productId": 15641564840280,
+        "variantId": 56849721360728,
+        "onHand": 7,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641503891800,
+        "variantId": 56849639604568,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "69996 Sun & Moon Hidden Fates Elite Trainer Box (English)",
+        "productId": 15549268623704,
+        "variantId": 56494572699992,
+        "onHand": -4,
+        "committed": 4,
+        "demand": 4
+      },
+      {
+        "product": "77412 - White Flare Booster Bundle Display 60 Booster Packs (English)",
+        "productId": 15977691939160,
+        "variantId": 58367869682008,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "77410 - Black Bolt Booster Bundle Display 60 Booster Packs (English)",
+        "productId": 15977696133464,
+        "variantId": 58367892128088,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "77420 - Bonus Round Jumbo Booster Box 6 Jumbo Booster Packs (S-Chinese)",
+        "productId": 15977739452760,
+        "variantId": 58368069009752,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131470 Pillars of Strength One Piece Booster Pack (English) — 12 cards / Multicolor",
+        "productId": 15641345032536,
+        "variantId": 56849305076056,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
+      {
+        "product": "69996 Sun & Moon Hidden Fates Elite Trainer Box (English)",
+        "productId": 15549268623704,
+        "variantId": 56494572699992,
+        "onHand": -4,
+        "committed": 4,
+        "incoming": 0,
+        "available": -8,
+        "shortfall": 8
+      },
+      {
+        "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
+        "productId": 15641561432408,
+        "variantId": 56849716019544,
+        "onHand": 1,
+        "committed": 3,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
       {
         "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
         "productId": 15957742616920,
@@ -1808,23 +1965,13 @@
         "shortfall": 2
       },
       {
-        "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
-        "productId": 15641380454744,
-        "variantId": 56849450369368,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "150157 - \tAstral Radiance Sleeved Booster Pack (English) - Multicolor",
-        "productId": 15942785302872,
-        "variantId": 57983490818392,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
+        "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
+        "productId": 15641503859032,
+        "variantId": 56849639571800,
+        "onHand": 3,
+        "committed": 7,
+        "incoming": 3,
+        "available": -4,
         "shortfall": 1
       },
       {
@@ -1891,16 +2038,6 @@
         "product": "Sony Playstation 5 Slim Digital Edition (EU Plug)",
         "productId": 15721164374360,
         "variantId": 57154641035608,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "116758 Scarlet & Violet Destined Rivals Elite Trainer Box 9 Booster Pack (English) — 9 booster pack / Multicolor",
-        "productId": 15641523421528,
-        "variantId": 56849676173656,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -1988,9 +2125,39 @@
         "shortfall": 1
       },
       {
-        "product": "79268 - The World's Strongest Warriors Booster Box (English)",
-        "productId": 15976625897816,
-        "variantId": 58362084458840,
+        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641503891800,
+        "variantId": 56849639604568,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "77412 - White Flare Booster Bundle Display 60 Booster Packs (English)",
+        "productId": 15977691939160,
+        "variantId": 58367869682008,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "77410 - Black Bolt Booster Bundle Display 60 Booster Packs (English)",
+        "productId": 15977696133464,
+        "variantId": 58367892128088,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "77420 - Bonus Round Jumbo Booster Box 6 Jumbo Booster Packs (S-Chinese)",
+        "productId": 15977739452760,
+        "variantId": 58368069009752,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
