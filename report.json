@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T06:27:34.667Z",
+  "generatedAt": "2026-09-03T11:38:21.668Z",
   "summary": {
-    "totalUnfulfilled": 58,
+    "totalUnfulfilled": 60,
     "canFulfill": 7,
-    "blocked": 51
+    "blocked": 53
   },
   "fulfillableOrders": [
     {
@@ -976,6 +976,36 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12599845650776,
+      "name": "#4364",
+      "customerName": "Fotini Tsamoglou",
+      "createdAt": "2026-09-03T13:11:55+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AMD Ryzen 9 9950X3D Processor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12599875993944,
+      "name": "#4365",
+      "customerName": "Oliver Månsson",
+      "createdAt": "2026-09-03T13:28:17+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "ASUS GeForce RTX 5080 GAMING TRIO 16GB OC",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1931,6 +1961,22 @@
         "onHand": 2,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "AMD Ryzen 9 9950X3D Processor",
+        "productId": 15484211167576,
+        "variantId": 56316801548632,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "ASUS GeForce RTX 5080 GAMING TRIO 16GB OC",
+        "productId": 15978812342616,
+        "variantId": 58378011312472,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2158,6 +2204,26 @@
         "product": "77420 - Bonus Round Jumbo Booster Box 6 Jumbo Booster Packs (S-Chinese)",
         "productId": 15977739452760,
         "variantId": 58368069009752,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "AMD Ryzen 9 9950X3D Processor",
+        "productId": 15484211167576,
+        "variantId": 56316801548632,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "ASUS GeForce RTX 5080 GAMING TRIO 16GB OC",
+        "productId": 15978812342616,
+        "variantId": 58378011312472,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
