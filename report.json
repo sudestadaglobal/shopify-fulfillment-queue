@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T15:15:14.942Z",
+  "generatedAt": "2026-09-03T18:46:18.723Z",
   "summary": {
-    "totalUnfulfilled": 62,
+    "totalUnfulfilled": 67,
     "canFulfill": 7,
-    "blocked": 55
+    "blocked": 60
   },
   "fulfillableOrders": [
     {
@@ -1042,6 +1042,159 @@
           "needed": 2
         }
       ]
+    },
+    {
+      "id": 12600314757464,
+      "name": "#4368",
+      "customerName": "Marvin Weber",
+      "createdAt": "2026-09-03T17:16:02+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12600349786456,
+      "name": "#4369",
+      "customerName": "marcos peña gomez",
+      "createdAt": "2026-09-03T17:34:53+02:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "77434 - Destined Rivals Booster Box 36 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
+        }
+      ]
+    },
+    {
+      "id": 12600530534744,
+      "name": "#4370",
+      "customerName": "Maximilian Milota",
+      "createdAt": "2026-09-03T19:15:26+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "77470 - Terastal Festival ex Booster Box 10 Booster Packs (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12600601805144,
+      "name": "#4371",
+      "customerName": "Lum Krasniqi",
+      "createdAt": "2026-09-03T19:58:13+02:00",
+      "itemCount": 11,
+      "reasons": [
+        {
+          "product": "75084 - Woody & Buzz Lightyear - Best Buddies - Attack of the Vine 228/207 NM V2 Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "75088 - Mickey Mouse & Minnie Mouse - Adventuring Duo - Attack of the Vine 233/207 NM V2 Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "75110 - Mike Wazowski - Heroic Climber - Attack of the Vine 226/207 NM V2 Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "75092 - Scar - Created by the Vine - Attack of the Vine 243/207 NM V2 Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "75098 - Pocahontas & Meeko - Adventurous Friends - Attack of the Vine 232/207 NM V2 Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "75096 - Maleficent & Diablo - Evil Incarnate - Attack of the Vine 235/207 NM V2 Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "75106 - Aladdin & Genie - Mischievous Pals - Attack of the Vine 232/207 NM V2 Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "75112 - Tod & Copper - Best of Friends - Attack of the Vine 230/207 NM V2 Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "75116 - Meilin Lee - Popular Red Panda - Attack of the Vine 240/207 NM V2 Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "75114 - Merida - Wisp Conjurer - Attack of the Vine 231/207 NM V2 Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "75108 - The Madrigal Family - Every Generation - Attack of the Vine 241/207 NM V2 Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12600643813720,
+      "name": "#4372",
+      "customerName": "Lum Krasniqi",
+      "createdAt": "2026-09-03T20:23:36+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "128098 Pikachu - Collect 151 173/151C NM (S‑Chinese) — 173/151C, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1323,8 +1476,8 @@
         "productId": 15641561432408,
         "variantId": 56849716019544,
         "onHand": 1,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "138021 - Exeggcute - Scarlet & Violet Surging Sparks 192/191 NM Holofoil (English) - Illustration Rare",
@@ -1379,8 +1532,8 @@
         "productId": 15834588119384,
         "variantId": 57582670676312,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110175 Play! Pokémon Prize Pack Series Five Booster Pack (English) — 6 cards / Multicolor",
@@ -1771,8 +1924,8 @@
         "productId": 15641563300184,
         "variantId": 56849718870360,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "77404 - Gem Pack Vol. 3 Booster Box 15 Booster Packs (S-Chinese)",
@@ -2043,8 +2196,128 @@
         "productId": 15641321406808,
         "variantId": 56849271619928,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 5,
+        "demand": 5
+      },
+      {
+        "product": "77434 - Destined Rivals Booster Box 36 Booster Packs (English)",
+        "productId": 15980054053208,
+        "variantId": 58384932340056,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+        "productId": 15641337299288,
+        "variantId": 56849296359768,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "77470 - Terastal Festival ex Booster Box 10 Booster Packs (Japanese)",
+        "productId": 15980780814680,
+        "variantId": 58388067549528,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "75084 - Woody & Buzz Lightyear - Best Buddies - Attack of the Vine 228/207 NM V2 Holofoil (English)",
+        "productId": 15980807192920,
+        "variantId": 58388115063128,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "75088 - Mickey Mouse & Minnie Mouse - Adventuring Duo - Attack of the Vine 233/207 NM V2 Holofoil (English)",
+        "productId": 15980820627800,
+        "variantId": 58388208484696,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "75110 - Mike Wazowski - Heroic Climber - Attack of the Vine 226/207 NM V2 Holofoil (English)",
+        "productId": 15980826132824,
+        "variantId": 58388275626328,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "75092 - Scar - Created by the Vine - Attack of the Vine 243/207 NM V2 Holofoil (English)",
+        "productId": 15980828295512,
+        "variantId": 58388313604440,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "75098 - Pocahontas & Meeko - Adventurous Friends - Attack of the Vine 232/207 NM V2 Holofoil (English)",
+        "productId": 15980836618584,
+        "variantId": 58388410925400,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "75096 - Maleficent & Diablo - Evil Incarnate - Attack of the Vine 235/207 NM V2 Holofoil (English)",
+        "productId": 15980841435480,
+        "variantId": 58388443365720,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "75106 - Aladdin & Genie - Mischievous Pals - Attack of the Vine 232/207 NM V2 Holofoil (English)",
+        "productId": 15980848087384,
+        "variantId": 58388465877336,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "75112 - Tod & Copper - Best of Friends - Attack of the Vine 230/207 NM V2 Holofoil (English)",
+        "productId": 15980848349528,
+        "variantId": 58388472594776,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "75116 - Meilin Lee - Popular Red Panda - Attack of the Vine 240/207 NM V2 Holofoil (English)",
+        "productId": 15980848513368,
+        "variantId": 58388475085144,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "75114 - Merida - Wisp Conjurer - Attack of the Vine 231/207 NM V2 Holofoil (English)",
+        "productId": 15980848644440,
+        "variantId": 58388475511128,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "75108 - The Madrigal Family - Every Generation - Attack of the Vine 241/207 NM V2 Holofoil (English)",
+        "productId": 15980848841048,
+        "variantId": 58388476330328,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "128098 Pikachu - Collect 151 173/151C NM (S‑Chinese) — 173/151C, Near-Mint / Illustration Rare",
+        "productId": 15641373901144,
+        "variantId": 56849439588696,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2059,14 +2332,24 @@
         "shortfall": 8
       },
       {
+        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+        "productId": 15641321406808,
+        "variantId": 56849271619928,
+        "onHand": 0,
+        "committed": 5,
+        "incoming": 0,
+        "available": -5,
+        "shortfall": 5
+      },
+      {
         "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
         "productId": 15641561432408,
         "variantId": 56849716019544,
         "onHand": 1,
-        "committed": 3,
+        "committed": 4,
         "incoming": 0,
-        "available": -2,
-        "shortfall": 2
+        "available": -3,
+        "shortfall": 3
       },
       {
         "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
@@ -2079,13 +2362,13 @@
         "shortfall": 2
       },
       {
-        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-        "productId": 15641321406808,
-        "variantId": 56849271619928,
+        "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
+        "productId": 15641563300184,
+        "variantId": 56849718870360,
         "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
+        "committed": 3,
+        "incoming": 1,
+        "available": -3,
         "shortfall": 2
       },
       {
@@ -2106,6 +2389,16 @@
         "committed": 2,
         "incoming": 0,
         "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
+        "productId": 15834588119384,
+        "variantId": 57582670676312,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       },
       {
@@ -2132,16 +2425,6 @@
         "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
         "productId": 15957741863256,
         "variantId": 58270517461336,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
-        "productId": 15641563300184,
-        "variantId": 56849718870360,
         "onHand": 0,
         "committed": 2,
         "incoming": 1,
@@ -2332,6 +2615,156 @@
         "product": "77462 - Collect 151 Journey Jumbo Booster Box 6 Jumbo Booster Packs (S-Chinese)",
         "productId": 15979435917656,
         "variantId": 58382312309080,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "77434 - Destined Rivals Booster Box 36 Booster Packs (English)",
+        "productId": 15980054053208,
+        "variantId": 58384932340056,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
+        "productId": 15641337299288,
+        "variantId": 56849296359768,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "77470 - Terastal Festival ex Booster Box 10 Booster Packs (Japanese)",
+        "productId": 15980780814680,
+        "variantId": 58388067549528,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "75084 - Woody & Buzz Lightyear - Best Buddies - Attack of the Vine 228/207 NM V2 Holofoil (English)",
+        "productId": 15980807192920,
+        "variantId": 58388115063128,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "75088 - Mickey Mouse & Minnie Mouse - Adventuring Duo - Attack of the Vine 233/207 NM V2 Holofoil (English)",
+        "productId": 15980820627800,
+        "variantId": 58388208484696,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "75110 - Mike Wazowski - Heroic Climber - Attack of the Vine 226/207 NM V2 Holofoil (English)",
+        "productId": 15980826132824,
+        "variantId": 58388275626328,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "75092 - Scar - Created by the Vine - Attack of the Vine 243/207 NM V2 Holofoil (English)",
+        "productId": 15980828295512,
+        "variantId": 58388313604440,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "75098 - Pocahontas & Meeko - Adventurous Friends - Attack of the Vine 232/207 NM V2 Holofoil (English)",
+        "productId": 15980836618584,
+        "variantId": 58388410925400,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "75096 - Maleficent & Diablo - Evil Incarnate - Attack of the Vine 235/207 NM V2 Holofoil (English)",
+        "productId": 15980841435480,
+        "variantId": 58388443365720,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "75106 - Aladdin & Genie - Mischievous Pals - Attack of the Vine 232/207 NM V2 Holofoil (English)",
+        "productId": 15980848087384,
+        "variantId": 58388465877336,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "75112 - Tod & Copper - Best of Friends - Attack of the Vine 230/207 NM V2 Holofoil (English)",
+        "productId": 15980848349528,
+        "variantId": 58388472594776,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "75116 - Meilin Lee - Popular Red Panda - Attack of the Vine 240/207 NM V2 Holofoil (English)",
+        "productId": 15980848513368,
+        "variantId": 58388475085144,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "75114 - Merida - Wisp Conjurer - Attack of the Vine 231/207 NM V2 Holofoil (English)",
+        "productId": 15980848644440,
+        "variantId": 58388475511128,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "75108 - The Madrigal Family - Every Generation - Attack of the Vine 241/207 NM V2 Holofoil (English)",
+        "productId": 15980848841048,
+        "variantId": 58388476330328,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "128098 Pikachu - Collect 151 173/151C NM (S‑Chinese) — 173/151C, Near-Mint / Illustration Rare",
+        "productId": 15641373901144,
+        "variantId": 56849439588696,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
