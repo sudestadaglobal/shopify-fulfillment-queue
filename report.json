@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T11:38:21.668Z",
+  "generatedAt": "2026-09-03T15:15:14.942Z",
   "summary": {
-    "totalUnfulfilled": 60,
+    "totalUnfulfilled": 62,
     "canFulfill": 7,
-    "blocked": 53
+    "blocked": 55
   },
   "fulfillableOrders": [
     {
@@ -1006,6 +1006,42 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12600206655832,
+      "name": "#4366",
+      "customerName": "Filip Janík",
+      "createdAt": "2026-09-03T16:20:34+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "119499 Dragonair - Scarlet & Violet 151 181/165 NM (English) — 181/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12600260591960,
+      "name": "#4367",
+      "customerName": "marcos peña gomez",
+      "createdAt": "2026-09-03T16:49:13+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "77462 - Collect 151 Journey Jumbo Booster Box 6 Jumbo Booster Packs (S-Chinese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1279,8 +1315,8 @@
         "productId": 15641506349400,
         "variantId": 56849643733336,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
@@ -1977,6 +2013,38 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "119499 Dragonair - Scarlet & Violet 151 181/165 NM (English) — 181/165, Near-Mint / Illustration Rare",
+        "productId": 15641505792344,
+        "variantId": 56849642717528,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
+        "productId": 15641340477784,
+        "variantId": 56849299997016,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "77462 - Collect 151 Journey Jumbo Booster Box 6 Jumbo Booster Packs (S-Chinese)",
+        "productId": 15979435917656,
+        "variantId": 58382312309080,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+        "productId": 15641321406808,
+        "variantId": 56849271619928,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
       }
     ],
     "demandExceedsStock": [
@@ -2011,6 +2079,16 @@
         "shortfall": 2
       },
       {
+        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
+        "productId": 15641321406808,
+        "variantId": 56849271619928,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
         "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
         "productId": 15641503859032,
         "variantId": 56849639571800,
@@ -2018,6 +2096,16 @@
         "committed": 7,
         "incoming": 3,
         "available": -4,
+        "shortfall": 1
+      },
+      {
+        "product": "119473 Charmander - Scarlet & Violet 151 168/165 NM (English) — 168/165, Near-Mint / Illustration Rare",
+        "productId": 15641506349400,
+        "variantId": 56849643733336,
+        "onHand": 1,
+        "committed": 2,
+        "incoming": 0,
+        "available": -1,
         "shortfall": 1
       },
       {
@@ -2224,6 +2312,26 @@
         "product": "ASUS GeForce RTX 5080 GAMING TRIO 16GB OC",
         "productId": 15978812342616,
         "variantId": 58378011312472,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "119499 Dragonair - Scarlet & Violet 151 181/165 NM (English) — 181/165, Near-Mint / Illustration Rare",
+        "productId": 15641505792344,
+        "variantId": 56849642717528,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "77462 - Collect 151 Journey Jumbo Booster Box 6 Jumbo Booster Packs (S-Chinese)",
+        "productId": 15979435917656,
+        "variantId": 58382312309080,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
