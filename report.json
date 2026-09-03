@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T18:46:18.723Z",
+  "generatedAt": "2026-09-03T21:26:35.705Z",
   "summary": {
-    "totalUnfulfilled": 67,
-    "canFulfill": 7,
-    "blocked": 60
+    "totalUnfulfilled": 69,
+    "canFulfill": 8,
+    "blocked": 61
   },
   "fulfillableOrders": [
     {
@@ -46,6 +46,12 @@
       "id": 12597896446296,
       "name": "#4363",
       "createdAt": "2026-09-02T14:58:19+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12600744608088,
+      "name": "#4374",
+      "createdAt": "2026-09-03T21:23:05+02:00",
       "itemCount": 1
     }
   ],
@@ -1195,6 +1201,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12600703746392,
+      "name": "#4373",
+      "customerName": "Lum Krasniqi",
+      "createdAt": "2026-09-03T21:00:45+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "77392 - Ascended Heroes Booster Bundle Display 60 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1588,8 +1609,8 @@
         "productId": 15641566609752,
         "variantId": 56849732403544,
         "onHand": 4,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "110178 Scarlet & Violet Shrouded Fable Booster Pack (English) — 10 cards / Multicolor",
@@ -2318,6 +2339,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "77392 - Ascended Heroes Booster Bundle Display 60 Booster Packs (English)",
+        "productId": 15981000360280,
+        "variantId": 58389035385176,
+        "onHand": 0,
+        "committed": 3,
+        "demand": 3
       }
     ],
     "demandExceedsStock": [
@@ -2347,6 +2376,16 @@
         "variantId": 56849716019544,
         "onHand": 1,
         "committed": 4,
+        "incoming": 0,
+        "available": -3,
+        "shortfall": 3
+      },
+      {
+        "product": "77392 - Ascended Heroes Booster Bundle Display 60 Booster Packs (English)",
+        "productId": 15981000360280,
+        "variantId": 58389035385176,
+        "onHand": 0,
+        "committed": 3,
         "incoming": 0,
         "available": -3,
         "shortfall": 3
