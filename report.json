@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-06T15:44:21.109Z",
+  "generatedAt": "2026-09-06T17:47:02.982Z",
   "summary": {
-    "totalUnfulfilled": 75,
+    "totalUnfulfilled": 78,
     "canFulfill": 23,
-    "blocked": 52
+    "blocked": 55
   },
   "fulfillableOrders": [
     {
@@ -1165,6 +1165,69 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12606143758680,
+      "name": "#4381",
+      "customerName": "Lum Krasniqi",
+      "createdAt": "2026-09-06T17:51:23+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "128096 Eevee - Sun & Moon Promos 287/SM‑P NM (Japanese) — 287/SM-P, Near-Mint / Promo",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "71817 - Mega Darkrai ex - MEGA Abyss Eye 118/081 NM Holofoil (Japanese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "63025 - Pikachu ex - Ascended Heroes 276/217 NM Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12606231839064,
+      "name": "#4382",
+      "customerName": "Wilhelmus soeter",
+      "createdAt": "2026-09-06T18:34:53+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "150157 - \tAstral Radiance Sleeved Booster Pack (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12606272635224,
+      "name": "#4383",
+      "customerName": "Filip Janík",
+      "createdAt": "2026-09-06T18:55:09+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1262,8 +1325,8 @@
         "productId": 15942785302872,
         "variantId": 57983490818392,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "147158 - Scarlet & Violet Journey Together Sleeved Booster Pack (English) - Multicolor",
@@ -1398,8 +1461,8 @@
         "productId": 15641506283864,
         "variantId": 56849643635032,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119489 Poliwhirl - Scarlet & Violet 151 176/165 NM (English) — 176/165, Near-Mint / Illustration Rare",
@@ -2078,8 +2141,8 @@
         "productId": 15641503891800,
         "variantId": 56849639604568,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "69996 Sun & Moon Hidden Fates Elite Trainer Box (English)",
@@ -2352,6 +2415,30 @@
         "onHand": 5,
         "committed": 2,
         "demand": 2
+      },
+      {
+        "product": "128096 Eevee - Sun & Moon Promos 287/SM‑P NM (Japanese) — 287/SM-P, Near-Mint / Promo",
+        "productId": 15641373933912,
+        "variantId": 56849439621464,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "71817 - Mega Darkrai ex - MEGA Abyss Eye 118/081 NM Holofoil (Japanese)",
+        "productId": 15987703939416,
+        "variantId": 58411862786392,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "63025 - Pikachu ex - Ascended Heroes 276/217 NM Holofoil (English)",
+        "productId": 15987708363096,
+        "variantId": 58411887788376,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2456,6 +2543,16 @@
         "shortfall": 2
       },
       {
+        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641503891800,
+        "variantId": 56849639604568,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
         "product": "77516 - Nine Colors Gathering Friends Booster Box 30 Booster Packs (S-Chinese)",
         "productId": 15984713335128,
         "variantId": 58398404968792,
@@ -2464,6 +2561,26 @@
         "incoming": 0,
         "available": -2,
         "shortfall": 2
+      },
+      {
+        "product": "150157 - \tAstral Radiance Sleeved Booster Pack (English) - Multicolor",
+        "productId": 15942785302872,
+        "variantId": 57983490818392,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
+      },
+      {
+        "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
+        "productId": 15641506283864,
+        "variantId": 56849643635032,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
       },
       {
         "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
@@ -2619,16 +2736,6 @@
         "product": "77575 - Lost Origin Booster Box 36 Booster Packs (English)",
         "productId": 15976620589400,
         "variantId": 58362015285592,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
-        "productId": 15641503891800,
-        "variantId": 56849639604568,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -2879,6 +2986,36 @@
         "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
         "productId": 15641507365208,
         "variantId": 56849645207896,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "128096 Eevee - Sun & Moon Promos 287/SM‑P NM (Japanese) — 287/SM-P, Near-Mint / Promo",
+        "productId": 15641373933912,
+        "variantId": 56849439621464,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "71817 - Mega Darkrai ex - MEGA Abyss Eye 118/081 NM Holofoil (Japanese)",
+        "productId": 15987703939416,
+        "variantId": 58411862786392,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "63025 - Pikachu ex - Ascended Heroes 276/217 NM Holofoil (English)",
+        "productId": 15987708363096,
+        "variantId": 58411887788376,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
