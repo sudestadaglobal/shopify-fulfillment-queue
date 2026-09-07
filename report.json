@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T17:59:23.363Z",
+  "generatedAt": "2026-09-07T21:28:51.095Z",
   "summary": {
     "totalUnfulfilled": 80,
     "canFulfill": 25,
@@ -2454,9 +2454,9 @@
         "variantId": 56494572699992,
         "onHand": -4,
         "committed": 4,
-        "incoming": 0,
+        "incoming": 2,
         "available": -8,
-        "shortfall": 8
+        "shortfall": 6
       },
       {
         "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
@@ -2469,99 +2469,9 @@
         "shortfall": 5
       },
       {
-        "product": "77422 - Collect 151 Surprises Booster Box 15 Booster Packs (S-Chinese)",
-        "productId": 15964443509080,
-        "variantId": 58300870197592,
-        "onHand": 1,
-        "committed": 5,
-        "incoming": 0,
-        "available": -4,
-        "shortfall": 4
-      },
-      {
-        "product": "113602 Scarlet & Violet Prismatic Evolutions Booster Bundle 10 Booster Pack (English) — 10 Booster pack / Multicolor",
-        "productId": 15641561432408,
-        "variantId": 56849716019544,
-        "onHand": 1,
-        "committed": 4,
-        "incoming": 0,
-        "available": -3,
-        "shortfall": 3
-      },
-      {
-        "product": "77392 - Ascended Heroes Booster Bundle Display 60 Booster Packs (English)",
-        "productId": 15981000360280,
-        "variantId": 58389035385176,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 0,
-        "available": -3,
-        "shortfall": 3
-      },
-      {
-        "product": "77444 - Collect 151 Hope Booster Box 15 Booster Packs (S-Chinese)",
-        "productId": 15984712188248,
-        "variantId": 58398403592536,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 0,
-        "available": -3,
-        "shortfall": 3
-      },
-      {
-        "product": "77460 - Collect 151 Journey Booster Box 15 Booster Packs (S-Chinese)",
-        "productId": 15984713924952,
-        "variantId": 58398406017368,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 0,
-        "available": -3,
-        "shortfall": 3
-      },
-      {
-        "product": "134046 - Mega Evolution Perfect Order Makuhita Blister Booster Pack (English) - Multicolor",
-        "productId": 15942787563864,
-        "variantId": 57983499698520,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 1,
-        "available": -3,
-        "shortfall": 2
-      },
-      {
-        "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
-        "productId": 15957741863256,
-        "variantId": 58270517461336,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 1,
-        "available": -3,
-        "shortfall": 2
-      },
-      {
         "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
         "productId": 15957742616920,
         "variantId": 58270519165272,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
-        "productId": 15641503891800,
-        "variantId": 56849639604568,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "77516 - Nine Colors Gathering Friends Booster Box 30 Booster Packs (S-Chinese)",
-        "productId": 15984713335128,
-        "variantId": 58398404968792,
         "onHand": 0,
         "committed": 2,
         "incoming": 0,
@@ -2579,46 +2489,6 @@
         "shortfall": 1
       },
       {
-        "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
-        "productId": 15641506283864,
-        "variantId": 56849643635032,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
-        "productId": 15641506120024,
-        "variantId": 56849643503960,
-        "onHand": 2,
-        "committed": 4,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "119473 Charmander - Scarlet & Violet 151 168/165 NM (English) — 168/165, Near-Mint / Illustration Rare",
-        "productId": 15641506349400,
-        "variantId": 56849643733336,
-        "onHand": 1,
-        "committed": 2,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
-        "productId": 15834588119384,
-        "variantId": 57582670676312,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
         "product": "70713 - Froakie - Mega Evolution Chaos Rising 088/086 NM Holofoil (English)",
         "productId": 15955973112152,
         "variantId": 58263529390424,
@@ -2626,6 +2496,16 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
+        "productId": 15957741863256,
+        "variantId": 58270517461336,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 2,
+        "available": -3,
         "shortfall": 1
       },
       {
@@ -2639,39 +2519,9 @@
         "shortfall": 1
       },
       {
-        "product": "110279 Sword & Shield Chilling Reign Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641564545368,
-        "variantId": 56849721065816,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "Sony Playstation 5 Slim Digital Edition (EU Plug)",
         "productId": 15721164374360,
         "variantId": 57154641035608,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119465 Erika’s Invitation - Scarlet & Violet 151 196/165 NM (English) — 196/165, Near-Mint / Ultra Rare",
-        "productId": 15641506578776,
-        "variantId": 56849644126552,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132730 Erika’s Tangela - Mega Evolution Ascended Heroes 218/217 NM (English) — 218/217, Near-Mint / Illustration Rare",
-        "productId": 15641317933400,
-        "variantId": 56849266049368,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -2719,16 +2569,6 @@
         "shortfall": 1
       },
       {
-        "product": "77575 - Lost Origin Booster Box 36 Booster Packs (English)",
-        "productId": 15976620589400,
-        "variantId": 58362015285592,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "77412 - White Flare Booster Bundle Display 60 Booster Packs (English)",
         "productId": 15977691939160,
         "variantId": 58367869682008,
@@ -2742,16 +2582,6 @@
         "product": "77410 - Black Bolt Booster Bundle Display 60 Booster Packs (English)",
         "productId": 15977696133464,
         "variantId": 58367892128088,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77420 - Bonus Round Jumbo Booster Box 6 Jumbo Booster Packs (S-Chinese)",
-        "productId": 15977739452760,
-        "variantId": 58368069009752,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -2779,56 +2609,6 @@
         "shortfall": 1
       },
       {
-        "product": "119499 Dragonair - Scarlet & Violet 151 181/165 NM (English) — 181/165, Near-Mint / Illustration Rare",
-        "productId": 15641505792344,
-        "variantId": 56849642717528,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77462 - Collect 151 Journey Jumbo Booster Box 6 Jumbo Booster Packs (S-Chinese)",
-        "productId": 15979435917656,
-        "variantId": 58382312309080,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77434 - Destined Rivals Booster Box 36 Booster Packs (English)",
-        "productId": 15980054053208,
-        "variantId": 58384932340056,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "131904 Mega Evolution Ascended Heroes Elite Trainer Box 9 Booster Packs (English) — 9 Booster Packs / Multicolor",
-        "productId": 15641337299288,
-        "variantId": 56849296359768,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77470 - Terastal Festival ex Booster Box 10 Booster Packs (Japanese)",
-        "productId": 15980780814680,
-        "variantId": 58388067549528,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "75084 - Woody & Buzz Lightyear - Best Buddies - Attack of the Vine 228/207 NM V2 Holofoil (English)",
         "productId": 15980807192920,
         "variantId": 58388115063128,
@@ -2849,16 +2629,6 @@
         "shortfall": 1
       },
       {
-        "product": "75110 - Mike Wazowski - Heroic Climber - Attack of the Vine 226/207 NM V2 Holofoil (English)",
-        "productId": 15980826132824,
-        "variantId": 58388275626328,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "75092 - Scar - Created by the Vine - Attack of the Vine 243/207 NM V2 Holofoil (English)",
         "productId": 15980828295512,
         "variantId": 58388313604440,
@@ -2872,16 +2642,6 @@
         "product": "75098 - Pocahontas & Meeko - Adventurous Friends - Attack of the Vine 232/207 NM V2 Holofoil (English)",
         "productId": 15980836618584,
         "variantId": 58388410925400,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "75096 - Maleficent & Diablo - Evil Incarnate - Attack of the Vine 235/207 NM V2 Holofoil (English)",
-        "productId": 15980841435480,
-        "variantId": 58388443365720,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -2929,79 +2689,19 @@
         "shortfall": 1
       },
       {
-        "product": "75108 - The Madrigal Family - Every Generation - Attack of the Vine 241/207 NM V2 Holofoil (English)",
-        "productId": 15980848841048,
-        "variantId": 58388476330328,
+        "product": "77392 - Ascended Heroes Booster Bundle Display 60 Booster Packs (English)",
+        "productId": 15981000360280,
+        "variantId": 58389035385176,
         "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "128098 Pikachu - Collect 151 173/151C NM (S‑Chinese) — 173/151C, Near-Mint / Illustration Rare",
-        "productId": 15641373901144,
-        "variantId": 56849439588696,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77398 - Collect 151 Gathering Booster Box 15 Booster Packs (S-Chinese)",
-        "productId": 15984708518232,
-        "variantId": 58398398349656,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "74181 - Sword & Shield Chilling Reign Sleeved Booster Pack (English)",
-        "productId": 15984838476120,
-        "variantId": 58398698602840,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "119427 Charizard ex - Scarlet & Violet 151 199/165 NM (English) — 199/165, Near-Mint / Special Illustration Rare",
-        "productId": 15641507365208,
-        "variantId": 56849645207896,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
+        "committed": 3,
+        "incoming": 2,
+        "available": -3,
         "shortfall": 1
       },
       {
         "product": "128096 Eevee - Sun & Moon Promos 287/SM‑P NM (Japanese) — 287/SM-P, Near-Mint / Promo",
         "productId": 15641373933912,
         "variantId": 56849439621464,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "71817 - Mega Darkrai ex - MEGA Abyss Eye 118/081 NM Holofoil (Japanese)",
-        "productId": 15987703939416,
-        "variantId": 58411862786392,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "63025 - Pikachu ex - Ascended Heroes 276/217 NM Holofoil (English)",
-        "productId": 15987708363096,
-        "variantId": 58411887788376,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
