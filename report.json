@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-07T06:13:41.768Z",
+  "generatedAt": "2026-09-07T12:41:23.092Z",
   "summary": {
-    "totalUnfulfilled": 78,
-    "canFulfill": 23,
+    "totalUnfulfilled": 80,
+    "canFulfill": 25,
     "blocked": 55
   },
   "fulfillableOrders": [
@@ -23,6 +23,12 @@
       "name": "#4243",
       "createdAt": "2026-08-18T14:58:20+02:00",
       "itemCount": 11
+    },
+    {
+      "id": 12563605717336,
+      "name": "#4260",
+      "createdAt": "2026-08-21T14:03:08+02:00",
+      "itemCount": 1
     },
     {
       "id": 12564899692888,
@@ -142,6 +148,12 @@
       "id": 12602099532120,
       "name": "#4379",
       "createdAt": "2026-09-04T15:59:11+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12607281758552,
+      "name": "#4384",
+      "createdAt": "2026-09-07T10:14:37+02:00",
       "itemCount": 1
     }
   ],
@@ -329,21 +341,6 @@
       "reasons": [
         {
           "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12563605717336,
-      "name": "#4260",
-      "customerName": "Karolis Piščikas",
-      "createdAt": "2026-08-21T14:03:08+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "HyperX FlipCast - Streaming Dynamic Microphone Pre-Sale",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -722,12 +719,6 @@
         },
         {
           "product": "CYP BRANDS Hello Kitty Kuromi Purse",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "KIDS LICESING Hello Kitty Kuromi Plush Notebook",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1225,6 +1216,21 @@
           "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12607281824088,
+      "name": "#4385",
+      "customerName": "Gabriel Vilela Serra",
+      "createdAt": "2026-09-07T10:14:38+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "CSGORoll - 10th Anniversary Prize",
+          "reason": "Per-product limit reached (max 3 orders per run)",
+          "stock": 22,
           "needed": 1
         }
       ]
@@ -1756,7 +1762,7 @@
         "product": "HyperX FlipCast - Streaming Dynamic Microphone Pre-Sale",
         "productId": 15606357623128,
         "variantId": 56700916531544,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2109,7 +2115,7 @@
         "productId": 15976223080792,
         "variantId": 58359661560152,
         "onHand": 0,
-        "committed": 1,
+        "committed": 0,
         "demand": 1
       },
       {
@@ -2613,16 +2619,6 @@
         "shortfall": 1
       },
       {
-        "product": "HyperX FlipCast - Streaming Dynamic Microphone Pre-Sale",
-        "productId": 15606357623128,
-        "variantId": 56700916531544,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "70713 - Froakie - Mega Evolution Chaos Rising 088/086 NM Holofoil (English)",
         "productId": 15955973112152,
         "variantId": 58263529390424,
@@ -2716,16 +2712,6 @@
         "product": "CYP BRANDS Hello Kitty Kuromi Purse",
         "productId": 15976222720344,
         "variantId": 58359650320728,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "KIDS LICESING Hello Kitty Kuromi Plush Notebook",
-        "productId": 15976223080792,
-        "variantId": 58359661560152,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
