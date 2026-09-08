@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-08T15:23:32.397Z",
+  "generatedAt": "2026-09-08T18:58:05.784Z",
   "summary": {
-    "totalUnfulfilled": 57,
+    "totalUnfulfilled": 59,
     "canFulfill": 4,
-    "blocked": 53
+    "blocked": 55
   },
   "fulfillableOrders": [
     {
@@ -1108,6 +1108,36 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12610843935064,
+      "name": "#4386",
+      "customerName": "Fotini Tsamoglou",
+      "createdAt": "2026-09-08T19:00:38+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Nintendo Switch 2 - Mario Kart World Bundle",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12610886402392,
+      "name": "#4387",
+      "customerName": "Lum Krasniqi",
+      "createdAt": "2026-09-08T19:26:14+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "LOUNGEFLY Loungefly Pokémon Eevee Backpack",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -2127,6 +2157,30 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Nintendo Switch 2 - Mario Kart World Bundle",
+        "productId": 15120406643032,
+        "variantId": 55021154959704,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "KIDS LICESING Pokémon Pikachu 3D Mug",
+        "productId": 15504832790872,
+        "variantId": 56367989621080,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "LOUNGEFLY Loungefly Pokémon Eevee Backpack",
+        "productId": 15742175478104,
+        "variantId": 57231836315992,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2136,19 +2190,9 @@
         "variantId": 56494572699992,
         "onHand": -4,
         "committed": 4,
-        "incoming": 2,
+        "incoming": 4,
         "available": -8,
-        "shortfall": 6
-      },
-      {
-        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-        "productId": 15641321406808,
-        "variantId": 56849271619928,
-        "onHand": 0,
-        "committed": 5,
-        "incoming": 0,
-        "available": -5,
-        "shortfall": 5
+        "shortfall": 4
       },
       {
         "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
@@ -2159,16 +2203,6 @@
         "incoming": 0,
         "available": -2,
         "shortfall": 2
-      },
-      {
-        "product": "150157 - \tAstral Radiance Sleeved Booster Pack (English) - Multicolor",
-        "productId": 15942785302872,
-        "variantId": 57983490818392,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
       },
       {
         "product": "70713 - Froakie - Mega Evolution Chaos Rising 088/086 NM Holofoil (English)",
@@ -2281,29 +2315,9 @@
         "shortfall": 1
       },
       {
-        "product": "75084 - Woody & Buzz Lightyear - Best Buddies - Attack of the Vine 228/207 NM V2 Holofoil (English)",
-        "productId": 15980807192920,
-        "variantId": 58388115063128,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "75088 - Mickey Mouse & Minnie Mouse - Adventuring Duo - Attack of the Vine 233/207 NM V2 Holofoil (English)",
         "productId": 15980820627800,
         "variantId": 58388208484696,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "75092 - Scar - Created by the Vine - Attack of the Vine 243/207 NM V2 Holofoil (English)",
-        "productId": 15980828295512,
-        "variantId": 58388313604440,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -2321,39 +2335,9 @@
         "shortfall": 1
       },
       {
-        "product": "75106 - Aladdin & Genie - Mischievous Pals - Attack of the Vine 232/207 NM V2 Holofoil (English)",
-        "productId": 15980848087384,
-        "variantId": 58388465877336,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "75112 - Tod & Copper - Best of Friends - Attack of the Vine 230/207 NM V2 Holofoil (English)",
-        "productId": 15980848349528,
-        "variantId": 58388472594776,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "75116 - Meilin Lee - Popular Red Panda - Attack of the Vine 240/207 NM V2 Holofoil (English)",
         "productId": 15980848513368,
         "variantId": 58388475085144,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "75114 - Merida - Wisp Conjurer - Attack of the Vine 231/207 NM V2 Holofoil (English)",
-        "productId": 15980848644440,
-        "variantId": 58388475511128,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -2374,6 +2358,26 @@
         "product": "128096 Eevee - Sun & Moon Promos 287/SM‑P NM (Japanese) — 287/SM-P, Near-Mint / Promo",
         "productId": 15641373933912,
         "variantId": 56849439621464,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Nintendo Switch 2 - Mario Kart World Bundle",
+        "productId": 15120406643032,
+        "variantId": 55021154959704,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "LOUNGEFLY Loungefly Pokémon Eevee Backpack",
+        "productId": 15742175478104,
+        "variantId": 57231836315992,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
