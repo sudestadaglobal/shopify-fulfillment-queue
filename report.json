@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T12:00:53.686Z",
+  "generatedAt": "2026-09-09T16:33:19.125Z",
   "summary": {
     "totalUnfulfilled": 58,
     "canFulfill": 3,
@@ -213,12 +213,6 @@
       "createdAt": "2026-08-18T17:59:22+02:00",
       "itemCount": 12,
       "reasons": [
-        {
-          "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        },
         {
           "product": "113487 Glaceon ex - Scarlet & Violet Prismatic Evolution 150/131 NM (English) — 150/131, Near-Mint / Special Illustration Rare",
           "reason": "Insufficient stock",
@@ -659,12 +653,6 @@
           "reason": "Insufficient stock",
           "stock": -4,
           "needed": 4
-        },
-        {
-          "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         },
         {
           "product": "77412 - White Flare Booster Bundle Display 60 Booster Packs (English)",
@@ -1475,7 +1463,7 @@
         "productId": 15641503859032,
         "variantId": 56849639571800,
         "onHand": 0,
-        "committed": 3,
+        "committed": 0,
         "demand": 3
       },
       {
@@ -2308,16 +2296,6 @@
         "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
         "productId": 15641563300184,
         "variantId": 56849718870360,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "75088 - Mickey Mouse & Minnie Mouse - Adventuring Duo - Attack of the Vine 233/207 NM V2 Holofoil (English)",
-        "productId": 15980820627800,
-        "variantId": 58388208484696,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
