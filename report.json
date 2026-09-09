@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-09T06:47:08.858Z",
+  "generatedAt": "2026-09-09T12:00:53.686Z",
   "summary": {
-    "totalUnfulfilled": 59,
-    "canFulfill": 4,
+    "totalUnfulfilled": 58,
+    "canFulfill": 3,
     "blocked": 55
   },
   "fulfillableOrders": [
@@ -22,12 +22,6 @@
       "id": 12583850574168,
       "name": "#4338",
       "createdAt": "2026-08-28T14:55:57+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12589592871256,
-      "name": "#4346",
-      "createdAt": "2026-08-31T09:37:48+02:00",
       "itemCount": 1
     }
   ],
@@ -1132,6 +1126,12 @@
       "itemCount": 2,
       "reasons": [
         {
+          "product": "KIDS LICESING Pokémon Pikachu 3D Mug",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
           "product": "LOUNGEFLY Loungefly Pokémon Eevee Backpack",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -2170,7 +2170,7 @@
         "product": "KIDS LICESING Pokémon Pikachu 3D Mug",
         "productId": 15504832790872,
         "variantId": 56367989621080,
-        "onHand": 1,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       },
@@ -2368,6 +2368,16 @@
         "product": "Nintendo Switch 2 - Mario Kart World Bundle",
         "productId": 15120406643032,
         "variantId": 55021154959704,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "KIDS LICESING Pokémon Pikachu 3D Mug",
+        "productId": 15504832790872,
+        "variantId": 56367989621080,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
