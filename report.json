@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T19:51:19.817Z",
+  "generatedAt": "2026-09-10T22:25:30.584Z",
   "summary": {
-    "totalUnfulfilled": 71,
-    "canFulfill": 29,
-    "blocked": 42
+    "totalUnfulfilled": 78,
+    "canFulfill": 31,
+    "blocked": 47
   },
   "fulfillableOrders": [
     {
@@ -178,6 +178,18 @@
       "id": 12614879904088,
       "name": "#4400",
       "createdAt": "2026-09-10T21:44:00+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12614898549080,
+      "name": "#4403",
+      "createdAt": "2026-09-10T21:55:08+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12614919356760,
+      "name": "#4405",
+      "createdAt": "2026-09-10T22:07:13+02:00",
       "itemCount": 1
     }
   ],
@@ -1015,6 +1027,87 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12614893732184,
+      "name": "#4402",
+      "customerName": "Younes El Ghalbzouri",
+      "createdAt": "2026-09-10T21:52:06+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "79172 - Monkey.D.Luffy - The World's Strongest Warriors OP17-093 NM (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12614903955800,
+      "name": "#4404",
+      "customerName": "gunnar andersson",
+      "createdAt": "2026-09-10T21:58:30+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "77566 - Silver Tempest Booster Bundle 6 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "74826 - Mega Evolution Pitch Black Build & Battle Box 4 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12614923649368,
+      "name": "#4406",
+      "customerName": "Filip Janík",
+      "createdAt": "2026-09-10T22:09:59+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "150439 - Surging Sparks Booster Box 36 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12614930792792,
+      "name": "#4407",
+      "customerName": "Hugo Pessin",
+      "createdAt": "2026-09-10T22:14:16+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "77465 - Gem Pack Vol. 1 Booster Box 15 Booster Packs (S-Chinese)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12615049642328,
+      "name": "#4408",
+      "customerName": "gunnar andersson",
+      "createdAt": "2026-09-10T23:51:31+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "62354 - Mega Evolution Ascended Heroes Pokémon Center Elite Trainer Box 11 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1048,8 +1141,8 @@
         "productId": 15925445394776,
         "variantId": 57933857620312,
         "onHand": 4,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
@@ -2250,6 +2343,70 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "79172 - Monkey.D.Luffy - The World's Strongest Warriors OP17-093 NM (English)",
+        "productId": 15994676347224,
+        "variantId": 58441508323672,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "124012 Phantasmal Flames Mega Evolution Booster Bundle 6 Booster Pack (English) — 6 Booster Packs / Multicolor",
+        "productId": 15641488425304,
+        "variantId": 56849615290712,
+        "onHand": 4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "77566 - Silver Tempest Booster Bundle 6 Booster Packs (English)",
+        "productId": 15994679591256,
+        "variantId": 58441525428568,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "74826 - Mega Evolution Pitch Black Build & Battle Box 4 Booster Packs (English)",
+        "productId": 15960033329496,
+        "variantId": 58282609541464,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110277 Sword & Shield Evolving Skies Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641564643672,
+        "variantId": 56849721164120,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "150439 - Surging Sparks Booster Box 36 Booster Packs (English) - Multicolor",
+        "productId": 15942810927448,
+        "variantId": 57983694176600,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "77465 - Gem Pack Vol. 1 Booster Box 15 Booster Packs (S-Chinese)",
+        "productId": 15994686931288,
+        "variantId": 58441547448664,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "62354 - Mega Evolution Ascended Heroes Pokémon Center Elite Trainer Box 11 Booster Packs (English)",
+        "productId": 15994725007704,
+        "variantId": 58441868116312,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2647,6 +2804,66 @@
         "product": "147146 Sword & Shield Brilliant Stars Sleeved Booster Pack (English) - Multicolor",
         "productId": 15907303162200,
         "variantId": 57847152214360,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "79172 - Monkey.D.Luffy - The World's Strongest Warriors OP17-093 NM (English)",
+        "productId": 15994676347224,
+        "variantId": 58441508323672,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "77566 - Silver Tempest Booster Bundle 6 Booster Packs (English)",
+        "productId": 15994679591256,
+        "variantId": 58441525428568,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "74826 - Mega Evolution Pitch Black Build & Battle Box 4 Booster Packs (English)",
+        "productId": 15960033329496,
+        "variantId": 58282609541464,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "150439 - Surging Sparks Booster Box 36 Booster Packs (English) - Multicolor",
+        "productId": 15942810927448,
+        "variantId": 57983694176600,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "77465 - Gem Pack Vol. 1 Booster Box 15 Booster Packs (S-Chinese)",
+        "productId": 15994686931288,
+        "variantId": 58441547448664,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "62354 - Mega Evolution Ascended Heroes Pokémon Center Elite Trainer Box 11 Booster Packs (English)",
+        "productId": 15994725007704,
+        "variantId": 58441868116312,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
