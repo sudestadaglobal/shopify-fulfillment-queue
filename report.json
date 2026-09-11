@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-11T13:54:47.478Z",
+  "generatedAt": "2026-09-11T17:42:13.813Z",
   "summary": {
-    "totalUnfulfilled": 51,
+    "totalUnfulfilled": 53,
     "canFulfill": 4,
-    "blocked": 47
+    "blocked": 49
   },
   "fulfillableOrders": [
     {
@@ -947,6 +947,36 @@
       "reasons": [
         {
           "product": "62354 - Mega Evolution Ascended Heroes Pokémon Center Elite Trainer Box 11 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12616471576920,
+      "name": "#4409",
+      "customerName": "Karolis Piščikas",
+      "createdAt": "2026-09-11T17:39:19+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "HyperX FlipCast - Streaming Dynamic Microphone Pre-Sale",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12616530329944,
+      "name": "#4410",
+      "customerName": "Linus Lindgren",
+      "createdAt": "2026-09-11T18:12:34+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Razer Kraken V4",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1995,6 +2025,22 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "HyperX FlipCast - Streaming Dynamic Microphone Pre-Sale",
+        "productId": 15606357623128,
+        "variantId": 56700916531544,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Razer Kraken V4",
+        "productId": 15997018374488,
+        "variantId": 58448042754392,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2452,6 +2498,26 @@
         "product": "62354 - Mega Evolution Ascended Heroes Pokémon Center Elite Trainer Box 11 Booster Packs (English)",
         "productId": 15994725007704,
         "variantId": 58441868116312,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "HyperX FlipCast - Streaming Dynamic Microphone Pre-Sale",
+        "productId": 15606357623128,
+        "variantId": 56700916531544,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Razer Kraken V4",
+        "productId": 15997018374488,
+        "variantId": 58448042754392,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
