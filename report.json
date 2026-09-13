@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T11:30:09.837Z",
+  "generatedAt": "2026-09-13T15:03:10.389Z",
   "summary": {
     "totalUnfulfilled": 53,
     "canFulfill": 4,
@@ -999,7 +999,7 @@
         "productId": 15641567560024,
         "variantId": 56849733583192,
         "onHand": 2,
-        "committed": 3,
+        "committed": 2,
         "demand": 3
       },
       {
@@ -2065,16 +2065,6 @@
         "shortfall": 3
       },
       {
-        "product": "134046 - Mega Evolution Perfect Order Makuhita Blister Booster Pack (English) - Multicolor",
-        "productId": 15942787563864,
-        "variantId": 57983499698520,
-        "onHand": 1,
-        "committed": 5,
-        "incoming": 2,
-        "available": -4,
-        "shortfall": 2
-      },
-      {
         "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
         "productId": 15957742616920,
         "variantId": 58270519165272,
@@ -2083,26 +2073,6 @@
         "incoming": 0,
         "available": -2,
         "shortfall": 2
-      },
-      {
-        "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
-        "productId": 15641506283864,
-        "variantId": 56849643635032,
-        "onHand": 1,
-        "committed": 3,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
-      },
-      {
-        "product": "70713 - Froakie - Mega Evolution Chaos Rising 088/086 NM Holofoil (English)",
-        "productId": 15955973112152,
-        "variantId": 58263529390424,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
       },
       {
         "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
@@ -2175,16 +2145,6 @@
         "shortfall": 1
       },
       {
-        "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
-        "productId": 15641563300184,
-        "variantId": 56849718870360,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "75098 - Pocahontas & Meeko - Adventurous Friends - Attack of the Vine 232/207 NM V2 Holofoil (English)",
         "productId": 15980836618584,
         "variantId": 58388410925400,
@@ -2205,49 +2165,9 @@
         "shortfall": 1
       },
       {
-        "product": "77392 - Ascended Heroes Booster Bundle Display 60 Booster Packs (English)",
-        "productId": 15981000360280,
-        "variantId": 58389035385176,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 2,
-        "available": -3,
-        "shortfall": 1
-      },
-      {
-        "product": "128096 Eevee - Sun & Moon Promos 287/SM‑P NM (Japanese) — 287/SM-P, Near-Mint / Promo",
-        "productId": 15641373933912,
-        "variantId": 56849439621464,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "Nintendo Switch 2 - Mario Kart World Bundle",
         "productId": 15120406643032,
         "variantId": 55021154959704,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "148029 Mega Darkrai ex - Mega Evolution Pitch Black 116/084 NM Holofoil (English) - Special Illustration Rare",
-        "productId": 15886250967384,
-        "variantId": 57765792252248,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "120833 Celebi & Venusaur GX - Sun & Moon Team Up 001/181 NM (English) — 1/181, Near-Mint / Ultra Rare",
-        "productId": 15641500320088,
-        "variantId": 56849634394456,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -2285,49 +2205,9 @@
         "shortfall": 1
       },
       {
-        "product": "77180 - Evolving Skies Sleeved Booster Pack (English)",
-        "productId": 15994643579224,
-        "variantId": 58441358344536,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77144 - Champion's Path Booster Pack (English)",
-        "productId": 15994647544152,
-        "variantId": 58441370534232,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77072 - Celebrations Booster Pack (English)",
-        "productId": 15994648330584,
-        "variantId": 58441373614424,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "77196 - Guardians Rising Booster Pack (English)",
         "productId": 15994648494424,
         "variantId": 58441373811032,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77104 - Burning Shadows Booster Pack (English)",
-        "productId": 15994648691032,
-        "variantId": 58441374138712,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -2375,59 +2255,9 @@
         "shortfall": 1
       },
       {
-        "product": "77320 - BREAKpoint Booster Pack (English)",
-        "productId": 15994649968984,
-        "variantId": 58441377349976,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77212 - Lost Thunder Booster Pack (English)",
-        "productId": 15994650198360,
-        "variantId": 58441378595160,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77210 - Ultra Prism Booster Pack (English)",
-        "productId": 15994655080792,
-        "variantId": 58441393537368,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "110295 XY BREAKthrough Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641564283224,
-        "variantId": 56849720574296,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "110198 Scarlet & Violet Paldean Fates Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641566019928,
         "variantId": 56849731322200,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "142959 Mega Evolution Chaos Rising Build & Battle Box 4 Booster Packs (English)",
-        "productId": 15843146826072,
-        "variantId": 57609683894616,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -2445,59 +2275,9 @@
         "shortfall": 1
       },
       {
-        "product": "79172 - Monkey.D.Luffy - The World's Strongest Warriors OP17-093 NM (English)",
-        "productId": 15994676347224,
-        "variantId": 58441508323672,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77566 - Silver Tempest Booster Bundle 6 Booster Packs (English)",
-        "productId": 15994679591256,
-        "variantId": 58441525428568,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "74826 - Mega Evolution Pitch Black Build & Battle Box 4 Booster Packs (English)",
-        "productId": 15960033329496,
-        "variantId": 58282609541464,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "150439 - Surging Sparks Booster Box 36 Booster Packs (English) - Multicolor",
-        "productId": 15942810927448,
-        "variantId": 57983694176600,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "77465 - Gem Pack Vol. 1 Booster Box 15 Booster Packs (S-Chinese)",
         "productId": 15994686931288,
         "variantId": 58441547448664,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "62354 - Mega Evolution Ascended Heroes Pokémon Center Elite Trainer Box 11 Booster Packs (English)",
-        "productId": 15994725007704,
-        "variantId": 58441868116312,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
