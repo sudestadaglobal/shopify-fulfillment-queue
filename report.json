@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-13T15:03:10.389Z",
+  "generatedAt": "2026-09-13T18:16:12.744Z",
   "summary": {
-    "totalUnfulfilled": 53,
-    "canFulfill": 4,
-    "blocked": 49
+    "totalUnfulfilled": 59,
+    "canFulfill": 5,
+    "blocked": 54
   },
   "fulfillableOrders": [
     {
@@ -29,6 +29,12 @@
       "name": "#4400",
       "createdAt": "2026-09-10T21:44:00+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12619873321304,
+      "name": "#4411",
+      "createdAt": "2026-09-13T17:24:00+02:00",
+      "itemCount": 3
     }
   ],
   "blockedOrders": [
@@ -71,12 +77,6 @@
       "reasons": [
         {
           "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "119189 Bisharp - Scarlet & Violet Black Bolt 143/086 NM (English) — 143/086, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -982,6 +982,111 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12619892687192,
+      "name": "#4412",
+      "customerName": "Labique Sethi",
+      "createdAt": "2026-09-13T17:34:35+02:00",
+      "itemCount": 6,
+      "reasons": [
+        {
+          "product": "110178 Scarlet & Violet Shrouded Fable Booster Pack (English) — 10 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "77078 - Rebel Clash Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "77242 - Dragon Majesty Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "77232 - Unbroken Bonds Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "77136 - Battle Styles Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "74193 - Scarlet & Violet Paldea Evolved Sleeved Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12619919786328,
+      "name": "#4413",
+      "customerName": "Maxim Leitsch",
+      "createdAt": "2026-09-13T17:49:11+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
+        }
+      ]
+    },
+    {
+      "id": 12619932139864,
+      "name": "#4414",
+      "customerName": "Mike Geßner",
+      "createdAt": "2026-09-13T17:56:06+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "147773 Mega Evolution Pitch Black Elite Trainer Box 9 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12619958092120,
+      "name": "#4415",
+      "customerName": "Filip Janík",
+      "createdAt": "2026-09-13T18:09:37+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12619967136088,
+      "name": "#4416",
+      "customerName": "Cole Murphy",
+      "createdAt": "2026-09-13T18:14:48+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "67320 - Irelia, Fervent - Spiritforged 225/221 NM V3 Showcase (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1023,7 +1128,7 @@
         "productId": 15641512903000,
         "variantId": 56849654120792,
         "onHand": 0,
-        "committed": 1,
+        "committed": 0,
         "demand": 1
       },
       {
@@ -1271,8 +1376,8 @@
         "productId": 15834588119384,
         "variantId": 57582670676312,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "119899 Scarlet & Violet 151 6 Booster Bundle Display (English) — 60 Booster Packs / Multicolor",
@@ -2041,6 +2146,102 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "110281 Sword & Shield Shining Fates Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641564512600,
+        "variantId": 56849721033048,
+        "onHand": 7,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110244 Sword & Shield Lost Origin Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565167960,
+        "variantId": 56849722016088,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131902 Mega Evolution Ascended Heroes Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641337397592,
+        "variantId": 56849296458072,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110178 Scarlet & Violet Shrouded Fable Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566445912,
+        "variantId": 56849732239704,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "77078 - Rebel Clash Booster Pack (English)",
+        "productId": 15951885959512,
+        "variantId": 58137558712664,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "77242 - Dragon Majesty Booster Pack (English)",
+        "productId": 16001512178008,
+        "variantId": 58461347479896,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "77232 - Unbroken Bonds Booster Pack (English)",
+        "productId": 16001512472920,
+        "variantId": 58461348168024,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "77136 - Battle Styles Booster Pack (English)",
+        "productId": 16001513226584,
+        "variantId": 58461349708120,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "74193 - Scarlet & Violet Paldea Evolved Sleeved Booster Pack (English)",
+        "productId": 16001513488728,
+        "variantId": 58461350887768,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "147773 Mega Evolution Pitch Black Elite Trainer Box 9 Booster Packs (English)",
+        "productId": 15892538556760,
+        "variantId": 57791753421144,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131918 Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection 5 Booster Packs (English) Pre-Order — 5 Booster Packs / Multicolor",
+        "productId": 15641336840536,
+        "variantId": 56849295901016,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "67320 - Irelia, Fervent - Spiritforged 225/221 NM V3 Showcase (English)",
+        "productId": 16001554383192,
+        "variantId": 58461802365272,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2053,6 +2254,16 @@
         "incoming": 4,
         "available": -8,
         "shortfall": 4
+      },
+      {
+        "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
+        "productId": 15834588119384,
+        "variantId": 57582670676312,
+        "onHand": 0,
+        "committed": 5,
+        "incoming": 2,
+        "available": -5,
+        "shortfall": 3
       },
       {
         "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
@@ -2108,26 +2319,6 @@
         "product": "CYP BRANDS Hello Kitty Kuromi Purse",
         "productId": 15976222720344,
         "variantId": 58359650320728,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77412 - White Flare Booster Bundle Display 60 Booster Packs (English)",
-        "productId": 15977691939160,
-        "variantId": 58367869682008,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77410 - Black Bolt Booster Bundle Display 60 Booster Packs (English)",
-        "productId": 15977696133464,
-        "variantId": 58367892128088,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -2298,6 +2489,86 @@
         "product": "Razer Kraken V4",
         "productId": 15997018374488,
         "variantId": 58448042754392,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "110178 Scarlet & Violet Shrouded Fable Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641566445912,
+        "variantId": 56849732239704,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "77078 - Rebel Clash Booster Pack (English)",
+        "productId": 15951885959512,
+        "variantId": 58137558712664,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "77242 - Dragon Majesty Booster Pack (English)",
+        "productId": 16001512178008,
+        "variantId": 58461347479896,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "77232 - Unbroken Bonds Booster Pack (English)",
+        "productId": 16001512472920,
+        "variantId": 58461348168024,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "77136 - Battle Styles Booster Pack (English)",
+        "productId": 16001513226584,
+        "variantId": 58461349708120,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "74193 - Scarlet & Violet Paldea Evolved Sleeved Booster Pack (English)",
+        "productId": 16001513488728,
+        "variantId": 58461350887768,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "147773 Mega Evolution Pitch Black Elite Trainer Box 9 Booster Packs (English)",
+        "productId": 15892538556760,
+        "variantId": 57791753421144,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "67320 - Irelia, Fervent - Spiritforged 225/221 NM V3 Showcase (English)",
+        "productId": 16001554383192,
+        "variantId": 58461802365272,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
