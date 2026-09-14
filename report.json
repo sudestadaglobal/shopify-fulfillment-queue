@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-14T13:16:25.255Z",
+  "generatedAt": "2026-09-14T18:44:02.720Z",
   "summary": {
-    "totalUnfulfilled": 59,
+    "totalUnfulfilled": 58,
     "canFulfill": 5,
-    "blocked": 54
+    "blocked": 53
   },
   "fulfillableOrders": [
     {
@@ -146,27 +146,6 @@
           "reason": "Insufficient stock",
           "stock": 3,
           "needed": 4
-        },
-        {
-          "product": "113480 Umbreon ex - Scarlet & Violet Prismatic Evolution 161/131 NM (English) — 161/131, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12558405337432,
-      "name": "#4251",
-      "customerName": "Maxim Leitsch",
-      "createdAt": "2026-08-18T21:49:22+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -194,12 +173,6 @@
       "reasons": [
         {
           "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -236,12 +209,6 @@
       "reasons": [
         {
           "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1472,15 +1439,7 @@
         "productId": 15641563758936,
         "variantId": 56849719656792,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
-        "productId": 15732280426840,
-        "variantId": 57196101075288,
-        "onHand": 0,
-        "committed": 1,
+        "committed": 0,
         "demand": 1
       },
       {
@@ -1520,7 +1479,7 @@
         "productId": 15957742616920,
         "variantId": 58270519165272,
         "onHand": 0,
-        "committed": 2,
+        "committed": 0,
         "demand": 2
       },
       {
@@ -2276,16 +2235,6 @@
         "shortfall": 3
       },
       {
-        "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
-        "productId": 15957742616920,
-        "variantId": 58270519165272,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
         "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
         "productId": 15957741863256,
         "variantId": 58270517461336,
@@ -2336,26 +2285,6 @@
         "shortfall": 1
       },
       {
-        "product": "75098 - Pocahontas & Meeko - Adventurous Friends - Attack of the Vine 232/207 NM V2 Holofoil (English)",
-        "productId": 15980836618584,
-        "variantId": 58388410925400,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "75116 - Meilin Lee - Popular Red Panda - Attack of the Vine 240/207 NM V2 Holofoil (English)",
-        "productId": 15980848513368,
-        "variantId": 58388475085144,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "Nintendo Switch 2 - Mario Kart World Bundle",
         "productId": 15120406643032,
         "variantId": 55021154959704,
@@ -2396,36 +2325,6 @@
         "shortfall": 1
       },
       {
-        "product": "77196 - Guardians Rising Booster Pack (English)",
-        "productId": 15994648494424,
-        "variantId": 58441373811032,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77102 - Hidden Fates Booster Pack (English)",
-        "productId": 15994648985944,
-        "variantId": 58441375023448,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77276 - Steam Siege Booster Pack (English)",
-        "productId": 15994649215320,
-        "variantId": 58441375383896,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "77312 - Forbidden Light Booster Pack (English)",
         "productId": 15994649575768,
         "variantId": 58441375875416,
@@ -2436,29 +2335,9 @@
         "shortfall": 1
       },
       {
-        "product": "77322 - Fates Collide Booster Pack (English)",
-        "productId": 15994649805144,
-        "variantId": 58441376694616,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "110198 Scarlet & Violet Paldean Fates Booster Pack (English) — 10 cards / Multicolor",
         "productId": 15641566019928,
         "variantId": 56849731322200,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "147146 Sword & Shield Brilliant Stars Sleeved Booster Pack (English) - Multicolor",
-        "productId": 15907303162200,
-        "variantId": 57847152214360,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -2559,16 +2438,6 @@
         "product": "147773 Mega Evolution Pitch Black Elite Trainer Box 9 Booster Packs (English)",
         "productId": 15892538556760,
         "variantId": 57791753421144,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "67320 - Irelia, Fervent - Spiritforged 225/221 NM V3 Showcase (English)",
-        "productId": 16001554383192,
-        "variantId": 58461802365272,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
