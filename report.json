@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-14T18:44:02.720Z",
+  "generatedAt": "2026-09-14T22:08:48.598Z",
   "summary": {
-    "totalUnfulfilled": 58,
-    "canFulfill": 5,
-    "blocked": 53
+    "totalUnfulfilled": 63,
+    "canFulfill": 6,
+    "blocked": 57
   },
   "fulfillableOrders": [
     {
@@ -35,6 +35,12 @@
       "name": "#4411",
       "createdAt": "2026-09-13T17:24:00+02:00",
       "itemCount": 3
+    },
+    {
+      "id": 12622269612376,
+      "name": "#4418",
+      "createdAt": "2026-09-14T22:11:17+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -1054,6 +1060,66 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12622264074584,
+      "name": "#4417",
+      "customerName": "Mike Geßner",
+      "createdAt": "2026-09-14T22:07:44+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12622273347928,
+      "name": "#4419",
+      "customerName": "Cole Murphy",
+      "createdAt": "2026-09-14T22:13:37+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12622278689112,
+      "name": "#4420",
+      "customerName": "Adrian Arnesen",
+      "createdAt": "2026-09-14T22:16:54+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "113480 Umbreon ex - Scarlet & Violet Prismatic Evolution 161/131 NM (English) — 161/131, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12622286389592,
+      "name": "#4421",
+      "customerName": "Maxim Leitsch",
+      "createdAt": "2026-09-14T22:21:08+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1439,8 +1505,8 @@
         "productId": 15641563758936,
         "variantId": 56849719656792,
         "onHand": 0,
-        "committed": 0,
-        "demand": 1
+        "committed": 1,
+        "demand": 2
       },
       {
         "product": "131916 Mega Evolution Ascended Heroes Mega Gardevoir Premium Poster Collection 10 Booster Packs (English) Pre-Order — 10 Booster Packs / Multicolor",
@@ -1471,8 +1537,8 @@
         "productId": 15957741863256,
         "variantId": 58270517461336,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
@@ -2201,6 +2267,30 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
+        "productId": 15641560842584,
+        "variantId": 56849715429720,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
+        "productId": 15641345753432,
+        "variantId": 56849305796952,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
+        "productId": 15732280426840,
+        "variantId": 57196101075288,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -2239,10 +2329,10 @@
         "productId": 15957741863256,
         "variantId": 58270517461336,
         "onHand": 0,
-        "committed": 2,
+        "committed": 3,
         "incoming": 1,
-        "available": -2,
-        "shortfall": 1
+        "available": -3,
+        "shortfall": 2
       },
       {
         "product": "KARACTERMANIA Hello Kitty Kuromi Backpack",
@@ -2438,6 +2528,16 @@
         "product": "147773 Mega Evolution Pitch Black Elite Trainer Box 9 Booster Packs (English)",
         "productId": 15892538556760,
         "variantId": 57791753421144,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
+        "productId": 15641560842584,
+        "variantId": 56849715429720,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
