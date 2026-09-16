@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T15:03:55.116Z",
+  "generatedAt": "2026-09-16T18:58:03.387Z",
   "summary": {
     "totalUnfulfilled": 71,
     "canFulfill": 9,
@@ -2436,36 +2436,6 @@
         "shortfall": 4
       },
       {
-        "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
-        "productId": 15834588119384,
-        "variantId": 57582670676312,
-        "onHand": 0,
-        "committed": 5,
-        "incoming": 2,
-        "available": -5,
-        "shortfall": 3
-      },
-      {
-        "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
-        "productId": 15641503891800,
-        "variantId": 56849639604568,
-        "onHand": 0,
-        "committed": 4,
-        "incoming": 1,
-        "available": -4,
-        "shortfall": 3
-      },
-      {
-        "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
-        "productId": 15957741863256,
-        "variantId": 58270517461336,
-        "onHand": 1,
-        "committed": 3,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
         "product": "79268 - The World's Strongest Warriors Booster Box (English)",
         "productId": 15976625897816,
         "variantId": 58362084458840,
@@ -2476,13 +2446,13 @@
         "shortfall": 2
       },
       {
-        "product": "134046 - Mega Evolution Perfect Order Makuhita Blister Booster Pack (English) - Multicolor",
-        "productId": 15942787563864,
-        "variantId": 57983499698520,
+        "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
+        "productId": 15957741863256,
+        "variantId": 58270517461336,
         "onHand": 1,
-        "committed": 6,
-        "incoming": 4,
-        "available": -5,
+        "committed": 3,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       },
       {
@@ -2586,16 +2556,6 @@
         "shortfall": 1
       },
       {
-        "product": "77465 - Gem Pack Vol. 1 Booster Box 15 Booster Packs (S-Chinese)",
-        "productId": 15994686931288,
-        "variantId": 58441547448664,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "HyperX FlipCast - Streaming Dynamic Microphone Pre-Sale",
         "productId": 15606357623128,
         "variantId": 56700916531544,
@@ -2616,99 +2576,9 @@
         "shortfall": 1
       },
       {
-        "product": "110178 Scarlet & Violet Shrouded Fable Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641566445912,
-        "variantId": 56849732239704,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77078 - Rebel Clash Booster Pack (English)",
-        "productId": 15951885959512,
-        "variantId": 58137558712664,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77242 - Dragon Majesty Booster Pack (English)",
-        "productId": 16001512178008,
-        "variantId": 58461347479896,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77232 - Unbroken Bonds Booster Pack (English)",
-        "productId": 16001512472920,
-        "variantId": 58461348168024,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77136 - Battle Styles Booster Pack (English)",
-        "productId": 16001513226584,
-        "variantId": 58461349708120,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "74193 - Scarlet & Violet Paldea Evolved Sleeved Booster Pack (English)",
         "productId": 16001513488728,
         "variantId": 58461350887768,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "147773 Mega Evolution Pitch Black Elite Trainer Box 9 Booster Packs (English)",
-        "productId": 15892538556760,
-        "variantId": 57791753421144,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "114525 Scarlet & Violet Journey Together Elite Trainer Box 9 Booster Pack (English) — 9 Booster pack / Multicolor",
-        "productId": 15641560842584,
-        "variantId": 56849715429720,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "75596 - Meowth - Jungle 56/64 NM 1st Edition (English)",
-        "productId": 16006758990168,
-        "variantId": 58473686303064,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132828 \tSteven’s Metagross ex - Mega Evolution Ascended Heroes 289/217 NM (English) - Special Illustration Rare",
-        "productId": 15710876074328,
-        "variantId": 57123564585304,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
