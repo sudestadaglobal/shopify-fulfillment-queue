@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T10:16:29.365Z",
+  "generatedAt": "2026-09-16T15:03:55.116Z",
   "summary": {
-    "totalUnfulfilled": 65,
-    "canFulfill": 7,
-    "blocked": 58
+    "totalUnfulfilled": 71,
+    "canFulfill": 9,
+    "blocked": 62
   },
   "fulfillableOrders": [
     {
@@ -46,6 +46,18 @@
       "id": 12623345549656,
       "name": "#4425",
       "createdAt": "2026-09-15T14:48:02+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12626280055128,
+      "name": "#4426",
+      "createdAt": "2026-09-16T14:25:33+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12626303025496,
+      "name": "#4429",
+      "createdAt": "2026-09-16T14:38:08+02:00",
       "itemCount": 1
     }
   ],
@@ -1123,6 +1135,66 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12626285527384,
+      "name": "#4427",
+      "customerName": "Samuel Dominguez Carver",
+      "createdAt": "2026-09-16T14:28:39+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "147779 Mega Evolution Pitch Black Booster Box 36 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12626293424472,
+      "name": "#4428",
+      "customerName": "Loic Mombert",
+      "createdAt": "2026-09-16T14:33:32+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "150409 - The Glory of Team Rocket Booster Box 30 Booster Packs (Japanese) - Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12626307481944,
+      "name": "#4430",
+      "customerName": "Axel Epskamp",
+      "createdAt": "2026-09-16T14:40:15+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12626315215192,
+      "name": "#4431",
+      "customerName": "Leon Virkus L.V.",
+      "createdAt": "2026-09-16T14:45:29+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "79268 - The World's Strongest Warriors Booster Box (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -1620,8 +1692,8 @@
         "productId": 15976625897816,
         "variantId": 58362084458840,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "69996 Sun & Moon Hidden Fates Elite Trainer Box (English)",
@@ -2268,8 +2340,8 @@
         "productId": 15641345753432,
         "variantId": 56849305796952,
         "onHand": 3,
-        "committed": 1,
-        "demand": 1
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "70207 One Piece Card Game Adventure on Kami’s Island Booster Box 24 Booster Packs (English) — 24 Booster Packs / Yellow",
@@ -2308,6 +2380,46 @@
         "productId": 15650758754648,
         "variantId": 56886287368536,
         "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "147779 Mega Evolution Pitch Black Booster Box 36 Booster Packs (English)",
+        "productId": 15892606484824,
+        "variantId": 57791899861336,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "150409 - The Glory of Team Rocket Booster Box 30 Booster Packs (Japanese) - Multicolor",
+        "productId": 15942830686552,
+        "variantId": 57983919030616,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110269 Sword & Shield Brilliant Stars Booster (English) — 10 cards / Multicolor",
+        "productId": 15641564840280,
+        "variantId": 56849721360728,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336775000,
+        "variantId": 56849295835480,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336676696,
+        "variantId": 56849295737176,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
@@ -2351,6 +2463,16 @@
         "committed": 3,
         "incoming": 0,
         "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "79268 - The World's Strongest Warriors Booster Box (English)",
+        "productId": 15976625897816,
+        "variantId": 58362084458840,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 1,
+        "available": -3,
         "shortfall": 2
       },
       {
@@ -2587,6 +2709,36 @@
         "product": "132828 \tSteven’s Metagross ex - Mega Evolution Ascended Heroes 289/217 NM (English) - Special Illustration Rare",
         "productId": 15710876074328,
         "variantId": 57123564585304,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "147779 Mega Evolution Pitch Black Booster Box 36 Booster Packs (English)",
+        "productId": 15892606484824,
+        "variantId": 57791899861336,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "150409 - The Glory of Team Rocket Booster Box 30 Booster Packs (Japanese) - Multicolor",
+        "productId": 15942830686552,
+        "variantId": 57983919030616,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336676696,
+        "variantId": 56849295737176,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
