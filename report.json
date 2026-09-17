@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-17T05:13:21.899Z",
+  "generatedAt": "2026-09-17T10:04:16.039Z",
   "summary": {
-    "totalUnfulfilled": 71,
-    "canFulfill": 9,
-    "blocked": 62
+    "totalUnfulfilled": 69,
+    "canFulfill": 12,
+    "blocked": 57
   },
   "fulfillableOrders": [
+    {
+      "id": 12554614210904,
+      "name": "#4237",
+      "createdAt": "2026-08-16T23:51:59+02:00",
+      "itemCount": 2
+    },
     {
       "id": 12570307395928,
       "name": "#4277",
@@ -13,10 +19,22 @@
       "itemCount": 2
     },
     {
-      "id": 12572672524632,
-      "name": "#4288",
-      "createdAt": "2026-08-25T14:29:52+02:00",
+      "id": 12600206655832,
+      "name": "#4366",
+      "createdAt": "2026-09-03T16:20:34+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12600643813720,
+      "name": "#4372",
+      "createdAt": "2026-09-03T20:23:36+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12606143758680,
+      "name": "#4381",
+      "createdAt": "2026-09-06T17:51:23+02:00",
+      "itemCount": 3
     },
     {
       "id": 12614879904088,
@@ -144,21 +162,6 @@
       ]
     },
     {
-      "id": 12554614210904,
-      "name": "#4237",
-      "customerName": "M.N. Ton",
-      "createdAt": "2026-08-16T23:51:59+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12557848904024,
       "name": "#4250",
       "customerName": "Adrian Arnesen",
@@ -218,33 +221,6 @@
       "reasons": [
         {
           "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12595929514328,
-      "name": "#4352",
-      "customerName": "Erik Marmander",
-      "createdAt": "2026-09-01T18:05:23+02:00",
-      "itemCount": 4,
-      "reasons": [
-        {
-          "product": "KARACTERMANIA Hello Kitty Kuromi Backpack",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "Pyramid International Hello Kitty Mug with Teddy Bear Cover",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "CYP BRANDS Hello Kitty Kuromi Purse",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -316,25 +292,10 @@
       "name": "#4365",
       "customerName": "Oliver Månsson",
       "createdAt": "2026-09-03T13:28:17+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "ASUS GeForce RTX 5080 GAMING TRIO 16GB OC",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12600206655832,
-      "name": "#4366",
-      "customerName": "Filip Janík",
-      "createdAt": "2026-09-03T16:20:34+02:00",
       "itemCount": 2,
       "reasons": [
         {
-          "product": "119499 Dragonair - Scarlet & Violet 151 181/165 NM (English) — 181/165, Near-Mint / Illustration Rare",
+          "product": "MSI GeForce RTX 5080 16GB Gaming Trio OC",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -459,21 +420,6 @@
       ]
     },
     {
-      "id": 12600643813720,
-      "name": "#4372",
-      "customerName": "Lum Krasniqi",
-      "createdAt": "2026-09-03T20:23:36+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "128098 Pikachu - Collect 151 173/151C NM (S‑Chinese) — 173/151C, Near-Mint / Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12600703746392,
       "name": "#4373",
       "customerName": "Lum Krasniqi",
@@ -545,21 +491,6 @@
       "reasons": [
         {
           "product": "74181 - Sword & Shield Chilling Reign Sleeved Booster Pack (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12606143758680,
-      "name": "#4381",
-      "customerName": "Lum Krasniqi",
-      "createdAt": "2026-09-06T17:51:23+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "128096 Eevee - Sun & Moon Promos 287/SM‑P NM (Japanese) — 287/SM-P, Near-Mint / Promo",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -723,12 +654,6 @@
       "createdAt": "2026-09-10T21:07:35+02:00",
       "itemCount": 15,
       "reasons": [
-        {
-          "product": "77180 - Evolving Skies Sleeved Booster Pack (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
         {
           "product": "77144 - Champion's Path Booster Pack (English)",
           "reason": "Insufficient stock",
@@ -1411,7 +1336,7 @@
         "product": "119475 Charmeleon - Scarlet & Violet 151 169/165 NM (English) — 169/165, Near-Mint / Illustration Rare",
         "productId": 15641506283864,
         "variantId": 56849643635032,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 3,
         "demand": 3
       },
@@ -1451,7 +1376,7 @@
         "product": "119473 Charmander - Scarlet & Violet 151 168/165 NM (English) — 168/165, Near-Mint / Illustration Rare",
         "productId": 15641506349400,
         "variantId": 56849643733336,
-        "onHand": 1,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -1483,7 +1408,7 @@
         "product": "145455 OP16 The Time of Battle Booster Box 24 Booster Packs (English) - Multicolor",
         "productId": 15834588119384,
         "variantId": 57582670676312,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 5,
         "demand": 5
       },
@@ -1608,22 +1533,6 @@
         "demand": 1
       },
       {
-        "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
-        "productId": 15957741863256,
-        "variantId": 58270517461336,
-        "onHand": 1,
-        "committed": 3,
-        "demand": 3
-      },
-      {
-        "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
-        "productId": 15957742616920,
-        "variantId": 58270519165272,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 2
-      },
-      {
         "product": "109984 Charmander - Scarlet & Violet Black Star Promos 044/225 (NM) — 044/225, Near-Mint / Promo",
         "productId": 15641568837976,
         "variantId": 56849736204632,
@@ -1640,44 +1549,28 @@
         "demand": 1
       },
       {
+        "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
+        "productId": 15957741863256,
+        "variantId": 58270517461336,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
+        "productId": 15957742616920,
+        "variantId": 58270519165272,
+        "onHand": 0,
+        "committed": 0,
+        "demand": 1
+      },
+      {
         "product": "77906 - Vendetta Booster Box (English)",
         "productId": 15946775560536,
         "variantId": 58003500630360,
         "onHand": 3,
         "committed": 3,
         "demand": 3
-      },
-      {
-        "product": "KARACTERMANIA Hello Kitty Kuromi Backpack",
-        "productId": 15976222294360,
-        "variantId": 58359648846168,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "Pyramid International Hello Kitty Mug with Teddy Bear Cover",
-        "productId": 15976222490968,
-        "variantId": 58359649468760,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "CYP BRANDS Hello Kitty Kuromi Purse",
-        "productId": 15976222720344,
-        "variantId": 58359650320728,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "KIDS LICESING Hello Kitty Kuromi Plush Notebook",
-        "productId": 15976223080792,
-        "variantId": 58359661560152,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
       },
       {
         "product": "77575 - Lost Origin Booster Box 36 Booster Packs (English)",
@@ -1732,6 +1625,14 @@
         "productId": 15978812342616,
         "variantId": 58378011312472,
         "onHand": 0,
+        "committed": 0,
+        "demand": 1
+      },
+      {
+        "product": "MSI GeForce RTX 5080 16GB Gaming Trio OC",
+        "productId": 15612397551960,
+        "variantId": 56726298231128,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       },
@@ -1739,7 +1640,7 @@
         "product": "119499 Dragonair - Scarlet & Violet 151 181/165 NM (English) — 181/165, Near-Mint / Illustration Rare",
         "productId": 15641505792344,
         "variantId": 56849642717528,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1891,7 +1792,7 @@
         "product": "128098 Pikachu - Collect 151 173/151C NM (S‑Chinese) — 173/151C, Near-Mint / Illustration Rare",
         "productId": 15641373901144,
         "variantId": 56849439588696,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1955,7 +1856,7 @@
         "product": "128096 Eevee - Sun & Moon Promos 287/SM‑P NM (Japanese) — 287/SM-P, Near-Mint / Promo",
         "productId": 15641373933912,
         "variantId": 56849439621464,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2035,7 +1936,7 @@
         "product": "77180 - Evolving Skies Sleeved Booster Pack (English)",
         "productId": 15994643579224,
         "variantId": 58441358344536,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2449,46 +2350,16 @@
         "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
         "productId": 15957741863256,
         "variantId": 58270517461336,
-        "onHand": 1,
-        "committed": 3,
+        "onHand": 0,
+        "committed": 2,
         "incoming": 1,
         "available": -2,
         "shortfall": 1
       },
       {
-        "product": "KARACTERMANIA Hello Kitty Kuromi Backpack",
-        "productId": 15976222294360,
-        "variantId": 58359648846168,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Pyramid International Hello Kitty Mug with Teddy Bear Cover",
-        "productId": 15976222490968,
-        "variantId": 58359649468760,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "CYP BRANDS Hello Kitty Kuromi Purse",
-        "productId": 15976222720344,
-        "variantId": 58359650320728,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "ASUS GeForce RTX 5080 GAMING TRIO 16GB OC",
-        "productId": 15978812342616,
-        "variantId": 58378011312472,
+        "product": "MSI GeForce RTX 5080 16GB Gaming Trio OC",
+        "productId": 15612397551960,
+        "variantId": 56726298231128,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
