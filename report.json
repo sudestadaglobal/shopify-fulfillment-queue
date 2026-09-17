@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-17T15:05:14.665Z",
+  "generatedAt": "2026-09-17T19:06:35.440Z",
   "summary": {
     "totalUnfulfilled": 72,
-    "canFulfill": 18,
-    "blocked": 54
+    "canFulfill": 30,
+    "blocked": 42
   },
   "fulfillableOrders": [
+    {
+      "id": 12554085269848,
+      "name": "#4226",
+      "createdAt": "2026-08-16T18:21:25+02:00",
+      "itemCount": 2
+    },
     {
       "id": 12554307699032,
       "name": "#4228",
@@ -31,6 +37,30 @@
       "itemCount": 1
     },
     {
+      "id": 12596306215256,
+      "name": "#4353",
+      "createdAt": "2026-09-01T21:10:23+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12596338196824,
+      "name": "#4354",
+      "createdAt": "2026-09-01T21:24:54+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12597861155160,
+      "name": "#4361",
+      "createdAt": "2026-09-02T14:44:24+02:00",
+      "itemCount": 5
+    },
+    {
+      "id": 12597891105112,
+      "name": "#4362",
+      "createdAt": "2026-09-02T14:56:17+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12600206655832,
       "name": "#4366",
       "createdAt": "2026-09-03T16:20:34+02:00",
@@ -43,10 +73,34 @@
       "itemCount": 1
     },
     {
+      "id": 12600349786456,
+      "name": "#4369",
+      "createdAt": "2026-09-03T17:34:53+02:00",
+      "itemCount": 5
+    },
+    {
+      "id": 12600530534744,
+      "name": "#4370",
+      "createdAt": "2026-09-03T19:15:26+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12600643813720,
       "name": "#4372",
       "createdAt": "2026-09-03T20:23:36+02:00",
       "itemCount": 1
+    },
+    {
+      "id": 12600703746392,
+      "name": "#4373",
+      "createdAt": "2026-09-03T21:00:45+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12601966821720,
+      "name": "#4375",
+      "createdAt": "2026-09-04T14:57:40+02:00",
+      "itemCount": 5
     },
     {
       "id": 12602045202776,
@@ -67,9 +121,21 @@
       "itemCount": 3
     },
     {
+      "id": 12606272635224,
+      "name": "#4383",
+      "createdAt": "2026-09-06T18:55:09+02:00",
+      "itemCount": 2
+    },
+    {
       "id": 12614345785688,
       "name": "#4390",
       "createdAt": "2026-09-10T16:30:51+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12614427246936,
+      "name": "#4392",
+      "createdAt": "2026-09-10T17:17:26+02:00",
       "itemCount": 1
     },
     {
@@ -82,6 +148,12 @@
       "id": 12614893732184,
       "name": "#4402",
       "createdAt": "2026-09-10T21:52:06+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12615049642328,
+      "name": "#4408",
+      "createdAt": "2026-09-10T23:51:31+02:00",
       "itemCount": 1
     },
     {
@@ -140,21 +212,6 @@
       "reasons": [
         {
           "product": "110071 Scarlet & Violet Wild Force Booster Box 30 pack (Japanese) — 30 booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12554085269848,
-      "name": "#4226",
-      "customerName": "João Joaquim",
-      "createdAt": "2026-08-16T18:21:25+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -228,66 +285,6 @@
       ]
     },
     {
-      "id": 12596306215256,
-      "name": "#4353",
-      "customerName": "Frédéric Pépin-Toulouse",
-      "createdAt": "2026-09-01T21:10:23+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "77575 - Lost Origin Booster Box 36 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12596338196824,
-      "name": "#4354",
-      "customerName": "Yannik Spies",
-      "createdAt": "2026-09-01T21:24:54+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "79268 - The World's Strongest Warriors Booster Box (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12597861155160,
-      "name": "#4361",
-      "customerName": "Albin Backman",
-      "createdAt": "2026-09-02T14:44:24+02:00",
-      "itemCount": 5,
-      "reasons": [
-        {
-          "product": "69996 Sun & Moon Hidden Fates Elite Trainer Box (English)",
-          "reason": "Insufficient stock",
-          "stock": -2,
-          "needed": 4
-        }
-      ]
-    },
-    {
-      "id": 12597891105112,
-      "name": "#4362",
-      "customerName": "Lukas Jahn",
-      "createdAt": "2026-09-02T14:56:17+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "77420 - Bonus Round Jumbo Booster Box 6 Jumbo Booster Packs (S-Chinese)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12599875993944,
       "name": "#4365",
       "customerName": "Oliver Månsson",
@@ -318,36 +315,6 @@
       ]
     },
     {
-      "id": 12600349786456,
-      "name": "#4369",
-      "customerName": "marcos peña gomez",
-      "createdAt": "2026-09-03T17:34:53+02:00",
-      "itemCount": 5,
-      "reasons": [
-        {
-          "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12600530534744,
-      "name": "#4370",
-      "customerName": "Maximilian Milota",
-      "createdAt": "2026-09-03T19:15:26+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "77470 - Terastal Festival ex Booster Box 10 Booster Packs (Japanese)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12600601805144,
       "name": "#4371",
       "customerName": "Lum Krasniqi",
@@ -355,88 +322,10 @@
       "itemCount": 11,
       "reasons": [
         {
-          "product": "75084 - Woody & Buzz Lightyear - Best Buddies - Attack of the Vine 228/207 NM V2 Holofoil (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "75088 - Mickey Mouse & Minnie Mouse - Adventuring Duo - Attack of the Vine 233/207 NM V2 Holofoil (English)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "75092 - Scar - Created by the Vine - Attack of the Vine 243/207 NM V2 Holofoil (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "75106 - Aladdin & Genie - Mischievous Pals - Attack of the Vine 232/207 NM V2 Holofoil (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "75112 - Tod & Copper - Best of Friends - Attack of the Vine 230/207 NM V2 Holofoil (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "75114 - Merida - Wisp Conjurer - Attack of the Vine 231/207 NM V2 Holofoil (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12600703746392,
-      "name": "#4373",
-      "customerName": "Lum Krasniqi",
-      "createdAt": "2026-09-03T21:00:45+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "77392 - Ascended Heroes Booster Bundle Display 60 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 3
-        }
-      ]
-    },
-    {
-      "id": 12601966821720,
-      "name": "#4375",
-      "customerName": "marcos peña gomez",
-      "createdAt": "2026-09-04T14:57:40+02:00",
-      "itemCount": 5,
-      "reasons": [
-        {
-          "product": "77398 - Collect 151 Gathering Booster Box 15 Booster Packs (S-Chinese)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "77444 - Collect 151 Hope Booster Box 15 Booster Packs (S-Chinese)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 3
-        },
-        {
-          "product": "77516 - Nine Colors Gathering Friends Booster Box 30 Booster Packs (S-Chinese)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        },
-        {
-          "product": "77460 - Collect 151 Journey Booster Box 15 Booster Packs (S-Chinese)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 3
         }
       ]
     },
@@ -449,21 +338,6 @@
       "reasons": [
         {
           "product": "150157 - \tAstral Radiance Sleeved Booster Pack (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12606272635224,
-      "name": "#4383",
-      "customerName": "Filip Janík",
-      "createdAt": "2026-09-06T18:55:09+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -511,21 +385,6 @@
           "product": "110184 Scarlet & Violet Twilight Masquerade (English) — 10 cards / Multicolor",
           "reason": "Insufficient stock",
           "stock": 1,
-          "needed": 2
-        }
-      ]
-    },
-    {
-      "id": 12614427246936,
-      "name": "#4392",
-      "customerName": "Bilal Gültan",
-      "createdAt": "2026-09-10T17:17:26+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "134046 - Mega Evolution Perfect Order Makuhita Blister Booster Pack (English) - Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 0,
           "needed": 2
         }
       ]
@@ -698,21 +557,6 @@
       "reasons": [
         {
           "product": "77465 - Gem Pack Vol. 1 Booster Box 15 Booster Packs (S-Chinese)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12615049642328,
-      "name": "#4408",
-      "customerName": "gunnar andersson",
-      "createdAt": "2026-09-10T23:51:31+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "62354 - Mega Evolution Ascended Heroes Pokémon Center Elite Trainer Box 11 Booster Packs (English)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -1095,7 +939,7 @@
         "product": "119389 Scarlet & Violet Black Bolt Booster Bundle (English) — 6 booster pack / Black / Blue",
         "productId": 15641508512088,
         "variantId": 56849646649688,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1167,7 +1011,7 @@
         "product": "134046 - Mega Evolution Perfect Order Makuhita Blister Booster Pack (English) - Multicolor",
         "productId": 15942787563864,
         "variantId": 57983499698520,
-        "onHand": 3,
+        "onHand": 5,
         "committed": 6,
         "demand": 6
       },
@@ -1519,7 +1363,7 @@
         "product": "77575 - Lost Origin Booster Box 36 Booster Packs (English)",
         "productId": 15976620589400,
         "variantId": 58362015285592,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1527,7 +1371,7 @@
         "product": "79268 - The World's Strongest Warriors Booster Box (English)",
         "productId": 15976625897816,
         "variantId": 58362084458840,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 3,
         "demand": 3
       },
@@ -1535,7 +1379,7 @@
         "product": "69996 Sun & Moon Hidden Fates Elite Trainer Box (English)",
         "productId": 15549268623704,
         "variantId": 56494572699992,
-        "onHand": -2,
+        "onHand": 4,
         "committed": 4,
         "demand": 4
       },
@@ -1559,7 +1403,7 @@
         "product": "77420 - Bonus Round Jumbo Booster Box 6 Jumbo Booster Packs (S-Chinese)",
         "productId": 15977739452760,
         "variantId": 58368069009752,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1623,7 +1467,7 @@
         "product": "113501 Scarlet & Violet Prismatic Evolutions Super-Premium Collection 15 Booster Pack (English) — 15 Booster pack / Multicolor",
         "productId": 15641563300184,
         "variantId": 56849718870360,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1639,7 +1483,7 @@
         "product": "77470 - Terastal Festival ex Booster Box 10 Booster Packs (Japanese)",
         "productId": 15980780814680,
         "variantId": 58388067549528,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1647,7 +1491,7 @@
         "product": "75084 - Woody & Buzz Lightyear - Best Buddies - Attack of the Vine 228/207 NM V2 Holofoil (English)",
         "productId": 15980807192920,
         "variantId": 58388115063128,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1671,7 +1515,7 @@
         "product": "75092 - Scar - Created by the Vine - Attack of the Vine 243/207 NM V2 Holofoil (English)",
         "productId": 15980828295512,
         "variantId": 58388313604440,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1695,7 +1539,7 @@
         "product": "75106 - Aladdin & Genie - Mischievous Pals - Attack of the Vine 232/207 NM V2 Holofoil (English)",
         "productId": 15980848087384,
         "variantId": 58388465877336,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1703,7 +1547,7 @@
         "product": "75112 - Tod & Copper - Best of Friends - Attack of the Vine 230/207 NM V2 Holofoil (English)",
         "productId": 15980848349528,
         "variantId": 58388472594776,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1719,7 +1563,7 @@
         "product": "75114 - Merida - Wisp Conjurer - Attack of the Vine 231/207 NM V2 Holofoil (English)",
         "productId": 15980848644440,
         "variantId": 58388475511128,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1743,7 +1587,7 @@
         "product": "77392 - Ascended Heroes Booster Bundle Display 60 Booster Packs (English)",
         "productId": 15981000360280,
         "variantId": 58389035385176,
-        "onHand": 0,
+        "onHand": 3,
         "committed": 3,
         "demand": 3
       },
@@ -1759,7 +1603,7 @@
         "product": "77398 - Collect 151 Gathering Booster Box 15 Booster Packs (S-Chinese)",
         "productId": 15984708518232,
         "variantId": 58398398349656,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1767,7 +1611,7 @@
         "product": "77444 - Collect 151 Hope Booster Box 15 Booster Packs (S-Chinese)",
         "productId": 15984712188248,
         "variantId": 58398403592536,
-        "onHand": 0,
+        "onHand": 3,
         "committed": 3,
         "demand": 3
       },
@@ -1775,7 +1619,7 @@
         "product": "77516 - Nine Colors Gathering Friends Booster Box 30 Booster Packs (S-Chinese)",
         "productId": 15984713335128,
         "variantId": 58398404968792,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -1783,7 +1627,7 @@
         "product": "77460 - Collect 151 Journey Booster Box 15 Booster Packs (S-Chinese)",
         "productId": 15984713924952,
         "variantId": 58398406017368,
-        "onHand": 0,
+        "onHand": 3,
         "committed": 3,
         "demand": 3
       },
@@ -1823,7 +1667,7 @@
         "product": "119897 Scarlet & Violet 151 Booster Bundle (English) — 6 Booster Packs / Multicolor",
         "productId": 15641503891800,
         "variantId": 56849639604568,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 4,
         "demand": 4
       },
@@ -2055,7 +1899,7 @@
         "product": "62354 - Mega Evolution Ascended Heroes Pokémon Center Elite Trainer Box 11 Booster Packs (English)",
         "productId": 15994725007704,
         "variantId": 58441868116312,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -2302,23 +2146,13 @@
     ],
     "demandExceedsStock": [
       {
-        "product": "69996 Sun & Moon Hidden Fates Elite Trainer Box (English)",
-        "productId": 15549268623704,
-        "variantId": 56494572699992,
-        "onHand": -2,
-        "committed": 4,
-        "incoming": 2,
-        "available": -6,
-        "shortfall": 4
-      },
-      {
         "product": "79268 - The World's Strongest Warriors Booster Box (English)",
         "productId": 15976625897816,
         "variantId": 58362084458840,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 3,
-        "incoming": 1,
-        "available": -3,
+        "incoming": 0,
+        "available": -2,
         "shortfall": 2
       },
       {
