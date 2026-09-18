@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T17:45:45.002Z",
+  "generatedAt": "2026-09-18T20:01:57.563Z",
   "summary": {
     "totalUnfulfilled": 43,
     "canFulfill": 1,
@@ -1626,16 +1626,6 @@
     ],
     "demandExceedsStock": [
       {
-        "product": "79268 - The World's Strongest Warriors Booster Box (English)",
-        "productId": 15976625897816,
-        "variantId": 58362084458840,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
         "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
         "productId": 15957741863256,
         "variantId": 58270517461336,
@@ -1686,36 +1676,6 @@
         "shortfall": 1
       },
       {
-        "product": "77588 - Brilliant Stars Booster Box 36 Booster Packs (English)",
-        "productId": 15994572964184,
-        "variantId": 58441023258968,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77312 - Forbidden Light Booster Pack (English)",
-        "productId": 15994649575768,
-        "variantId": 58441375875416,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "110198 Scarlet & Violet Paldean Fates Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641566019928,
-        "variantId": 56849731322200,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "HyperX FlipCast - Streaming Dynamic Microphone Pre-Sale",
         "productId": 15606357623128,
         "variantId": 56700916531544,
@@ -1736,29 +1696,9 @@
         "shortfall": 1
       },
       {
-        "product": "74193 - Scarlet & Violet Paldea Evolved Sleeved Booster Pack (English)",
-        "productId": 16001513488728,
-        "variantId": 58461350887768,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "147779 Mega Evolution Pitch Black Booster Box 36 Booster Packs (English)",
         "productId": 15892606484824,
         "variantId": 57791899861336,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "150409 - The Glory of Team Rocket Booster Box 30 Booster Packs (Japanese) - Multicolor",
-        "productId": 15942830686552,
-        "variantId": 57983919030616,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -1789,16 +1729,6 @@
         "product": "JAZWARES Pokémon Dragonite Plush Toy",
         "productId": 16014082834776,
         "variantId": 58495454314840,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "75955 - Scarlet & Violet Temporal Forces Elite Trainer Box 9 Booster Packs (English)",
-        "productId": 16014090764632,
-        "variantId": 58495479152984,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
