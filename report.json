@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-20T18:52:19.485Z",
+  "generatedAt": "2026-09-20T21:22:15.270Z",
   "summary": {
-    "totalUnfulfilled": 46,
+    "totalUnfulfilled": 52,
     "canFulfill": 3,
-    "blocked": 43
+    "blocked": 49
   },
   "fulfillableOrders": [
     {
@@ -772,6 +772,132 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12633879773528,
+      "name": "#4438",
+      "customerName": "Adrià Cáceres",
+      "createdAt": "2026-09-20T20:51:32+02:00",
+      "itemCount": 7,
+      "reasons": [
+        {
+          "product": "79432 - 30th Celebration Elite Trainer Box 9 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "79438 - 30th Celebration Poster Collection 3 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "79444 - 30th Celebration Greninja ex Box 4 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "79442 - 30th Celebration Sylveon ex Box 4 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "79440 - 30th Celebration Eevee 2-Pack Blister 2 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "79448 - 30th Celebration Alolan Exeggutor Tech Sticker Collection 3 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12633898221912,
+      "name": "#4439",
+      "customerName": "Mumin Altan",
+      "createdAt": "2026-09-20T21:01:08+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "79432 - 30th Celebration Elite Trainer Box 9 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
+    },
+    {
+      "id": 12633901990232,
+      "name": "#4440",
+      "customerName": "Dennis Lemmermann",
+      "createdAt": "2026-09-20T21:02:58+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "79432 - 30th Celebration Elite Trainer Box 9 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12633904152920,
+      "name": "#4441",
+      "customerName": "Fabian Langguth",
+      "createdAt": "2026-09-20T21:03:59+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "79440 - 30th Celebration Eevee 2-Pack Blister 2 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12633908216152,
+      "name": "#4442",
+      "customerName": "Liam Cathelyn",
+      "createdAt": "2026-09-20T21:06:08+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "79440 - 30th Celebration Eevee 2-Pack Blister 2 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12633925386584,
+      "name": "#4443",
+      "customerName": "Filip Janík",
+      "createdAt": "2026-09-20T21:15:31+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119425 Venusaur ex - Scarlet & Violet 151 198/165 NM (English) — 198/165, Near-Mint / Special Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -893,8 +1019,8 @@
         "productId": 15641507430744,
         "variantId": 56849645273432,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "119483 Pikachu - Scarlet & Violet 151 173/165 NM (English) — 173/165, Near-Mint / Illustration Rare",
@@ -1679,9 +1805,95 @@
         "onHand": 5,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "79432 - 30th Celebration Elite Trainer Box 9 Booster Packs (English)",
+        "productId": 16023097082200,
+        "variantId": 58522368409944,
+        "onHand": 0,
+        "committed": 4,
+        "demand": 4
+      },
+      {
+        "product": "79438 - 30th Celebration Poster Collection 3 Booster Packs (English)",
+        "productId": 16023098032472,
+        "variantId": 58522377486680,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "79444 - 30th Celebration Greninja ex Box 4 Booster Packs (English)",
+        "productId": 16023105765720,
+        "variantId": 58522395541848,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "79442 - 30th Celebration Sylveon ex Box 4 Booster Packs (English)",
+        "productId": 16023106847064,
+        "variantId": 58522400817496,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "79440 - 30th Celebration Eevee 2-Pack Blister 2 Booster Packs (English)",
+        "productId": 16023107993944,
+        "variantId": 58522407534936,
+        "onHand": 0,
+        "committed": 3,
+        "demand": 3
+      },
+      {
+        "product": "79448 - 30th Celebration Alolan Exeggutor Tech Sticker Collection 3 Booster Packs (English)",
+        "productId": 16023108878680,
+        "variantId": 58522409075032,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
+        "productId": 16023109599576,
+        "variantId": 58522411827544,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
+      {
+        "product": "79432 - 30th Celebration Elite Trainer Box 9 Booster Packs (English)",
+        "productId": 16023097082200,
+        "variantId": 58522368409944,
+        "onHand": 0,
+        "committed": 4,
+        "incoming": 0,
+        "available": -4,
+        "shortfall": 4
+      },
+      {
+        "product": "79440 - 30th Celebration Eevee 2-Pack Blister 2 Booster Packs (English)",
+        "productId": 16023107993944,
+        "variantId": 58522407534936,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 0,
+        "available": -3,
+        "shortfall": 3
+      },
+      {
+        "product": "119425 Venusaur ex - Scarlet & Violet 151 198/165 NM (English) — 198/165, Near-Mint / Special Illustration Rare",
+        "productId": 15641507430744,
+        "variantId": 56849645273432,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
+      },
       {
         "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
         "productId": 15957741863256,
@@ -1816,6 +2028,56 @@
         "product": "73985 - Luisa Madrigal - Confident Climber (V.2) - Wilds Unknown #227 NM Holofoil (English)",
         "productId": 16023073915224,
         "variantId": 58522212925784,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "79438 - 30th Celebration Poster Collection 3 Booster Packs (English)",
+        "productId": 16023098032472,
+        "variantId": 58522377486680,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "79444 - 30th Celebration Greninja ex Box 4 Booster Packs (English)",
+        "productId": 16023105765720,
+        "variantId": 58522395541848,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "79442 - 30th Celebration Sylveon ex Box 4 Booster Packs (English)",
+        "productId": 16023106847064,
+        "variantId": 58522400817496,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "79448 - 30th Celebration Alolan Exeggutor Tech Sticker Collection 3 Booster Packs (English)",
+        "productId": 16023108878680,
+        "variantId": 58522409075032,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
+        "productId": 16023109599576,
+        "variantId": 58522411827544,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
