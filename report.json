@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-20T16:11:46.736Z",
+  "generatedAt": "2026-09-20T18:52:19.485Z",
   "summary": {
-    "totalUnfulfilled": 43,
-    "canFulfill": 1,
-    "blocked": 42
+    "totalUnfulfilled": 46,
+    "canFulfill": 3,
+    "blocked": 43
   },
   "fulfillableOrders": [
     {
@@ -11,6 +11,18 @@
       "name": "#4277",
       "createdAt": "2026-08-24T14:24:37+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12633826984280,
+      "name": "#4436",
+      "createdAt": "2026-09-20T20:23:11+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12633835503960,
+      "name": "#4437",
+      "createdAt": "2026-09-20T20:27:58+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -739,6 +751,27 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12633775997272,
+      "name": "#4435",
+      "customerName": "Maxwell Wyatt",
+      "createdAt": "2026-09-20T19:58:23+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "74005 - What Else Can I Do? (V.2) - Wilds Unknown #237 NM Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "73985 - Luisa Madrigal - Confident Climber (V.2) - Wilds Unknown #227 NM Holofoil (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -988,7 +1021,7 @@
         "productId": 15641563627864,
         "variantId": 56849719525720,
         "onHand": 3,
-        "committed": 4,
+        "committed": 3,
         "demand": 4
       },
       {
@@ -1124,8 +1157,8 @@
         "productId": 15980826132824,
         "variantId": 58388275626328,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "75092 - Scar - Created by the Vine - Attack of the Vine 243/207 NM V2 Holofoil (English)",
@@ -1622,6 +1655,30 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "74005 - What Else Can I Do? (V.2) - Wilds Unknown #237 NM Holofoil (English)",
+        "productId": 16023073751384,
+        "variantId": 58522212467032,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "73985 - Luisa Madrigal - Confident Climber (V.2) - Wilds Unknown #227 NM Holofoil (English)",
+        "productId": 16023073915224,
+        "variantId": 58522212925784,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110200 Scarlet & Violet Shiny Treasure ex Booster Pack (Japanese) — 10 cards / Multicolor",
+        "productId": 15641565987160,
+        "variantId": 56849731289432,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -1641,6 +1698,16 @@
         "variantId": 56726298231128,
         "onHand": 0,
         "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "75110 - Mike Wazowski - Heroic Climber - Attack of the Vine 226/207 NM V2 Holofoil (English)",
+        "productId": 15980826132824,
+        "variantId": 58388275626328,
+        "onHand": 1,
+        "committed": 2,
         "incoming": 0,
         "available": -1,
         "shortfall": 1
@@ -1729,6 +1796,26 @@
         "product": "JAZWARES Pokémon Dragonite Plush Toy",
         "productId": 16014082834776,
         "variantId": 58495454314840,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "74005 - What Else Can I Do? (V.2) - Wilds Unknown #237 NM Holofoil (English)",
+        "productId": 16023073751384,
+        "variantId": 58522212467032,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "73985 - Luisa Madrigal - Confident Climber (V.2) - Wilds Unknown #227 NM Holofoil (English)",
+        "productId": 16023073915224,
+        "variantId": 58522212925784,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
