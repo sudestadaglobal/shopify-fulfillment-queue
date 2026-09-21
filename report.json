@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T13:58:29.146Z",
+  "generatedAt": "2026-09-21T19:17:56.313Z",
   "summary": {
     "totalUnfulfilled": 53,
     "canFulfill": 7,
@@ -1676,16 +1676,6 @@
     ],
     "demandExceedsStock": [
       {
-        "product": "79432 - 30th Celebration Elite Trainer Box 9 Booster Packs (English)",
-        "productId": 16023097082200,
-        "variantId": 58522368409944,
-        "onHand": 0,
-        "committed": 6,
-        "incoming": 0,
-        "available": -6,
-        "shortfall": 6
-      },
-      {
         "product": "79440 - 30th Celebration Eevee 2-Pack Blister 2 Booster Packs (English)",
         "productId": 16023107993944,
         "variantId": 58522407534936,
@@ -1696,6 +1686,16 @@
         "shortfall": 3
       },
       {
+        "product": "79432 - 30th Celebration Elite Trainer Box 9 Booster Packs (English)",
+        "productId": 16023097082200,
+        "variantId": 58522368409944,
+        "onHand": 0,
+        "committed": 6,
+        "incoming": 4,
+        "available": -6,
+        "shortfall": 2
+      },
+      {
         "product": "79438 - 30th Celebration Poster Collection 3 Booster Packs (English)",
         "productId": 16023098032472,
         "variantId": 58522377486680,
@@ -1704,16 +1704,6 @@
         "incoming": 0,
         "available": -2,
         "shortfall": 2
-      },
-      {
-        "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
-        "productId": 15957741863256,
-        "variantId": 58270517461336,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
-        "shortfall": 1
       },
       {
         "product": "75110 - Mike Wazowski - Heroic Climber - Attack of the Vine 226/207 NM V2 Holofoil (English)",
@@ -1746,29 +1736,9 @@
         "shortfall": 1
       },
       {
-        "product": "72334 - Feebas - Scarlet & Violet Surging Sparks 198/191 NM Holofoil (English)",
-        "productId": 15994550387032,
-        "variantId": 58440712782168,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "Razer Kraken V4",
         "productId": 15997018374488,
         "variantId": 58448042754392,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "147779 Mega Evolution Pitch Black Booster Box 36 Booster Packs (English)",
-        "productId": 15892606484824,
-        "variantId": 57791899861336,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -1809,16 +1779,6 @@
         "product": "74005 - What Else Can I Do? (V.2) - Wilds Unknown #237 NM Holofoil (English)",
         "productId": 16023073751384,
         "variantId": 58522212467032,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "73985 - Luisa Madrigal - Confident Climber (V.2) - Wilds Unknown #227 NM Holofoil (English)",
-        "productId": 16023073915224,
-        "variantId": 58522212925784,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
