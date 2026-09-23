@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T12:16:30.517Z",
+  "generatedAt": "2026-09-23T17:24:39.844Z",
   "summary": {
-    "totalUnfulfilled": 31,
-    "canFulfill": 1,
-    "blocked": 30
+    "totalUnfulfilled": 35,
+    "canFulfill": 2,
+    "blocked": 33
   },
   "fulfillableOrders": [
     {
@@ -11,6 +11,12 @@
       "name": "#4371",
       "createdAt": "2026-09-03T19:58:13+02:00",
       "itemCount": 11
+    },
+    {
+      "id": 12639503876440,
+      "name": "#4450",
+      "createdAt": "2026-09-23T14:41:48+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -517,6 +523,63 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12639306613080,
+      "name": "#4449",
+      "customerName": "Albin Backman",
+      "createdAt": "2026-09-23T14:29:52+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "68991 Sword & Shield Vivid Voltage Booster Box — 36 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "110090 Scarlet & Violet Booster Box 36 Booster Pack (English) — 36 booster pack / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12639578489176,
+      "name": "#4451",
+      "customerName": "Mateo Barro Fernández",
+      "createdAt": "2026-09-23T14:46:25+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "110234 Chinese 2024 Lunar New Year Red Promo Pack (Chinese) — 9 cards / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12640810041688,
+      "name": "#4452",
+      "customerName": "Dylan Holmes",
+      "createdAt": "2026-09-23T16:52:38+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -542,8 +605,8 @@
         "productId": 15957741863256,
         "variantId": 58270517461336,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
@@ -944,6 +1007,38 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "68991 Sword & Shield Vivid Voltage Booster Box — 36 booster pack / Multicolor",
+        "productId": 15641569657176,
+        "variantId": 56849737122136,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110090 Scarlet & Violet Booster Box 36 Booster Pack (English) — 36 booster pack / Multicolor",
+        "productId": 15641566970200,
+        "variantId": 56849732796760,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110234 Chinese 2024 Lunar New Year Red Promo Pack (Chinese) — 9 cards / Multicolor",
+        "productId": 15641565364568,
+        "variantId": 56849722212696,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+        "productId": 15641268355416,
+        "variantId": 56849193173336,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -976,6 +1071,16 @@
         "incoming": 0,
         "available": -2,
         "shortfall": 2
+      },
+      {
+        "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
+        "productId": 15957741863256,
+        "variantId": 58270517461336,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
       },
       {
         "product": "Nintendo Switch 2 - Mario Kart World Bundle",
@@ -1051,6 +1156,46 @@
         "product": "75510 - Venomoth - Jungle 13/64 NM Holofoil 1st Edition (English)",
         "productId": 16028556067160,
         "variantId": 58536335278424,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "68991 Sword & Shield Vivid Voltage Booster Box — 36 booster pack / Multicolor",
+        "productId": 15641569657176,
+        "variantId": 56849737122136,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "110090 Scarlet & Violet Booster Box 36 Booster Pack (English) — 36 booster pack / Multicolor",
+        "productId": 15641566970200,
+        "variantId": 56849732796760,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "110234 Chinese 2024 Lunar New Year Red Promo Pack (Chinese) — 9 cards / Multicolor",
+        "productId": 15641565364568,
+        "variantId": 56849722212696,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "136004 Pokémon Day 2026 Collection Box Set - 3 Booster Packs (English) — 3 Booster Packs / Multicolor",
+        "productId": 15641268355416,
+        "variantId": 56849193173336,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
