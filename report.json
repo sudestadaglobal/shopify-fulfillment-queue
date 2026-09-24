@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T06:41:11.406Z",
+  "generatedAt": "2026-09-24T12:17:01.481Z",
   "summary": {
     "totalUnfulfilled": 35,
-    "canFulfill": 2,
-    "blocked": 33
+    "canFulfill": 5,
+    "blocked": 30
   },
   "fulfillableOrders": [
     {
@@ -13,9 +13,27 @@
       "itemCount": 11
     },
     {
+      "id": 12626315215192,
+      "name": "#4431",
+      "createdAt": "2026-09-16T14:45:29+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12635022033240,
+      "name": "#4444",
+      "createdAt": "2026-09-21T14:32:00+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12639503876440,
       "name": "#4450",
       "createdAt": "2026-09-23T14:41:48+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12642303934808,
+      "name": "#4453",
+      "createdAt": "2026-09-24T14:15:21+02:00",
       "itemCount": 1
     }
   ],
@@ -231,21 +249,6 @@
       ]
     },
     {
-      "id": 12626315215192,
-      "name": "#4431",
-      "customerName": "Leon Virkus L.V.",
-      "createdAt": "2026-09-16T14:45:29+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "79268 - The World's Strongest Warriors Booster Box (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        }
-      ]
-    },
-    {
       "id": 12628222378328,
       "name": "#4432",
       "customerName": "Leon Virkus L.V.",
@@ -254,21 +257,6 @@
       "reasons": [
         {
           "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12628250001752,
-      "name": "#4433",
-      "customerName": "Linus Sipilä",
-      "createdAt": "2026-09-17T15:55:50+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "JAZWARES Pokémon Dragonite Plush Toy",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -431,21 +419,6 @@
       "reasons": [
         {
           "product": "119425 Venusaur ex - Scarlet & Violet 151 198/165 NM (English) — 198/165, Near-Mint / Special Illustration Rare",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12635022033240,
-      "name": "#4444",
-      "customerName": "Filip Janík",
-      "createdAt": "2026-09-21T14:32:00+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "119469 Bulbasaur - Scarlet & Violet 151 166/165 NM (English) — 166/165, Near-Mint / Illustration Rare",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -876,7 +849,7 @@
         "product": "79268 - The World's Strongest Warriors Booster Box (English)",
         "productId": 15976625897816,
         "variantId": 58362084458840,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -892,14 +865,6 @@
         "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
         "productId": 15742390337880,
         "variantId": 57232830890328,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "JAZWARES Pokémon Dragonite Plush Toy",
-        "productId": 16014082834776,
-        "variantId": 58495454314840,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -988,7 +953,7 @@
         "product": "119469 Bulbasaur - Scarlet & Violet 151 166/165 NM (English) — 166/165, Near-Mint / Illustration Rare",
         "productId": 15641506480472,
         "variantId": 56849644028248,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -1086,26 +1051,6 @@
         "product": "Nintendo Switch 2 - Mario Kart World Bundle",
         "productId": 15120406643032,
         "variantId": 55021154959704,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
-        "productId": 15742390337880,
-        "variantId": 57232830890328,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "JAZWARES Pokémon Dragonite Plush Toy",
-        "productId": 16014082834776,
-        "variantId": 58495454314840,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
