@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T13:00:05.159Z",
+  "generatedAt": "2026-09-25T17:55:06.281Z",
   "summary": {
-    "totalUnfulfilled": 21,
+    "totalUnfulfilled": 22,
     "canFulfill": 0,
-    "blocked": 21
+    "blocked": 22
   },
   "fulfillableOrders": [],
   "blockedOrders": [
@@ -387,6 +387,27 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12644777689432,
+      "name": "#4454",
+      "customerName": "marcos peña gomez",
+      "createdAt": "2026-09-25T16:13:40+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -396,8 +417,8 @@
         "productId": 15957741863256,
         "variantId": 58270517461336,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
@@ -622,6 +643,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
+        "productId": 15641380454744,
+        "variantId": 56849450369368,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
       }
     ],
     "demandExceedsStock": [
@@ -631,9 +660,29 @@
         "variantId": 58522407534936,
         "onHand": 0,
         "committed": 3,
-        "incoming": 0,
+        "incoming": 1,
         "available": -3,
-        "shortfall": 3
+        "shortfall": 2
+      },
+      {
+        "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
+        "productId": 15641380454744,
+        "variantId": 56849450369368,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
+        "productId": 15957741863256,
+        "variantId": 58270517461336,
+        "onHand": 0,
+        "committed": 3,
+        "incoming": 2,
+        "available": -3,
+        "shortfall": 1
       },
       {
         "product": "79438 - 30th Celebration Poster Collection 3 Booster Packs (English)",
@@ -689,16 +738,6 @@
         "product": "68991 Sword & Shield Vivid Voltage Booster Box — 36 booster pack / Multicolor",
         "productId": 15641569657176,
         "variantId": 56849737122136,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "110090 Scarlet & Violet Booster Box 36 Booster Pack (English) — 36 booster pack / Multicolor",
-        "productId": 15641566970200,
-        "variantId": 56849732796760,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
