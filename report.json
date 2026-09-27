@@ -1,11 +1,18 @@
 {
-  "generatedAt": "2026-09-27T13:05:06.004Z",
+  "generatedAt": "2026-09-27T17:46:50.174Z",
   "summary": {
-    "totalUnfulfilled": 22,
-    "canFulfill": 0,
-    "blocked": 22
+    "totalUnfulfilled": 26,
+    "canFulfill": 1,
+    "blocked": 25
   },
-  "fulfillableOrders": [],
+  "fulfillableOrders": [
+    {
+      "id": 12648166359384,
+      "name": "#4456",
+      "createdAt": "2026-09-27T15:50:58+02:00",
+      "itemCount": 2
+    }
+  ],
   "blockedOrders": [
     {
       "id": 12574639751512,
@@ -408,6 +415,57 @@
           "needed": 2
         }
       ]
+    },
+    {
+      "id": 12648163574104,
+      "name": "#4455",
+      "customerName": "max daun",
+      "createdAt": "2026-09-27T15:49:10+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12648172618072,
+      "name": "#4457",
+      "customerName": "Filip Janík",
+      "createdAt": "2026-09-27T15:55:05+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "119471 Ivysaur - Scarlet & Violet 151 167/165 NM (English) — 167/165, Near-Mint / Illustration Rare",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12648184185176,
+      "name": "#4458",
+      "customerName": "Mike van Vianen",
+      "createdAt": "2026-09-27T16:01:59+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "79448 - 30th Celebration Alolan Exeggutor Tech Sticker Collection 3 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -585,16 +643,16 @@
         "productId": 16023108878680,
         "variantId": 58522409075032,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
         "productId": 16023109599576,
         "variantId": 58522411827544,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "113497 Eevee ex - Scarlet & Violet Prismatic Evolution 167/131 NM (English) — 167/131, Near-Mint / Special Illustration Rare",
@@ -651,6 +709,38 @@
         "onHand": 0,
         "committed": 2,
         "demand": 2
+      },
+      {
+        "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
+        "productId": 15641318490456,
+        "variantId": 56849267589464,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110244 Sword & Shield Lost Origin Booster Pack (English) — 10 cards / Multicolor",
+        "productId": 15641565167960,
+        "variantId": 56849722016088,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "110207 Scarlet & Violet 151 Booster NM (English) — Scarlet & Violet 151 (10 cards) / Multicolor",
+        "productId": 15641565823320,
+        "variantId": 56849731092824,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "119471 Ivysaur - Scarlet & Violet 151 167/165 NM (English) — 167/165, Near-Mint / Illustration Rare",
+        "productId": 15641506414936,
+        "variantId": 56849643798872,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -662,6 +752,26 @@
         "committed": 3,
         "incoming": 1,
         "available": -3,
+        "shortfall": 2
+      },
+      {
+        "product": "79448 - 30th Celebration Alolan Exeggutor Tech Sticker Collection 3 Booster Packs (English)",
+        "productId": 16023108878680,
+        "variantId": 58522409075032,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
+        "productId": 16023109599576,
+        "variantId": 58522411827544,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
         "shortfall": 2
       },
       {
@@ -715,29 +825,19 @@
         "shortfall": 1
       },
       {
-        "product": "79448 - 30th Celebration Alolan Exeggutor Tech Sticker Collection 3 Booster Packs (English)",
-        "productId": 16023108878680,
-        "variantId": 58522409075032,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
-        "productId": 16023109599576,
-        "variantId": 58522411827544,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "68991 Sword & Shield Vivid Voltage Booster Box — 36 booster pack / Multicolor",
         "productId": 15641569657176,
         "variantId": 56849737122136,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
+        "productId": 15641318490456,
+        "variantId": 56849267589464,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
