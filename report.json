@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T11:16:39.265Z",
+  "generatedAt": "2026-09-28T18:42:21.656Z",
   "summary": {
-    "totalUnfulfilled": 26,
+    "totalUnfulfilled": 27,
     "canFulfill": 1,
-    "blocked": 25
+    "blocked": 26
   },
   "fulfillableOrders": [
     {
@@ -466,6 +466,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12653253624152,
+      "name": "#4459",
+      "customerName": "Bastian Mang",
+      "createdAt": "2026-09-28T18:30:45+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Corsair VOID MAX Wireless v2 Headset",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -741,6 +756,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Corsair VOID MAX Wireless v2 Headset",
+        "productId": 15572758135128,
+        "variantId": 56576367395160,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -838,6 +861,16 @@
         "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
         "productId": 15641318490456,
         "variantId": 56849267589464,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Corsair VOID MAX Wireless v2 Headset",
+        "productId": 15572758135128,
+        "variantId": 56576367395160,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
