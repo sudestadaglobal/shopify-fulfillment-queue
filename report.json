@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T18:42:21.656Z",
+  "generatedAt": "2026-09-28T23:33:13.714Z",
   "summary": {
-    "totalUnfulfilled": 27,
+    "totalUnfulfilled": 29,
     "canFulfill": 1,
-    "blocked": 26
+    "blocked": 28
   },
   "fulfillableOrders": [
     {
@@ -481,6 +481,42 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12653632258392,
+      "name": "#4460",
+      "customerName": "Timo Brandt",
+      "createdAt": "2026-09-28T22:14:30+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "77212 - Lost Thunder Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12653656080728,
+      "name": "#4461",
+      "customerName": "Mike van Vianen",
+      "createdAt": "2026-09-28T22:28:31+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "79448 - 30th Celebration Alolan Exeggutor Tech Sticker Collection 3 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 3
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -562,8 +598,8 @@
         "productId": 15641336775000,
         "variantId": 56849295835480,
         "onHand": 1,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "131922 Mega Evolution Ascended Heroes Mega Meganium‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -658,16 +694,16 @@
         "productId": 16023108878680,
         "variantId": 58522409075032,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
         "productId": 16023109599576,
         "variantId": 58522411827544,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "113497 Eevee ex - Scarlet & Violet Prismatic Evolution 167/131 NM (English) — 167/131, Near-Mint / Special Illustration Rare",
@@ -764,9 +800,37 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "77212 - Lost Thunder Booster Pack (English)",
+        "productId": 15994650198360,
+        "variantId": 58441378595160,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
+      {
+        "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
+        "productId": 16023109599576,
+        "variantId": 58522411827544,
+        "onHand": 0,
+        "committed": 5,
+        "incoming": 0,
+        "available": -5,
+        "shortfall": 5
+      },
+      {
+        "product": "79448 - 30th Celebration Alolan Exeggutor Tech Sticker Collection 3 Booster Packs (English)",
+        "productId": 16023108878680,
+        "variantId": 58522409075032,
+        "onHand": 0,
+        "committed": 4,
+        "incoming": 0,
+        "available": -4,
+        "shortfall": 4
+      },
       {
         "product": "79440 - 30th Celebration Eevee 2-Pack Blister 2 Booster Packs (English)",
         "productId": 16023107993944,
@@ -775,26 +839,6 @@
         "committed": 3,
         "incoming": 1,
         "available": -3,
-        "shortfall": 2
-      },
-      {
-        "product": "79448 - 30th Celebration Alolan Exeggutor Tech Sticker Collection 3 Booster Packs (English)",
-        "productId": 16023108878680,
-        "variantId": 58522409075032,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
-        "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
-        "productId": 16023109599576,
-        "variantId": 58522411827544,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
         "shortfall": 2
       },
       {
@@ -815,6 +859,16 @@
         "committed": 3,
         "incoming": 2,
         "available": -3,
+        "shortfall": 1
+      },
+      {
+        "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
+        "productId": 15641336775000,
+        "variantId": 56849295835480,
+        "onHand": 1,
+        "committed": 2,
+        "incoming": 0,
+        "available": -1,
         "shortfall": 1
       },
       {
@@ -871,6 +925,16 @@
         "product": "Corsair VOID MAX Wireless v2 Headset",
         "productId": 15572758135128,
         "variantId": 56576367395160,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "77212 - Lost Thunder Booster Pack (English)",
+        "productId": 15994650198360,
+        "variantId": 58441378595160,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
