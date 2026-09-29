@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T16:08:48.444Z",
+  "generatedAt": "2026-09-29T20:50:07.916Z",
   "summary": {
-    "totalUnfulfilled": 29,
+    "totalUnfulfilled": 31,
     "canFulfill": 5,
-    "blocked": 24
+    "blocked": 26
   },
   "fulfillableOrders": [
     {
@@ -475,6 +475,48 @@
           "needed": 3
         }
       ]
+    },
+    {
+      "id": 12655919464792,
+      "name": "#4462",
+      "customerName": "Yves Cazautet",
+      "createdAt": "2026-09-29T21:46:36+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "79438 - 30th Celebration Poster Collection 3 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12655928803672,
+      "name": "#4463",
+      "customerName": "marcos peña gomez",
+      "createdAt": "2026-09-29T21:52:24+02:00",
+      "itemCount": 3,
+      "reasons": [
+        {
+          "product": "131438 Promotion Pack 2022 One Piece Booster Pack (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 2
+        },
+        {
+          "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -620,8 +662,8 @@
         "productId": 16023098032472,
         "variantId": 58522377486680,
         "onHand": 0,
-        "committed": 2,
-        "demand": 2
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "79444 - 30th Celebration Greninja ex Box 4 Booster Packs (English)",
@@ -766,6 +808,30 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131438 Promotion Pack 2022 One Piece Booster Pack (English)",
+        "productId": 15657433923928,
+        "variantId": 56922650935640,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
+        "productId": 15667333103960,
+        "variantId": 56960147652952,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
+      },
+      {
+        "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
+        "productId": 15641345753432,
+        "variantId": 56849305796952,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -790,9 +856,9 @@
         "shortfall": 4
       },
       {
-        "product": "79440 - 30th Celebration Eevee 2-Pack Blister 2 Booster Packs (English)",
-        "productId": 16023107993944,
-        "variantId": 58522407534936,
+        "product": "79438 - 30th Celebration Poster Collection 3 Booster Packs (English)",
+        "productId": 16023098032472,
+        "variantId": 58522377486680,
         "onHand": 0,
         "committed": 3,
         "incoming": 1,
@@ -810,16 +876,6 @@
         "shortfall": 2
       },
       {
-        "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
-        "productId": 15957741863256,
-        "variantId": 58270517461336,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 2,
-        "available": -3,
-        "shortfall": 1
-      },
-      {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336775000,
         "variantId": 56849295835480,
@@ -827,16 +883,6 @@
         "committed": 2,
         "incoming": 0,
         "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "79438 - 30th Celebration Poster Collection 3 Booster Packs (English)",
-        "productId": 16023098032472,
-        "variantId": 58522377486680,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 1,
-        "available": -2,
         "shortfall": 1
       },
       {
@@ -860,26 +906,6 @@
         "shortfall": 1
       },
       {
-        "product": "68991 Sword & Shield Vivid Voltage Booster Box — 36 booster pack / Multicolor",
-        "productId": 15641569657176,
-        "variantId": 56849737122136,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "132714 Psyduck - Mega Evolution Ascended Heroes 226/217 NM (English) — 226/217, Near-Mint / Illustration Rare",
-        "productId": 15641318490456,
-        "variantId": 56849267589464,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
         "product": "Corsair VOID MAX Wireless v2 Headset",
         "productId": 15572758135128,
         "variantId": 56576367395160,
@@ -893,6 +919,16 @@
         "product": "77212 - Lost Thunder Booster Pack (English)",
         "productId": 15994650198360,
         "variantId": 58441378595160,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
+        "productId": 15641345753432,
+        "variantId": 56849305796952,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
