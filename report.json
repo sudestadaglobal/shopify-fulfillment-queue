@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-09-29T02:46:16.992Z",
+  "generatedAt": "2026-09-29T09:38:10.465Z",
   "summary": {
     "totalUnfulfilled": 29,
-    "canFulfill": 1,
-    "blocked": 28
+    "canFulfill": 5,
+    "blocked": 24
   },
   "fulfillableOrders": [
+    {
+      "id": 12628222378328,
+      "name": "#4432",
+      "createdAt": "2026-09-17T15:39:25+02:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12633898221912,
+      "name": "#4439",
+      "createdAt": "2026-09-20T21:01:08+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12633901990232,
+      "name": "#4440",
+      "createdAt": "2026-09-20T21:02:58+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12635029930328,
+      "name": "#4445",
+      "createdAt": "2026-09-21T14:36:28+02:00",
+      "itemCount": 2
+    },
     {
       "id": 12648166359384,
       "name": "#4456",
@@ -105,21 +129,6 @@
       ]
     },
     {
-      "id": 12628222378328,
-      "name": "#4432",
-      "customerName": "Leon Virkus L.V.",
-      "createdAt": "2026-09-17T15:39:25+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12633775997272,
       "name": "#4435",
       "customerName": "Maxwell Wyatt",
@@ -163,12 +172,6 @@
       "itemCount": 7,
       "reasons": [
         {
-          "product": "79432 - 30th Celebration Elite Trainer Box 9 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "79438 - 30th Celebration Poster Collection 3 Booster Packs (English)",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -207,36 +210,6 @@
       ]
     },
     {
-      "id": 12633898221912,
-      "name": "#4439",
-      "customerName": "Mumin Altan",
-      "createdAt": "2026-09-20T21:01:08+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "79432 - 30th Celebration Elite Trainer Box 9 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        }
-      ]
-    },
-    {
-      "id": 12633901990232,
-      "name": "#4440",
-      "customerName": "Dennis Lemmermann",
-      "createdAt": "2026-09-20T21:02:58+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "79432 - 30th Celebration Elite Trainer Box 9 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12633904152920,
       "name": "#4441",
       "customerName": "Fabian Langguth",
@@ -260,21 +233,6 @@
       "reasons": [
         {
           "product": "79440 - 30th Celebration Eevee 2-Pack Blister 2 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12635029930328,
-      "name": "#4445",
-      "customerName": "Adrian Arnesen",
-      "createdAt": "2026-09-21T14:36:28+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "79432 - 30th Celebration Elite Trainer Box 9 Booster Packs (English)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -621,7 +579,7 @@
         "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
         "productId": 15742390337880,
         "variantId": 57232830890328,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -653,7 +611,7 @@
         "product": "79432 - 30th Celebration Elite Trainer Box 9 Booster Packs (English)",
         "productId": 16023097082200,
         "variantId": 58522368409944,
-        "onHand": 0,
+        "onHand": 4,
         "committed": 7,
         "demand": 7
       },
