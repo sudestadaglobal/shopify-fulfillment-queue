@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-30T11:23:28.836Z",
+  "generatedAt": "2026-09-30T16:57:37.621Z",
   "summary": {
-    "totalUnfulfilled": 31,
-    "canFulfill": 5,
-    "blocked": 26
+    "totalUnfulfilled": 34,
+    "canFulfill": 6,
+    "blocked": 28
   },
   "fulfillableOrders": [
     {
@@ -35,6 +35,12 @@
       "name": "#4456",
       "createdAt": "2026-09-27T15:50:58+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12659070501208,
+      "name": "#4465",
+      "createdAt": "2026-09-30T14:18:30+02:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -517,6 +523,42 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12659065225560,
+      "name": "#4464",
+      "customerName": "Anders Lofsgaard",
+      "createdAt": "2026-09-30T14:15:49+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "79438 - 30th Celebration Poster Collection 3 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12659073515864,
+      "name": "#4466",
+      "customerName": "Mike van Vianen",
+      "createdAt": "2026-09-30T14:19:52+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "79444 - 30th Celebration Greninja ex Box 4 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -662,16 +704,16 @@
         "productId": 16023098032472,
         "variantId": 58522377486680,
         "onHand": 0,
-        "committed": 3,
-        "demand": 3
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "79444 - 30th Celebration Greninja ex Box 4 Booster Packs (English)",
         "productId": 16023105765720,
         "variantId": 58522395541848,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "79442 - 30th Celebration Sylveon ex Box 4 Booster Packs (English)",
@@ -702,8 +744,8 @@
         "productId": 16023109599576,
         "variantId": 58522411827544,
         "onHand": 0,
-        "committed": 5,
-        "demand": 5
+        "committed": 6,
+        "demand": 6
       },
       {
         "product": "113497 Eevee ex - Scarlet & Violet Prismatic Evolution 167/131 NM (English) — 167/131, Near-Mint / Special Illustration Rare",
@@ -832,6 +874,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "131474 Winner Pack 2025 Vol.2 One Piece Booster Pack (English) — 1 card / Black / White",
+        "productId": 15641344868696,
+        "variantId": 56849304912216,
+        "onHand": 3,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -840,10 +890,10 @@
         "productId": 16023109599576,
         "variantId": 58522411827544,
         "onHand": 0,
-        "committed": 5,
+        "committed": 6,
         "incoming": 0,
-        "available": -5,
-        "shortfall": 5
+        "available": -6,
+        "shortfall": 6
       },
       {
         "product": "79448 - 30th Celebration Alolan Exeggutor Tech Sticker Collection 3 Booster Packs (English)",
@@ -860,9 +910,19 @@
         "productId": 16023098032472,
         "variantId": 58522377486680,
         "onHand": 0,
-        "committed": 3,
-        "incoming": 1,
-        "available": -3,
+        "committed": 4,
+        "incoming": 2,
+        "available": -4,
+        "shortfall": 2
+      },
+      {
+        "product": "79444 - 30th Celebration Greninja ex Box 4 Booster Packs (English)",
+        "productId": 16023105765720,
+        "variantId": 58522395541848,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
         "shortfall": 2
       },
       {
@@ -874,26 +934,6 @@
         "incoming": 0,
         "available": -2,
         "shortfall": 2
-      },
-      {
-        "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-        "productId": 15641336775000,
-        "variantId": 56849295835480,
-        "onHand": 1,
-        "committed": 2,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "79444 - 30th Celebration Greninja ex Box 4 Booster Packs (English)",
-        "productId": 16023105765720,
-        "variantId": 58522395541848,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
       },
       {
         "product": "79442 - 30th Celebration Sylveon ex Box 4 Booster Packs (English)",
@@ -909,16 +949,6 @@
         "product": "Corsair VOID MAX Wireless v2 Headset",
         "productId": 15572758135128,
         "variantId": 56576367395160,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "77212 - Lost Thunder Booster Pack (English)",
-        "productId": 15994650198360,
-        "variantId": 58441378595160,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
