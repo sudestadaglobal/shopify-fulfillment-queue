@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T11:01:51.992Z",
+  "generatedAt": "2026-10-02T16:39:37.722Z",
   "summary": {
-    "totalUnfulfilled": 29,
+    "totalUnfulfilled": 30,
     "canFulfill": 1,
-    "blocked": 28
+    "blocked": 29
   },
   "fulfillableOrders": [
     {
@@ -535,6 +535,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12665707856216,
+      "name": "#4467",
+      "customerName": "Tim Sellers",
+      "createdAt": "2026-10-02T15:48:22+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -826,6 +841,14 @@
         "onHand": 3,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
+        "productId": 15742390337880,
+        "variantId": 57232830890328,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -903,6 +926,16 @@
         "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
         "productId": 15641345753432,
         "variantId": 56849305796952,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
+        "productId": 15742390337880,
+        "variantId": 57232830890328,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
