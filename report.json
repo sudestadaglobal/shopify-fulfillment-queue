@@ -1,41 +1,11 @@
 {
-  "generatedAt": "2026-10-02T04:59:57.681Z",
+  "generatedAt": "2026-10-02T11:01:51.992Z",
   "summary": {
-    "totalUnfulfilled": 34,
-    "canFulfill": 6,
+    "totalUnfulfilled": 29,
+    "canFulfill": 1,
     "blocked": 28
   },
   "fulfillableOrders": [
-    {
-      "id": 12628222378328,
-      "name": "#4432",
-      "createdAt": "2026-09-17T15:39:25+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12633898221912,
-      "name": "#4439",
-      "createdAt": "2026-09-20T21:01:08+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12633901990232,
-      "name": "#4440",
-      "createdAt": "2026-09-20T21:02:58+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12635029930328,
-      "name": "#4445",
-      "createdAt": "2026-09-21T14:36:28+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12648166359384,
-      "name": "#4456",
-      "createdAt": "2026-09-27T15:50:58+02:00",
-      "itemCount": 2
-    },
     {
       "id": 12659070501208,
       "name": "#4465",
@@ -177,6 +147,12 @@
       "createdAt": "2026-09-20T20:51:32+02:00",
       "itemCount": 7,
       "reasons": [
+        {
+          "product": "79432 - 30th Celebration Elite Trainer Box 9 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
         {
           "product": "79438 - 30th Celebration Poster Collection 3 Booster Packs (English)",
           "reason": "Insufficient stock",
@@ -652,22 +628,6 @@
         "demand": 1
       },
       {
-        "product": "Apple Airpods 4",
-        "productId": 15579554382168,
-        "variantId": 56602249658712,
-        "onHand": 2,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
-        "productId": 15742390337880,
-        "variantId": 57232830890328,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "74005 - What Else Can I Do? (V.2) - Wilds Unknown #237 NM Holofoil (English)",
         "productId": 16023073751384,
         "variantId": 58522212467032,
@@ -695,9 +655,9 @@
         "product": "79432 - 30th Celebration Elite Trainer Box 9 Booster Packs (English)",
         "productId": 16023097082200,
         "variantId": 58522368409944,
-        "onHand": 4,
-        "committed": 7,
-        "demand": 7
+        "onHand": 0,
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "79438 - 30th Celebration Poster Collection 3 Booster Packs (English)",
@@ -753,7 +713,7 @@
         "variantId": 56849718935896,
         "onHand": 0,
         "committed": 1,
-        "demand": 2
+        "demand": 1
       },
       {
         "product": "75510 - Venomoth - Jungle 13/64 NM Holofoil 1st Edition (English)",
@@ -808,22 +768,6 @@
         "productId": 15641318490456,
         "variantId": 56849267589464,
         "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "110244 Sword & Shield Lost Origin Booster Pack (English) — 10 cards / Multicolor",
-        "productId": 15641565167960,
-        "variantId": 56849722016088,
-        "onHand": 2,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "110207 Scarlet & Violet 151 Booster NM (English) — Scarlet & Violet 151 (10 cards) / Multicolor",
-        "productId": 15641565823320,
-        "variantId": 56849731092824,
-        "onHand": 3,
         "committed": 1,
         "demand": 1
       },
