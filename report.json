@@ -1,15 +1,21 @@
 {
-  "generatedAt": "2026-10-02T21:01:30.054Z",
+  "generatedAt": "2026-10-03T00:31:57.244Z",
   "summary": {
-    "totalUnfulfilled": 30,
-    "canFulfill": 1,
-    "blocked": 29
+    "totalUnfulfilled": 32,
+    "canFulfill": 2,
+    "blocked": 30
   },
   "fulfillableOrders": [
     {
       "id": 12659070501208,
       "name": "#4465",
       "createdAt": "2026-09-30T14:18:30+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12667229667672,
+      "name": "#4469",
+      "createdAt": "2026-10-03T00:44:56+02:00",
       "itemCount": 1
     }
   ],
@@ -550,6 +556,21 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12667163705688,
+      "name": "#4468",
+      "customerName": "Simon Yngvesson",
+      "createdAt": "2026-10-02T23:17:24+02:00",
+      "itemCount": 2,
+      "reasons": [
+        {
+          "product": "75498 - Nidoqueen - Jungle 7/64 NM Holofoil 1st Edition (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -849,6 +870,30 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "75498 - Nidoqueen - Jungle 7/64 NM Holofoil 1st Edition (English)",
+        "productId": 16060567519576,
+        "variantId": 58623741428056,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "132609 Iono’s Bellibolt ex - Mega Evolution Ascended Heroes 279/217 NM Holofoil (English) - Special Illustration Rare",
+        "productId": 15876501700952,
+        "variantId": 57718137979224,
+        "onHand": 0,
+        "committed": 0,
+        "demand": 1
+      },
+      {
+        "product": "110207 Scarlet & Violet 151 Booster NM (English) — Scarlet & Violet 151 (10 cards) / Multicolor",
+        "productId": 15641565823320,
+        "variantId": 56849731092824,
+        "onHand": 2,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -893,16 +938,6 @@
         "shortfall": 2
       },
       {
-        "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
-        "productId": 15641380454744,
-        "variantId": 56849450369368,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
         "product": "79442 - 30th Celebration Sylveon ex Box 4 Booster Packs (English)",
         "productId": 16023106847064,
         "variantId": 58522400817496,
@@ -923,9 +958,9 @@
         "shortfall": 1
       },
       {
-        "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
-        "productId": 15641345753432,
-        "variantId": 56849305796952,
+        "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
+        "productId": 15742390337880,
+        "variantId": 57232830890328,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
@@ -933,9 +968,9 @@
         "shortfall": 1
       },
       {
-        "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
-        "productId": 15742390337880,
-        "variantId": 57232830890328,
+        "product": "75498 - Nidoqueen - Jungle 7/64 NM Holofoil 1st Edition (English)",
+        "productId": 16060567519576,
+        "variantId": 58623741428056,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
