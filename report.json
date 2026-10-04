@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T12:29:43.003Z",
+  "generatedAt": "2026-10-04T16:58:13.770Z",
   "summary": {
     "totalUnfulfilled": 32,
     "canFulfill": 2,
@@ -961,16 +961,6 @@
         "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
         "productId": 15742390337880,
         "variantId": 57232830890328,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "75498 - Nidoqueen - Jungle 7/64 NM Holofoil 1st Edition (English)",
-        "productId": 16060567519576,
-        "variantId": 58623741428056,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
