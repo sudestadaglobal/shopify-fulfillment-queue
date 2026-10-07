@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-07T02:25:38.824Z",
+  "generatedAt": "2026-10-07T09:08:16.229Z",
   "summary": {
-    "totalUnfulfilled": 36,
+    "totalUnfulfilled": 35,
     "canFulfill": 5,
-    "blocked": 31
+    "blocked": 30
   },
   "fulfillableOrders": [
     {
@@ -47,21 +47,6 @@
       "reasons": [
         {
           "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12600260591960,
-      "name": "#4367",
-      "customerName": "marcos peña gomez",
-      "createdAt": "2026-09-03T16:49:13+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "77462 - Collect 151 Journey Jumbo Booster Box 6 Jumbo Booster Packs (S-Chinese)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -631,30 +616,6 @@
         "onHand": 3,
         "committed": 3,
         "demand": 3
-      },
-      {
-        "product": "131598 Wings of the Captain One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Black",
-        "productId": 15641340477784,
-        "variantId": 56849299997016,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "77462 - Collect 151 Journey Jumbo Booster Box 6 Jumbo Booster Packs (S-Chinese)",
-        "productId": 15979435917656,
-        "variantId": 58382312309080,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "132346 Mega Evolution Ascended Heroes Booster Bundle 6 Booster Packs (English) Pre-Order — 6 Booster Packs / Multicolor",
-        "productId": 15641321406808,
-        "variantId": 56849271619928,
-        "onHand": 2,
-        "committed": 2,
-        "demand": 2
       },
       {
         "product": "148029 Mega Darkrai ex - Mega Evolution Pitch Black 116/084 NM Holofoil (English) - Special Illustration Rare",
