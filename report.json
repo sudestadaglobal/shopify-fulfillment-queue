@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-08T07:54:27.311Z",
+  "generatedAt": "2026-10-08T15:26:20.544Z",
   "summary": {
-    "totalUnfulfilled": 35,
-    "canFulfill": 5,
-    "blocked": 30
+    "totalUnfulfilled": 36,
+    "canFulfill": 8,
+    "blocked": 28
   },
   "fulfillableOrders": [
     {
@@ -19,15 +19,33 @@
       "itemCount": 1
     },
     {
+      "id": 12665707856216,
+      "name": "#4467",
+      "createdAt": "2026-10-02T15:48:22+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12667229667672,
       "name": "#4469",
       "createdAt": "2026-10-03T00:44:56+02:00",
       "itemCount": 1
     },
     {
+      "id": 12672227279192,
+      "name": "#4470",
+      "createdAt": "2026-10-05T15:16:24+02:00",
+      "itemCount": 1
+    },
+    {
       "id": 12674178122072,
       "name": "#4471",
       "createdAt": "2026-10-06T16:48:50+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12674182545752,
+      "name": "#4472",
+      "createdAt": "2026-10-06T16:51:42+02:00",
       "itemCount": 1
     },
     {
@@ -531,21 +549,6 @@
       ]
     },
     {
-      "id": 12665707856216,
-      "name": "#4467",
-      "customerName": "Tim Sellers",
-      "createdAt": "2026-10-02T15:48:22+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12667163705688,
       "name": "#4468",
       "customerName": "Simon Yngvesson",
@@ -561,29 +564,14 @@
       ]
     },
     {
-      "id": 12672227279192,
-      "name": "#4470",
-      "customerName": "Erik Kaczmarek",
-      "createdAt": "2026-10-05T15:16:24+02:00",
+      "id": 12681174188376,
+      "name": "#4474",
+      "customerName": "Johannes Jänkälä",
+      "createdAt": "2026-10-08T16:32:00+02:00",
       "itemCount": 1,
       "reasons": [
         {
-          "product": "Sapphire Radeon RX 9060 XT 16GB Nitro+",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12674182545752,
-      "name": "#4472",
-      "customerName": "Yannick Philipoom",
-      "createdAt": "2026-10-06T16:51:42+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Sony Playstation 5 Slim Digital Edition (EU Plug)",
+          "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -861,7 +849,7 @@
         "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
         "productId": 15742390337880,
         "variantId": 57232830890328,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -893,7 +881,7 @@
         "product": "Sapphire Radeon RX 9060 XT 16GB Nitro+",
         "productId": 15469179928920,
         "variantId": 56271417180504,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -909,7 +897,7 @@
         "product": "Sony Playstation 5 Slim Digital Edition (EU Plug)",
         "productId": 15721164374360,
         "variantId": 57154641035608,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 1,
         "demand": 1
       },
@@ -918,6 +906,14 @@
         "productId": 15641321341272,
         "variantId": 56849271554392,
         "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
+        "productId": 15731088589144,
+        "variantId": 57191832191320,
+        "onHand": 0,
         "committed": 1,
         "demand": 1
       }
@@ -974,29 +970,9 @@
         "shortfall": 1
       },
       {
-        "product": "Apple iPad (2025) 11\" 256 GB Wi‑Fi Silver",
-        "productId": 15742390337880,
-        "variantId": 57232830890328,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Sapphire Radeon RX 9060 XT 16GB Nitro+",
-        "productId": 15469179928920,
-        "variantId": 56271417180504,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Sony Playstation 5 Slim Digital Edition (EU Plug)",
-        "productId": 15721164374360,
-        "variantId": 57154641035608,
+        "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
+        "productId": 15731088589144,
+        "variantId": 57191832191320,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
