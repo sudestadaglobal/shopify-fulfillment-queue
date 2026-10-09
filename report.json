@@ -1,17 +1,11 @@
 {
-  "generatedAt": "2026-10-09T07:25:16.597Z",
+  "generatedAt": "2026-10-09T14:33:08.501Z",
   "summary": {
-    "totalUnfulfilled": 14,
-    "canFulfill": 3,
-    "blocked": 11
+    "totalUnfulfilled": 12,
+    "canFulfill": 2,
+    "blocked": 10
   },
   "fulfillableOrders": [
-    {
-      "id": 12574639751512,
-      "name": "#4329",
-      "createdAt": "2026-08-26T14:42:16+02:00",
-      "itemCount": 4
-    },
     {
       "id": 12648184185176,
       "name": "#4458",
@@ -114,21 +108,6 @@
       ]
     },
     {
-      "id": 12653253624152,
-      "name": "#4459",
-      "customerName": "Bastian Mang",
-      "createdAt": "2026-09-28T18:30:45+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Corsair VOID MAX Wireless v2 Headset",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12653656080728,
       "name": "#4461",
       "customerName": "Mike van Vianen",
@@ -219,30 +198,6 @@
   "stockAlerts": {
     "lowStock": [
       {
-        "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
-        "productId": 15957741863256,
-        "variantId": 58270517461336,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 3
-      },
-      {
-        "product": "150889 - Radiance Booster Box (English) UVS Games x Riot Games Riftbound",
-        "productId": 15957742616920,
-        "variantId": 58270519165272,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "77906 - Vendetta Booster Box (English)",
-        "productId": 15946775560536,
-        "variantId": 58003500630360,
-        "onHand": 3,
-        "committed": 3,
-        "demand": 3
-      },
-      {
         "product": "110184 Scarlet & Violet Twilight Masquerade (English) — 10 cards / Multicolor",
         "productId": 15641566249304,
         "variantId": 56849732043096,
@@ -323,20 +278,20 @@
         "demand": 1
       },
       {
+        "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
+        "productId": 15957741863256,
+        "variantId": 58270517461336,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
         "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
         "productId": 15641380454744,
         "variantId": 56849450369368,
         "onHand": 0,
         "committed": 2,
         "demand": 2
-      },
-      {
-        "product": "Corsair VOID MAX Wireless v2 Headset",
-        "productId": 15572758135128,
-        "variantId": 56576367395160,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
       },
       {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
@@ -430,16 +385,6 @@
         "variantId": 58522395541848,
         "onHand": 1,
         "committed": 2,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Corsair VOID MAX Wireless v2 Headset",
-        "productId": 15572758135128,
-        "variantId": 56576367395160,
-        "onHand": 0,
-        "committed": 1,
         "incoming": 0,
         "available": -1,
         "shortfall": 1
