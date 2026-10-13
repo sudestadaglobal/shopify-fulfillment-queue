@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-13T08:30:04.980Z",
+  "generatedAt": "2026-10-13T16:22:43.949Z",
   "summary": {
-    "totalUnfulfilled": 14,
-    "canFulfill": 3,
+    "totalUnfulfilled": 15,
+    "canFulfill": 4,
     "blocked": 11
   },
   "fulfillableOrders": [
@@ -22,6 +22,12 @@
       "id": 12695433838936,
       "name": "#4476",
       "createdAt": "2026-10-12T15:49:32+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12698188120408,
+      "name": "#4477",
+      "createdAt": "2026-10-13T17:28:09+02:00",
       "itemCount": 1
     }
   ],
@@ -391,6 +397,14 @@
         "productId": 15641562546520,
         "variantId": 56849717952856,
         "onHand": 3,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "121675 Mega Inferno X Booster Box 30 Booster Pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641489310040,
+        "variantId": 56849616175448,
+        "onHand": 6,
         "committed": 1,
         "demand": 1
       }
