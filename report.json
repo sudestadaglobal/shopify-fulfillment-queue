@@ -1,36 +1,11 @@
 {
-  "generatedAt": "2026-10-14T05:27:16.772Z",
+  "generatedAt": "2026-10-14T10:31:19.345Z",
   "summary": {
-    "totalUnfulfilled": 15,
-    "canFulfill": 4,
-    "blocked": 11
+    "totalUnfulfilled": 10,
+    "canFulfill": 0,
+    "blocked": 10
   },
-  "fulfillableOrders": [
-    {
-      "id": 12648184185176,
-      "name": "#4458",
-      "createdAt": "2026-09-27T16:01:59+02:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12672227279192,
-      "name": "#4470",
-      "createdAt": "2026-10-05T15:16:24+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12695433838936,
-      "name": "#4476",
-      "createdAt": "2026-10-12T15:49:32+02:00",
-      "itemCount": 1
-    },
-    {
-      "id": 12698188120408,
-      "name": "#4477",
-      "createdAt": "2026-10-13T17:28:09+02:00",
-      "itemCount": 1
-    }
-  ],
+  "fulfillableOrders": [],
   "blockedOrders": [
     {
       "id": 12614351323480,
@@ -56,6 +31,18 @@
       "reasons": [
         {
           "product": "79432 - 30th Celebration Elite Trainer Box 9 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "79448 - 30th Celebration Alolan Exeggutor Tech Sticker Collection 3 Booster Packs (English)",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -146,12 +133,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
         }
       ]
     },
@@ -164,21 +145,6 @@
       "reasons": [
         {
           "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12667163705688,
-      "name": "#4468",
-      "customerName": "Simon Yngvesson",
-      "createdAt": "2026-10-02T23:17:24+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "75498 - Nidoqueen - Jungle 7/64 NM Holofoil 1st Edition (English)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -270,17 +236,17 @@
         "product": "79448 - 30th Celebration Alolan Exeggutor Tech Sticker Collection 3 Booster Packs (English)",
         "productId": 16023108878680,
         "variantId": 58522409075032,
-        "onHand": 1,
-        "committed": 4,
-        "demand": 4
+        "onHand": 0,
+        "committed": 3,
+        "demand": 3
       },
       {
         "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
         "productId": 16023109599576,
         "variantId": 58522411827544,
-        "onHand": 1,
-        "committed": 6,
-        "demand": 6
+        "onHand": 0,
+        "committed": 5,
+        "demand": 5
       },
       {
         "product": "113497 Eevee ex - Scarlet & Violet Prismatic Evolution 167/131 NM (English) — 167/131, Near-Mint / Special Illustration Rare",
@@ -334,7 +300,7 @@
         "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
         "productId": 15667333103960,
         "variantId": 56960147652952,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -342,30 +308,6 @@
         "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
         "productId": 15641345753432,
         "variantId": 56849305796952,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "75498 - Nidoqueen - Jungle 7/64 NM Holofoil 1st Edition (English)",
-        "productId": 16060567519576,
-        "variantId": 58623741428056,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "132609 Iono’s Bellibolt ex - Mega Evolution Ascended Heroes 279/217 NM Holofoil (English) - Special Illustration Rare",
-        "productId": 15876501700952,
-        "variantId": 57718137979224,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "Sapphire Radeon RX 9060 XT 16GB Nitro+",
-        "productId": 15469179928920,
-        "variantId": 56271417180504,
         "onHand": 1,
         "committed": 1,
         "demand": 1
@@ -385,22 +327,6 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "113538 Scarlet & Violet Prismatic Evolutions Jolteon Mini Tin 2 Booster Pack (English) — 1 Mini Tin, 2 booster pack / Multicolor",
-        "productId": 15641562546520,
-        "variantId": 56849717952856,
-        "onHand": 3,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "121675 Mega Inferno X Booster Box 30 Booster Pack (Japanese) — 30 booster pack / Multicolor",
-        "productId": 15641489310040,
-        "variantId": 56849616175448,
-        "onHand": 6,
-        "committed": 1,
-        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -408,8 +334,8 @@
         "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
         "productId": 16023109599576,
         "variantId": 58522411827544,
-        "onHand": 1,
-        "committed": 6,
+        "onHand": 0,
+        "committed": 5,
         "incoming": 2,
         "available": -5,
         "shortfall": 3
@@ -418,8 +344,8 @@
         "product": "79448 - 30th Celebration Alolan Exeggutor Tech Sticker Collection 3 Booster Packs (English)",
         "productId": 16023108878680,
         "variantId": 58522409075032,
-        "onHand": 1,
-        "committed": 4,
+        "onHand": 0,
+        "committed": 3,
         "incoming": 1,
         "available": -3,
         "shortfall": 2
