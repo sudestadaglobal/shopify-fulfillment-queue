@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-16T05:38:59.954Z",
+  "generatedAt": "2026-10-16T10:07:48.552Z",
   "summary": {
-    "totalUnfulfilled": 10,
+    "totalUnfulfilled": 8,
     "canFulfill": 0,
-    "blocked": 10
+    "blocked": 8
   },
   "fulfillableOrders": [],
   "blockedOrders": [
@@ -137,21 +137,6 @@
       ]
     },
     {
-      "id": 12659073515864,
-      "name": "#4466",
-      "customerName": "Mike van Vianen",
-      "createdAt": "2026-09-30T14:19:52+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12681174188376,
       "name": "#4474",
       "customerName": "Johannes Jänkälä",
@@ -160,21 +145,6 @@
       "reasons": [
         {
           "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12694960275800,
-      "name": "#4475",
-      "customerName": "Carl-Fredrik Larsson",
-      "createdAt": "2026-10-12T12:22:18+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Snugpak Arrowhead Jacket",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -213,8 +183,8 @@
         "productId": 16023105765720,
         "variantId": 58522395541848,
         "onHand": 1,
-        "committed": 2,
-        "demand": 2
+        "committed": 1,
+        "demand": 1
       },
       {
         "product": "79442 - 30th Celebration Sylveon ex Box 4 Booster Packs (English)",
@@ -245,8 +215,8 @@
         "productId": 16023109599576,
         "variantId": 58522411827544,
         "onHand": 0,
-        "committed": 5,
-        "demand": 5
+        "committed": 4,
+        "demand": 4
       },
       {
         "product": "113497 Eevee ex - Scarlet & Violet Prismatic Evolution 167/131 NM (English) — 167/131, Near-Mint / Special Illustration Rare",
@@ -319,14 +289,6 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "Snugpak Arrowhead Jacket",
-        "productId": 16096730939736,
-        "variantId": 58743313596760,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -335,9 +297,9 @@
         "productId": 16023109599576,
         "variantId": 58522411827544,
         "onHand": 0,
-        "committed": 5,
-        "incoming": 2,
-        "available": -5,
+        "committed": 4,
+        "incoming": 1,
+        "available": -4,
         "shortfall": 3
       },
       {
@@ -354,16 +316,6 @@
         "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
         "productId": 15731088589144,
         "variantId": 57191832191320,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Snugpak Arrowhead Jacket",
-        "productId": 16096730939736,
-        "variantId": 58743313596760,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
