@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T15:17:54.977Z",
+  "generatedAt": "2026-10-20T19:30:59.525Z",
   "summary": {
     "totalUnfulfilled": 8,
     "canFulfill": 1,
@@ -130,7 +130,7 @@
       "itemCount": 1,
       "reasons": [
         {
-          "product": "Product #15561000059224",
+          "product": "JAZWARES Pokémon Snorlax Plush Toy",
           "reason": "Insufficient stock",
           "stock": -2,
           "needed": 1
@@ -253,7 +253,7 @@
         "demand": 1
       },
       {
-        "product": "Product #15561000059224",
+        "product": "JAZWARES Pokémon Snorlax Plush Toy",
         "productId": 15561000059224,
         "variantId": 56534869541208,
         "onHand": -2,
@@ -273,7 +273,7 @@
         "shortfall": 3
       },
       {
-        "product": "Product #15561000059224",
+        "product": "JAZWARES Pokémon Snorlax Plush Toy",
         "productId": 15561000059224,
         "variantId": 56534869541208,
         "onHand": -2,
