@@ -1,11 +1,18 @@
 {
-  "generatedAt": "2026-10-20T10:19:21.869Z",
+  "generatedAt": "2026-10-20T15:17:54.977Z",
   "summary": {
-    "totalUnfulfilled": 7,
-    "canFulfill": 0,
+    "totalUnfulfilled": 8,
+    "canFulfill": 1,
     "blocked": 7
   },
-  "fulfillableOrders": [],
+  "fulfillableOrders": [
+    {
+      "id": 12644777689432,
+      "name": "#4454",
+      "createdAt": "2026-09-25T16:13:40+02:00",
+      "itemCount": 2
+    }
+  ],
   "blockedOrders": [
     {
       "id": 12614351323480,
@@ -80,21 +87,6 @@
       ]
     },
     {
-      "id": 12644777689432,
-      "name": "#4454",
-      "customerName": "marcos peña gomez",
-      "createdAt": "2026-09-25T16:13:40+02:00",
-      "itemCount": 2,
-      "reasons": [
-        {
-          "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
       "id": 12653656080728,
       "name": "#4461",
       "customerName": "Mike van Vianen",
@@ -126,6 +118,21 @@
           "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
           "reason": "Insufficient stock",
           "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12712988344664,
+      "name": "#4478",
+      "customerName": "Radek Ovesny",
+      "createdAt": "2026-10-20T17:00:13+02:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Product #15561000059224",
+          "reason": "Insufficient stock",
+          "stock": -2,
           "needed": 1
         }
       ]
@@ -218,7 +225,7 @@
         "productId": 15957741863256,
         "variantId": 58270517461336,
         "onHand": 0,
-        "committed": 1,
+        "committed": 0,
         "demand": 1
       },
       {
@@ -244,6 +251,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Product #15561000059224",
+        "productId": 15561000059224,
+        "variantId": 56534869541208,
+        "onHand": -2,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -255,6 +270,16 @@
         "committed": 4,
         "incoming": 1,
         "available": -4,
+        "shortfall": 3
+      },
+      {
+        "product": "Product #15561000059224",
+        "productId": 15561000059224,
+        "variantId": 56534869541208,
+        "onHand": -2,
+        "committed": 1,
+        "incoming": 0,
+        "available": -3,
         "shortfall": 3
       },
       {
