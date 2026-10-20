@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-20T05:22:27.925Z",
+  "generatedAt": "2026-10-20T10:19:21.869Z",
   "summary": {
-    "totalUnfulfilled": 8,
+    "totalUnfulfilled": 7,
     "canFulfill": 0,
-    "blocked": 8
+    "blocked": 7
   },
   "fulfillableOrders": [],
   "blockedOrders": [
@@ -91,12 +91,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
-        },
-        {
-          "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
         }
       ]
     },
@@ -118,21 +112,6 @@
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 3
-        }
-      ]
-    },
-    {
-      "id": 12655928803672,
-      "name": "#4463",
-      "customerName": "marcos peña gomez",
-      "createdAt": "2026-09-29T21:52:24+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "131438 Promotion Pack 2022 One Piece Booster Pack (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
         }
       ]
     },
@@ -246,7 +225,7 @@
         "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
         "productId": 15641380454744,
         "variantId": 56849450369368,
-        "onHand": 0,
+        "onHand": 2,
         "committed": 2,
         "demand": 2
       },
@@ -254,30 +233,6 @@
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336775000,
         "variantId": 56849295835480,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131438 Promotion Pack 2022 One Piece Booster Pack (English)",
-        "productId": 15657433923928,
-        "variantId": 56922650935640,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "131421 Tournament Pack Vol.4 Winner One Piece Booster Pack (English) - Black / White",
-        "productId": 15667333103960,
-        "variantId": 56960147652952,
-        "onHand": 2,
-        "committed": 2,
-        "demand": 2
-      },
-      {
-        "product": "131412 3rd Anniversary One Piece Treasure Campaign One Piece Booster Pack (English) — 3 cards / Black / White",
-        "productId": 15641345753432,
-        "variantId": 56849305796952,
         "onHand": 1,
         "committed": 1,
         "demand": 1
