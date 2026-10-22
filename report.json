@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-22T13:07:09.536Z",
+  "generatedAt": "2026-10-22T17:59:30.323Z",
   "summary": {
-    "totalUnfulfilled": 7,
+    "totalUnfulfilled": 6,
     "canFulfill": 1,
-    "blocked": 6
+    "blocked": 5
   },
   "fulfillableOrders": [
     {
@@ -14,21 +14,6 @@
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12614351323480,
-      "name": "#4391",
-      "customerName": "Roy de Jong",
-      "createdAt": "2026-09-10T16:33:58+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "110184 Scarlet & Violet Twilight Masquerade (English) — 10 cards / Multicolor",
-          "reason": "Insufficient stock",
-          "stock": 1,
-          "needed": 2
-        }
-      ]
-    },
     {
       "id": 12633879773528,
       "name": "#4438",
@@ -125,14 +110,6 @@
   ],
   "stockAlerts": {
     "lowStock": [
-      {
-        "product": "110184 Scarlet & Violet Twilight Masquerade (English) — 10 cards / Multicolor",
-        "productId": 15641566249304,
-        "variantId": 56849732043096,
-        "onHand": 1,
-        "committed": 2,
-        "demand": 2
-      },
       {
         "product": "79432 - 30th Celebration Elite Trainer Box 9 Booster Packs (English)",
         "productId": 16023097082200,
