@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-22T07:20:59.806Z",
+  "generatedAt": "2026-10-22T13:07:09.536Z",
   "summary": {
-    "totalUnfulfilled": 8,
+    "totalUnfulfilled": 7,
     "canFulfill": 1,
-    "blocked": 7
+    "blocked": 6
   },
   "fulfillableOrders": [
     {
@@ -118,21 +118,6 @@
           "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
           "reason": "Insufficient stock",
           "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12712988344664,
-      "name": "#4478",
-      "customerName": "Radek Ovesny",
-      "createdAt": "2026-10-20T17:00:13+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "JAZWARES Pokémon Snorlax Plush Toy",
-          "reason": "Insufficient stock",
-          "stock": -2,
           "needed": 1
         }
       ]
@@ -251,14 +236,6 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "JAZWARES Pokémon Snorlax Plush Toy",
-        "productId": 15561000059224,
-        "variantId": 56534869541208,
-        "onHand": -2,
-        "committed": 1,
-        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -270,16 +247,6 @@
         "committed": 4,
         "incoming": 1,
         "available": -4,
-        "shortfall": 3
-      },
-      {
-        "product": "JAZWARES Pokémon Snorlax Plush Toy",
-        "productId": 15561000059224,
-        "variantId": 56534869541208,
-        "onHand": -2,
-        "committed": 1,
-        "incoming": 0,
-        "available": -3,
         "shortfall": 3
       },
       {
