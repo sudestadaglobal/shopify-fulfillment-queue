@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-26T05:22:44.935Z",
+  "generatedAt": "2026-10-26T11:25:54.859Z",
   "summary": {
     "totalUnfulfilled": 6,
-    "canFulfill": 1,
-    "blocked": 5
+    "canFulfill": 3,
+    "blocked": 3
   },
   "fulfillableOrders": [
+    {
+      "id": 12635067580760,
+      "name": "#4447",
+      "createdAt": "2026-09-21T14:59:01+02:00",
+      "itemCount": 1
+    },
+    {
+      "id": 12636843770200,
+      "name": "#4448",
+      "createdAt": "2026-09-22T14:48:07+02:00",
+      "itemCount": 3
+    },
     {
       "id": 12644777689432,
       "name": "#4454",
@@ -22,12 +34,6 @@
       "itemCount": 7,
       "reasons": [
         {
-          "product": "79432 - 30th Celebration Elite Trainer Box 9 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
           "product": "79448 - 30th Celebration Alolan Exeggutor Tech Sticker Collection 3 Booster Packs (English)",
           "reason": "Insufficient stock",
           "stock": 0,
@@ -35,36 +41,6 @@
         },
         {
           "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12635067580760,
-      "name": "#4447",
-      "customerName": "Enrico Rinaldi",
-      "createdAt": "2026-09-21T14:59:01+02:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "79432 - 30th Celebration Elite Trainer Box 9 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12636843770200,
-      "name": "#4448",
-      "customerName": "Adrian Arnesen",
-      "createdAt": "2026-09-22T14:48:07+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "79432 - 30th Celebration Elite Trainer Box 9 Booster Packs (English)",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -114,7 +90,7 @@
         "product": "79432 - 30th Celebration Elite Trainer Box 9 Booster Packs (English)",
         "productId": 16023097082200,
         "variantId": 58522368409944,
-        "onHand": 0,
+        "onHand": 3,
         "committed": 3,
         "demand": 3
       },
