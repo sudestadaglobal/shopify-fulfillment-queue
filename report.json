@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-26T11:25:54.859Z",
+  "generatedAt": "2026-10-26T17:33:48.279Z",
   "summary": {
-    "totalUnfulfilled": 6,
+    "totalUnfulfilled": 7,
     "canFulfill": 3,
-    "blocked": 3
+    "blocked": 4
   },
   "fulfillableOrders": [
     {
@@ -77,6 +77,21 @@
       "reasons": [
         {
           "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12726338158936,
+      "name": "#4479",
+      "customerName": "Kevin Vermanen",
+      "createdAt": "2026-10-26T12:43:38+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "AMD Ryzen 7 9800X3D",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -189,6 +204,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "AMD Ryzen 7 9800X3D",
+        "productId": 15225097027928,
+        "variantId": 55408545464664,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
@@ -216,6 +239,16 @@
         "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
         "productId": 15731088589144,
         "variantId": 57191832191320,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "AMD Ryzen 7 9800X3D",
+        "productId": 15225097027928,
+        "variantId": 55408545464664,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
