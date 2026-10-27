@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T01:18:53.300Z",
+  "generatedAt": "2026-10-27T06:41:56.896Z",
   "summary": {
     "totalUnfulfilled": 7,
     "canFulfill": 3,
@@ -239,16 +239,6 @@
         "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
         "productId": 15731088589144,
         "variantId": 57191832191320,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "AMD Ryzen 7 9800X3D",
-        "productId": 15225097027928,
-        "variantId": 55408545464664,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
