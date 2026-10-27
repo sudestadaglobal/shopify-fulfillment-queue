@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-27T06:41:56.896Z",
+  "generatedAt": "2026-10-27T12:42:53.478Z",
   "summary": {
-    "totalUnfulfilled": 7,
-    "canFulfill": 3,
+    "totalUnfulfilled": 8,
+    "canFulfill": 4,
     "blocked": 4
   },
   "fulfillableOrders": [
@@ -23,6 +23,12 @@
       "name": "#4454",
       "createdAt": "2026-09-25T16:13:40+02:00",
       "itemCount": 2
+    },
+    {
+      "id": 12728274551128,
+      "name": "#4480",
+      "createdAt": "2026-10-27T13:01:57+01:00",
+      "itemCount": 1
     }
   ],
   "blockedOrders": [
@@ -210,6 +216,14 @@
         "productId": 15225097027928,
         "variantId": 55408545464664,
         "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
+        "productId": 15641488556376,
+        "variantId": 56849615421784,
+        "onHand": 3,
         "committed": 1,
         "demand": 1
       }
