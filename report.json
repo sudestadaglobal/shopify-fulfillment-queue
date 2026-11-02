@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-02T06:41:04.800Z",
+  "generatedAt": "2026-11-02T16:34:58.755Z",
   "summary": {
-    "totalUnfulfilled": 8,
+    "totalUnfulfilled": 10,
     "canFulfill": 4,
-    "blocked": 4
+    "blocked": 6
   },
   "fulfillableOrders": [
+    {
+      "id": 12633879773528,
+      "name": "#4438",
+      "createdAt": "2026-09-20T20:51:32+02:00",
+      "itemCount": 7
+    },
     {
       "id": 12635067580760,
       "name": "#4447",
@@ -19,12 +25,6 @@
       "itemCount": 3
     },
     {
-      "id": 12644777689432,
-      "name": "#4454",
-      "createdAt": "2026-09-25T16:13:40+02:00",
-      "itemCount": 2
-    },
-    {
       "id": 12728274551128,
       "name": "#4480",
       "createdAt": "2026-10-27T13:01:57+01:00",
@@ -32,27 +32,6 @@
     }
   ],
   "blockedOrders": [
-    {
-      "id": 12633879773528,
-      "name": "#4438",
-      "customerName": "Adrià Cáceres",
-      "createdAt": "2026-09-20T20:51:32+02:00",
-      "itemCount": 7,
-      "reasons": [
-        {
-          "product": "79448 - 30th Celebration Alolan Exeggutor Tech Sticker Collection 3 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
     {
       "id": 12653656080728,
       "name": "#4461",
@@ -90,14 +69,59 @@
       ]
     },
     {
-      "id": 12726338158936,
-      "name": "#4479",
-      "customerName": "Kevin Vermanen",
-      "createdAt": "2026-10-26T12:43:38+01:00",
+      "id": 12740947149144,
+      "name": "#4481",
+      "customerName": "Elliot Brännström",
+      "createdAt": "2026-11-02T13:09:59+01:00",
       "itemCount": 1,
       "reasons": [
         {
-          "product": "AMD Ryzen 7 9800X3D",
+          "product": "RØDE PodMic XLR Broadcast Microphone",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12740967399768,
+      "name": "#4482",
+      "customerName": "Daniel Balconi",
+      "createdAt": "2026-11-02T13:19:58+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12740989157720,
+      "name": "#4483",
+      "customerName": "Mattias Zarén",
+      "createdAt": "2026-11-02T13:30:35+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Apple AirPods Pro 3",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12740995973464,
+      "name": "#4484",
+      "customerName": "Jan Jennen",
+      "createdAt": "2026-11-02T13:33:55+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Apple AirPods Pro 3",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -151,7 +175,7 @@
         "product": "79448 - 30th Celebration Alolan Exeggutor Tech Sticker Collection 3 Booster Packs (English)",
         "productId": 16023108878680,
         "variantId": 58522409075032,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 3,
         "demand": 3
       },
@@ -159,7 +183,7 @@
         "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
         "productId": 16023109599576,
         "variantId": 58522411827544,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 4,
         "demand": 4
       },
@@ -180,22 +204,6 @@
         "demand": 1
       },
       {
-        "product": "126600 - Origins Booster Box (English) UVS Games x Riot Games",
-        "productId": 15957741863256,
-        "variantId": 58270517461336,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "127672 Carrying on His Will One Piece Booster Box 24 Booster Packs (English) — 24 Booster Packs / Red",
-        "productId": 15641380454744,
-        "variantId": 56849450369368,
-        "onHand": 2,
-        "committed": 2,
-        "demand": 2
-      },
-      {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336775000,
         "variantId": 56849295835480,
@@ -212,20 +220,36 @@
         "demand": 1
       },
       {
-        "product": "AMD Ryzen 7 9800X3D",
-        "productId": 15225097027928,
-        "variantId": 55408545464664,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
         "productId": 15641488556376,
         "variantId": 56849615421784,
         "onHand": 3,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "RØDE PodMic XLR Broadcast Microphone",
+        "productId": 15858041553240,
+        "variantId": 57644560318808,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
+        "productId": 15731035668824,
+        "variantId": 57191630569816,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Apple AirPods Pro 3",
+        "productId": 15338563338584,
+        "variantId": 55853592019288,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
       }
     ],
     "demandExceedsStock": [
@@ -233,26 +257,56 @@
         "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
         "productId": 16023109599576,
         "variantId": 58522411827544,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 4,
-        "incoming": 1,
-        "available": -4,
+        "incoming": 0,
+        "available": -3,
         "shortfall": 3
       },
       {
         "product": "79448 - 30th Celebration Alolan Exeggutor Tech Sticker Collection 3 Booster Packs (English)",
         "productId": 16023108878680,
         "variantId": 58522409075032,
-        "onHand": 0,
+        "onHand": 1,
         "committed": 3,
-        "incoming": 1,
-        "available": -3,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "Apple AirPods Pro 3",
+        "productId": 15338563338584,
+        "variantId": 55853592019288,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 0,
+        "available": -2,
         "shortfall": 2
       },
       {
         "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
         "productId": 15731088589144,
         "variantId": 57191832191320,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "RØDE PodMic XLR Broadcast Microphone",
+        "productId": 15858041553240,
+        "variantId": 57644560318808,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
+        "productId": 15731035668824,
+        "variantId": 57191630569816,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
