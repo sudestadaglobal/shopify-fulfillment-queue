@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-02T16:34:58.755Z",
+  "generatedAt": "2026-11-02T23:41:56.976Z",
   "summary": {
-    "totalUnfulfilled": 10,
-    "canFulfill": 4,
+    "totalUnfulfilled": 9,
+    "canFulfill": 3,
     "blocked": 6
   },
   "fulfillableOrders": [
@@ -11,12 +11,6 @@
       "name": "#4438",
       "createdAt": "2026-09-20T20:51:32+02:00",
       "itemCount": 7
-    },
-    {
-      "id": 12635067580760,
-      "name": "#4447",
-      "createdAt": "2026-09-21T14:59:01+02:00",
-      "itemCount": 1
     },
     {
       "id": 12636843770200,
@@ -136,8 +130,8 @@
         "productId": 16023097082200,
         "variantId": 58522368409944,
         "onHand": 3,
-        "committed": 3,
-        "demand": 3
+        "committed": 2,
+        "demand": 2
       },
       {
         "product": "79438 - 30th Celebration Poster Collection 3 Booster Packs (English)",
