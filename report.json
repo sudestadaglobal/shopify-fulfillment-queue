@@ -1,24 +1,11 @@
 {
-  "generatedAt": "2026-11-06T09:56:20.064Z",
+  "generatedAt": "2026-11-06T17:20:53.402Z",
   "summary": {
-    "totalUnfulfilled": 8,
-    "canFulfill": 2,
-    "blocked": 6
+    "totalUnfulfilled": 7,
+    "canFulfill": 0,
+    "blocked": 7
   },
-  "fulfillableOrders": [
-    {
-      "id": 12636843770200,
-      "name": "#4448",
-      "createdAt": "2026-09-22T14:48:07+02:00",
-      "itemCount": 3
-    },
-    {
-      "id": 12728274551128,
-      "name": "#4480",
-      "createdAt": "2026-10-27T13:01:57+01:00",
-      "itemCount": 1
-    }
-  ],
+  "fulfillableOrders": [],
   "blockedOrders": [
     {
       "id": 12653656080728,
@@ -115,34 +102,43 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12763666022744,
+      "name": "#4485",
+      "customerName": "Max Van der Laan",
+      "createdAt": "2026-11-06T11:32:16+01:00",
+      "itemCount": 5,
+      "reasons": [
+        {
+          "product": "JAZWARES Pokémon Fuecoco Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Greninja Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Charizard Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Snorlax Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": -3,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
     "lowStock": [
-      {
-        "product": "79432 - 30th Celebration Elite Trainer Box 9 Booster Packs (English)",
-        "productId": 16023097082200,
-        "variantId": 58522368409944,
-        "onHand": 2,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "113497 Eevee ex - Scarlet & Violet Prismatic Evolution 167/131 NM (English) — 167/131, Near-Mint / Special Illustration Rare",
-        "productId": 15641563365720,
-        "variantId": 56849718935896,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 1
-      },
-      {
-        "product": "75510 - Venomoth - Jungle 13/64 NM Holofoil 1st Edition (English)",
-        "productId": 16028556067160,
-        "variantId": 58536335278424,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
       {
         "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
         "productId": 15641336775000,
@@ -176,14 +172,6 @@
         "demand": 1
       },
       {
-        "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
-        "productId": 15641488556376,
-        "variantId": 56849615421784,
-        "onHand": 3,
-        "committed": 1,
-        "demand": 1
-      },
-      {
         "product": "RØDE PodMic XLR Broadcast Microphone",
         "productId": 15858041553240,
         "variantId": 57644560318808,
@@ -206,9 +194,59 @@
         "onHand": 0,
         "committed": 2,
         "demand": 2
+      },
+      {
+        "product": "JAZWARES Pokémon Fuecoco Plush Toy",
+        "productId": 16215427973464,
+        "variantId": 59056612606296,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Mew Plush Toy",
+        "productId": 15504992010584,
+        "variantId": 56368737190232,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Greninja Plush Toy",
+        "productId": 16215432692056,
+        "variantId": 59056621093208,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Charizard Plush Toy",
+        "productId": 16215454482776,
+        "variantId": 59056659267928,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Snorlax Plush Toy",
+        "productId": 15561000059224,
+        "variantId": 56534869541208,
+        "onHand": -3,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
+      {
+        "product": "JAZWARES Pokémon Snorlax Plush Toy",
+        "productId": 15561000059224,
+        "variantId": 56534869541208,
+        "onHand": -3,
+        "committed": 1,
+        "incoming": 0,
+        "available": -4,
+        "shortfall": 4
+      },
       {
         "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
         "productId": 16023109599576,
@@ -263,6 +301,36 @@
         "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
         "productId": 15731035668824,
         "variantId": 57191630569816,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Fuecoco Plush Toy",
+        "productId": 16215427973464,
+        "variantId": 59056612606296,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Greninja Plush Toy",
+        "productId": 16215432692056,
+        "variantId": 59056621093208,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Charizard Plush Toy",
+        "productId": 16215454482776,
+        "variantId": 59056659267928,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
