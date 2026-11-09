@@ -1,33 +1,19 @@
 {
-  "generatedAt": "2026-11-09T06:37:33.135Z",
+  "generatedAt": "2026-11-09T16:53:41.616Z",
   "summary": {
     "totalUnfulfilled": 7,
-    "canFulfill": 0,
-    "blocked": 7
+    "canFulfill": 1,
+    "blocked": 6
   },
-  "fulfillableOrders": [],
-  "blockedOrders": [
+  "fulfillableOrders": [
     {
       "id": 12653656080728,
       "name": "#4461",
-      "customerName": "Mike van Vianen",
       "createdAt": "2026-09-28T22:28:31+02:00",
-      "itemCount": 3,
-      "reasons": [
-        {
-          "product": "79448 - 30th Celebration Alolan Exeggutor Tech Sticker Collection 3 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 2
-        },
-        {
-          "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 3
-        }
-      ]
-    },
+      "itemCount": 3
+    }
+  ],
+  "blockedOrders": [
     {
       "id": 12681174188376,
       "name": "#4474",
@@ -152,7 +138,7 @@
         "productId": 16023108878680,
         "variantId": 58522409075032,
         "onHand": 0,
-        "committed": 2,
+        "committed": 0,
         "demand": 2
       },
       {
@@ -160,7 +146,7 @@
         "productId": 16023109599576,
         "variantId": 58522411827544,
         "onHand": 0,
-        "committed": 3,
+        "committed": 0,
         "demand": 3
       },
       {
@@ -246,26 +232,6 @@
         "incoming": 0,
         "available": -4,
         "shortfall": 4
-      },
-      {
-        "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
-        "productId": 16023109599576,
-        "variantId": 58522411827544,
-        "onHand": 0,
-        "committed": 3,
-        "incoming": 0,
-        "available": -3,
-        "shortfall": 3
-      },
-      {
-        "product": "79448 - 30th Celebration Alolan Exeggutor Tech Sticker Collection 3 Booster Packs (English)",
-        "productId": 16023108878680,
-        "variantId": 58522409075032,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
       },
       {
         "product": "Apple AirPods Pro 3",
