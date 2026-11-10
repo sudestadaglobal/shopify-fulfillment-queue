@@ -1,18 +1,11 @@
 {
-  "generatedAt": "2026-11-10T07:46:38.714Z",
+  "generatedAt": "2026-11-10T16:17:00.342Z",
   "summary": {
-    "totalUnfulfilled": 7,
-    "canFulfill": 1,
+    "totalUnfulfilled": 6,
+    "canFulfill": 0,
     "blocked": 6
   },
-  "fulfillableOrders": [
-    {
-      "id": 12653656080728,
-      "name": "#4461",
-      "createdAt": "2026-09-28T22:28:31+02:00",
-      "itemCount": 3
-    }
-  ],
+  "fulfillableOrders": [],
   "blockedOrders": [
     {
       "id": 12681174188376,
@@ -125,30 +118,6 @@
   ],
   "stockAlerts": {
     "lowStock": [
-      {
-        "product": "131920 Mega Evolution Ascended Heroes Mega Feraligatr‑ex Box 4 Booster Packs (English) Pre-Order — 4 Booster Packs / Multicolor",
-        "productId": 15641336775000,
-        "variantId": 56849295835480,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "79448 - 30th Celebration Alolan Exeggutor Tech Sticker Collection 3 Booster Packs (English)",
-        "productId": 16023108878680,
-        "variantId": 58522409075032,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 2
-      },
-      {
-        "product": "79446 - 30th Celebration Lucario Tech Sticker Collection 3 Booster Packs (English)",
-        "productId": 16023109599576,
-        "variantId": 58522411827544,
-        "onHand": 0,
-        "committed": 0,
-        "demand": 3
-      },
       {
         "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
         "productId": 15731088589144,
