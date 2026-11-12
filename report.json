@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-11-12T12:45:52.976Z",
+  "generatedAt": "2026-11-12T20:42:29.845Z",
   "summary": {
-    "totalUnfulfilled": 6,
-    "canFulfill": 0,
+    "totalUnfulfilled": 8,
+    "canFulfill": 2,
     "blocked": 6
   },
-  "fulfillableOrders": [],
+  "fulfillableOrders": [
+    {
+      "id": 12781394592088,
+      "name": "#4486",
+      "createdAt": "2026-11-12T20:26:59+01:00",
+      "itemCount": 2
+    },
+    {
+      "id": 12781404848472,
+      "name": "#4487",
+      "createdAt": "2026-11-12T20:30:09+01:00",
+      "itemCount": 1
+    }
+  ],
   "blockedOrders": [
     {
       "id": 12681174188376,
@@ -189,6 +202,30 @@
         "onHand": -3,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "76184 - Storm Emeralda Booster Box - Scarlet & Violet Storm Emeralda (Japanese)",
+        "productId": 15925445394776,
+        "variantId": 57933857620312,
+        "onHand": 1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "121675 Mega Inferno X Booster Box 30 Booster Pack (Japanese) — 30 booster pack / Multicolor",
+        "productId": 15641489310040,
+        "variantId": 56849616175448,
+        "onHand": 5,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
+        "productId": 15641488556376,
+        "variantId": 56849615421784,
+        "onHand": 2,
+        "committed": 2,
+        "demand": 2
       }
     ],
     "demandExceedsStock": [
