@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-13T16:45:53.724Z",
+  "generatedAt": "2026-11-13T22:25:42.014Z",
   "summary": {
-    "totalUnfulfilled": 2,
+    "totalUnfulfilled": 1,
     "canFulfill": 0,
-    "blocked": 2
+    "blocked": 1
   },
   "fulfillableOrders": [],
   "blockedOrders": [
@@ -21,39 +21,6 @@
           "needed": 1
         }
       ]
-    },
-    {
-      "id": 12763666022744,
-      "name": "#4485",
-      "customerName": "Max Van der Laan",
-      "createdAt": "2026-11-06T11:32:16+01:00",
-      "itemCount": 5,
-      "reasons": [
-        {
-          "product": "JAZWARES Pokémon Fuecoco Plush Toy",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "JAZWARES Pokémon Greninja Plush Toy",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "JAZWARES Pokémon Charizard Plush Toy",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        },
-        {
-          "product": "JAZWARES Pokémon Snorlax Plush Toy",
-          "reason": "Insufficient stock",
-          "stock": -3,
-          "needed": 1
-        }
-      ]
     }
   ],
   "stockAlerts": {
@@ -65,93 +32,13 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "JAZWARES Pokémon Fuecoco Plush Toy",
-        "productId": 16215427973464,
-        "variantId": 59056612606296,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "JAZWARES Pokémon Mew Plush Toy",
-        "productId": 15504992010584,
-        "variantId": 56368737190232,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "JAZWARES Pokémon Greninja Plush Toy",
-        "productId": 16215432692056,
-        "variantId": 59056621093208,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "JAZWARES Pokémon Charizard Plush Toy",
-        "productId": 16215454482776,
-        "variantId": 59056659267928,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "JAZWARES Pokémon Snorlax Plush Toy",
-        "productId": 15561000059224,
-        "variantId": 56534869541208,
-        "onHand": -3,
-        "committed": 1,
-        "demand": 1
       }
     ],
     "demandExceedsStock": [
       {
-        "product": "JAZWARES Pokémon Snorlax Plush Toy",
-        "productId": 15561000059224,
-        "variantId": 56534869541208,
-        "onHand": -3,
-        "committed": 1,
-        "incoming": 0,
-        "available": -4,
-        "shortfall": 4
-      },
-      {
         "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
         "productId": 15731088589144,
         "variantId": 57191832191320,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "JAZWARES Pokémon Fuecoco Plush Toy",
-        "productId": 16215427973464,
-        "variantId": 59056612606296,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "JAZWARES Pokémon Greninja Plush Toy",
-        "productId": 16215432692056,
-        "variantId": 59056621093208,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "JAZWARES Pokémon Charizard Plush Toy",
-        "productId": 16215454482776,
-        "variantId": 59056659267928,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
