@@ -1,24 +1,11 @@
 {
-  "generatedAt": "2026-11-13T08:42:26.935Z",
+  "generatedAt": "2026-11-13T16:45:53.724Z",
   "summary": {
-    "totalUnfulfilled": 8,
-    "canFulfill": 2,
-    "blocked": 6
+    "totalUnfulfilled": 2,
+    "canFulfill": 0,
+    "blocked": 2
   },
-  "fulfillableOrders": [
-    {
-      "id": 12781394592088,
-      "name": "#4486",
-      "createdAt": "2026-11-12T20:26:59+01:00",
-      "itemCount": 2
-    },
-    {
-      "id": 12781404848472,
-      "name": "#4487",
-      "createdAt": "2026-11-12T20:30:09+01:00",
-      "itemCount": 1
-    }
-  ],
+  "fulfillableOrders": [],
   "blockedOrders": [
     {
       "id": 12681174188376,
@@ -29,66 +16,6 @@
       "reasons": [
         {
           "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12740947149144,
-      "name": "#4481",
-      "customerName": "Elliot Brännström",
-      "createdAt": "2026-11-02T13:09:59+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "RØDE PodMic XLR Broadcast Microphone",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12740967399768,
-      "name": "#4482",
-      "customerName": "Daniel Balconi",
-      "createdAt": "2026-11-02T13:19:58+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12740989157720,
-      "name": "#4483",
-      "customerName": "Mattias Zarén",
-      "createdAt": "2026-11-02T13:30:35+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Apple AirPods Pro 3",
-          "reason": "Insufficient stock",
-          "stock": 0,
-          "needed": 1
-        }
-      ]
-    },
-    {
-      "id": 12740995973464,
-      "name": "#4484",
-      "customerName": "Jan Jennen",
-      "createdAt": "2026-11-02T13:33:55+01:00",
-      "itemCount": 1,
-      "reasons": [
-        {
-          "product": "Apple AirPods Pro 3",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -140,30 +67,6 @@
         "demand": 1
       },
       {
-        "product": "RØDE PodMic XLR Broadcast Microphone",
-        "productId": 15858041553240,
-        "variantId": 57644560318808,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
-        "productId": 15731035668824,
-        "variantId": 57191630569816,
-        "onHand": 0,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "Apple AirPods Pro 3",
-        "productId": 15338563338584,
-        "variantId": 55853592019288,
-        "onHand": 0,
-        "committed": 2,
-        "demand": 2
-      },
-      {
         "product": "JAZWARES Pokémon Fuecoco Plush Toy",
         "productId": 16215427973464,
         "variantId": 59056612606296,
@@ -202,30 +105,6 @@
         "onHand": -3,
         "committed": 1,
         "demand": 1
-      },
-      {
-        "product": "76184 - Storm Emeralda Booster Box - Scarlet & Violet Storm Emeralda (Japanese)",
-        "productId": 15925445394776,
-        "variantId": 57933857620312,
-        "onHand": 1,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "121675 Mega Inferno X Booster Box 30 Booster Pack (Japanese) — 30 booster pack / Multicolor",
-        "productId": 15641489310040,
-        "variantId": 56849616175448,
-        "onHand": 5,
-        "committed": 1,
-        "demand": 1
-      },
-      {
-        "product": "124008 Phantasmal Flames Mega Evolution Elite Trainer Box 9 Booster Pack (English) — 9 Booster Packs / Multicolor",
-        "productId": 15641488556376,
-        "variantId": 56849615421784,
-        "onHand": 2,
-        "committed": 2,
-        "demand": 2
       }
     ],
     "demandExceedsStock": [
@@ -240,39 +119,9 @@
         "shortfall": 4
       },
       {
-        "product": "Apple AirPods Pro 3",
-        "productId": 15338563338584,
-        "variantId": 55853592019288,
-        "onHand": 0,
-        "committed": 2,
-        "incoming": 0,
-        "available": -2,
-        "shortfall": 2
-      },
-      {
         "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
         "productId": 15731088589144,
         "variantId": 57191832191320,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "RØDE PodMic XLR Broadcast Microphone",
-        "productId": 15858041553240,
-        "variantId": 57644560318808,
-        "onHand": 0,
-        "committed": 1,
-        "incoming": 0,
-        "available": -1,
-        "shortfall": 1
-      },
-      {
-        "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
-        "productId": 15731035668824,
-        "variantId": 57191630569816,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
