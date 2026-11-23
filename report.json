@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-23T12:01:35.473Z",
+  "generatedAt": "2026-11-23T23:56:12.894Z",
   "summary": {
-    "totalUnfulfilled": 2,
+    "totalUnfulfilled": 4,
     "canFulfill": 0,
-    "blocked": 2
+    "blocked": 4
   },
   "fulfillableOrders": [],
   "blockedOrders": [
@@ -36,6 +36,36 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12812157780312,
+      "name": "#4489",
+      "customerName": "fernando queipo de llano de aguilera",
+      "createdAt": "2026-11-23T17:53:34+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12812183667032,
+      "name": "#4490",
+      "customerName": "Kevin Klostermann",
+      "createdAt": "2026-11-23T18:02:06+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -55,6 +85,14 @@
         "onHand": 0,
         "committed": 1,
         "demand": 1
+      },
+      {
+        "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
+        "productId": 15731035668824,
+        "variantId": 57191630569816,
+        "onHand": 0,
+        "committed": 2,
+        "demand": 2
       }
     ],
     "demandExceedsStock": [
@@ -76,6 +114,16 @@
         "committed": 1,
         "incoming": 0,
         "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Apple iPad (2025) 11\" 128 GB Wi‑Fi Silver",
+        "productId": 15731035668824,
+        "variantId": 57191630569816,
+        "onHand": 0,
+        "committed": 2,
+        "incoming": 1,
+        "available": -2,
         "shortfall": 1
       }
     ]
