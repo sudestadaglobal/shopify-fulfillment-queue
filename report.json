@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-24T20:21:31.061Z",
+  "generatedAt": "2026-11-25T03:41:11.834Z",
   "summary": {
-    "totalUnfulfilled": 4,
+    "totalUnfulfilled": 5,
     "canFulfill": 0,
-    "blocked": 4
+    "blocked": 5
   },
   "fulfillableOrders": [],
   "blockedOrders": [
@@ -66,6 +66,231 @@
           "needed": 1
         }
       ]
+    },
+    {
+      "id": 12838194741592,
+      "name": "#4491",
+      "customerName": "fernando queipo de llano de aguilera",
+      "createdAt": "2026-11-24T21:37:34+01:00",
+      "itemCount": 36,
+      "reasons": [
+        {
+          "product": "JAZWARES Pokémon Squirtle Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Dratini Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Mew Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Jolteon Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Fuecoco Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Pancham Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Jigglypuff Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Chimchar Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Espeon Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Torchic Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Grookey Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Treecko Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Pichu Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Gengar Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Vulpix Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Raboot Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Yamper Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Sylveon Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Teddiursa Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Scorbunny Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Raichu Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Leafeon Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Flareon Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Emolga Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Shinx Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Dragonite Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "Jazwares x Pokémon Christmas Pikachu Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Greninja Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Snorlax Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": -4,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Lugia Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Charizard Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Blastoise Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Totodile Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": -1,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Piplup Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Sobble Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        },
+        {
+          "product": "JAZWARES Pokémon Glaceon Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
     }
   ],
   "stockAlerts": {
@@ -93,9 +318,407 @@
         "onHand": 0,
         "committed": 2,
         "demand": 2
+      },
+      {
+        "product": "JAZWARES Pokémon Squirtle Plush Toy",
+        "productId": 15517392273752,
+        "variantId": 56402175787352,
+        "onHand": -1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Dratini Plush Toy",
+        "productId": 16265676390744,
+        "variantId": 59227141931352,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Mew Plush Toy",
+        "productId": 15504992010584,
+        "variantId": 56368737190232,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Jolteon Plush Toy",
+        "productId": 15598108901720,
+        "variantId": 56668006351192,
+        "onHand": -1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Fuecoco Plush Toy",
+        "productId": 16215427973464,
+        "variantId": 59056612606296,
+        "onHand": -1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Pancham Plush Toy",
+        "productId": 15743399002456,
+        "variantId": 57237435285848,
+        "onHand": -1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Jigglypuff Plush Toy",
+        "productId": 16265734455640,
+        "variantId": 59227301970264,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Chimchar Plush Toy",
+        "productId": 16265754673496,
+        "variantId": 59227351810392,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Espeon Plush Toy",
+        "productId": 15609776308568,
+        "variantId": 56711459635544,
+        "onHand": -1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Torchic Plush Toy",
+        "productId": 16265803792728,
+        "variantId": 59227572765016,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Grookey Plush Toy",
+        "productId": 16265814770008,
+        "variantId": 59227595538776,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Treecko Plush Toy",
+        "productId": 16265843179864,
+        "variantId": 59227664712024,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Pichu Plush Toy",
+        "productId": 15767301423448,
+        "variantId": 57344347210072,
+        "onHand": -1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Gengar Plush Toy",
+        "productId": 15486272864600,
+        "variantId": 56324932469080,
+        "onHand": -1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Vulpix Plush Toy",
+        "productId": 16265902031192,
+        "variantId": 59227794440536,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Raboot Plush Toy",
+        "productId": 16265914548568,
+        "variantId": 59227819737432,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Yamper Plush Toy",
+        "productId": 16265920807256,
+        "variantId": 59227833303384,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Sylveon Plush Toy",
+        "productId": 16265927459160,
+        "variantId": 59227857027416,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Teddiursa Plush Toy",
+        "productId": 16265935651160,
+        "variantId": 59227871510872,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Scorbunny Plush Toy",
+        "productId": 16265944138072,
+        "variantId": 59227890712920,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Raichu Plush Toy",
+        "productId": 16265950560600,
+        "variantId": 59227912995160,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Leafeon Plush Toy",
+        "productId": 16265982378328,
+        "variantId": 59228001108312,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Flareon Plush Toy",
+        "productId": 16266021437784,
+        "variantId": 59228103311704,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Emolga Plush Toy",
+        "productId": 16266052731224,
+        "variantId": 59228267086168,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Shinx Plush Toy",
+        "productId": 16266056434008,
+        "variantId": 59228285403480,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Dragonite Plush Toy",
+        "productId": 16014082834776,
+        "variantId": 58495454314840,
+        "onHand": -1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Jazwares x Pokémon Christmas Pikachu Plush Toy",
+        "productId": 16266065871192,
+        "variantId": 59228337733976,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Greninja Plush Toy",
+        "productId": 16215432692056,
+        "variantId": 59056621093208,
+        "onHand": -1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Snorlax Plush Toy",
+        "productId": 15561000059224,
+        "variantId": 56534869541208,
+        "onHand": -4,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Lugia Plush Toy",
+        "productId": 16266103947608,
+        "variantId": 59228465496408,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Charizard Plush Toy",
+        "productId": 16215454482776,
+        "variantId": 59056659267928,
+        "onHand": -1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Blastoise Plush Toy",
+        "productId": 16266115645784,
+        "variantId": 59228505211224,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Totodile Plush Toy",
+        "productId": 15630079394136,
+        "variantId": 56804260774232,
+        "onHand": -1,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Piplup Plush Toy",
+        "productId": 16266126623064,
+        "variantId": 59228599648600,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Sobble Plush Toy",
+        "productId": 16266147496280,
+        "variantId": 59228676489560,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Glaceon Plush Toy",
+        "productId": 16266161750360,
+        "variantId": 59228718137688,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
       }
     ],
     "demandExceedsStock": [
+      {
+        "product": "JAZWARES Pokémon Snorlax Plush Toy",
+        "productId": 15561000059224,
+        "variantId": 56534869541208,
+        "onHand": -4,
+        "committed": 1,
+        "incoming": 0,
+        "available": -5,
+        "shortfall": 5
+      },
+      {
+        "product": "JAZWARES Pokémon Squirtle Plush Toy",
+        "productId": 15517392273752,
+        "variantId": 56402175787352,
+        "onHand": -1,
+        "committed": 1,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "JAZWARES Pokémon Jolteon Plush Toy",
+        "productId": 15598108901720,
+        "variantId": 56668006351192,
+        "onHand": -1,
+        "committed": 1,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "JAZWARES Pokémon Fuecoco Plush Toy",
+        "productId": 16215427973464,
+        "variantId": 59056612606296,
+        "onHand": -1,
+        "committed": 1,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "JAZWARES Pokémon Pancham Plush Toy",
+        "productId": 15743399002456,
+        "variantId": 57237435285848,
+        "onHand": -1,
+        "committed": 1,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "JAZWARES Pokémon Espeon Plush Toy",
+        "productId": 15609776308568,
+        "variantId": 56711459635544,
+        "onHand": -1,
+        "committed": 1,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "JAZWARES Pokémon Pichu Plush Toy",
+        "productId": 15767301423448,
+        "variantId": 57344347210072,
+        "onHand": -1,
+        "committed": 1,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "JAZWARES Pokémon Dragonite Plush Toy",
+        "productId": 16014082834776,
+        "variantId": 58495454314840,
+        "onHand": -1,
+        "committed": 1,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "JAZWARES Pokémon Greninja Plush Toy",
+        "productId": 16215432692056,
+        "variantId": 59056621093208,
+        "onHand": -1,
+        "committed": 1,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "JAZWARES Pokémon Charizard Plush Toy",
+        "productId": 16215454482776,
+        "variantId": 59056659267928,
+        "onHand": -1,
+        "committed": 1,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
+      {
+        "product": "JAZWARES Pokémon Totodile Plush Toy",
+        "productId": 15630079394136,
+        "variantId": 56804260774232,
+        "onHand": -1,
+        "committed": 1,
+        "incoming": 0,
+        "available": -2,
+        "shortfall": 2
+      },
       {
         "product": "Samsung  Galaxy Fit3 Dark Gray Fitness Tracker",
         "productId": 15731088589144,
@@ -124,6 +747,256 @@
         "committed": 2,
         "incoming": 1,
         "available": -2,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Dratini Plush Toy",
+        "productId": 16265676390744,
+        "variantId": 59227141931352,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Mew Plush Toy",
+        "productId": 15504992010584,
+        "variantId": 56368737190232,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Jigglypuff Plush Toy",
+        "productId": 16265734455640,
+        "variantId": 59227301970264,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Chimchar Plush Toy",
+        "productId": 16265754673496,
+        "variantId": 59227351810392,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Torchic Plush Toy",
+        "productId": 16265803792728,
+        "variantId": 59227572765016,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Grookey Plush Toy",
+        "productId": 16265814770008,
+        "variantId": 59227595538776,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Treecko Plush Toy",
+        "productId": 16265843179864,
+        "variantId": 59227664712024,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Gengar Plush Toy",
+        "productId": 15486272864600,
+        "variantId": 56324932469080,
+        "onHand": -1,
+        "committed": 1,
+        "incoming": 1,
+        "available": -2,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Vulpix Plush Toy",
+        "productId": 16265902031192,
+        "variantId": 59227794440536,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Raboot Plush Toy",
+        "productId": 16265914548568,
+        "variantId": 59227819737432,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Yamper Plush Toy",
+        "productId": 16265920807256,
+        "variantId": 59227833303384,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Sylveon Plush Toy",
+        "productId": 16265927459160,
+        "variantId": 59227857027416,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Teddiursa Plush Toy",
+        "productId": 16265935651160,
+        "variantId": 59227871510872,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Scorbunny Plush Toy",
+        "productId": 16265944138072,
+        "variantId": 59227890712920,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Raichu Plush Toy",
+        "productId": 16265950560600,
+        "variantId": 59227912995160,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Leafeon Plush Toy",
+        "productId": 16265982378328,
+        "variantId": 59228001108312,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Flareon Plush Toy",
+        "productId": 16266021437784,
+        "variantId": 59228103311704,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Emolga Plush Toy",
+        "productId": 16266052731224,
+        "variantId": 59228267086168,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Shinx Plush Toy",
+        "productId": 16266056434008,
+        "variantId": 59228285403480,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Jazwares x Pokémon Christmas Pikachu Plush Toy",
+        "productId": 16266065871192,
+        "variantId": 59228337733976,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Lugia Plush Toy",
+        "productId": 16266103947608,
+        "variantId": 59228465496408,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Blastoise Plush Toy",
+        "productId": 16266115645784,
+        "variantId": 59228505211224,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Piplup Plush Toy",
+        "productId": 16266126623064,
+        "variantId": 59228599648600,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Sobble Plush Toy",
+        "productId": 16266147496280,
+        "variantId": 59228676489560,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "JAZWARES Pokémon Glaceon Plush Toy",
+        "productId": 16266161750360,
+        "variantId": 59228718137688,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
         "shortfall": 1
       }
     ]
