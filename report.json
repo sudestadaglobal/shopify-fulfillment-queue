@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-27T05:23:51.375Z",
+  "generatedAt": "2026-11-27T15:29:21.175Z",
   "summary": {
-    "totalUnfulfilled": 4,
+    "totalUnfulfilled": 5,
     "canFulfill": 0,
-    "blocked": 4
+    "blocked": 5
   },
   "fulfillableOrders": [],
   "blockedOrders": [
@@ -271,6 +271,21 @@
         },
         {
           "product": "JAZWARES Pokémon Glaceon Plush Toy",
+          "reason": "Insufficient stock",
+          "stock": 0,
+          "needed": 1
+        }
+      ]
+    },
+    {
+      "id": 12848595140952,
+      "name": "#4492",
+      "customerName": "fernando queipo de llano de aguilera",
+      "createdAt": "2026-11-27T15:51:53+01:00",
+      "itemCount": 1,
+      "reasons": [
+        {
+          "product": "Nintendo The Legend of Zelda Link Hylian Shield",
           "reason": "Insufficient stock",
           "stock": 0,
           "needed": 1
@@ -580,6 +595,14 @@
         "product": "JAZWARES Pokémon Glaceon Plush Toy",
         "productId": 16266161750360,
         "variantId": 59228718137688,
+        "onHand": 0,
+        "committed": 1,
+        "demand": 1
+      },
+      {
+        "product": "Nintendo The Legend of Zelda Link Hylian Shield",
+        "productId": 16279444554072,
+        "variantId": 59275735695704,
         "onHand": 0,
         "committed": 1,
         "demand": 1
@@ -960,6 +983,16 @@
         "product": "JAZWARES Pokémon Glaceon Plush Toy",
         "productId": 16266161750360,
         "variantId": 59228718137688,
+        "onHand": 0,
+        "committed": 1,
+        "incoming": 0,
+        "available": -1,
+        "shortfall": 1
+      },
+      {
+        "product": "Nintendo The Legend of Zelda Link Hylian Shield",
+        "productId": 16279444554072,
+        "variantId": 59275735695704,
         "onHand": 0,
         "committed": 1,
         "incoming": 0,
